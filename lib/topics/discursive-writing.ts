@@ -1378,7 +1378,7 @@ const qaP1: QA[] = [
     modelAnswer:
       "Every weeknight, millions of pupils sit at kitchen tables with worksheets that must be finished before bed. For some, this is valuable practice that turns classroom learning into lasting knowledge; for others, it is an unfair burden that eats into rest, hobbies and family time. Whether homework should be abolished, reformed or kept as it is depends on weighing these views carefully.",
     markScheme: [
-      { point: "Context: an engaging opening that shows why the issue matters", keywords: ["every", "night", "kitchen", "today", "millions", "evening", "school night"] },
+      { point: "Context: an engaging opening that shows why the issue matters", keywords: ["weeknight", "night", "kitchen", "today", "millions", "evening", "school night"] },
       { point: "Issue: names both sides of the debate", keywords: ["for some", "others", "supporters", "critics", "some argue", "on the other hand", "while"] },
       { point: "Direction: signposts a balanced discussion without a verdict", keywords: ["weigh", "consider", "explore", "deserves", "examine", "both views", "carefully"] },
     ],
@@ -1425,7 +1425,7 @@ const qaP1: QA[] = [
       "Hedging means using cautious language, such as modal verbs (may, might, could) and qualifiers (some, many, often), so that you only claim what the evidence can support. Rewrite: 'Many teenagers report that they find it difficult to spend time away from social media.'",
     markScheme: [
       { point: "Explains hedging as cautious language / avoiding overclaiming", keywords: ["cautious", "careful", "not overclaim", "soften", "modal", "less certain", "only claim"] },
-      { point: "Provides a hedged rewrite", keywords: ["many teenagers", "some teenagers", "may", "might", "can", "often", "report"] },
+      { point: "Provides a hedged rewrite", keywords: ["many teenagers", "some teenagers", "may", "might", "tend to", "often", "report"] },
     ],
     commonError: "Rewriting as 'Most teenagers are definitely addicted', which still overclaims.",
     guideRef: "balanced-tone",
@@ -1438,9 +1438,9 @@ const qaP1: QA[] = [
     modelAnswer:
       "(a) Adding: furthermore. (b) Contrasting: however. (c) Result: consequently. (d) Conceding: admittedly. Example sentence: 'Admittedly, uniform can be expensive; however, it may save families from the cost of keeping up with fashion.'",
     markScheme: [
-      { point: "(a) adding marker", keywords: ["furthermore", "moreover", "in addition", "additionally", "similarly", "also"] },
+      { point: "(a) adding marker", keywords: ["furthermore", "moreover", "in addition", "additionally", "similarly", "likewise"] },
       { point: "(b) contrasting marker", keywords: ["however", "conversely", "on the other hand", "whereas", "by contrast", "in contrast"] },
-      { point: "(c) result marker", keywords: ["consequently", "therefore", "as a result", "thus", "hence", "so"] },
+      { point: "(c) result marker", keywords: ["consequently", "therefore", "as a result", "thus", "hence", "accordingly"] },
       { point: "(d) conceding marker", keywords: ["admittedly", "granted", "it is true that", "although", "while it is true", "of course"] },
     ],
     commonError: "Giving 'nevertheless' as a result marker: it means 'despite that', not 'as a result'.",
@@ -1539,7 +1539,7 @@ const qaP2: QA[] = [
     markScheme: [
       { point: "Who carried it out / possible bias", keywords: ["who carried", "who conducted", "bias", "who paid", "campaign", "who ran"] },
       { point: "Sample size / representativeness (one school only)", keywords: ["how many", "sample", "one school", "representative", "500", "only pupils"] },
-      { point: "Question wording / timing / method", keywords: ["wording", "worded", "leading question", "when", "how was", "method", "date"] },
+      { point: "Question wording / timing / method", keywords: ["wording", "worded", "leading question", "timing", "how was", "method", "when was"] },
     ],
     commonError: "Asking vague questions such as 'Is it true?' rather than specific questions about source, sample and method.",
     guideRef: "evidence",
@@ -1592,7 +1592,7 @@ const qaP2: QA[] = [
     marks: 3,
     hint: "CID: Context, Issue, Direction. No verdict.",
     modelAnswer:
-      "Imagine every weekend lasting three days. For many pupils, that sounds like a dream; for many parents and teachers, it raises urgent practical questions. Some schools abroad have already made the change, hoping to save money and give pupils more rest, while critics warn of exhausting school days and childcare problems. Whether British schools should follow their lead depends on weighing these competing claims carefully.",
+      "Imagine every weekend lasting three days. For many pupils, that sounds like a dream; for many parents and teachers, it raises urgent practical questions. Some schools abroad have already made the change, hoping to save money and attract teachers, while critics warn of exhausting school days and childcare problems. Whether British schools should follow their lead depends on weighing these competing claims carefully.",
     markScheme: [
       { point: "Context: engaging opening", keywords: ["imagine", "three days", "weekend", "abroad", "already", "dream"] },
       { point: "Issue: both sides named", keywords: ["critics", "while", "for many", "others", "supporters", "warn", "hoping"] },
@@ -1673,7 +1673,7 @@ const qaP2: QA[] = [
       "On balance, a four-day week seems unsuitable for younger pupils, because longer days would tire them most and their families would bear the heaviest childcare costs. However, a carefully monitored trial for older students, who can study independently on the fifth day, might be worth considering.",
     markScheme: [
       { point: "Clear judgement beginning 'On balance'", keywords: ["on balance", "overall", "all things considered", "weighing", "ultimately"] },
-      { point: "Gives a reason for the judgement", keywords: ["because", "since", "tire", "childcare", "cost", "as"] },
+      { point: "Gives a reason for the judgement", keywords: ["because", "since", "tire", "childcare", "cost", "due to"] },
       { point: "Adds a condition or qualification", keywords: ["provided", "only if", "except", "however", "trial", "older", "unless", "for younger"] },
     ],
     commonError: "Giving a verdict without a reason, or a reason without a condition, so the judgement is not 'qualified'.",
@@ -1756,7 +1756,7 @@ const qaP3: QA[] = [
     modelAnswer:
       "For: (1) AI tools can explain difficult ideas at any time, acting like a patient tutor for pupils who have no one to ask at home. (2) Learning to use AI responsibly is a skill pupils will need in future study and work. Against: (1) If AI drafts the work, pupils may skip the thinking, planning and practice that homework is meant to build. (2) It becomes hard for teachers to judge what a pupil can really do, which raises questions of honesty and fairness.",
     markScheme: [
-      { point: "First argument for (e.g. tutor/explanations/support)", keywords: ["tutor", "explain", "support", "help", "any time", "midnight", "feedback"] },
+      { point: "First argument for (e.g. tutor/explanations/support)", keywords: ["tutor", "explain", "support", "patient", "any time", "midnight", "feedback"] },
       { point: "Second argument for (e.g. future skill/access/efficiency)", keywords: ["future", "skill", "workplace", "jobs", "responsib", "digital literacy", "prepare"] },
       { point: "First argument against (e.g. skips the thinking/learning)", keywords: ["thinking", "skip", "practice", "learning", "struggle", "planning", "lazy"] },
       { point: "Second argument against (e.g. cheating/fairness/accuracy)", keywords: ["cheat", "honest", "fair", "plagiar", "assess", "errors", "inaccurate"] },
@@ -1773,7 +1773,7 @@ const qaP3: QA[] = [
       "Admittedly, homework can cause stress, particularly when several subjects set long tasks on the same night. However, this is an argument for better-planned homework rather than none at all, since short, regular practice can help pupils remember what they have learned. Therefore, schools might be wiser to coordinate homework timetables than to abolish homework altogether.",
     markScheme: [
       { point: "'Admittedly' concedes a genuine point", keywords: ["admittedly", "granted", "it is true that", "of course", "concede"] },
-      { point: "'However' introduces a reasoned reply", keywords: ["however", "yet", "nevertheless", "even so", "but"] },
+      { point: "'However' introduces a reasoned reply", keywords: ["however", "yet", "nevertheless", "even so", "but this"] },
       { point: "'Therefore' draws a logical conclusion from the reply", keywords: ["therefore", "consequently", "thus", "as a result", "hence"] },
     ],
     commonError: "Using the three words but with no logical link, for example conceding one point and then answering a different one.",
@@ -1821,7 +1821,7 @@ const qaP3: QA[] = [
     markScheme: [
       { point: "Anecdote: emotional/vivid but cannot show scale", keywords: ["emotional", "vivid", "empath", "human", "moving", "one person", "cannot show"] },
       { point: "Survey: shows a pattern/scale, more reliable", keywords: ["pattern", "scale", "thousands", "reliable", "representative", "common", "widespread"] },
-      { point: "Evaluates / suggests combining or checking the survey", keywords: ["combine", "both", "together", "provided", "carried out fairly", "who ran", "bias"] },
+      { point: "Evaluates / suggests combining or checking the survey", keywords: ["combine", "use both", "together", "provided", "carried out fairly", "who ran", "bias"] },
     ],
     commonError: "Saying the survey is simply 'better' without recognising what the anecdote does well.",
     guideRef: "evidence",
@@ -1883,7 +1883,7 @@ const qaP3: QA[] = [
       "Walk into any school canteen at lunchtime and you may see rows of pupils sitting together, each staring silently at a glowing screen. To some, this proves that phones have taken over childhood; to others, it is simply what socialising looks like in the twenty-first century. I chose to open with a familiar scene because it draws the reader in visually, and then used a semicolon to balance the two interpretations so that neither side is favoured.",
     markScheme: [
       { point: "Engaging, non-clichéd opening sentence", keywords: ["walk into", "lunchtime", "canteen", "screen", "imagine", "picture", "scene"] },
-      { point: "Second sentence sets out both sides", keywords: ["to some", "to others", "others", "some", "while", "critics", "supporters"] },
+      { point: "Second sentence sets out both sides", keywords: ["to some", "to others", "others", "for some", "while", "critics", "supporters"] },
       { point: "Explains a deliberate choice and its effect", keywords: ["i chose", "because", "draws", "engage", "semicolon", "balance", "effect"] },
     ],
     commonError: "Opening with 'Since the dawn of time' or 'In this essay', or forgetting to explain a choice.",
@@ -1936,7 +1936,7 @@ const qaP4: QA[] = [
     modelAnswer:
       "Extract 2 could be used to argue that the change is unrealistic because its language is deliberately exaggerated. The repetition of 'good' ('as good a friend, as good a master, and as good a man') and the ever-widening list ('city, town, or borough, in the good old world') make the ending sound like a fairy tale. 'Infinitely more' is hyperbole, suggesting a change so total that it seems more like a moral lesson than the gradual development of a real person.",
     markScheme: [
-      { point: "Identifies the repetition of 'good'", keywords: ["repetition", "repeated", "good", "as good a"] },
+      { point: "Identifies the repetition of 'good'", keywords: ["repetition", "repeated", "repeats", "as good a"] },
       { point: "Identifies exaggeration/hyperbole ('infinitely', widening list)", keywords: ["hyperbole", "exaggerat", "infinitely", "list", "world", "borough"] },
       { point: "Explains why this suggests the change is unrealistic (fairy tale/moral lesson)", keywords: ["fairy tale", "unrealistic", "too perfect", "moral lesson", "fable", "not real life", "sudden"] },
     ],
@@ -1984,7 +1984,7 @@ const qaP4: QA[] = [
       { point: "Concedes the role of fear in Stave Four", keywords: ["admittedly", "fear", "grave", "stave four", "terrified", "granted"] },
       { point: "Uses evidence of earlier sympathy (Stave Two or Three)", keywords: ["tiny tim", "stave three", "stave two", "younger self", "lonely boy", "will live"] },
       { point: "Explains that the change begins before the fear", keywords: ["before", "earlier", "begins", "already", "starts", "sympathy"] },
-      { point: "Concludes with a reasoned judgement on the counter-argument", keywords: ["therefore", "more than", "not only", "self-interest", "completes", "so"] },
+      { point: "Concludes with a reasoned judgement on the counter-argument", keywords: ["therefore", "more than", "not only", "self-interest", "completes", "thus"] },
     ],
     commonError: "Denying that fear matters at all, which ignores clear evidence in Stave Four.",
     guideRef: "counter-rebuttal",
@@ -2031,7 +2031,7 @@ const qaP4: QA[] = [
       "In Extract 1, the list 'squeezing, wrenching, grasping, scraping, clutching, covetous' is made of harsh verbs turned into adjectives, which suggests constant grabbing and greed, and the sounds are rough and spiky. In Extract 2, the list 'as good a friend, as good a master, and as good a man' builds through repetition of 'good', rising from friend to master to man, and then widens out to 'city, town, or borough, in the good old world'. The contrast suggests a complete reversal: the first list closes in on Scrooge's selfishness, while the second opens outwards, showing his goodness spreading to the whole world.",
     markScheme: [
       { point: "Analyses the Extract 1 list (harsh, greed)", keywords: ["squeezing", "grasping", "harsh", "greed", "grabbing", "verbs", "clutching"] },
-      { point: "Analyses the Extract 2 list (repetition of 'good', building)", keywords: ["as good a", "repetition", "good", "friend", "master", "builds"] },
+      { point: "Analyses the Extract 2 list (repetition of 'good', building)", keywords: ["as good a", "repetition", "repeated", "friend", "master", "builds"] },
       { point: "Notes structure: closing in versus widening out", keywords: ["widen", "outwards", "expands", "world", "borough", "spreads", "closes in"] },
       { point: "Explains the contrast shows a reversal/transformation", keywords: ["reversal", "transformation", "contrast", "opposite", "change", "mirror", "complete"] },
     ],
@@ -2081,10 +2081,10 @@ const qaP4: QA[] = [
       "There is strong evidence that Dickens's main aim is to change his readers. The book is a fable with a clear moral, and Scrooge's cruel words to the charity collectors ('Are there no prisons?', 'decrease the surplus population') echo attitudes to the poor that some of Dickens's own readers held. When the Ghost of Christmas Present reveals the children 'Ignorance' and 'Want', the warning seems aimed at society, not just Scrooge. However, Dickens also gives Scrooge real psychological depth: the lonely schoolboy and the loss of Belle explain how he became hard, which a writer interested only in a message would not need. On balance, the statement is largely true, but Dickens is skilful enough to make the lesson work through a character who feels human, and that combination is why the story still moves readers today.",
     markScheme: [
       { point: "Argues for the statement: moral fable/aim to change readers", keywords: ["fable", "moral", "readers", "message", "purpose", "society", "change his readers"] },
-      { point: "Uses evidence for the statement (charity collectors, Ignorance and Want)", keywords: ["ignorance", "want", "surplus population", "prisons", "workhouses", "charity"] },
+      { point: "Uses evidence for the statement (charity collectors, Ignorance and Want)", keywords: ["ignorance", "two children", "surplus population", "prisons", "workhouses", "charity"] },
       { point: "Argues against: psychological depth/realism of Scrooge", keywords: ["psychological", "depth", "lonely", "belle", "childhood", "human", "realistic"] },
       { point: "Uses a discourse marker to weigh/turn", keywords: ["however", "nevertheless", "conversely", "on the other hand", "admittedly", "yet"] },
-      { point: "Reaches a reasoned judgement", keywords: ["on balance", "largely", "overall", "ultimately", "judgement", "combination", "both"] },
+      { point: "Reaches a reasoned judgement", keywords: ["on balance", "largely", "overall", "ultimately", "judgement", "combination", "mostly"] },
     ],
     commonError: "Agreeing completely without considering how Dickens also makes Scrooge psychologically convincing.",
     guideRef: "planning-novel",
@@ -2220,7 +2220,7 @@ export const discursiveWriting: Topic = {
       id: "evidence",
       heading: "Evidence: statistics, experts, examples and anecdote",
       body:
-        "An argument without evidence is just an opinion. Discursive essays use four main kinds of **evidence**:\n\n- **Statistics**: numbers and percentages ('In a survey of 1,000 parents…'). Powerful because they seem objective, but always ask who collected them, how many people were asked, and when.\n- **Expert opinion**: the view of someone with relevant knowledge (a paediatrician on screen time, a zoologist on captive breeding). Name their role so the reader knows why they count.\n- **Examples**: real cases ('The Arabian oryx, extinct in the wild by the early 1970s, was reintroduced to Oman from captive-bred herds'). Examples make abstract arguments concrete.\n- **Anecdote**: a short personal or illustrative story ('A friend who forgot her phone for a week said…'). Vivid and human, but the weakest evidence on its own, because one story does not prove a pattern.\n\n**Honesty with invented evidence.** In a timed piece you will not have research to hand, and some teachers allow plausible invented evidence. If you invent anything, *label it clearly*: 'Imagine a school where…', 'a hypothetical survey might find…', 'suppose that…'. Never present made-up numbers or quotations as if they were real research, and never attach a real person's or organisation's name to something they did not say. The best timed essays often rely on **logical reasoning** and **well-known real examples** instead.\n\n**Explain, don't just drop.** Evidence only earns marks when you say what it shows: 'This suggests that…', 'If this is true, then…'. A statistic left on its own is like a quotation in a literature essay with no analysis.\n\n**Evaluate** evidence from the other side, too. 'The survey was carried out by a company that sells school uniforms' is a fair and powerful challenge.",
+        "An argument without evidence is just an opinion. Discursive essays use four main kinds of **evidence**:\n\n- **Statistics**: numbers and percentages from real surveys or studies (or, in a practice essay, a clearly labelled 'hypothetical survey of 1,000 parents…'). Powerful because they seem objective, but always ask who collected them, how many people were asked, and when.\n- **Expert opinion**: the view of someone with relevant knowledge (a paediatrician on screen time, a zoologist on captive breeding). Name their role so the reader knows why they count.\n- **Examples**: real cases ('The Arabian oryx, extinct in the wild by the early 1970s, was reintroduced to Oman from captive-bred herds'). Examples make abstract arguments concrete.\n- **Anecdote**: a short personal or illustrative story ('A friend who forgot her phone for a week said…'). Vivid and human, but the weakest evidence on its own, because one story does not prove a pattern.\n\n**Honesty with invented evidence.** In a timed piece you will not have research to hand, and some teachers allow plausible invented evidence. If you invent anything, *label it clearly*: 'Imagine a school where…', 'a hypothetical survey might find…', 'suppose that…'. Never present made-up numbers or quotations as if they were real research, and never attach a real person's or organisation's name to something they did not say. The best timed essays often rely on **logical reasoning** and **well-known real examples** instead.\n\n**Explain, don't just drop.** Evidence only earns marks when you say what it shows: 'This suggests that…', 'If this is true, then…'. A statistic left on its own is like a quotation in a literature essay with no analysis.\n\n**Evaluate** evidence from the other side, too. 'The survey was carried out by a company that sells school uniforms' is a fair and powerful challenge.",
       keyPoints: [
         "Four main types: statistics, expert opinion, examples and anecdote.",
         "Label any invented evidence clearly as hypothetical; never pass it off as real.",
@@ -2231,7 +2231,7 @@ export const discursiveWriting: Topic = {
         "A single powerful anecdote (a pupil who was bullied about their trainers) can move a reader more than a dry statistic. Is it fair to use emotional evidence in a *balanced* essay? When does it become manipulation?",
       discovery: {
         problem:
-          "Rank these pieces of evidence for 'Phones harm concentration in lessons' from strongest to weakest: (A) 'My cousin says he can't focus with his phone nearby.' (B) 'A study of several thousand pupils across many schools found test scores rose after phone bans (as reported in the news).' (C) 'Phones are obviously distracting.' (D) 'A teacher with twenty years' experience notes that lessons run more smoothly when phones are locked away.'",
+          "Rank these pieces of evidence for 'Phones harm concentration in lessons' from strongest to weakest: (A) 'My cousin says he can't focus with his phone nearby.' (B) 'A large study of pupils across many schools in England found that test scores rose after the schools banned phones (as reported in the news).' (C) 'Phones are obviously distracting.' (D) 'A teacher with twenty years' experience notes that lessons run more smoothly when phones are locked away.'",
         idea:
           "B (a large study across many schools) is strongest, then D (relevant expert experience), then A (a single anecdote), then C, which is not evidence at all, just an assertion with 'obviously' attached. Notice that even B needs a check: who carried it out, and might other changes have raised the scores?",
       },
@@ -2293,7 +2293,7 @@ export const discursiveWriting: Topic = {
         text:
           "Oh! But he was a tight-fisted hand at the grindstone, Scrooge! a squeezing, wrenching, grasping, scraping, clutching, covetous, old sinner! Hard and sharp as flint, from which no steel had ever struck out generous fire; secret, and self-contained, and solitary as an oyster.",
         note:
-          "A list of seven harsh -ing adjectives, the simile 'hard and sharp as flint' and the image of an oyster: hard on the outside, perhaps with something precious hidden within. That last image is useful evidence for the 'believable' side.",
+          "A piled-up list of harsh adjectives (five of them -ing words: 'squeezing, wrenching, grasping, scraping, clutching'), the simile 'hard and sharp as flint' and the image of an oyster: hard on the outside, perhaps with something precious hidden within. That last image is useful evidence for the 'believable' side.",
       },
       diagram: `<svg viewBox="0 0 360 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A 45-minute timeline: about 7 minutes planning, 33 minutes writing and 5 minutes checking"><text x="180" y="20" font-size="13" font-weight="bold" text-anchor="middle" fill="#78350f">A 45-minute discursive essay</text><rect x="20" y="40" width="56" height="36" fill="#fde68a" stroke="#b45309"/><rect x="76" y="40" width="224" height="36" fill="#bfdbfe" stroke="#1d4ed8"/><rect x="300" y="40" width="40" height="36" fill="#bbf7d0" stroke="#15803d"/><text x="48" y="62" font-size="11" text-anchor="middle" fill="#78350f">Plan</text><text x="188" y="62" font-size="12" text-anchor="middle" fill="#1e3a8a">Write: intro, 4 or 5 paragraphs, conclusion</text><text x="320" y="62" font-size="11" text-anchor="middle" fill="#14532d">Check</text><text x="48" y="95" font-size="11" text-anchor="middle" fill="#374151">5 to 8 min</text><text x="188" y="95" font-size="11" text-anchor="middle" fill="#374151">about 30 min</text><text x="320" y="95" font-size="11" text-anchor="middle" fill="#374151">5 min</text><text x="20" y="112" font-size="11" fill="#6b7280">0</text><text x="332" y="112" font-size="11" fill="#6b7280">45</text></svg>`,
       diagramCaption: "Plan first, write steadily, and always leave time to check.",
@@ -2398,7 +2398,7 @@ export const discursiveWriting: Topic = {
     },
     {
       quote: "I disapprove of what you say, but I will defend to the death your right to say it.",
-      source: "Evelyn Beatrice Hall, The Friends of Voltaire (1906), summing up Voltaire's attitude",
+      source: "Evelyn Beatrice Hall (writing as S. G. Tallentyre), The Friends of Voltaire (1906), summing up Voltaire's attitude",
       analysis:
         "Often wrongly attributed to Voltaire himself, which is a lesson in checking the source of any quotation you use as evidence. Its spirit (respecting a view you disagree with) is the spirit of discursive writing.",
       themes: ["fairness", "checking sources"],
@@ -2414,7 +2414,7 @@ export const discursiveWriting: Topic = {
       quote: "If they would rather die, they had better do it, and decrease the surplus population.",
       source: "Scrooge to the gentlemen collecting for charity, A Christmas Carol, Stave One",
       analysis:
-        "Scrooge's cold, economic language treats poor people as a statistic. The Ghost of Christmas Present later throws these exact words back at him in Stave Three, so evidence of his shame there supports the view that his change is prepared for.",
+        "Scrooge's cold, economic language treats poor people as a statistic. The Ghost of Christmas Present later throws his own words ('decrease the surplus population') back at him in Stave Three, so evidence of his shame there supports the view that his change is prepared for.",
       themes: ["Scrooge's change", "poverty"],
     },
     {
@@ -2597,7 +2597,7 @@ export const discursiveWriting: Topic = {
     {
       title: "Social media age limits",
       detail:
-        "In 2024 Australia passed a law setting a minimum age of 16 for many social media accounts. Governments, parents and tech companies around the world are still debating whether that is the right answer: a live discursive question.",
+        "In late 2024 Australia passed a law setting a minimum age of 16 for accounts on many social media platforms; it came into force in December 2025. Governments, parents and tech companies around the world are still debating whether that is the right answer: a live discursive question.",
       emoji: "📱",
     },
     {

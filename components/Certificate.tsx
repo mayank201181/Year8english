@@ -4,7 +4,7 @@ import Link from "next/link";
 import type { Topic } from "@/lib/types";
 import { useStore } from "@/lib/store";
 
-export function Certificate({ topic }: { topic: Topic }) {
+export function Certificate({ topic }: { topic: Pick<Topic, "id" | "title" | "icon" | "subject"> }) {
   const { challengeBest } = useStore();
   const score = challengeBest[topic.id] ?? 0;
   const date = new Date().toLocaleDateString(undefined, { year: "numeric", month: "long", day: "numeric" });

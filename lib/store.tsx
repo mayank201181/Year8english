@@ -19,7 +19,7 @@ import {
 } from "react";
 import type { Analytics, AttemptState, Profile, ProgressDoc, TopicStat } from "./profileTypes";
 import { emptyProgress, normalizeProgress } from "./profileTypes";
-import { lookup } from "./questionIndex";
+import { topicIdOfQid } from "./qidTopic";
 import { createProgressSaveQueue, withProgressTimeout } from "./progressSaveQueue";
 
 export type { AttemptState } from "./profileTypes";
@@ -464,7 +464,7 @@ export function ProgressProvider({ children }: { children: React.ReactNode }) {
   }, [updateProgress]);
 
   const recordResult = useCallback((qid: string, correct: boolean) => {
-    const topicId = lookup(qid)?.topicId;
+    const topicId = topicIdOfQid(qid);
     updateProgress((d) => {
       const missed = { ...d.missed };
       const srs = { ...d.srs };

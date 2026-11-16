@@ -8,7 +8,7 @@ import type { Topic } from "../types";
 export const exampleTopic: Topic = {
   id: "example",
   title: "Example Topic",
-  subject: "Physics",
+  subject: "Skills",
   icon: "🧪",
   summary: "One sentence hook shown on the topic card.",
   intro:

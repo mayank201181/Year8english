@@ -679,7 +679,7 @@ export const scriptWriting: Topic = {
           },
           {
             point: "Turns the hidden feeling into visible action or dialogue, and explains why",
-            keywords: ["cannot see", "can't see", "visible", "thought", "embarrass", "show", "audience"],
+            keywords: ["cannot see", "can't see", "visible", "thought", "embarrass", "turned", "into action"],
           },
         ],
         commonError:
@@ -1659,13 +1659,13 @@ export const scriptWriting: Topic = {
             options: [
               "I used a soliloquy when Juliet and the Nurse argue together.",
               "I used stichomythia in Ophelia's long speech to the audience.",
-              "I used dramatic irony when Juliet tells the audience her plan.",
+              "I used dramatic irony when Juliet tells her parents and the Nurse her plan openly.",
               "I used an aside so that only the audience hears Juliet's bitter 'I'm sure she will', while the Nurse carries on talking.",
             ],
             answerIndex: 3,
             hint: "Check each term against its definition.",
             explanation:
-              "An aside is heard only by the audience while others are on stage, so D is accurate. Option A misuses 'soliloquy', which requires the character to be alone, not arguing with someone.",
+              "An aside is heard only by the audience while others are on stage, so D is accurate. Option A misuses 'soliloquy', which requires the character to be alone, not arguing with someone; option C is not dramatic irony, because if everyone on stage hears the plan the audience knows nothing the characters do not.",
             guideRef: "writing-commentary",
           },
           {
@@ -2049,8 +2049,8 @@ export const scriptWriting: Topic = {
               "The line works as a cliffhanger because it ends the scene on a frightening threat: the audience leaves fearing what Juliet will do. It foreshadows the tragic ending already promised in the Prologue ('star-cross'd lovers take their life'), so it also builds dramatic irony. The line is made of short, mostly single-syllable words, which makes it sound blunt and decisive, ending heavily on 'die'. It also shows Juliet's new independence: having lost the Nurse, she now relies only on herself ('myself have power').",
             markScheme: [
               { point: "Identifies it as a cliffhanger / ends on tension or a threat", keywords: ["cliffhanger", "tension", "threat", "suspense", "fear", "worried"] },
-              { point: "Links to foreshadowing / the Prologue / tragic ending", keywords: ["foreshadow", "prologue", "star-cross", "tragic", "ending", "death", "suicide"] },
-              { point: "Comments on sound/structure (monosyllables, final word 'die')", keywords: ["monosyllab", "short words", "blunt", "final word", "die", "decisive", "rhythm"] },
+              { point: "Links to foreshadowing / the Prologue / tragic ending", keywords: ["foreshadow", "prologue", "star-cross", "tragic", "fate", "death", "suicide"] },
+              { point: "Comments on sound/structure (monosyllables, final word 'die')", keywords: ["monosyllab", "short words", "blunt", "final word", "single-syllable", "decisive", "rhythm"] },
               { point: "Links to Juliet's isolation/independence ('myself')", keywords: ["myself", "independen", "alone", "isolated", "relies on herself", "no one else"] },
             ],
             commonError: "Saying it is 'a good ending' without explaining the effect on the audience.",
@@ -2181,7 +2181,7 @@ export const scriptWriting: Topic = {
             marks: 3,
             hint: "Nobody says it directly. Look at his replies and his rucksack.",
             modelAnswer:
-              "The audience infers that Sam has dropped out of, or failed, his university engineering course and has not told his mother. When Nia asks 'Exams finished, then?' he replies evasively, 'Something like that'. He also arrives months before Christmas with a rucksack he cannot settle on putting down, then hides it behind the door, which suggests he has come home for good and is hiding it.",
+              "The audience infers that Sam has dropped out of, or failed, his university engineering course and has not told his mother. When Nia asks 'Exams finished, then?' he replies evasively, 'Something like that'. He also arrives long before Christmas, when he was not expected, with a rucksack he cannot settle on putting down, then hides it behind the door, which suggests he has come home for good and is hiding it.",
             markScheme: [
               { point: "Infers he has left/failed university and is hiding it", keywords: ["dropped out", "left university", "failed", "quit", "left his course", "hiding", "secret"] },
               { point: "Evidence from dialogue ('Something like that' / 'Change of plan')", keywords: ["something like that", "change of plan", "couldn't sleep", "evasive", "vague"] },
@@ -2276,7 +2276,7 @@ export const scriptWriting: Topic = {
             modelAnswer:
               "'(Pause. SAM opens the cupboard. Looks. Closes it.)' The pause slows the pace as Sam sees the banner celebrating a success he has not achieved, letting the weight of his mother's expectations sink in for the audience.",
             markScheme: [
-              { point: "Identifies a pause/silence", keywords: ["pause", "silence", "not speaking", "cupboard", "looks", "freeze"] },
+              { point: "Identifies a pause/silence", keywords: ["pause", "silence", "not speaking", "cupboard", "without speaking", "freeze"] },
               { point: "Explains its effect (slows pace, lets emotion sink in, tension)", keywords: ["slow", "sink in", "tension", "weight", "realis", "emotion", "pace"] },
             ],
             commonError: "Identifying the pause without explaining its effect.",
@@ -2412,7 +2412,7 @@ export const scriptWriting: Topic = {
             markScheme: [
               { point: "Identifies the rule of three / repeated imperatives / repetition of her name", keywords: ["rule of three", "triple", "repetition", "imperative", "command", "repeated"] },
               { point: "Explains the effect: relentless control by others", keywords: ["control", "ordered", "told what to do", "relentless", "powerless", "instructed"] },
-              { point: "Explains the final line: she is never allowed to speak / her voice", keywords: ["voice", "speak", "never allowed", "silenced", "unheard", "own view"] },
+              { point: "Explains the final line: she is never allowed to speak / her voice", keywords: ["voice", "never asked", "never allowed", "silenced", "unheard", "own view"] },
             ],
             commonError: "Spotting repetition without explaining why the final line breaks the pattern.",
             guideRef: "dialogue-voice",
@@ -2500,7 +2500,7 @@ export const scriptWriting: Topic = {
             marks: 5,
             hint: "Four or five sentences: place, purpose, audience, viewpoint, a preview of key techniques.",
             modelAnswer:
-              "My scene is a missing scene from Hamlet, set on the night after Act 3 Scene 1, when Hamlet rejects Ophelia while her father and the King secretly listen. Shakespeare never shows Ophelia's private response; the next time we see her alone with her thoughts, she has lost her mind. My purpose was to give her the voice the play denies her, and to show how she is used by the men around her. I wrote for a modern audience who know the play, so that they recognise the echoes of Hamlet's letters and Polonius's commands. By telling the scene from Ophelia's point of view, using a soliloquy, symbolic props and a final moment of quiet defiance, I wanted the audience to see her not as a victim only, but as someone beginning to resist.",
+              "My scene is a missing scene from Hamlet, set on the night after Act 3 Scene 1, when Hamlet rejects Ophelia while her father and the King secretly listen. Shakespeare gives her only a brief soliloquy grieving for Hamlet ('O, what a noble mind is here o'erthrown!'); we never hear what she feels about being used by her father, and the next time she speaks at length, in Act 4, she has lost her mind. My purpose was to give her the voice the play denies her, and to show how she is used by the men around her. I wrote for a modern audience who know the play, so that they recognise the echoes of Hamlet's letters and Polonius's commands. By telling the scene from Ophelia's point of view, using a soliloquy, symbolic props and a final moment of quiet defiance, I wanted the audience to see her not as a victim only, but as someone beginning to resist.",
             markScheme: [
               { point: "Places the scene in the play (after 3.1 / missing scene)", keywords: ["act 3 scene 1", "missing scene", "after hamlet rejects", "after the nunnery", "between act 3"] },
               { point: "States the purpose", keywords: ["purpose", "i wanted", "my aim", "to give her", "voice", "to show"] },
@@ -2561,7 +2561,7 @@ export const scriptWriting: Topic = {
               "Subtext is the meaning beneath a character's words: what they really think or feel but do not say. For example: (Her best friend shows off a new necklace from someone else.) PRIYA: It's lovely. Really. You must be so happy. The words are kind, but the subtext is jealousy and hurt.",
             markScheme: [
               { point: "Defines subtext: hidden meaning beneath the words", keywords: ["beneath", "underneath", "hidden meaning", "really means", "unspoken", "doesn't say"] },
-              { point: "Gives an example where words and meaning differ, with explanation", keywords: ["for example", "e.g", "really", "fine", "jealous", "actually means"] },
+              { point: "Gives an example where words and meaning differ, with explanation", keywords: ["for example", "e.g", "but means", "fine", "jealous", "actually means"] },
             ],
             commonError: "Defining subtext as 'the text underneath the main text', which doesn't explain anything.",
             guideRef: "dramatic-devices",

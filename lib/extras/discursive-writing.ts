@@ -8,7 +8,7 @@ export const discursiveWritingExtras: TopicExtras = {
   didYouKnow: [
     "The word 'discursive' comes from the Latin 'discurrere', meaning 'to run to and fro': a discursive mind runs back and forth between viewpoints before settling.",
     "The word 'essay' comes from the French 'essayer', 'to try'. Michel de Montaigne called his famous collection 'Essais' (first published in 1580) because each one was an attempt to think a question through.",
-    "The famous line 'I disapprove of what you say, but I will defend to the death your right to say it' is usually credited to Voltaire, but it was actually written by Evelyn Beatrice Hall in 1906 as a summary of his attitude. Always check your sources!",
+    "The famous line 'I disapprove of what you say, but I will defend to the death your right to say it' is usually credited to Voltaire, but it was actually written by Evelyn Beatrice Hall (under the pen name S. G. Tallentyre) in her 1906 book The Friends of Voltaire, as a summary of his attitude. Always check your sources!",
     "For centuries the Catholic Church had an official 'Devil's Advocate' whose job was to argue against declaring someone a saint, so that every weakness in the case was tested. That is where the phrase 'playing devil's advocate' comes from.",
     "Charles Dickens wrote A Christmas Carol in about six weeks in late 1843, and it was published on 19 December that year. Its first printing sold out within days.",
     "The Oxford Union, one of the world's most famous debating societies, was founded in 1823. Speakers there are sometimes asked to argue for a side they personally disagree with.",

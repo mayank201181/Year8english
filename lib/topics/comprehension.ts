@@ -17,7 +17,7 @@ const scroogePassage: Passage = {
 const fireP: Passage = {
   id: "to-build-a-fire",
   title: "To Build a Fire (opening)",
-  source: "Jack London, 'To Build a Fire' (1908); spelling standardised to British English. [...] marks words left out.",
+  source: "Jack London, 'To Build a Fire' (1908); London's original American spelling has been changed to British spelling (e.g. 'grey', 'little-travelled'). [...] marks words left out.",
   text:
     "Day had broken cold and grey, exceedingly cold and grey, when the man turned aside from the main Yukon trail and climbed the high earth-bank, where a dim and little-travelled trail led eastward through the fat spruce timberland. It was a steep bank, and he paused for breath at the top, excusing the act to himself by looking at his watch. It was nine o'clock. There was no sun nor hint of sun, though there was not a cloud in the sky. It was a clear day, and yet there seemed an intangible pall over the face of things, a subtle gloom that made the day dark, and that was due to the absence of sun. This fact did not worry the man. He was used to the lack of sun. It had been days since he had seen the sun, and he knew that a few more days must pass before that cheerful orb, due south, would just peep above the sky-line and dip immediately from view.\n\n[...]\n\nBut all this — the mysterious, far-reaching hair-line trail, the absence of sun from the sky, the tremendous cold, and the strangeness and weirdness of it all — made no impression on the man. It was not because he was long used to it. He was a newcomer in the land, a chechaquo, and this was his first winter. The trouble with him was that he was without imagination. He was quick and alert in the things of life, but only in the things, and not in the significances. Fifty degrees below zero meant eighty-odd degrees of frost. Such fact impressed him as being cold and uncomfortable, and that was all.",
   note:
@@ -164,10 +164,10 @@ const mcqP1: Paper<MCQ> = {
       options: [
         "It is cold and fresh",
         "It is full of noise",
-        "It is close, airless and suffocating",
         "It is clear and sparkling",
+        "It is close, airless and suffocating",
       ],
-      answerIndex: 2,
+      answerIndex: 3,
       hint: "What happens to air under cling film?",
       explanation:
         "Cling film seals things in and stops air moving, so the comparison suggests humid, trapped, suffocating air before the storm. 'Clear and sparkling' picks up on cling film being transparent, but that misses the main point of the comparison: being sealed in.",
@@ -383,8 +383,8 @@ const mcqP2: Paper<MCQ> = {
     {
       id: "cmp-mcq-p2-q01",
       question: "What time is it when the man looks at his watch?",
-      options: ["Eight o'clock", "Nine o'clock", "Noon", "Five o'clock"],
-      answerIndex: 1,
+      options: ["Eight o'clock", "Noon", "Five o'clock", "Nine o'clock"],
+      answerIndex: 3,
       hint: "Scan the first paragraph for a number.",
       explanation:
         "'It was nine o'clock.' Even at nine in the morning there is no sun, which helps to build the eerie, dark atmosphere.",
@@ -445,11 +445,11 @@ const mcqP2: Paper<MCQ> = {
       question: "'there seemed an intangible pall over the face of things'. What does 'pall' most nearly mean here?",
       options: [
         "A bright, cheerful light",
-        "A heavy, dark covering of gloom",
         "A friend or companion",
         "A sudden loud noise",
+        "A heavy, dark covering of gloom",
       ],
-      answerIndex: 1,
+      answerIndex: 3,
       hint: "The next phrase, 'a subtle gloom that made the day dark', explains it.",
       explanation:
         "A pall is a dark covering, originally the cloth draped over a coffin. The context 'a subtle gloom that made the day dark' confirms it. 'Friend' confuses it with the informal word 'pal'.",
@@ -842,11 +842,11 @@ const mcqP3: Paper<MCQ> = {
       question: "What does the metaphor 'a living certificate' suggest?",
       options: [
         "The otters carry official documents",
-        "The otters' presence is evidence that the water is clean and healthy",
         "The otters are registered pets",
         "The otters are endangered",
+        "The otters' presence is evidence that the water is clean and healthy",
       ],
-      answerIndex: 1,
+      answerIndex: 3,
       hint: "What does a certificate do?",
       explanation:
         "A certificate officially proves something; the otters 'prove' the waterways are clean because they can only survive where fish are plentiful. A literal reading (carrying documents) misses the metaphor.",
@@ -1068,12 +1068,12 @@ const mcqP4: Paper<MCQ> = {
       id: "cmp-mcq-p4-q08",
       question: "'the act of a brave man and an English gentleman'. What does this phrase reveal about the values of Scott's time?",
       options: [
-        "Modern ideas about health and safety",
         "Edwardian ideals of courage, duty and self-sacrifice",
+        "Modern ideas about health and safety",
         "Scott's dislike of Oates",
         "That Scott did not really believe Oates was brave",
       ],
-      answerIndex: 1,
+      answerIndex: 0,
       hint: "What qualities does the phrase praise?",
       explanation:
         "The phrase links bravery and self-sacrifice with being a 'gentleman', which was a central ideal in Edwardian Britain. Scott clearly admires Oates, so 'dislike' contradicts the evidence.",
@@ -1112,8 +1112,8 @@ const mcqP4: Paper<MCQ> = {
     {
       id: "cmp-mcq-p4-q11",
       question: "What is the tone of 'We shall stick it out to the end, but we are getting weaker, of course'?",
-      options: ["Cheerful optimism", "Panic and terror", "Calm, determined acceptance", "Sarcasm"],
-      answerIndex: 2,
+      options: ["Cheerful optimism", "Panic and terror", "Sarcasm", "Calm, determined acceptance"],
+      answerIndex: 3,
       hint: "Notice the matter-of-fact 'of course'.",
       explanation:
         "Scott is resolute ('stick it out') yet accepts death plainly ('of course'), so the tone is stoical acceptance. He is not optimistic: he says 'the end cannot be far'.",
@@ -1153,12 +1153,12 @@ const mcqP4: Paper<MCQ> = {
       id: "cmp-mcq-p4-q14",
       question: "Who did Scott expect would eventually read his journal?",
       options: [
+        "The public and the families, after his death",
         "Only himself",
         "Nobody at all",
-        "The public and the families, after his death",
         "Amundsen's team",
       ],
-      answerIndex: 2,
+      answerIndex: 0,
       hint: "Look at 'Should this be found' and the 'Message to the Public'.",
       explanation:
         "Phrases like 'Should this be found I want these facts recorded' and a 'Message to the Public' show he wrote with future readers in mind. So, although it is a journal, it is not purely private.",
@@ -1274,7 +1274,7 @@ const qaP1: Paper<QA> = {
       modelAnswer:
         "The cold 'nipped his pointed nose' and 'shrivelled his cheek', and it 'made his eyes red, his thin lips blue' and 'stiffened his gait' (made him walk stiffly).",
       markScheme: [
-        { point: "An effect on his nose or cheek (nipped nose / shrivelled cheek)", keywords: ["nose", "nipped", "cheek", "shrivelled", "shriveled", "features"] },
+        { point: "An effect on his nose or cheek (nipped nose / shrivelled cheek)", keywords: ["nose", "nipped", "cheek", "shrivelled", "shriveled", "pinched"] },
         { point: "An effect on his eyes, lips or walk (red eyes / blue lips / stiff gait)", keywords: ["eyes", "lips", "blue", "gait", "stiffened", "walk", "stiff"] },
       ],
       commonError: "Giving two details from the same part of the body, or copying the whole sentence instead of selecting two clear details.",
@@ -1331,9 +1331,9 @@ const qaP1: Paper<QA> = {
       marks: 6,
       hint: "Look at the long list of '-ing' words, the cold imagery and the exaggeration about his office.",
       modelAnswer:
-        "Dickens opens with an exclamation, 'Oh!', as if the narrator cannot contain his disgust. He then piles up a list of verbs ending in -ing: 'squeezing, wrenching, grasping, scraping, clutching'. These words all describe tight, violent hand movements, suggesting that Scrooge grabs and hoards money relentlessly, and the build-up makes his greed seem overwhelming. The noun phrase 'old sinner' adds a moral judgement, implying his meanness is wicked. Dickens also uses an extended metaphor of cold: 'the cold within him froze his old features' and a 'frosty rime' sits on his eyebrows. His inner coldness is so strong that it shows on the outside, so his cruelty has become part of his body. Finally, the hyperbole that he 'iced his office in the dog-days; and didn't thaw it one degree at Christmas' exaggerates for comic effect, suggesting that even the warmest, most generous season cannot soften him.",
+        "Dickens opens with an exclamation, 'Oh!', as if the narrator cannot contain his disgust. He then piles up a list of -ing words (present participles used as adjectives): 'squeezing, wrenching, grasping, scraping, clutching'. These words all describe tight, violent hand movements, suggesting that Scrooge grabs and hoards money relentlessly, and the build-up makes his greed seem overwhelming. The noun phrase 'old sinner' adds a moral judgement, implying his meanness is wicked. Dickens also uses an extended metaphor of cold: 'the cold within him froze his old features' and a 'frosty rime' sits on his eyebrows. His inner coldness is so strong that it shows on the outside, so his cruelty has become part of his body. Finally, the hyperbole that he 'iced his office in the dog-days; and didn't thaw it one degree at Christmas' exaggerates for comic effect, suggesting that even the warmest, most generous season cannot soften him.",
       markScheme: [
-        { point: "Identifies the list of -ing verbs / participles", keywords: ["squeezing", "wrenching", "grasping", "scraping", "clutching", "list"] },
+        { point: "Identifies the list of -ing words (present participles)", keywords: ["squeezing", "wrenching", "grasping", "scraping", "clutching", "list"] },
         { point: "Explains the list's effect: relentless, grabbing greed", keywords: ["greed", "greedy", "relentless", "hoard", "grab", "overwhelming", "tight"] },
         { point: "Identifies cold imagery / extended metaphor", keywords: ["froze", "frosty", "rime", "cold within", "extended metaphor", "ice", "cold imagery"] },
         { point: "Explains: inner coldness shows on his body / heartless", keywords: ["inside", "outside", "heartless", "unfeeling", "cold-hearted", "emotionless", "within"] },
@@ -1398,7 +1398,7 @@ const qaP1: Paper<QA> = {
       markScheme: [
         { point: "Mean / greedy with money", keywords: ["mean", "greedy", "stingy", "miserly", "money", "selfish"] },
         { point: "Cold-hearted / unfeeling", keywords: ["cold-hearted", "unfeeling", "cold", "heartless", "unkind", "harsh"] },
-        { point: "Isolated / secretive / keeps to himself", keywords: ["isolated", "secretive", "alone", "himself", "private", "lonely"] },
+        { point: "Isolated / secretive / keeps to himself", keywords: ["isolated", "secretive", "alone", "keeps to himself", "private", "lonely"] },
         { point: "Avoided / disliked by others", keywords: ["avoid", "disliked", "unpopular", "nobody", "no one", "reputation"] },
       ],
       commonError: "Copying phrases such as 'solitary as an oyster' instead of using your own words, or adding analysis that earns no marks in a summary.",
@@ -1680,7 +1680,7 @@ const qaP3: Paper<QA> = {
       modelAnswer:
         "It named Singapore the most light-polluted country on Earth, and it reported that the nights are so bright that people's eyes never fully adjust to darkness.",
       markScheme: [
-        { point: "Most light-polluted country", keywords: ["most light-polluted", "most light polluted", "most polluted", "worst", "number one", "top"] },
+        { point: "Most light-polluted country", keywords: ["most light-polluted", "most light polluted", "most polluted", "worst", "number one", "highest"] },
         { point: "Eyes never fully adjust to darkness", keywords: ["eyes", "adjust", "adapt", "darkness", "never fully", "dark"] },
       ],
       commonError: "Including the writer's comment 'We have... abolished the night', which is an opinion, not the study's finding.",
@@ -1861,7 +1861,7 @@ const qaP4: Paper<QA> = {
       modelAnswer: "(a) Twelve passengers. (b) About ten minutes.",
       markScheme: [
         { point: "Twelve passengers", keywords: ["twelve", "12", "twelve passengers", "12 passengers"] },
-        { point: "Ten minutes", keywords: ["ten minutes", "10 minutes", "ten", "10 min"] },
+        { point: "Ten minutes", keywords: ["ten minutes", "10 minutes", "ten min", "10 min"] },
       ],
       commonError: "Writing 'fifty' (from 'fifty years') for the crossing time.",
       guideRef: "retrieval-inference",
@@ -2256,7 +2256,7 @@ export const comprehension: Topic = {
     },
     {
       quote: "Day had broken cold and grey, exceedingly cold and grey",
-      source: "Jack London, 'To Build a Fire' (1908), opening",
+      source: "Jack London, 'To Build a Fire' (1908), opening (original American 'gray' changed to British spelling)",
       analysis:
         "Repetition intensified by 'exceedingly' establishes a relentless, bleak setting in the first line. The verb 'broken' is usually neutral in 'day had broken', but beside so much grey it quietly suggests damage, which hints at the danger ahead.",
       themes: ["setting", "repetition", "openings"],
@@ -2286,7 +2286,7 @@ export const comprehension: Topic = {
       quote: "I am just going outside and may be some time.",
       source: "Captain Oates, as recorded in Scott's journal, March 1912",
       analysis:
-        "The most famous understatement in British history: casual words ('just', 'some time') disguise a deliberate walk to death. Understatement often moves readers more than open emotion, because we feel what is left unsaid.",
+        "Perhaps the most famous understatement in British history: casual words ('just', 'some time') disguise a deliberate walk to death. Understatement often moves readers more than open emotion, because we feel what is left unsaid.",
       themes: ["understatement", "courage", "non-fiction"],
     },
     {
@@ -2324,7 +2324,7 @@ export const comprehension: Topic = {
       title: "Language analysis: Scrooge's coldness",
       task: "How does Dickens use language to present Scrooge as cold-hearted in paragraph 1? (6 marks)",
       text:
-        "Dickens presents Scrooge's cruelty as something physical, as if his heart has frozen his whole body. The narrator bursts out with a list of verbs, 'squeezing, wrenching, grasping, scraping, clutching', all of which describe tight, violent hand movements. Piled up without pause, they suggest a man who grabs money relentlessly and never lets go, and the sheer length of the list makes his greed feel overwhelming.\n\nDickens then develops an extended metaphor of cold: 'The cold within him froze his old features, nipped his pointed nose'. The phrase 'cold within him' is crucial, because the cold comes from inside, so his unkind nature is literally showing on his skin. The verb 'nipped' is especially effective: it suggests a small, sharp, pinching bite, which fits a man who 'pinches' every penny.\n\nFinally, the hyperbole that he 'iced his office in the dog-days; and didn't thaw it one degree at Christmas' is darkly comic. Even the hottest days and the most generous season cannot warm him, which prepares the reader for how extraordinary his later transformation will be.",
+        "Dickens presents Scrooge's cruelty as something physical, as if his heart has frozen his whole body. The narrator bursts out with a list of -ing words (present participles), 'squeezing, wrenching, grasping, scraping, clutching', all of which describe tight, violent hand movements. Piled up without pause, they suggest a man who grabs money relentlessly and never lets go, and the sheer length of the list makes his greed feel overwhelming.\n\nDickens then develops an extended metaphor of cold: 'The cold within him froze his old features, nipped his pointed nose'. The phrase 'cold within him' is crucial, because the cold comes from inside, so his unkind nature is literally showing on his skin. The verb 'nipped' is especially effective: it suggests a small, sharp, pinching bite, which fits a man who 'pinches' every penny.\n\nFinally, the hyperbole that he 'iced his office in the dog-days; and didn't thaw it one degree at Christmas' is darkly comic. Even the hottest days and the most generous season cannot warm him, which prepares the reader for how extraordinary his later transformation will be.",
       annotations: [
         "Opens with a conceptual point (cruelty made physical) rather than 'Dickens uses lots of techniques'.",
         "Short quotations are embedded in the writer's own sentences.",
@@ -2475,7 +2475,7 @@ export const comprehension: Topic = {
     { front: "Cyclical structure", back: "When the ending echoes the opening, usually with a change that shows what has been learned." },
     { front: "Foreshadowing", back: "An early hint of what will happen later (e.g. 'at least, not until today')." },
     { front: "Fact vs opinion", back: "A fact can be checked and proved; an opinion is a judgement someone could reasonably dispute." },
-    { front: "Understatement", back: "Deliberately presenting something as less serious than it is (Oates: 'I may be some time')." },
+    { front: "Understatement", back: "Deliberately presenting something as less serious than it is (Oates: 'I am just going outside and may be some time')." },
     { front: "Writer's purpose", back: "What the text aims to do: inform, explain, persuade, argue, advise, entertain, describe." },
     { front: "Counter-argument", back: "The opposing view a persuasive writer acknowledges, often to rebut it (e.g. 'Of course, light keeps us safe. But...')." },
     { front: "'I am just going outside and may be some time.'", back: "Captain Oates, recorded in Scott's journal, March 1912: an understated farewell before walking to his death." },

@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { useCallback, useEffect, useEffectEvent, useRef, useState } from "react";
 import type { MCQ, Topic } from "@/lib/types";
-import { topicMcqPool } from "@/lib/questionIndex";
 import { optionOrder } from "@/lib/optionOrder";
 import { ExtractBox } from "./EnglishBlocks";
 import { useStore } from "@/lib/store";
@@ -26,7 +25,7 @@ export function ChallengeRunner({ topic }: { topic: Topic }) {
 
 function ChallengeRound({ topic }: { topic: Topic }) {
   const { setChallengeBest, award, recordResult, challengeBest } = useStore();
-  const [questions, setQuestions] = useState(() => pickRandom(topicMcqPool(topic.id), ROUND));
+  const [questions, setQuestions] = useState(() => pickRandom(challengePool(topic), ROUND));
   const [phase, setPhase] = useState<"intro" | "play" | "done">("intro");
   const [idx, setIdx] = useState(0);
   const [correct, setCorrect] = useState(0);
@@ -119,7 +118,7 @@ function ChallengeRound({ topic }: { topic: Topic }) {
           <p className="mt-3 text-sm text-slate-500">Score 80% or more to unlock the topic certificate.</p>
         )}
         <div className="mt-5 flex justify-center gap-3">
-          <button onClick={() => { setQuestions(pickRandom(topicMcqPool(topic.id), ROUND)); start(); }} className="rounded-xl border border-slate-200 bg-white px-4 py-2 font-semibold text-slate-600 hover:bg-slate-50">Try again</button>
+          <button onClick={() => { setQuestions(pickRandom(challengePool(topic), ROUND)); start(); }} className="rounded-xl border border-slate-200 bg-white px-4 py-2 font-semibold text-slate-600 hover:bg-slate-50">Try again</button>
           <Link href={`/topic/${topic.id}`} className="rounded-xl border border-slate-200 bg-white px-4 py-2 font-semibold text-slate-600 hover:bg-slate-50">Back to topic</Link>
         </div>
       </Card>
@@ -167,4 +166,10 @@ function Card({ children }: { children: React.ReactNode }) {
       <div className="rounded-3xl border border-slate-200 bg-white p-8 text-center shadow-sm">{children}</div>
     </div>
   );
+}
+
+/** All MCQs for a topic (quiz + bank) for a timed round. Papers built around a long extract are left out:
+ * a timed round has no room to read the whole extract. */
+function challengePool(topic: Topic): MCQ[] {
+  return [...topic.quiz.mcq, ...topic.questionBank.mcqPapers.filter((p) => !p.passage).flatMap((p) => p.questions)];
 }

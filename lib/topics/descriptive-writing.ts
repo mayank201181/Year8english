@@ -119,7 +119,7 @@ export const descriptiveWriting: Topic = {
       passage: {
         title: "Fog everywhere",
         source: "Charles Dickens, Bleak House (1852–53), Chapter 1",
-        text: "Fog everywhere. Fog up the river, where it flows among green aits and meadows; fog down the river, where it rolls defiled among the tiers of shipping and the waterside pollutions of a great (and dirty) city. Fog on the Essex marshes, fog on the Kentish heights. Fog creeping into the cabooses of collier-brigs; fog lying out on the yards, and hovering in the rigging of great ships; fog drooping on the gunwales of barges and small boats.",
+        text: "Fog everywhere. Fog up the river, where it flows among green aits and meadows; fog down the river, where it rolls defiled among the tiers of shipping and the waterside pollutions of a great (and dirty) city. Fog on the Essex marshes, fog on the Kentish heights. Fog creeping into the cabooses of collier-brigs; fog lying out on the yards and hovering in the rigging of great ships; fog drooping on the gunwales of barges and small boats.",
         note:
           "aits = small river islands; cabooses = ships' kitchens; collier-brigs = coal-carrying ships; gunwales = the upper edges of a boat's side. Notice the minor sentences, the repetition of 'Fog' and the list of places spreading across London.",
       },
@@ -227,7 +227,7 @@ export const descriptiveWriting: Topic = {
       id: "bleak-house-fog",
       title: "London in fog",
       source: "Charles Dickens, Bleak House (1852–53), Chapter 1",
-      text: "London. Michaelmas term lately over, and the Lord Chancellor sitting in Lincoln's Inn Hall. Implacable November weather. As much mud in the streets as if the waters had but newly retired from the face of the earth, and it would not be wonderful to meet a Megalosaurus, forty feet long or so, waddling like an elephantine lizard up Holborn Hill. Smoke lowering down from chimney-pots, making a soft black drizzle, with flakes of soot in it as big as full-grown snowflakes — gone into mourning, one might imagine, for the death of the sun. Dogs, undistinguishable in mire. Horses, scarcely better; splashed to their very blinkers. Foot passengers, jostling one another's umbrellas in a general infection of ill temper, and losing their foot-hold at street-corners, where tens of thousands of other foot passengers have been slipping and sliding since the day broke (if this day ever broke), adding new deposits to the crust upon crust of mud, sticking at those points tenaciously to the pavement, and accumulating at compound interest.\n\nFog everywhere. Fog up the river, where it flows among green aits and meadows; fog down the river, where it rolls defiled among the tiers of shipping and the waterside pollutions of a great (and dirty) city. Fog on the Essex marshes, fog on the Kentish heights. Fog creeping into the cabooses of collier-brigs; fog lying out on the yards, and hovering in the rigging of great ships; fog drooping on the gunwales of barges and small boats. Fog in the eyes and throats of ancient Greenwich pensioners, wheezing by the firesides of their wards; fog in the stem and bowl of the afternoon pipe of the wrathful skipper, down in his close cabin; fog cruelly pinching the toes and fingers of his shivering little 'prentice boy on deck. Chance people on the bridges peeping over the parapets into a nether sky of fog, with fog all round them, as if they were up in a balloon, and hanging in the misty clouds.",
+      text: "London. Michaelmas term lately over, and the Lord Chancellor sitting in Lincoln's Inn Hall. Implacable November weather. As much mud in the streets as if the waters had but newly retired from the face of the earth, and it would not be wonderful to meet a Megalosaurus, forty feet long or so, waddling like an elephantine lizard up Holborn Hill. Smoke lowering down from chimney-pots, making a soft black drizzle, with flakes of soot in it as big as full-grown snowflakes — gone into mourning, one might imagine, for the death of the sun. Dogs, undistinguishable in mire. Horses, scarcely better; splashed to their very blinkers. Foot passengers, jostling one another's umbrellas in a general infection of ill temper, and losing their foot-hold at street-corners, where tens of thousands of other foot passengers have been slipping and sliding since the day broke (if this day ever broke), adding new deposits to the crust upon crust of mud, sticking at those points tenaciously to the pavement, and accumulating at compound interest.\n\nFog everywhere. Fog up the river, where it flows among green aits and meadows; fog down the river, where it rolls defiled among the tiers of shipping and the waterside pollutions of a great (and dirty) city. Fog on the Essex marshes, fog on the Kentish heights. Fog creeping into the cabooses of collier-brigs; fog lying out on the yards and hovering in the rigging of great ships; fog drooping on the gunwales of barges and small boats. Fog in the eyes and throats of ancient Greenwich pensioners, wheezing by the firesides of their wards; fog in the stem and bowl of the afternoon pipe of the wrathful skipper, down in his close cabin; fog cruelly pinching the toes and fingers of his shivering little 'prentice boy on deck. Chance people on the bridges peeping over the parapets into a nether sky of fog, with fog all round them, as if they were up in a balloon and hanging in the misty clouds.",
       note:
         "Michaelmas term = an autumn sitting of the law courts; implacable = impossible to calm or soften; Megalosaurus = a dinosaur, newly discovered in Dickens's time; mire = deep mud; aits = small river islands; collier-brigs = coal ships; 'prentice = apprentice; nether = lower. Dickens builds the whole opening from minor sentences (no main verbs), lists and repetition.",
     },
@@ -369,7 +369,7 @@ export const descriptiveWriting: Topic = {
         "The minor sentence 'No traffic yet.' slows the pace and stresses the stillness.",
         "Personification: the rain trees are 'patient', 'holding the last of the night', giving the setting a calm character.",
         "The pair of dashes and the short verb 'it stabs' create a sudden shift from stillness to action.",
-        "Polysyndeton ('and… and… and') in the final sentence speeds the rhythm up as the scene wakes.",
+        "Polysyndeton ('and… and…') in the final sentence speeds the rhythm up as the scene wakes.",
         "Consistent present tense creates immediacy.",
       ],
     },
@@ -406,7 +406,7 @@ export const descriptiveWriting: Topic = {
       annotations: [
         "Opening metaphor: the street 'has swallowed the sunset and replaced it with its own' — the lights become a new sun.",
         "A list inside a pair of dashes gives precise festival detail without slowing the main sentence.",
-        "All five senses appear naturally — the light, the hum, the jasmine, the rattle, and synaesthesia in 'the air tastes sweet'.",
+        "All five senses appear naturally — sight (the light), sound (the hum, the rattle), smell (the jasmine), touch (powder falling from her fingers) and taste, through the synaesthesia of 'the air tastes sweet'.",
         "The colon introduces a list of colours that builds slowly, like the spiral itself.",
         "The camera zooms from a whole street to one girl's fingers.",
         "Cyclical touch: 'her own small sun' echoes the opening sunset, ending on quiet focus amid the crowd.",
@@ -990,7 +990,7 @@ export const descriptiveWriting: Topic = {
         passage: {
           title: "London in fog",
           source: "Charles Dickens, Bleak House (1852–53), Chapter 1",
-          text: "London. Michaelmas term lately over, and the Lord Chancellor sitting in Lincoln's Inn Hall. Implacable November weather. As much mud in the streets as if the waters had but newly retired from the face of the earth, and it would not be wonderful to meet a Megalosaurus, forty feet long or so, waddling like an elephantine lizard up Holborn Hill. Smoke lowering down from chimney-pots, making a soft black drizzle, with flakes of soot in it as big as full-grown snowflakes — gone into mourning, one might imagine, for the death of the sun. Dogs, undistinguishable in mire. Horses, scarcely better; splashed to their very blinkers. Foot passengers, jostling one another's umbrellas in a general infection of ill temper, and losing their foot-hold at street-corners, where tens of thousands of other foot passengers have been slipping and sliding since the day broke (if this day ever broke), adding new deposits to the crust upon crust of mud, sticking at those points tenaciously to the pavement, and accumulating at compound interest.\n\nFog everywhere. Fog up the river, where it flows among green aits and meadows; fog down the river, where it rolls defiled among the tiers of shipping and the waterside pollutions of a great (and dirty) city. Fog on the Essex marshes, fog on the Kentish heights. Fog creeping into the cabooses of collier-brigs; fog lying out on the yards, and hovering in the rigging of great ships; fog drooping on the gunwales of barges and small boats. Fog in the eyes and throats of ancient Greenwich pensioners, wheezing by the firesides of their wards; fog in the stem and bowl of the afternoon pipe of the wrathful skipper, down in his close cabin; fog cruelly pinching the toes and fingers of his shivering little 'prentice boy on deck. Chance people on the bridges peeping over the parapets into a nether sky of fog, with fog all round them, as if they were up in a balloon, and hanging in the misty clouds.",
+          text: "London. Michaelmas term lately over, and the Lord Chancellor sitting in Lincoln's Inn Hall. Implacable November weather. As much mud in the streets as if the waters had but newly retired from the face of the earth, and it would not be wonderful to meet a Megalosaurus, forty feet long or so, waddling like an elephantine lizard up Holborn Hill. Smoke lowering down from chimney-pots, making a soft black drizzle, with flakes of soot in it as big as full-grown snowflakes — gone into mourning, one might imagine, for the death of the sun. Dogs, undistinguishable in mire. Horses, scarcely better; splashed to their very blinkers. Foot passengers, jostling one another's umbrellas in a general infection of ill temper, and losing their foot-hold at street-corners, where tens of thousands of other foot passengers have been slipping and sliding since the day broke (if this day ever broke), adding new deposits to the crust upon crust of mud, sticking at those points tenaciously to the pavement, and accumulating at compound interest.\n\nFog everywhere. Fog up the river, where it flows among green aits and meadows; fog down the river, where it rolls defiled among the tiers of shipping and the waterside pollutions of a great (and dirty) city. Fog on the Essex marshes, fog on the Kentish heights. Fog creeping into the cabooses of collier-brigs; fog lying out on the yards and hovering in the rigging of great ships; fog drooping on the gunwales of barges and small boats. Fog in the eyes and throats of ancient Greenwich pensioners, wheezing by the firesides of their wards; fog in the stem and bowl of the afternoon pipe of the wrathful skipper, down in his close cabin; fog cruelly pinching the toes and fingers of his shivering little 'prentice boy on deck. Chance people on the bridges peeping over the parapets into a nether sky of fog, with fog all round them, as if they were up in a balloon and hanging in the misty clouds.",
           note:
             "implacable = impossible to calm; Megalosaurus = a dinosaur; mire = deep mud; aits = small river islands; collier-brigs = coal ships; 'prentice = apprentice; nether = lower.",
         },
@@ -1140,7 +1140,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "It is repetition at the beginning of successive phrases.",
             explanation:
-              "Anaphora is the repetition of a word or phrase at the start of successive clauses. Sibilance is tempting because 'fog' contains a soft 'f', but sibilance is the repetition of 's' sounds, not of a whole word.",
+              "Anaphora is the repetition of a word or phrase at the start of successive clauses. Sibilance is tempting because it is also a pattern of repetition, but it is the repetition of soft 's' sounds, not of a whole word — and 'fog' contains no 's' at all.",
             guideRef: "sentence-variety",
           },
           {
@@ -1201,7 +1201,7 @@ export const descriptiveWriting: Topic = {
           },
           {
             id: "dsc-mcq-p2-q16",
-            extract: "peeping over the parapets into a nether sky of fog, with fog all round them, as if they were up in a balloon, and hanging in the misty clouds",
+            extract: "peeping over the parapets into a nether sky of fog, with fog all round them, as if they were up in a balloon and hanging in the misty clouds",
             question: "What feeling does this comparison create?",
             options: [
               "Excitement about flying",
@@ -1934,7 +1934,7 @@ export const descriptiveWriting: Topic = {
             markScheme: [
               { point: "Defines pathetic fallacy as weather/setting reflecting mood or emotion", keywords: ["weather", "setting", "reflects", "mirrors", "mood", "emotion"] },
               { point: "Defines personification as giving human qualities to something non-human", keywords: ["human qualities", "human characteristics", "human actions", "non-human", "object", "like a person"] },
-              { point: "Explains the difference: pathetic fallacy must mirror a feeling", keywords: ["difference", "whereas", "specifically", "does not have to", "only", "not always"] },
+              { point: "Explains the difference: pathetic fallacy must mirror a feeling", keywords: ["difference", "whereas", "specifically", "does not have to", "not all", "not always"] },
             ],
             commonError: "Saying pathetic fallacy means 'sad weather' — it can reflect any mood, including joy.",
             guideRef: "figurative-language",
@@ -2132,7 +2132,7 @@ export const descriptiveWriting: Topic = {
             modelAnswer:
               "One detail is the cat lying 'too tired to blink', and another is that 'Even the mynahs had stopped arguing'. The mynahs are usually loud and quarrelsome, so their silence shows that the heat is so oppressive that even the noisiest creatures have given up — the reader infers the heat without being told 'it was very hot'.",
             markScheme: [
-              { point: "First valid detail", keywords: ["too tired to blink", "cat", "fanned himself", "newspaper", "oven door", "cool tiles"] },
+              { point: "First valid detail", keywords: ["too tired to blink", "cat", "fanned himself", "newspaper", "lay stretched", "cool tiles"] },
               { point: "Second valid detail", keywords: ["mynahs", "stopped arguing", "old man", "fanned", "tired", "blink"] },
               { point: "Explains how the detail shows heat (reader infers; exhaustion; silence)", keywords: ["infer", "shows", "without telling", "exhausted", "silence", "oppressive", "given up", "lethargic"] },
             ],
@@ -2178,7 +2178,7 @@ export const descriptiveWriting: Topic = {
             marks: 5,
             hint: "Semicolons, the repeated 'it', the verbs and the final metaphor.",
             modelAnswer:
-              "The sentence is built from three clauses joined by semicolons, each beginning with 'it', so the rain seems to attack again and again without a full stop to rest — the structure mirrors the relentless downpour. The verbs escalate in force: 'hammered' suggests violent, repeated blows, 'roared' adds overwhelming sound, and 'bounced knee-high' shows the sheer weight of the water. The final metaphor of 'brown, muscular ropes' makes the drain water seem strong, alive and dangerous. Together, the structure and language make the storm feel unstoppable.",
+              "The sentence is built from three clauses joined by semicolons, the second and third both beginning with 'it', so the rain seems to attack again and again without a full stop to rest — the structure mirrors the relentless downpour. The verbs escalate in force: 'hammered' suggests violent, repeated blows, 'roared' adds overwhelming sound, and 'bounced knee-high' shows the sheer weight of the water. The final metaphor of 'brown, muscular ropes' makes the drain water seem strong, alive and dangerous. Together, the structure and language make the storm feel unstoppable.",
             markScheme: [
               { point: "Comments on semicolons linking three clauses / tricolon", keywords: ["semicolon", "three clauses", "tricolon", "list of three", "no full stop"] },
               { point: "Comments on repetition of 'it' / relentless rhythm", keywords: ["repetition", "repeated", "relentless", "again and again", "rhythm", "anaphora"] },
@@ -2608,7 +2608,7 @@ export const descriptiveWriting: Topic = {
               { point: "Paragraph 1 is wide: skyline / sky / whole Gardens", keywords: ["skyline", "sky", "city", "whole", "wide", "drone"] },
               { point: "Paragraph 2 narrows: paths, lawns, trees, people", keywords: ["path", "lawn", "trees", "joggers", "mid", "narrow"] },
               { point: "Paragraph 3 closer: the lake / one area", keywords: ["lake", "swan lake", "close-up", "water", "closer", "bench"] },
-              { point: "Final paragraph: a single detail / shift / echo", keywords: ["detail", "heron", "drop", "one", "shift", "echo", "single"] },
+              { point: "Final paragraph: a single detail / shift / echo", keywords: ["detail", "heron", "drop", "one small", "shift", "echo", "single"] },
             ],
             commonError: "Listing senses as paragraphs (sight, sound, smell) rather than camera positions.",
             guideRef: "structure",
@@ -2655,7 +2655,7 @@ export const descriptiveWriting: Topic = {
               "The writer could shift from the still, silver calm of dawn to the energy of morning as the sun breaks through: the mist lifts, the light turns gold, and joggers and birdsong fill the paths. Alternatively, a sudden tropical shower could sweep in. The shift should be signalled with a short sentence or one-line paragraph, such as 'Then the sun reached the water.', so the reader feels the turning point.",
             markScheme: [
               { point: "Suggests a change in weather, light, time or sound", keywords: ["weather", "light", "rain", "shower", "sun", "mist", "time", "noise"] },
-              { point: "Describes the contrast between the two moods", keywords: ["calm", "energy", "still", "lively", "contrast", "from", "busy"] },
+              { point: "Describes the contrast between the two moods", keywords: ["calm", "energy", "still", "lively", "contrast", "bustle", "busy"] },
               { point: "Explains how to signal it (short sentence / one-line paragraph)", keywords: ["short sentence", "one-line", "one line", "paragraph", "signal", "then the"] },
             ],
             commonError: "Adding a plot event (an argument, a lost phone) instead of a shift in atmosphere.",
@@ -2671,7 +2671,7 @@ export const descriptiveWriting: Topic = {
               "Before the city wakes, the Gardens belong to the birds. Beyond the gates, the condominium towers are still dark, but above them the sky is bruising slowly from violet to apricot. The rain trees stand patient and enormous, holding the last of the night in their branches. Somewhere in the canopy, a koel begins its rising call. No traffic. Only the wet smell of earth, and the soft slap of a jogger's trainers on the path.",
             markScheme: [
               { point: "Includes a fronted adverbial with a comma", keywords: ["before the", "beyond the", "somewhere in", "above the", "as the", "at dawn,", "slowly,"] },
-              { point: "Includes a short sentence or minor sentence for impact", keywords: ["no traffic", "silence", "stillness", "nothing", "then", "only"] },
+              { point: "Includes a short sentence or minor sentence for impact", keywords: ["no traffic", "silence", "stillness", "nothing", "not a sound", "short sentence", "minor sentence"] },
               { point: "Includes personification", keywords: ["holding", "patient", "sleeping", "breathing", "whisper", "belong", "stretch", "yawn"] },
               { point: "Includes a non-visual sense (sound, smell, touch, taste)", keywords: ["call", "smell", "slap", "cool", "damp", "song", "rustle", "scent"] },
               { point: "Removes the tells and 'I could…' phrases from the original", keywords: ["koel", "apricot", "rain trees", "canopy", "path", "earth", "mist"] },

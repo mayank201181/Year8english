@@ -250,7 +250,7 @@ export const analyticalWriting: Topic = {
       text:
         "O, that this too too solid flesh would melt,\nThaw and resolve itself into a dew!\nOr that the Everlasting had not fix'd\nHis canon 'gainst self-slaughter! O God! God!\nHow weary, stale, flat and unprofitable,\nSeem to me all the uses of this world!\nFie on't! ah fie! 'tis an unweeded garden,\nThat grows to seed; things rank and gross in nature\nPossess it merely. That it should come to this!",
       note:
-        "Hamlet is alone after his mother has married his uncle Claudius barely two months after his father's death. the Everlasting = God; canon = law; self-slaughter = suicide; rank = foul-smelling, overgrown; merely = completely.",
+        "Hamlet is alone after his mother has married his uncle Claudius barely two months after his father's death. 'solid' is the First Folio (1623) reading; the 1604 Quarto has 'sallied', which many editors print as 'sullied' (stained). the Everlasting = God; canon = law; self-slaughter = suicide; rank = foul-smelling, overgrown; merely = completely.",
     },
   ],
 
@@ -1700,7 +1700,7 @@ export const analyticalWriting: Topic = {
           },
           {
             id: "anl-mcq-p4-q09",
-            extract: "There is nothing either good or bad, but thinking makes it so.\n(Hamlet, Act 2 Scene 2, just before he calls Denmark a prison)",
+            extract: "There is nothing either good or bad, but thinking makes it so.\n(Hamlet to Rosencrantz, Act 2 Scene 2, explaining why Denmark is a prison to him)",
             question: "What does this line most suggest about Hamlet?",
             options: [
               "He thinks everything in Denmark is good.",
@@ -1957,7 +1957,7 @@ export const analyticalWriting: Topic = {
               { point: "Links to his miserable waking life (enslaved by Prospero)", keywords: ["slave", "enslaved", "prospero", "miserable", "trapped", "suffering", "servant", "captive"] },
               { point: "Explains the effect on the audience: sympathy / challenges the monster view", keywords: ["sympath", "pity", "audience", "monster", "human", "vulnerable", "feel sorry"] },
             ],
-            commonError: "Taking 'cried' to mean he shouted out, and missing the sadness of waking up.",
+            commonError: "Explaining only what happens in the dream and missing the sadness of waking up: whether 'cried' means wept or begged aloud, waking is painful for him.",
             guideRef: "zooming-in",
           },
           {
@@ -2020,7 +2020,7 @@ export const analyticalWriting: Topic = {
               { point: "First interpretation (e.g. literal wealth, power, what he has lost)", keywords: ["wealth", "treasure", "gold", "money", "power", "lost", "status"] },
               { point: "Second interpretation (e.g. heavenly vision, freedom, grace, beauty)", keywords: ["heaven", "religious", "divine", "freedom", "grace", "paradise", "spiritual", "hope"] },
               { point: "Uses tentative language to signal interpretations", keywords: ["perhaps", "alternatively", "could", "might", "may", "on the other hand"] },
-              { point: "Judges which reading is more convincing, with a reason from the text", keywords: ["more convincing", "more persuasive", "stronger", "i find", "prefer", "because"] },
+              { point: "Judges which reading is more convincing, with a reason from the text", keywords: ["more convincing", "more persuasive", "stronger", "i find", "prefer", "most convincing"] },
             ],
             commonError: "Giving two readings but never deciding between them, or giving a second reading with no link to the words.",
             guideRef: "alternative-interpretations",
@@ -2028,7 +2028,7 @@ export const analyticalWriting: Topic = {
           {
             id: "anl-qa-p1-q09",
             question:
-              "The Tempest was first performed in 1611, as English ships were exploring and claiming land in the Americas. How might this context shape an audience's response to Caliban's speech?",
+              "The Tempest was written around 1610–11 and first recorded in performance in 1611, as English ships were exploring and claiming land in the Americas. How might this context shape an audience's response to Caliban's speech?",
             marks: 3,
             hint: "Who is the 'native' of the island, and who arrived and took control?",
             modelAnswer:
@@ -2070,7 +2070,7 @@ export const analyticalWriting: Topic = {
               { point: "Paragraph 1 topic with a relevant quotation", keywords: ["curse", "poisonous slave", "savage", "rebel", "thing of darkness", "monster"] },
               { point: "Paragraph 2 topic with a relevant quotation", keywords: ["island s mine", "island", "sycorax", "stolen", "native", "wronged"] },
               { point: "Paragraph 3 topic with a relevant quotation", keywords: ["sweet airs", "afeard", "dream", "noises", "poetic", "sensitive"] },
-              { point: "Paragraphs arranged in a logical order", keywords: ["paragraph 1", "first", "then", "finally", "order", "builds"] },
+              { point: "Paragraphs arranged in a logical order", keywords: ["paragraph 1", "firstly", "secondly", "finally", "order", "builds"] },
               { point: "Explains why the order works", keywords: ["obvious", "perceptive", "sympathetic", "develop", "chronolog", "build", "journey"] },
             ],
             commonError: "Listing three quotations in the order they appear without any controlling argument.",
@@ -2186,7 +2186,7 @@ export const analyticalWriting: Topic = {
             marks: 4,
             hint: "Embed the quotations, explain the sound and image, then link to the poem's message.",
             modelAnswer:
-              "The alliterative phrases 'boundless and bare' and 'lone and level' slow the final lines down with their soft, long sounds, making the desert seem to stretch on endlessly. The adjectives 'bare' and 'lone' evoke total emptiness, so nothing of the king's empire is left. This vast, silent landscape emphasises how small and temporary Ozymandias's power was compared with time.",
+              "The alliterative phrases 'boundless and bare' and 'lone and level' slow the final lines down, and the soft, liquid 'l' sounds and long vowels of 'lone and level' make the desert seem to stretch on endlessly. The adjectives 'bare' and 'lone' evoke total emptiness, so nothing of the king's empire is left. This vast, silent landscape emphasises how small and temporary Ozymandias's power was compared with time.",
             markScheme: [
               { point: "Embeds the quotations in a sentence", keywords: ["boundless and bare", "lone and level", "boundless", "level sands"] },
               { point: "Explains the effect of the sound (slow, soft, drawn out)", keywords: ["slow", "soft", "long", "drawn out", "calm", "smooth", "lingering"] },
@@ -2239,7 +2239,7 @@ export const analyticalWriting: Topic = {
               { point: "Explains 'mocked' as imitated/copied", keywords: ["imitated", "copied", "reproduced", "replicated", "carved", "captured"] },
               { point: "Explains 'mocked' as ridiculed/made fun of", keywords: ["ridicul", "made fun", "laughed", "scorn", "satir", "teased"] },
               { point: "Uses tentative language", keywords: ["perhaps", "alternatively", "could", "might", "may", "possibly"] },
-              { point: "Makes a judgement with a reason", keywords: ["more interesting", "more convincing", "i find", "prefer", "last laugh", "because"] },
+              { point: "Makes a judgement with a reason", keywords: ["more interesting", "more convincing", "i find", "prefer", "last laugh", "most interesting"] },
             ],
             commonError: "Choosing only one meaning and ignoring the double meaning the question points to.",
             guideRef: "alternative-interpretations",
@@ -2474,7 +2474,7 @@ export const analyticalWriting: Topic = {
               { point: "An arguable thesis that answers the question", keywords: ["presents", "portrays", "although", "yet", "in order to", "thesis"] },
               { point: "First topic sentence with a clear focus", keywords: ["greed", "greedy", "mean", "miser", "money", "grasping"] },
               { point: "Second topic sentence with a different focus", keywords: ["cold", "isolat", "solitary", "lonely", "frozen", "oyster"] },
-              { point: "Logical order / signposting between paragraphs", keywords: ["first", "building on", "then", "next", "secondly", "develop", "furthermore"] },
+              { point: "Logical order / signposting between paragraphs", keywords: ["first", "building on", "next", "secondly", "develop", "furthermore", "moving on"] },
             ],
             commonError: "Writing two topic sentences that make the same point in different words.",
             guideRef: "essay-structure-comparison",
@@ -2509,7 +2509,7 @@ export const analyticalWriting: Topic = {
           text:
             "O, that this too too solid flesh would melt,\nThaw and resolve itself into a dew!\nOr that the Everlasting had not fix'd\nHis canon 'gainst self-slaughter! O God! God!\nHow weary, stale, flat and unprofitable,\nSeem to me all the uses of this world!\nFie on't! ah fie! 'tis an unweeded garden,\nThat grows to seed; things rank and gross in nature\nPossess it merely. That it should come to this!",
           note:
-            "Hamlet is alone on stage. His father died less than two months ago and his mother has married his uncle Claudius, now king. the Everlasting = God; canon = law; self-slaughter = suicide; rank = foul and overgrown; merely = completely.",
+            "Hamlet is alone on stage. His father died less than two months ago and his mother has married his uncle Claudius, now king. 'solid' is the First Folio (1623) reading; the 1604 Quarto has 'sallied', often edited to 'sullied' (stained). the Everlasting = God; canon = law; self-slaughter = suicide; rank = foul and overgrown; merely = completely.",
         },
         questions: [
           {
@@ -2630,7 +2630,7 @@ export const analyticalWriting: Topic = {
               { point: "First possibility (e.g. the world / life in general)", keywords: ["world", "life", "everything", "existence", "humanity"] },
               { point: "Second possibility (e.g. Denmark, Claudius, Gertrude)", keywords: ["denmark", "claudius", "gertrude", "mother", "court", "state", "king"] },
               { point: "Uses tentative language", keywords: ["perhaps", "alternatively", "could", "might", "may", "possibly"] },
-              { point: "Judges which is most convincing with a reason", keywords: ["most convincing", "more convincing", "because", "i think", "persuasive", "strongest"] },
+              { point: "Judges which is most convincing with a reason", keywords: ["most convincing", "more convincing", "i find", "i think", "persuasive", "strongest"] },
             ],
             commonError: "Giving several readings with no evidence from the text and no final judgement.",
             guideRef: "alternative-interpretations",
@@ -2658,7 +2658,7 @@ export const analyticalWriting: Topic = {
             marks: 4,
             hint: "Open with a point covering both, then move between the texts with connectives.",
             modelAnswer:
-              "Both characters are outsiders in their worlds, yet they describe their surroundings in opposite ways. Caliban, though enslaved, finds his island full of 'sweet airs, that give delight and hurt not', a semantic field of pleasure that reveals his love for it. In contrast, Hamlet, a prince in his own court, calls Denmark 'an unweeded garden' where 'rank and gross' things grow. Whereas Caliban finds beauty despite his suffering, Hamlet finds only decay despite his privilege, suggesting that how we see the world depends on our inner state rather than our circumstances.",
+              "Both characters are outsiders in their worlds, yet they describe their surroundings in opposite ways. Caliban, though enslaved, finds his island full of 'sweet airs, that give delight and hurt not', a semantic field of pleasure that reveals his love for it. In contrast, Hamlet, a prince in his own court, calls the world 'an unweeded garden' where 'rank and gross' things grow. Whereas Caliban finds beauty despite his suffering, Hamlet finds only decay despite his privilege, suggesting that how we see the world depends on our inner state rather than our circumstances.",
             markScheme: [
               { point: "Opens with a comparative point covering both texts", keywords: ["both", "each", "while", "yet they", "outsiders", "opposite"] },
               { point: "Uses evidence from both texts", keywords: ["sweet airs", "delight", "unweeded", "rank and gross", "full of noises", "hurt not"] },

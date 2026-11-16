@@ -163,7 +163,7 @@ export const poetryWriting: Topic = {
           "The first version twists normal English ('we did go') and grabs a dull image ('in a row') purely to make a rhyme. That is FORCED RHYME: the rhyme is driving the poem instead of the meaning. The second version has no rhyme at all, yet it is more musical, because the sounds (stacked / small / suns) are chosen and the image is fresh.",
       },
       body:
-        "Poems are written for the ear as much as the eye. Always **read your draft aloud** — you will hear clumsy bits you cannot see.\n\n**Sound devices** (name them in your commentary, then explain the effect):\n- **Alliteration**: repeated consonant sounds at the start of nearby words. Tennyson's eagle 'clasps the crag with crooked hands' — the hard 'c' sounds are as gripping as the claws.\n- **Assonance**: repeated vowel sounds inside nearby words: 'the low moan of the old road' (long 'o' = slow, mournful).\n- **Consonance**: repeated consonant sounds inside or at the end of words: 'the clock's thick tick'.\n- **Sibilance**: repeated 's', 'sh' or soft 'c' sounds — soothing, secretive or sinister depending on context. Keats's 'Season of mists and mellow fruitfulness' combines sibilance with soft 'm' alliteration to create a drowsy, ripe warmth.\n- **Plosives**: hard 'b', 'p', 't', 'd', 'k', 'g' sounds that burst out of the mouth — useful for anger, violence or sudden action.\n- **Onomatopoeia**: words that imitate sounds: *hiss, click, clatter, drum*.\n\n**Rhythm** is the pattern of beats in a line. **Metre** is a *regular* rhythm. An **iamb** is one unstressed syllable followed by a stressed one (da-DUM). **Iambic pentameter** has five iambs per line — ten syllables, like a heartbeat: 'so LONG as MEN can BREATHE or EYES can SEE'. You do not need strict metre in free verse, but you should *notice* rhythm: short, stressed words slow a line down; many light syllables speed it up.\n\n**Rhyme**: a **full rhyme** matches the final vowel and consonant sounds exactly (*night / light*). A **half-rhyme** (or **slant rhyme**) nearly matches (*kept / slipped*, *home / gone*). **Internal rhyme** occurs within a line. A **rhyme scheme** is labelled with letters (ABAB).\n\n**Forced rhyme** is the most common reason student poems sound childish. Warning signs:\n- **Twisted word order** (inversion) to put the rhyme word last: *'Home I did come'*.\n- **Filler words** to make the beat fit: *'I do love my mother's food'*.\n- **The wrong word** chosen only because it rhymes: *'My grandmother is very wise / She always eats her apple pies'*.\n- **Predictable pairs**: heart/apart, love/above, fire/desire, day/away.\n\nFixes: use **half-rhyme**; move rhymes **inside** lines; let some lines **not rhyme**; or keep the meaning and find a new final word by rearranging the sentence. Rhyme should feel inevitable, never convenient.",
+        "Poems are written for the ear as much as the eye. Always **read your draft aloud** — you will hear clumsy bits you cannot see.\n\n**Sound devices** (name them in your commentary, then explain the effect):\n- **Alliteration**: repeated consonant sounds at the start of nearby words. Tennyson's eagle 'clasps the crag with crooked hands' — the hard 'c' sounds are as gripping as the claws.\n- **Assonance**: repeated vowel sounds inside nearby words: 'the low moan of the old road' (long 'o' = slow, mournful).\n- **Consonance**: repeated consonant sounds inside or at the end of words: 'the clock's thick tick'.\n- **Sibilance**: repeated 's', 'sh' or soft 'c' sounds — soothing, secretive or sinister depending on context. Keats's 'Season of mists and mellow fruitfulness' combines sibilance with soft 'm' alliteration to create a drowsy, ripe warmth.\n- **Plosives**: hard 'b', 'p', 't', 'd', 'k', 'g' sounds that burst out of the mouth — useful for anger, violence or sudden action.\n- **Onomatopoeia**: words that imitate sounds: *hiss, click, clatter, drum*.\n\n**Rhythm** is the pattern of beats in a line. **Metre** is a *regular* rhythm. An **iamb** is one unstressed syllable followed by a stressed one (da-DUM). **Iambic pentameter** has five iambs per line — ten syllables, like a heartbeat: 'so LONG as MEN can BREATHE or EYES can SEE'. You do not need strict metre in free verse, but you should *notice* rhythm: short, stressed words slow a line down; many light syllables speed it up.\n\n**Rhyme**: a **full rhyme** matches the final vowel and consonant sounds exactly (*night / light*). A **half-rhyme** (or **slant rhyme**) nearly matches (*kept / slipped*, *home / come*). **Internal rhyme** occurs within a line. A **rhyme scheme** is labelled with letters (ABAB).\n\n**Forced rhyme** is the most common reason student poems sound childish. Warning signs:\n- **Twisted word order** (inversion) to put the rhyme word last: *'Home I did come'*.\n- **Filler words** to make the beat fit: *'I do love my mother's food'*.\n- **The wrong word** chosen only because it rhymes: *'My grandmother is very wise / She always eats her apple pies'*.\n- **Predictable pairs**: heart/apart, love/above, fire/desire, day/away.\n\nFixes: use **half-rhyme**; move rhymes **inside** lines; let some lines **not rhyme**; or keep the meaning and find a new final word by rearranging the sentence. Rhyme should feel inevitable, never convenient.",
       diagram: `<svg viewBox="0 0 340 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Iambic pentameter shown as five da-DUM beats under a line from Sonnet 18"><rect x="0" y="0" width="340" height="150" fill="#fdf2f8"/><text x="170" y="20" font-size="12" text-anchor="middle" fill="#831843" font-weight="bold">Iambic pentameter: five da-DUM heartbeats</text><g font-size="12" text-anchor="middle"><text x="22" y="56" fill="#9d174d">so</text><text x="52" y="56" fill="#831843" font-weight="bold">LONG</text><text x="84" y="56" fill="#9d174d">as</text><text x="114" y="56" fill="#831843" font-weight="bold">MEN</text><text x="146" y="56" fill="#9d174d">can</text><text x="182" y="56" fill="#831843" font-weight="bold">BREATHE</text><text x="216" y="56" fill="#9d174d">or</text><text x="246" y="56" fill="#831843" font-weight="bold">EYES</text><text x="278" y="56" fill="#9d174d">can</text><text x="310" y="56" fill="#831843" font-weight="bold">SEE</text></g><g fill="#f9a8d4"><circle cx="22" cy="80" r="5"/><circle cx="84" cy="80" r="5"/><circle cx="146" cy="80" r="5"/><circle cx="216" cy="80" r="5"/><circle cx="278" cy="80" r="5"/></g><g fill="#be185d"><circle cx="52" cy="80" r="10"/><circle cx="114" cy="80" r="10"/><circle cx="182" cy="80" r="10"/><circle cx="246" cy="80" r="10"/><circle cx="310" cy="80" r="10"/></g><g stroke="#be185d" stroke-width="1.5"><line x1="10" y1="100" x2="66" y2="100"/><line x1="72" y1="100" x2="128" y2="100"/><line x1="134" y1="100" x2="198" y2="100"/><line x1="204" y1="100" x2="262" y2="100"/><line x1="268" y1="100" x2="328" y2="100"/></g><g font-size="11" text-anchor="middle" fill="#831843"><text x="38" y="116">iamb 1</text><text x="100" y="116">iamb 2</text><text x="166" y="116">iamb 3</text><text x="233" y="116">iamb 4</text><text x="298" y="116">iamb 5</text></g><text x="170" y="140" font-size="11" text-anchor="middle" fill="#831843">small dot = unstressed (da); big dot = stressed (DUM)</text></svg>`,
       diagramCaption:
         "Line 13 of Sonnet 18 tapped out as five iambs: ten syllables, five stresses.",
@@ -343,7 +343,7 @@ export const poetryWriting: Topic = {
       quote: "So long as men can breathe or eyes can see, / So long lives this, and this gives life to thee.",
       source: "William Shakespeare, Sonnet 18 (1609), lines 13–14",
       analysis:
-        "The rhyming couplet delivers the sonnet's final twist: 'this' (the poem) will keep the beloved alive forever. Anaphora ('So long… / So long') and perfect iambic pentameter make the ending sound certain and permanent.",
+        "The rhyming couplet delivers the sonnet's final twist: 'this' (the poem) will keep the beloved alive forever. Anaphora ('So long… / So long') and regular iambic pentameter make the ending sound certain and permanent.",
       themes: ["sonnet", "endings", "volta"],
     },
     {
@@ -587,7 +587,7 @@ export const poetryWriting: Topic = {
     { front: "Pantoum", back: "Form from the Malay pantun, in quatrains. Lines 2 and 4 of each stanza become lines 1 and 3 of the next; the poem often ends with its first line." },
     { front: "Dramatic monologue", back: "A poem spoken by one character (not necessarily the poet) to a silent listener, revealing their personality, e.g. Browning's 'My Last Duchess'." },
     { front: "Iambic pentameter", back: "A line of five iambs (da-DUM): ten syllables, five stresses. 'So LONG as MEN can BREATHE or EYES can SEE.'" },
-    { front: "Half-rhyme (slant rhyme)", back: "A near rhyme where sounds almost match, e.g. kept / slipped, home / gone. Sounds subtler and less forced than full rhyme." },
+    { front: "Half-rhyme (slant rhyme)", back: "A near rhyme where sounds almost match, e.g. kept / slipped, home / come. Sounds subtler and less forced than full rhyme." },
     { front: "Poetry commentary", back: "Analytical prose explaining your own poem's intentions, influences, form, techniques (quoted), redrafting and evaluation. Written in the first person." },
   ],
 
@@ -674,7 +674,7 @@ export const poetryWriting: Topic = {
         modelAnswer:
           "Rewrite: 'At lunch I learned which table was mine / by which one went quiet when I sat down.'\nExplanation: Instead of naming the feeling 'outsider', the rewrite gives a concrete moment — a table falling silent — so the reader experiences the rejection for themselves, and the line break after 'mine' sets up the painful twist.",
         markScheme: [
-          { point: "Removes the abstract 'told' feeling (no 'felt like an outsider')", keywords: ["table", "lunch", "quiet", "silent", "corridor", "alone", "locker", "bench"] },
+          { point: "Rewrite replaces the told feeling with a specific moment or setting (no 'felt like an outsider')", keywords: ["table", "lunch", "quiet", "silent", "corridor", "alone", "locker", "bench"] },
           { point: "Uses a specific concrete/sensory detail or action", keywords: ["concrete", "image", "detail", "object", "sound", "see", "sensory", "specific"] },
           { point: "Explains the effect: the reader feels it for themselves / shown not told", keywords: ["shows", "show", "reader feels", "instead of", "not tell", "experience", "picture", "rather than"] },
         ],
@@ -742,8 +742,8 @@ export const poetryWriting: Topic = {
           {
             id: "pwr-mcq-p1-q01",
             question: "Which of these is a concrete noun?",
-            options: ["loneliness", "belonging", "a cracked teacup", "freedom"],
-            answerIndex: 2,
+            options: ["a cracked teacup", "belonging", "loneliness", "freedom"],
+            answerIndex: 0,
             hint: "Could you pick it up or photograph it?",
             explanation: "A cracked teacup can be seen and touched, so it is concrete. Loneliness, belonging and freedom are abstract nouns: ideas or feelings you cannot perceive with your senses. 'Belonging' is tempting because it sounds like 'belongings', but here it means the feeling of fitting in.",
             guideRef: "concrete-imagery",
@@ -793,8 +793,8 @@ export const poetryWriting: Topic = {
           {
             id: "pwr-mcq-p1-q05",
             question: "A list poem begins every stanza with 'I am from…'. What is this repetition at the start of lines called?",
-            options: ["Epistrophe", "Anaphora", "Enjambment", "Caesura"],
-            answerIndex: 1,
+            options: ["Epistrophe", "Caesura", "Enjambment", "Anaphora"],
+            answerIndex: 3,
             hint: "It comes from Greek for 'carrying back' — repetition at the START.",
             explanation: "Anaphora is the repetition of a word or phrase at the start of successive lines or clauses. Epistrophe is the tempting distractor: it is repetition at the END of lines (as in a ghazal's radif).",
             guideRef: "choosing-form",
@@ -819,10 +819,10 @@ export const poetryWriting: Topic = {
             options: [
               "Write about your culture.",
               "Write about what identity means.",
-              "List ten things you can hear from your bed on a Sunday morning at home.",
               "Write about how you feel about belonging.",
+              "List ten things you can hear from your bed on a Sunday morning at home.",
             ],
-            answerIndex: 2,
+            answerIndex: 3,
             hint: "Which prompt forces you to notice real, sensory details?",
             explanation: "The listening prompt forces concrete, sensory detail (the sounds of home), which is the raw material of good poems. The other prompts invite abstract statements about culture, identity and belonging, which usually produce vague writing.",
             guideRef: "finding-ideas",
@@ -1002,8 +1002,8 @@ export const poetryWriting: Topic = {
           {
             id: "pwr-mcq-p2-q01",
             question: "How many lines does a sonnet have?",
-            options: ["12", "16", "14", "10"],
-            answerIndex: 2,
+            options: ["12", "16", "10", "14"],
+            answerIndex: 3,
             hint: "Count the lines of Sonnet 18.",
             explanation: "A sonnet has 14 lines. Ten is the number of syllables in a line of iambic pentameter, which is why 10 can be tempting.",
             guideRef: "traditional-forms",
@@ -1048,8 +1048,8 @@ export const poetryWriting: Topic = {
           {
             id: "pwr-mcq-p2-q05",
             question: "In English, what syllable pattern is usually used for a haiku?",
-            options: ["7-5-7", "5-5-5", "5-7-5", "3-5-3"],
-            answerIndex: 2,
+            options: ["5-7-5", "5-5-5", "7-5-7", "3-5-3"],
+            answerIndex: 0,
             hint: "Short, long, short.",
             explanation: "English haiku usually follow 5-7-5 syllables. Japanese haiku actually count sound units (on), so the English pattern is an approximation, but 5-7-5 is the standard school convention.",
             guideRef: "traditional-forms",
@@ -1204,12 +1204,12 @@ export const poetryWriting: Topic = {
             id: "pwr-mcq-p2-q17",
             question: "What is a dramatic monologue?",
             options: [
-              "A poem with two speakers arguing",
               "A poem spoken by a single character to a silent listener, revealing the speaker's personality",
+              "A poem with two speakers arguing",
               "A poem performed on stage with music",
               "A 14-line poem about love",
             ],
-            answerIndex: 1,
+            answerIndex: 0,
             hint: "'Mono' means one; the listener does not reply.",
             explanation: "A dramatic monologue has one speaker — often a character, not the poet — addressing a silent listener, and it reveals more about the speaker than they intend. Two speakers would be a dialogue poem.",
             guideRef: "choosing-form",
@@ -1397,10 +1397,10 @@ export const poetryWriting: Topic = {
             options: [
               "Harsh, violent anger",
               "A loud, chaotic atmosphere",
-              "A hushed, gentle, soothing atmosphere",
               "A fast, comic rhythm",
+              "A hushed, gentle, soothing atmosphere",
             ],
-            answerIndex: 2,
+            answerIndex: 3,
             hint: "Repeated soft 's' sounds — whispering or shouting?",
             explanation: "Combined with words like 'silence' and 'softest', the sibilance creates a hushed, gentle mood. Harsh anger is more typically created by plosives (b, p, t, d, k).",
             guideRef: "sound-and-rhyme",
@@ -1410,11 +1410,11 @@ export const poetryWriting: Topic = {
             question: "A line of iambic pentameter contains:",
             options: [
               "Five syllables",
-              "Five iambs: ten syllables, alternating unstressed and stressed",
-              "Five stanzas",
               "Five rhyming words",
+              "Five stanzas",
+              "Five iambs: ten syllables, alternating unstressed and stressed",
             ],
-            answerIndex: 1,
+            answerIndex: 3,
             hint: "'Penta' = five, and an iamb has two syllables.",
             explanation: "Iambic pentameter has five iambs (da-DUM) per line, which makes ten syllables. Five syllables is the first line of a haiku.",
             guideRef: "sound-and-rhyme",
@@ -1510,12 +1510,12 @@ export const poetryWriting: Topic = {
             extract: "Was Adlestrop—only the name\n\nAnd willows, willow-herb, and grass,",
             question: "The sentence runs on across the stanza break. What is the most convincing interpretation of this choice?",
             options: [
-              "Thomas forgot to put a full stop at the end of stanza two.",
-              "The stanza break shows that the train has left the station.",
               "The white space works like a held breath; then the bare 'name' on the sign opens out into a living landscape",
+              "The stanza break shows that the train has left the station.",
+              "Thomas forgot to put a full stop at the end of stanza two.",
               "It signals that a new speaker begins in stanza three.",
             ],
-            answerIndex: 2,
+            answerIndex: 0,
             hint: "What is 'only the name' — and what does the next stanza add to it?",
             explanation: "Running the sentence over a stanza break creates a long pause of stillness, after which the name on the sign blossoms into willows, grass and meadowsweet: the place becomes more than a name. The train has not left yet, and the speaker does not change.",
             guideRef: "line-breaks",
@@ -1600,7 +1600,7 @@ export const poetryWriting: Topic = {
             id: "pwr-mcq-p4-q06",
             question: "Which is the WEAKEST piece of commentary analysis?",
             options: [
-              "The caesura in 'I am from all of it. Ask me again' creates a pause in which the speaker seems to gather courage.",
+              "The end-stopped line 'I am from all of it.' creates a firm pause in which the speaker seems to gather courage.",
               "I used a simile because it makes the poem more interesting.",
               "The anaphora of 'I am from' gives the poem a chant-like rhythm, like a pledge of identity.",
               "Breaking the line after 'never' briefly makes the speaker's unsettledness sound permanent.",
@@ -1880,7 +1880,7 @@ export const poetryWriting: Topic = {
             modelAnswer:
               "I am from the clatter of mahjong tiles after midnight,\nfrom Auntie Mei's sandals slapping up the stairs,\nI am from a lunchbox that smelled of fish sauce\nand the boy who held his nose, then asked for some.",
             markScheme: [
-              { point: "Uses the 'I am from' frame / anaphora", keywords: ["i am from", "i'm from"] },
+              { point: "Uses the 'I am from' frame / anaphora", keywords: ["i am from", "i'm from", "anaphora", "repetition", "repeated"] },
               { point: "Includes a specific sound", keywords: ["clatter", "click", "hum", "slap", "ring", "drum", "hiss", "sound"] },
               { point: "Includes a specific object", keywords: ["lunchbox", "tiles", "sandals", "bangle", "passport", "key", "photo", "bowl"] },
               { point: "Includes a specific place or person (named or precise)", keywords: ["auntie", "uncle", "grandmother", "grandfather", "mum", "dad", "kitchen", "stairs"] },
@@ -2067,7 +2067,7 @@ export const poetryWriting: Topic = {
             modelAnswer:
               "A Shakespearean sonnet has 14 lines. It is usually written in iambic pentameter: five da-DUM beats and ten syllables per line. It rhymes ABAB CDCD EFEF GG, which divides it into three quatrains and a final rhyming couplet. It often contains a volta, or turn, frequently in the final couplet, which twists or resolves the argument, as in Sonnet 18 where the poem itself becomes what keeps the beloved alive.",
             markScheme: [
-              { point: "14 lines", keywords: ["14", "fourteen"] },
+              { point: "14 lines", keywords: ["14", "fourteen", "14-line", "fourteen-line"] },
               { point: "Iambic pentameter / ten syllables", keywords: ["iambic", "pentameter", "ten syllables", "10 syllables", "da-dum"] },
               { point: "Rhyme scheme ABAB CDCD EFEF GG / three quatrains + couplet", keywords: ["abab", "cdcd", "efef", "gg", "quatrain", "couplet"] },
               { point: "Volta / turn (often in the couplet)", keywords: ["volta", "turn", "shift", "twist", "change"] },

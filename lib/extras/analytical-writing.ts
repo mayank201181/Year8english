@@ -3,7 +3,7 @@ import type { TopicExtras } from "../types";
 // Engagement extras for Analytical Writing.
 export const analyticalWritingExtras: TopicExtras = {
   interactive: "peel-builder",
-  hook: "Shakespeare's Caliban says just three words, 'This island's mine', and audiences have been arguing about them ever since 1611. How can three words hold so much? By the end of this topic you will be able to write a whole paragraph about one of them.",
+  hook: "Three words spoken by Shakespeare's Caliban, 'This island's mine', have kept audiences arguing ever since 1611. How can three words hold so much? By the end of this topic you will be able to write a whole paragraph about one of them.",
   didYouKnow: [
     "The word 'analysis' comes from the Greek 'analusis', meaning 'a loosening' or 'undoing': analysing a text literally means untying it to see how it was put together.",
     "The word 'essay' comes from the French 'essayer', 'to try'. Michel de Montaigne called his famous collection 'Essais' (1580) because each one was an attempt to think something through.",

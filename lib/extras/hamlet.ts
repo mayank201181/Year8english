@@ -7,11 +7,11 @@ export const hamletExtras: TopicExtras = {
     "A prince is told by his father's ghost exactly who murdered him, and then waits almost the entire play before acting. Why would anyone hesitate when they know the truth, and could hesitating actually be the wise choice?",
   didYouKnow: [
     "Hamlet is Shakespeare's longest play, and Hamlet himself has around 1,500 lines, more than any other character Shakespeare wrote. An uncut performance can last about four hours.",
-    "The play survives in three different early versions (the 1603 First Quarto, the 1604–05 Second Quarto and the 1623 First Folio). In the First Quarto the famous line begins 'To be, or not to be, ay there's the point'.",
+    "The play survives in three different early versions (the 1603 First Quarto, the 1604–05 Second Quarto and the 1623 First Folio). In the First Quarto the famous line reads 'To be, or not to be, I there's the point' ('I' being the old spelling of 'ay').",
     "Shakespeare's only son was called Hamnet, a name that was interchangeable with 'Hamlet' at the time. Hamnet died in 1596, aged 11, a few years before the play was written, though nobody knows for certain whether the two are connected.",
     "Elsinore is a real place: Kronborg Castle in Helsingør, Denmark. Hamlet has been performed in its courtyard many times.",
     "The pianist André Tchaikowsky left his skull to the Royal Shakespeare Company to be used in Hamlet. David Tennant held it as Yorick's skull in some performances of the RSC's 2008 production.",
-    "Everyday phrases such as 'method in his madness', 'the lady doth protest too much', 'in my mind's eye' and 'to thine own self be true' all come from Hamlet.",
+    "Everyday phrases such as 'method in his madness', 'the lady doth protest too much', 'in my mind's eye' and 'to thine own self be true' all come from Hamlet, though some have been reshaped over time: Gertrude actually says 'The lady protests too much, methinks', and Polonius says 'Though this be madness, yet there is method in't'.",
   ],
   experiments: [
     {

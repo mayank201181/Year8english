@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { getTopic } from "@/lib/topics";
+import { metaById } from "@/lib/topics/_meta";
 import { TOPIC_META } from "@/lib/topics/_meta";
 import { lookup } from "@/lib/questionIndex";
 import type { Analytics, Profile } from "@/lib/profileTypes";
@@ -179,7 +179,7 @@ export default function ParentPage() {
                         const tacc = t.answered ? Math.round((t.correct / t.answered) * 100) : 0;
                         return (
                           <tr key={id} className="border-t border-slate-100">
-                            <td className="py-1.5 pr-3 font-medium text-slate-700">{getTopic(id)?.title ?? id}</td>
+                            <td className="py-1.5 pr-3 font-medium text-slate-700">{metaById(id)?.title ?? id}</td>
                             <td className="py-1.5 pr-3 tabular-nums text-slate-600">{fmtDuration(t.timeMs)}</td>
                             <td className="py-1.5 pr-3 tabular-nums text-slate-600">{t.answered}</td>
                             <td className="py-1.5 pr-3 tabular-nums text-slate-600">{t.answered ? `${tacc}%` : "—"}</td>
@@ -203,7 +203,7 @@ export default function ParentPage() {
                   <ul className="mt-2 space-y-1 text-sm text-slate-600">
                     {l.log.slice(0, 25).map((e, i) => (
                       <li key={i} className="flex justify-between gap-3 border-b border-slate-50 py-1">
-                        <span>{LOG_LABEL[e.type] ?? e.type}{e.topicId ? ` — ${getTopic(e.topicId)?.title ?? e.topicId}` : ""}{e.detail ? ` (${e.detail})` : ""}</span>
+                        <span>{LOG_LABEL[e.type] ?? e.type}{e.topicId ? ` — ${metaById(e.topicId)?.title ?? e.topicId}` : ""}{e.detail ? ` (${e.detail})` : ""}</span>
                         <span className="shrink-0 text-slate-400">{fmtDate(e.at)}</span>
                       </li>
                     ))}
@@ -222,7 +222,7 @@ export default function ParentPage() {
 function FocusAreas({ learner }: { learner: Learner }) {
   const weakest = Object.entries(learner.topics)
     .filter(([, t]) => t.answered >= 5)
-    .map(([id, t]) => ({ id, title: getTopic(id)?.title ?? id, answered: t.answered, acc: Math.round((t.correct / t.answered) * 100) }))
+    .map(([id, t]) => ({ id, title: metaById(id)?.title ?? id, answered: t.answered, acc: Math.round((t.correct / t.answered) * 100) }))
     .filter((t) => t.acc < 80)
     .sort((a, b) => a.acc - b.acc)
     .slice(0, 3);

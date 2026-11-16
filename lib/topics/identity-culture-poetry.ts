@@ -2586,7 +2586,7 @@ export const identityCulturePoetry: Topic = {
               "I’m from the hiss of the pressure cooker at six,\nfrom Paati’s ‘eat first, study later’,\nfrom a school bag heavy as a small country,\nfrom ‘lah’ and ‘aiyoh’ and ‘sorry, sorry’,\nfrom the gap where two languages hold hands.\n\nI chose to repeat ‘from’ at the start of each line so that, like the poem in this paper, my identity builds up as a list of small, specific things.",
             markScheme: [
               { point: "Uses anaphora or a refrain", keywords: ["from", "i am", "i'm", "where"] },
-              { point: "Uses a simile or metaphor", keywords: ["like a", "as if", "heavy as", "metaphor", "simile"] },
+              { point: "Uses a simile or metaphor", keywords: ["like", "as if", "heavy as", "metaphor", "simile"] },
               { point: "Includes a specific, concrete detail (sound, smell, object, phrase)", keywords: ["smell", "sound", "hiss", "kitchen", "bag", "lah", "paati", "grandmother"] },
               { point: "Explains a choice and its effect", keywords: ["i chose", "so that", "because", "in order to", "effect"] },
             ],

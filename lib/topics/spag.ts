@@ -342,7 +342,7 @@ export const spag: Topic = {
       quote: "The plan was simple: wait until dark, slip past the guard, and run.",
       source: "Original model sentence written for this app",
       analysis:
-        "A colon after a complete main clause delivers the 'simple plan' as a list of three imperative verb phrases. The rhythm speeds up towards the single-syllable 'run', mimicking the escape.",
+        "A colon after a complete main clause delivers the 'simple plan' as a list of three short verb phrases. The rhythm speeds up towards the single-syllable 'run', mimicking the escape.",
       themes: ["colon", "list of three", "pace"],
     },
     {
@@ -361,7 +361,7 @@ export const spag: Topic = {
       text:
         "The envelope lay on the kitchen table, exactly where Mum had left it before work, propped against the fruit bowl as if it were any ordinary letter. I circled it twice. Although I had told everyone I did not care about the results, my hands had been shaking since breakfast, and my tea had gone cold untouched. I picked it up. I put it down. Somewhere in the flat a clock ticked, louder than I had ever noticed, counting down to nothing. Then, before I could change my mind, I tore it open. Silence. Seven numbers stared up at me, and the first one was a nine.",
       annotations: [
-        "Opens with a long, detailed simple sentence to slow the pace and fix the envelope in the reader's mind.",
+        "Opens with a long, detailed complex sentence (its subordinate clauses 'where Mum had left it' and 'as if it were any ordinary letter' pile up detail) to slow the pace and fix the envelope in the reader's mind.",
         "Complex sentence ('Although I had told everyone...') reveals the gap between what the narrator says and feels.",
         "Paired short simple sentences ('I picked it up. I put it down.') mimic indecision through repetition and rhythm.",
         "The minor sentence 'Silence.' freezes time at the climax.",
@@ -845,7 +845,7 @@ export const spag: Topic = {
           {
             id: "spg-qa-p1-q05",
             extract: "Fog everywhere. Fog up the river, where it flows among green aits and meadows; fog down the river ...\n(Charles Dickens, Bleak House, 1853)",
-            question: "Explain how Dickens uses sentence structure in the opening words 'Fog everywhere.' to create atmosphere.",
+            question: "Explain how Dickens uses sentence structure in the words 'Fog everywhere.', from the first chapter of Bleak House, to create atmosphere.",
             marks: 4,
             hint: "What is missing from the sentence? What word is repeated next?",
             modelAnswer: "'Fog everywhere.' is a minor sentence with no main verb. Without a verb nothing moves or happens; the fog simply exists, which creates a stagnant, frozen atmosphere. The brevity makes the statement blunt and emphatic, as if there is nothing else to say about London except the fog. Dickens then repeats 'fog' at the start of the following phrases, so the word seems to spread across the page just as the fog spreads across the city, making it feel oppressive and inescapable.",
@@ -1031,7 +1031,7 @@ export const spag: Topic = {
             hint: "Can you replace the word with 'it is' or 'it has'?",
             modelAnswer: "It's been raining all day, and the garden has lost its colour. The first is 'It's' because it is short for 'It has' (It has been raining), so the apostrophe marks the missing letters. The second is 'its' because the colour belongs to the garden; possessive pronouns such as its, his and hers never take an apostrophe.",
             markScheme: [
-              { point: "First gap: It's = it has", keywords: ["it's been", "it’s been", "it has", "it is"] },
+              { point: "First gap: It's = it has", keywords: ["it's been", "it’s been", "it has", "short for it has", "it has been"] },
               { point: "Second gap: its (possessive)", keywords: ["its colour", "belongs", "possessive", "belonging"] },
               { point: "Explains apostrophe = omission; possessive pronouns take no apostrophe", keywords: ["missing letter", "omission", "contraction", "no apostrophe", "like his", "like hers"] },
             ],

@@ -4,7 +4,7 @@ import type { TopicExtras } from "../types";
 export const comprehensionExtras: TopicExtras = {
   interactive: "device-spotter",
   hook:
-    "Captain Oates's famous last words, 'I am just going outside and may be some time', survive in only one place on Earth: a pencilled journal found in a frozen tent. Everything we believe about that moment depends on how carefully we read eleven words.",
+    "Captain Oates's famous last words, 'I am just going outside and may be some time', survive in only one place on Earth: a pencilled journal found in a frozen tent. Everything we believe about that moment depends on how carefully we read ten words.",
   didYouKnow: [
     "Scott's journals were found with the bodies of Scott, Wilson and Bowers in November 1912, about eight months after the last entry. They are now kept at the British Library in London.",
     "Jack London wrote two versions of 'To Build a Fire'. In the 1902 version, written for young readers, the man survives with frostbite; in the far more famous 1908 version, he does not.",

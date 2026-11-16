@@ -354,7 +354,7 @@ export const spokenPoemAnalysis: Topic = {
     },
     {
       quote: "Better by far you should forget and smile / Than that you should remember and be sad.",
-      source: "Christina Rossetti, 'Remember', final couplet",
+      source: "Christina Rossetti, 'Remember', lines 13–14",
       analysis:
         "Antithesis balances 'forget and smile' against 'remember and be sad'. Ending on 'sad' leaves a lingering ache even as the speaker chooses her loved one's happiness over her own memory.",
       themes: ["love", "loss", "selflessness"],
@@ -394,7 +394,7 @@ export const spokenPoemAnalysis: Topic = {
       title: "Cue card (brief notes) for a talk on 'The Lake Isle of Innisfree'",
       task: "Prepare brief notes, not a script, for a 4-minute spoken analysis of Yeats's 'The Lake Isle of Innisfree'.",
       text:
-        "THESIS: longs for peace of nature → but stuck in grey city → Innisfree = place in the HEART, not just on a map\n\n1 LANGUAGE\n• 'bee-loud glade' → compound adj. → humming, alive, sound + sight\n• 'peace comes dropping slow' → peace like dew/rain → gentle, can't be rushed\n• 'midnight's all a glimmer, noon a purple glow' → magical light, dreamlike\n\n2 STRUCTURE\n• 'I will arise and go now' ×2 → determined (echo of prodigal son, Bible?)\n• SHIFT st.3: 'pavements grey' → he's in the CITY! contrast purple / grey\n• future tense 'will' → it's a dream, not real yet\n\n3 FORM\n• 3 quatrains, ABAB rhyme → steady, calm\n• long lines + short 4th line → like waves rolling in, then settling\n• 'lake water lapping with low sounds' → L alliteration = soft waves\n\nME: last line 'deep heart's core' — 3 heavy stresses → sincere. Made me think of a place I miss.\n\nEND: island real, but the peace he wants is inside him → longing > escape",
+        "THESIS: longs for peace of nature → but stuck in grey city → Innisfree = place in the HEART, not just on a map\n\n1 LANGUAGE\n• 'bee-loud glade' → compound adj. → humming, alive, sound + sight\n• 'peace comes dropping slow' → peace like dew/rain → gentle, can't be rushed\n• 'midnight's all a glimmer, and noon a purple glow' → magical light, dreamlike\n\n2 STRUCTURE\n• 'I will arise and go now' ×2 → determined (echo of prodigal son, Bible?)\n• SHIFT st.3: 'pavements grey' → he's in the CITY! contrast purple / grey\n• future tense 'will' → it's a dream, not real yet\n\n3 FORM\n• 3 quatrains, ABAB rhyme → steady, calm\n• long lines + short 4th line → like waves rolling in, then settling\n• 'lake water lapping with low sounds' → L alliteration = soft waves\n\nME: last line 'deep heart's core' — 3 heavy stresses → sincere. Made me think of a place I miss.\n\nEND: island real, but the peace he wants is inside him → longing > escape",
       annotations: [
         "Fits on one card: keywords, arrows and short quotations only, so the speaker has to look up and talk.",
         "Organised under the three points of the talk, each with two or three pieces of evidence to choose from.",
@@ -2434,7 +2434,7 @@ export const spokenPoemAnalysis: Topic = {
                 keywords: ["selfless", "unselfish", "softens", "gentle", "happiness", "generous"],
               },
             ],
-            commonError: "Placing the volta at the final couplet, as in a Shakespearean sonnet, rather than at line 9.",
+            commonError: "Placing the volta in the last two lines, as if this were a Shakespearean sonnet with a closing couplet, rather than at line 9.",
             guideRef: "spot-the-shift",
           },
           {
@@ -2625,7 +2625,7 @@ export const spokenPoemAnalysis: Topic = {
             marks: 6,
             hint: "Give reasons for and against, with evidence, then judge.",
             modelAnswer:
-              "I largely agree. The octave is moving, with its urgent repetition of 'Remember me' and the tender image of holding 'me by the hand', but it stays on one note: a plea. The sestet is more powerful because it surprises us. The volta at 'Yet' turns the poem around, and the harsh phrase 'darkness and corruption' suddenly confronts the reality of the grave, which makes her decision feel brave. The antithesis in the final couplet, 'forget and smile' against 'remember and be sad', is memorable and balanced. However, the sestet only works because of the octave: without that insistent pleading, the release would not feel like a sacrifice. So the sestet is more powerful, but its power is built by the octave — the two halves need each other.",
+              "I largely agree. The octave is moving, with its urgent repetition of 'Remember me' and the tender image of holding 'me by the hand', but it stays on one note: a plea. The sestet is more powerful because it surprises us. The volta at 'Yet' turns the poem around, and the harsh phrase 'darkness and corruption' suddenly confronts the reality of the grave, which makes her decision feel brave. The antithesis in the final two lines, 'forget and smile' against 'remember and be sad', is memorable and balanced. However, the sestet only works because of the octave: without that insistent pleading, the release would not feel like a sacrifice. So the sestet is more powerful, but its power is built by the octave — the two halves need each other.",
             markScheme: [
               {
                 point: "States a clear position",
@@ -3007,7 +3007,7 @@ export const spokenPoemAnalysis: Topic = {
             marks: 4,
             hint: "Stream vs desert. Then listen to the repeated 'd'.",
             modelAnswer:
-              "Tagore uses an extended metaphor: reason is a 'clear stream' that brings life, while unthinking tradition is a 'desert' that swallows it up. A stream drying into sand suggests that clear thinking can be lost if people simply follow 'dead habit'. The heavy alliteration of 'dreary desert… dead' creates a dull, thudding sound that makes habit feel lifeless, contrasting with the light, flowing 'clear stream'.",
+              "Tagore uses a vivid metaphor: reason is a 'clear stream' that brings life, while unthinking tradition is a 'desert' that swallows it up. A stream drying into sand suggests that clear thinking can be lost if people simply follow 'dead habit'. The heavy alliteration of 'dreary desert… dead' creates a dull, thudding sound that makes habit feel lifeless, contrasting with the light, flowing 'clear stream'.",
             markScheme: [
               { point: "Identifies the metaphor: reason as a stream", keywords: ["metaphor", "stream", "reason", "water", "river"] },
               { point: "Habit as a desert that swallows/dries it", keywords: ["desert", "sand", "dries", "swallow", "lost its way", "habit"] },

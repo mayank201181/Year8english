@@ -16,5 +16,5 @@ export default async function CertificatePage({ params }: { params: Promise<{ id
   const { id } = await params;
   const topic = getTopic(id);
   if (!topic) notFound();
-  return <Certificate topic={topic} />;
+  return <Certificate topic={{ id: topic.id, title: topic.title, icon: topic.icon, subject: topic.subject }} />;
 }
