@@ -11,7 +11,7 @@ export const theNovelExtras: TopicExtras = {
     "Dickens rewrote the ending of Great Expectations after the novelist Edward Bulwer-Lytton persuaded him that his original, sadder ending was too bleak. Readers still argue about which ending is better.",
     "Charlotte Brontë published Jane Eyre in 1847 under the male-sounding pen name ‘Currer Bell’; her sisters Emily and Anne became ‘Ellis’ and ‘Acton’ Bell.",
     "The word ‘scrooge’ is now in English dictionaries as a common noun meaning a miser: a fictional character became part of the language.",
-    "Robert Louis Stevenson is said to have written the first draft of Strange Case of Dr Jekyll and Mr Hyde in just a few days in 1886, and, according to family accounts, to have burned it and started again.",
+    "Robert Louis Stevenson is said to have written the first draft of Strange Case of Dr Jekyll and Mr Hyde in about three days in 1885 (it was published in January 1886). According to family accounts, he burned that draft after his wife Fanny criticised it, then rewrote the story from scratch.",
   ],
   experiments: [
     {
