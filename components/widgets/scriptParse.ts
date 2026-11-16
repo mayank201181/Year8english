@@ -41,13 +41,14 @@ const TENSE: Record<string, string> = {
   stamped: "stamps", paced: "paces", wandered: "wanders", collapsed: "collapses", exited: "exits",
 };
 
-const STOP = new Set(["The", "A", "An", "He", "She", "They", "It", "But", "And", "Then", "When", "I", "We", "You", "His", "Her", "Their", "There", "This", "That", "Everybody", "Over", "Somewhere", "Suddenly", "After", "As", "In", "On", "At", "Outside", "Inside"]);
+const STOP = new Set(["The", "A", "An", "He", "She", "They", "It", "But", "And", "Then", "When", "I", "We", "You", "His", "Her", "Their", "There", "This", "That", "Everybody", "Over", "Somewhere", "Suddenly", "After", "As", "In", "On", "At", "Outside", "Inside", "Mr", "Mrs", "Ms", "Miss", "Dr"]);
 const PRONOUNS = new Set(["he", "she", "they", "i"]);
 const V = Object.keys(SPEECH_VERBS).join("|");
 const QUOTE_RE = /[“"]([^”"]+)[”"]/g;
-const AFTER_VERB_NAME = new RegExp(`^\\s*,?\\s*(${V})\\s+(?:the\\s+)?([A-Z][a-z]+)`);
-const AFTER_NAME_VERB = new RegExp(`^\\s*,?\\s*(?:(?:the\\s+|The\\s+)?([A-Z][a-z]+)|(he|she|they|I))\\s+(${V})\\b`);
-const BEFORE_TAG = new RegExp(`(?:(?:the\\s+|The\\s+)?([A-Z][a-z]+)|(he|she|they|I|He|She|They))\\s+(${V})\\s*[,:]\\s*$`);
+const NM = "((?:Mr|Mrs|Ms|Miss|Dr)\\.? [A-Z][a-z]+|[A-Z][a-z]+)";
+const AFTER_VERB_NAME = new RegExp(`^\\s*,?\\s*(${V})\\s+(?:the\\s+)?${NM}`);
+const AFTER_NAME_VERB = new RegExp(`^\\s*,?\\s*(?:(?:the\\s+|The\\s+)?${NM}|(he|she|they|I))\\s+(${V})\\b`);
+const BEFORE_TAG = new RegExp(`(?:(?:the\\s+|The\\s+)?${NM}|(he|she|they|I|He|She|They))\\s+(${V})\\s*[,:]\\s*$`);
 
 function findNames(text: string): Set<string> {
   const outside = text.replace(QUOTE_RE, " ");
