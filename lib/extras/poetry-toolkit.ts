@@ -8,7 +8,7 @@ export const poetryToolkitExtras: TopicExtras = {
     "The word 'stanza' comes from Italian, where it means 'room' or 'stopping place', so a poem's stanzas are like the rooms of a house you walk through.",
     "Shakespeare's sonnets, all 154 of them, were published together in 1609. Almost all are written in iambic pentameter, the same da-DUM heartbeat he used for most of the verse in his plays.",
     "Emily Dickinson wrote nearly 1,800 poems, but only around ten were published in her lifetime. Her sister Lavinia discovered the rest after Emily's death in 1886.",
-    "William Blake did not just write 'The Tyger': he engraved, printed and hand-coloured the pages of Songs of Innocence and of Experience himself, so every original copy is slightly different.",
+    "William Blake did not just write 'The Tyger': he engraved and printed the pages of Songs of Innocence and of Experience himself, and he and his wife Catherine hand-coloured them, so every original copy is slightly different.",
     "Wordsworth's 'Daffodils' grew from a real walk in April 1802. His sister Dorothy described the same daffodils in her journal, writing that they 'danced' and seemed as if they 'laughed with the wind', two years before he wrote the poem.",
     "'Volta' is the Italian word for 'turn'. It comes from the Petrarchan sonnet, named after the 14th-century Italian poet Francesco Petrarca (Petrarch), who made the form famous.",
   ],

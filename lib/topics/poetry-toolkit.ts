@@ -64,7 +64,7 @@ export const poetryToolkit: Topic = {
       id: "sound",
       heading: "Sound: poems are made to be heard",
       body:
-        "Poetry began as something spoken and sung, so poets choose words for their **sound** as well as their meaning. Always read a poem aloud (or mouth it silently in an exam) before you analyse it.\n\n- **Alliteration**: the same consonant sound at the start of nearby words. 'He clasps the crag with crooked hands' (Tennyson): the hard 'c/k' sounds make the eagle's grip feel tight and rough.\n- **Sibilance**: repeated 's', 'sh' or soft 'c' sounds. 'The shrill, demented choirs of wailing shells' (Owen) hisses like shells flying through the air. Sibilance can be soothing (a whisper, the sea) or sinister (a snake, a threat), so always say which.\n- **Assonance**: repeated **vowel** sounds inside nearby words. 'Alone, alone, all, all alone, / Alone on a wide wide sea!' (Coleridge): the long, moaning 'o' sounds stretch out the mariner's loneliness.\n- **Consonance**: repeated consonant sounds in the middle or at the end of words, e.g. 'black, cracked rocks', where the 'k' sounds click like breaking stone.\n- **Onomatopoeia**: a word that imitates the sound it describes: 'rattle', 'patter', 'hiss', 'smack'.\n- **Plosives**: the 'explosive' consonants **p, b, t, d, k, g**, made by stopping air and releasing it suddenly. 'Bent double, like old beggars under sacks' (Owen): the heavy 'b' and 'k' sounds feel like exhausted, stumbling steps.\n\nOwen's line 'Only the stuttering rifles' rapid rattle' combines nearly everything: alliteration ('rifles' rapid rattle'), onomatopoeia ('rattle', 'stuttering'), and harsh 't' plosives that imitate machine-gun fire. Notice that you can *hear* the meaning.\n\nThe key skill is to say **what the sound does**: Is it harsh or soft? Fast or slow? Does it imitate something? Does it slow the reader down or speed them up?",
+        "Poetry began as something spoken and sung, so poets choose words for their **sound** as well as their meaning. Always read a poem aloud (or mouth it silently in an exam) before you analyse it.\n\n- **Alliteration**: the same consonant sound at the start of nearby words. 'He clasps the crag with crooked hands' (Tennyson): the hard 'c/k' sounds make the eagle's grip feel tight and rough.\n- **Sibilance**: repeated 's', 'sh' or soft 'c' sounds. 'The shrill, demented choirs of wailing shells' (Owen) hisses like shells flying through the air. Sibilance can be soothing (a whisper, the sea) or sinister (a snake, a threat), so always say which.\n- **Assonance**: repeated **vowel** sounds inside nearby words, even when the consonants around them differ. 'Hear the mellow wedding bells' (Edgar Allan Poe): the same short 'e' sound rings through 'mellow', 'wedding' and 'bells', chiming like the bells themselves. (Repeating the *same word*, as in Coleridge's 'Alone, alone, all, all alone', is best called **repetition**, not assonance.)\n- **Consonance**: repeated consonant sounds in the middle or at the end of words, e.g. 'black, cracked rocks', where the 'k' sounds click like breaking stone.\n- **Onomatopoeia**: a word that imitates the sound it describes: 'rattle', 'patter', 'hiss', 'smack'.\n- **Plosives**: the 'explosive' consonants **p, b, t, d, k, g**, made by stopping air and releasing it suddenly. 'Bent double, like old beggars under sacks' (Owen): the heavy 'b' and 'k' sounds feel like exhausted, stumbling steps.\n\nOwen's line 'Only the stuttering rifles' rapid rattle' combines nearly everything: alliteration ('rifles' rapid rattle'), onomatopoeia ('rattle', 'stuttering'), and harsh 't' plosives that imitate machine-gun fire. Notice that you can *hear* the meaning.\n\nThe key skill is to say **what the sound does**: Is it harsh or soft? Fast or slow? Does it imitate something? Does it slow the reader down or speed them up?",
       keyPoints: [
         "Alliteration = first sounds; assonance = vowel sounds; consonance = consonant sounds within or at the end of words.",
         "Sibilance can be gentle or menacing: always say which and why.",
@@ -105,7 +105,7 @@ export const poetryToolkit: Topic = {
       id: "rhyme",
       heading: "Rhyme: echoes that bind a poem together",
       body:
-        "**Rhyme** is the repetition of the same end sound in two or more words (night / bright). Rhyme makes a poem musical and memorable, links ideas together, and creates a sense of order or completion.\n\n- **Full rhyme** (perfect rhyme): the vowel and final consonant sounds match exactly: 'cloud / crowd', 'trees / breeze' (Wordsworth).\n- **Half rhyme** (also called **slant rhyme** or near rhyme): the sounds are close but not identical: 'soul / all' (Dickinson). Half rhyme can feel unsettled, uneasy or quietly unfinished, as though something does not quite fit.\n- **Internal rhyme**: a rhyme *within* a line: 'The fair breeze blew, the white foam flew' (Coleridge). It speeds the line up and makes it ring.\n- **Eye rhyme**: words that look as if they rhyme but do not sound alike: 'love / move'.\n- A **rhyming couplet** is two consecutive lines that rhyme, often used to give a neat, final-sounding ending.\n\nWe describe a **rhyme scheme** with letters. Give the first end sound **A**, the next new sound **B**, and so on; when a sound returns, reuse its letter. Wordsworth's 'Daffodils' stanzas are **ABABCC**: cloud (A), hills (B), crowd (A), daffodils (B), trees (C), breeze (C). Each stanza ends on a rhyming couplet, like a satisfied sigh.\n\nAsk: *Is the rhyme regular or broken? Full or half? Does a rhyme link two words whose meanings connect or clash?* In Rossetti's 'Remember', 'grieve' rhymes with 'leave': the sound joins the grief to the departure that causes it.",
+        "**Rhyme** is the repetition of the same end sound in two or more words (night / bright). Rhyme makes a poem musical and memorable, links ideas together, and creates a sense of order or completion.\n\n- **Full rhyme** (perfect rhyme): the vowel and final consonant sounds match exactly: 'cloud / crowd', 'trees / breeze' (Wordsworth).\n- **Half rhyme** (also called **slant rhyme** or near rhyme): the sounds are close but not identical: 'soul / all' (Dickinson). Half rhyme can feel unsettled, uneasy or quietly unfinished, as though something does not quite fit.\n- **Internal rhyme**: a rhyme *within* a line: 'The fair breeze blew, the white foam flew' (Coleridge). It speeds the line up and makes it ring.\n- **Eye rhyme**: words that look as if they rhyme but do not sound alike: 'love / move'.\n- **Be careful with older poems**: pronunciation changes over time. Blake's 'eye / symmetry' sounds like a near miss today, but it was probably a full rhyme in his time, so some readers call it an eye rhyme or a historical rhyme rather than a half rhyme. Say what you hear and why it matters, rather than forcing one label.\n- A **rhyming couplet** is two consecutive lines that rhyme, often used to give a neat, final-sounding ending.\n\nWe describe a **rhyme scheme** with letters. Give the first end sound **A**, the next new sound **B**, and so on; when a sound returns, reuse its letter. Wordsworth's 'Daffodils' stanzas are **ABABCC**: cloud (A), hills (B), crowd (A), daffodils (B), trees (C), breeze (C). Each stanza ends on a rhyming couplet, like a satisfied sigh.\n\nAsk: *Is the rhyme regular or broken? Full or half? Does a rhyme link two words whose meanings connect or clash?* In Rossetti's 'Remember', 'grieve' rhymes with 'leave': the sound joins the grief to the departure that causes it.",
       diagram:
         '<svg viewBox="0 0 420 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rhyme scheme letters for the octave of Remember by Christina Rossetti: A B B A A B B A"><text x="210" y="18" font-size="13" font-weight="bold" text-anchor="middle" fill="#1f2937">Labelling a rhyme scheme: Rossetti, Remember (lines 1 to 8)</text><g font-size="12"><text x="20" y="45" fill="#334155">1  ...when I am gone</text><text x="200" y="45" fill="#b91c1c" font-weight="bold">away</text><text x="20" y="69" fill="#334155">2  ...into the silent</text><text x="200" y="69" fill="#1d4ed8" font-weight="bold">land</text><text x="20" y="93" fill="#334155">3  ...hold me by the</text><text x="200" y="93" fill="#1d4ed8" font-weight="bold">hand</text><text x="20" y="117" fill="#334155">4  ...yet turning</text><text x="200" y="117" fill="#b91c1c" font-weight="bold">stay</text><text x="20" y="141" fill="#334155">5  ...no more day by</text><text x="200" y="141" fill="#b91c1c" font-weight="bold">day</text><text x="20" y="165" fill="#334155">6  ...future that you</text><text x="200" y="165" fill="#1d4ed8" font-weight="bold">planned</text><text x="20" y="189" fill="#334155">7  ...me; you</text><text x="200" y="189" fill="#1d4ed8" font-weight="bold">understand</text><text x="20" y="213" fill="#334155">8  ...to counsel then or</text><text x="200" y="213" fill="#b91c1c" font-weight="bold">pray</text></g><g font-size="15" font-weight="bold" text-anchor="middle"><circle cx="330" cy="41" r="11" fill="#fee2e2"/><text x="330" y="46" fill="#b91c1c">A</text><circle cx="330" cy="65" r="11" fill="#dbeafe"/><text x="330" y="70" fill="#1d4ed8">B</text><circle cx="330" cy="89" r="11" fill="#dbeafe"/><text x="330" y="94" fill="#1d4ed8">B</text><circle cx="330" cy="113" r="11" fill="#fee2e2"/><text x="330" y="118" fill="#b91c1c">A</text><circle cx="330" cy="137" r="11" fill="#fee2e2"/><text x="330" y="142" fill="#b91c1c">A</text><circle cx="330" cy="161" r="11" fill="#dbeafe"/><text x="330" y="166" fill="#1d4ed8">B</text><circle cx="330" cy="185" r="11" fill="#dbeafe"/><text x="330" y="190" fill="#1d4ed8">B</text><circle cx="330" cy="209" r="11" fill="#fee2e2"/><text x="330" y="214" fill="#b91c1c">A</text></g><text x="385" y="130" font-size="12" text-anchor="middle" fill="#475569">ABBA</text><text x="385" y="146" font-size="12" text-anchor="middle" fill="#475569">ABBA</text></svg>',
       diagramCaption: "First new end sound = A, next new sound = B. Rossetti's octave rhymes ABBA ABBA, the classic Petrarchan pattern.",
@@ -282,7 +282,7 @@ export const poetryToolkit: Topic = {
     },
     {
       quote: "Better by far you should forget and smile / Than that you should remember and be sad.",
-      source: "Christina Rossetti, Remember, final couplet of the sestet",
+      source: "Christina Rossetti, Remember, lines 13 to 14 (the final two lines)",
       analysis:
         "Antithesis (forget / remember, smile / sad) completes the volta: the speaker who began by begging to be remembered now gives permission to be forgotten. The balanced lines sound calm and resolved, presenting love as selfless.",
       themes: ["love", "death", "memory", "volta"],
@@ -310,7 +310,7 @@ export const poetryToolkit: Topic = {
     },
     {
       quote: "Water, water, every where, / Nor any drop to drink.",
-      source: "Samuel Taylor Coleridge, The Rime of the Ancient Mariner (1798)",
+      source: "Samuel Taylor Coleridge, The Rime of the Ancient Mariner (1798; wording of the revised 1817 text)",
       analysis:
         "Repetition of 'water' and the irony of thirst in an ocean capture torment. The ballad rhythm makes the lines unforgettable, which is why they became a proverb.",
       themes: ["suffering", "irony", "ballad"],
@@ -522,7 +522,7 @@ export const poetryToolkit: Topic = {
     { front: "Pathetic fallacy", back: "Weather or nature reflecting human feelings, e.g. 'The sedge has withered from the lake, / And no birds sing' (Keats)." },
     { front: "Semantic field", back: "A group of words from the same area of meaning, e.g. hammer, chain, furnace, anvil (blacksmithing) in 'The Tyger'." },
     { front: "Sibilance", back: "Repeated 's', 'sh' or soft 'c' sounds, which can be soothing or sinister, e.g. 'shrill, demented choirs of wailing shells' (Owen)." },
-    { front: "Assonance vs consonance", back: "Assonance repeats vowel sounds (alone, alone... wide wide sea); consonance repeats consonant sounds within or at the end of words (black, cracked rocks)." },
+    { front: "Assonance vs consonance", back: "Assonance repeats vowel sounds inside nearby words (mellow wedding bells); consonance repeats consonant sounds within or at the end of words (black, cracked rocks)." },
     { front: "Plosives", back: "The 'explosive' consonants p, b, t, d, k, g. They create harsh, violent or abrupt effects." },
     { front: "Iamb / trochee", back: "Iamb = da-DUM (a-WAY), natural and heartbeat-like. Trochee = DUM-da (TI-ger), forceful and chant-like." },
     { front: "Iambic pentameter", back: "Five iambs per line, ten syllables: 'Shall I compare thee to a summer's day?'" },
@@ -734,17 +734,17 @@ export const poetryToolkit: Topic = {
             answerIndex: 1,
             hint: "Look at bright / night, then eye / symmetry.",
             explanation:
-              "Each stanza is two rhyming couplets: bright / night (AA), eye / symmetry (BB). ABAB is tempting if you assume alternate rhyme, but here the rhymes come in neighbouring pairs.",
+              "Each stanza is two rhyming couplets: bright / night (AA), eye / symmetry (BB, a pair that probably rhymed fully in Blake's pronunciation). ABAB is tempting if you assume alternate rhyme, but here the rhymes come in neighbouring pairs.",
             guideRef: "rhyme",
           },
           {
             id: "ptk-mcq-p1-q03",
-            question: "To a modern ear, 'eye' and 'symmetry' do not quite match. What kind of rhyme is this?",
+            question: "'bright' and 'night' (lines 1 and 2) share exactly the same vowel and final consonant sound. What kind of rhyme is this?",
             options: ["Internal rhyme", "Full rhyme", "Half (slant) rhyme", "Onomatopoeia"],
-            answerIndex: 2,
-            hint: "The sounds are close but not exact.",
+            answerIndex: 1,
+            hint: "Say the two words aloud: is the match exact or only close?",
             explanation:
-              "When sounds nearly but not exactly match, it is half (slant) rhyme. It is not full rhyme, which needs an exact match; it may have sounded closer in Blake's day. Internal rhyme happens within a single line.",
+              "An exact match of vowel and final sound at the ends of lines is full (perfect) rhyme. Half rhyme is the tempting distractor, but it needs sounds that are close and NOT identical, which 'bright / night' are not. Internal rhyme happens within a single line. (By contrast, 'eye / symmetry' sounds like a near miss today but was probably a full rhyme in Blake's time, so it is not a safe example of either term.)",
             guideRef: "rhyme",
           },
           {
@@ -809,7 +809,7 @@ export const poetryToolkit: Topic = {
             answerIndex: 3,
             hint: "Count the question marks.",
             explanation:
-              "Almost every line asks a question that is never answered, creating awe and mystery. Simile is tempting as a common technique, but there is no 'like' or 'as' comparison in the poem.",
+              "The poem is built almost entirely from questions that are never answered, creating awe and mystery. Simile is tempting as a common technique, but there is no 'like' or 'as' comparison in the poem.",
             guideRef: "technique-and-effect",
           },
           {
@@ -898,13 +898,13 @@ export const poetryToolkit: Topic = {
           },
           {
             id: "ptk-mcq-p1-q16",
-            extract: "Alone, alone, all, all alone,\nAlone on a wide wide sea!\n(Samuel Taylor Coleridge, The Rime of the Ancient Mariner)",
-            question: "The long, repeated 'o' sounds in 'alone' are an example of...",
+            extract: "Hear the mellow wedding bells\n(Edgar Allan Poe, The Bells, 1849)",
+            question: "The same short 'e' vowel sound repeated in 'mellow', 'wedding' and 'bells' is an example of...",
             options: ["consonance", "sibilance", "plosives", "assonance"],
             answerIndex: 3,
             hint: "Is the repeated sound a vowel or a consonant?",
             explanation:
-              "Repeated vowel sounds are assonance; here the long, moaning 'o' stretches out the mariner's isolation. Consonance is the tempting wrong answer, but it repeats consonant sounds, not vowels.",
+              "A vowel sound repeated inside nearby words, with different consonants around it, is assonance; here the ringing 'e' chimes like the bells. Consonance is the tempting wrong answer (there are repeated 'l' sounds too), but the question asks about the vowel, and consonance repeats consonant sounds.",
             guideRef: "sound",
           },
           {
@@ -1790,7 +1790,7 @@ export const poetryToolkit: Topic = {
               "Onomatopoeia: 'tik, tik, tik' (also 'smack' and 'snaps') imitates the sound of raindrops hitting the ground. Alliteration: 'first fat drops' repeats the 'f' sound.",
             markScheme: [
               { point: "Identifies onomatopoeia with a valid quotation", keywords: ["onomatopoeia", "tik", "smack", "snaps", "sound of the rain"] },
-              { point: "Identifies alliteration (or another valid device) with a valid quotation", keywords: ["alliteration", "first fat", "plosive", "sibilance", "shout the", "sky"] },
+              { point: "Identifies alliteration (or another valid device) with a valid quotation", keywords: ["alliteration", "first fat", "fat drops", "f sound", "plosive", "sibilance"] },
             ],
             commonError: "Naming two devices but giving no quotation, or quoting from stanza 2 when the question asks about stanza 1.",
             guideRef: "sound",
@@ -1895,7 +1895,7 @@ export const poetryToolkit: Topic = {
               "The line breaks after 'only' with no punctuation, so the sentence runs on into the final line. This creates a brief moment of suspense: 'only' makes us wonder what the storm could be 'only' compared to. The answer, 'an old friend, arriving late', is a gentle surprise that completes the transformation of the storm from threat to companion, and the comma before 'arriving late' slows the ending to a calm close.",
             markScheme: [
               { point: "Identifies that the sentence runs over the line break", keywords: ["enjambment", "runs on", "runs over", "no punctuation", "line break", "continues"] },
-              { point: "Explains the suspense or emphasis created by breaking after 'only'", keywords: ["suspense", "only", "wonder", "anticipation", "pause", "delay"] },
+              { point: "Explains the suspense or emphasis created by breaking after 'only'", keywords: ["suspense", "after only", "wonder", "anticipation", "pause", "delay", "expect"] },
               { point: "Explains the effect of the final image or the slow ending", keywords: ["old friend", "surprise", "gentle", "calm", "slow", "arriving late", "companion"] },
             ],
             commonError: "Defining enjambment correctly but not explaining what this particular line break achieves.",
@@ -2075,7 +2075,7 @@ export const poetryToolkit: Topic = {
             modelAnswer:
               "The first three stanzas are in the past tense ('wandered', 'saw', 'gazed'), but the last stanza shifts into the present tense ('lie', 'flash', 'fills'), showing the memory repeating in his life now. The focus moves from the outside world to the speaker's mind: the 'inward eye' is a metaphor for memory and imagination. This reveals the poem's real subject, that nature's beauty is stored up and can return to comfort us, and the final image of his heart that 'dances with the daffodils' echoes the dancing flowers, closing the poem neatly.",
             markScheme: [
-              { point: "Identifies the shift from past to present tense", keywords: ["present tense", "past tense", "tense", "now", "oft"] },
+              { point: "Identifies the shift from past to present tense", keywords: ["present tense", "past tense", "tense", "the present", "oft", "lie"] },
               { point: "Explains the 'inward eye' as memory or imagination", keywords: ["inward eye", "memory", "imagination", "mind", "remember"] },
               { point: "Explains the shift of focus from outside nature to inner feelings", keywords: ["inner", "inside", "reflect", "mind", "focus", "external", "internal"] },
               { point: "Comments on the ending's echo of dancing or its effect", keywords: ["dances with the daffodils", "dance", "echo", "heart", "pleasure", "circular", "joy"] },
@@ -2241,7 +2241,7 @@ export const poetryToolkit: Topic = {
             modelAnswer:
               "'But' is a volta that shifts the setting from school to home. At school the name is snapped 'short', but at home the grandmother 'says it whole and slow'. 'Whole' suggests the name is complete and respected, while 'slow' shows care and patience. The contrast reveals two worlds: one where the speaker's identity is broken, and one where it is honoured.",
             markScheme: [
-              { point: "Identifies 'But' as a volta or turn", keywords: ["volta", "turn", "shift", "contrast", "but"] },
+              { point: "Identifies 'But' as a volta or turn", keywords: ["volta", "turn", "shift", "contrast", "but home"] },
               { point: "Identifies the move from school to home", keywords: ["school", "home", "setting", "grandmother", "place"] },
               { point: "Analyses 'whole' and/or 'slow'", keywords: ["whole", "slow", "complete", "care", "patience", "respect"] },
               { point: "Explains the wider meaning (two worlds, identity honoured vs broken)", keywords: ["identity", "two worlds", "belong", "honour", "respected", "culture", "valued"] },
@@ -2333,7 +2333,7 @@ export const poetryToolkit: Topic = {
             modelAnswer:
               "The speaker's attitude changes from quiet shame to proud ownership. Early in the poem she admits, 'I flinch and answer to the break', where the verb 'flinch' suggests a physical wince, as if each mispronunciation were a blow, and 'the break' reminds us the name has been damaged. By the end, however, she says it 'loud, in full', and the adverbial phrase 'in full' directly reverses the 'snap it short' of stanza 1. The extended metaphor of 'stepping stone[s]' shows that her name has become a way forward rather than a source of pain. This change suggests that identity, once claimed, can carry us across even the hardest divides.",
             markScheme: [
-              { point: "Makes a clear point about the change", keywords: ["shame", "pride", "proud", "change", "from", "confidence"] },
+              { point: "Makes a clear point about the change", keywords: ["shame", "pride", "proud", "change", "ownership", "confidence"] },
               { point: "Embeds evidence from early in the poem", keywords: ["flinch", "break", "let them", "snap", "bend"] },
               { point: "Embeds evidence from late in the poem", keywords: ["loud", "in full", "stepping stone", "country of my own", "so now"] },
               { point: "Analyses a specific word's connotations", keywords: ["suggests", "connotation", "implies", "verb", "wince", "reverses"] },
@@ -2351,7 +2351,7 @@ export const poetryToolkit: Topic = {
             modelAnswer:
               "Both poems turn before their endings: 'The Name I Carry' at 'But home', and 'Remember' at 'Yet'. In each case the turn leads to a resolution. Rossetti's speaker resolves her fear of being forgotten by letting go: 'Better by far you should forget and smile', where the antithesis of 'forget' and 'remember' presents forgetting as an act of love. In contrast, the speaker of 'The Name I Carry' resolves her pain by holding on more firmly, saying her grandmother's name 'loud, in full'. Both endings are calm and controlled: Rossetti's balanced iambic pentameter and the modern poem's steady rhymes ('stone / own') create a sense of peace. However, the meaning of what is passed on differs: Rossetti hopes only a 'vestige' of her thoughts survives, while the name is passed on whole. One poem accepts that memory fades; the other insists that heritage can be kept alive.",
             markScheme: [
-              { point: "Identifies the turn or volta in both poems", keywords: ["volta", "turn", "yet", "but", "shift"] },
+              { point: "Identifies the turn or volta in both poems", keywords: ["volta", "turn", "yet if", "but home", "shift"] },
               { point: "Analyses Rossetti's resolution (letting go, forget and smile)", keywords: ["forget and smile", "let go", "letting go", "selfless", "antithesis", "release"] },
               { point: "Analyses the modern speaker's resolution (holding on, saying the name)", keywords: ["loud", "in full", "hold on", "claim", "pride", "stepping stone"] },
               { point: "Compares tone or form of the endings", keywords: ["calm", "controlled", "peace", "rhyme", "pentameter", "tone", "resolved"] },
@@ -2450,7 +2450,7 @@ export const poetryToolkit: Topic = {
           },
           {
             id: "ptk-qa-p4-q06",
-            extract: "That's my last Duchess painted on the wall,\nLooking as if she were alive. I call\nThat piece a wonder, now; Frà Pandolf's hands\nWorked busily a day, and there she stands.\n(Robert Browning, My Last Duchess, 1842)",
+            extract: "That's my last Duchess painted on the wall,\nLooking as if she were alive. I call\nThat piece a wonder, now: Frà Pandolf's hands\nWorked busily a day, and there she stands.\n(Robert Browning, My Last Duchess, 1842)",
             question: "Using these lines, explain two features of a dramatic monologue and what we begin to learn about the speaker.",
             marks: 3,
             hint: "Who is speaking? To whom? What does 'my last Duchess' hint at?",
@@ -2555,8 +2555,8 @@ export const poetryToolkit: Topic = {
               "I strongly disagree, because in the best poems form and structure ARE part of the meaning. In Rossetti's 'Remember', the Petrarchan volta at 'Yet' does more than decorate: the speaker's change of heart happens exactly where the form turns, so the reader experiences her shift from pleading to selfless release. Similarly, the cyclical structure of Blake's 'The Tyger' returns to its first stanza with one change, 'Could' becoming 'Dare', showing how the speaker's awe has deepened without the mystery being solved. The trochaic rhythm that hammers through the poem also enacts the forge imagery. On the other hand, free verse poems such as Whitman's 'Song of Myself' show that a poem need not follow a strict form to be powerful, and a reader who knew nothing about sonnets could still be moved by Rossetti's words. However, even free verse uses line breaks and pauses deliberately. Overall, meaning and form cannot be separated: form is the way a poem makes us feel its meaning.",
             markScheme: [
               { point: "States a clear position on the statement", keywords: ["agree", "disagree", "strongly", "partly", "to some extent", "i think"] },
-              { point: "Uses a first poem's form or structure as evidence", keywords: ["volta", "yet", "petrarchan", "sonnet", "remember", "rossetti"] },
-              { point: "Uses a second poem's form or structure as evidence", keywords: ["cyclical", "could", "dare", "tyger", "trochaic", "blake", "eagle", "refrain"] },
+              { point: "Uses a first poem's form or structure as evidence", keywords: ["volta", "petrarchan", "sonnet", "octave", "remember", "rossetti"] },
+              { point: "Uses a second poem's form or structure as evidence", keywords: ["cyclical", "could frame", "dare frame", "tyger", "trochaic", "blake", "eagle", "refrain"] },
               { point: "Explains how form creates meaning or effect", keywords: ["enacts", "mirrors", "reflects", "experience", "creates", "shapes", "reinforces"] },
               { point: "Considers a counter-argument", keywords: ["on the other hand", "however", "free verse", "words alone", "could still", "some readers"] },
               { point: "Reaches a reasoned conclusion", keywords: ["overall", "ultimately", "therefore", "cannot be separated", "in conclusion"] },
