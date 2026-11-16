@@ -31,7 +31,7 @@ const MOTIONS: Motion[] = [
     args: [
       { side: "for", text: "Phones distract from learning: notifications pull attention away even when a phone is face down.", ev: "Expert view", evidence: "UNESCO's 2023 global education report warned that phones can distract pupils from learning.", w: 3 },
       { side: "for", text: "A ban during the school day could reduce cyberbullying at school.", ev: "Logic", evidence: "No phone in your hand means fewer chances to post or share hurtful messages in school hours.", w: 2 },
-      { side: "for", text: "Several countries have restricted phones in schools.", ev: "Example", evidence: "France passed a law in 2018 banning phones in most primary and middle schools; the Netherlands restricted them in classrooms in 2024.", w: 2 },
+      { side: "for", text: "Several countries have restricted phones in schools.", ev: "Example", evidence: "France passed a law in 2018 banning phones in primary and middle schools; the Netherlands restricted them in classrooms in 2024.", w: 2 },
       { side: "for", text: "Break times become more sociable without screens.", ev: "Anecdote", evidence: "A hypothetical example: a teacher describes livelier, chattier lunchtimes. One story is vivid but proves little.", w: 1 },
       { side: "against", text: "Phones can be useful learning tools.", ev: "Example", evidence: "Calculators, dictionaries, cameras to record experiments, translation apps for new arrivals.", w: 2 },
       { side: "against", text: "Parents want to contact their children in an emergency and on the journey home.", ev: "Logic", evidence: "Safety matters, though this could be solved by keeping phones in bags rather than banning them.", w: 2 },

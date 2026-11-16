@@ -8,7 +8,7 @@ export const romeoAndJulietExtras: TopicExtras = {
   didYouKnow: [
     "The word 'balcony' never appears in Romeo and Juliet. Romeo sees Juliet at a 'window', and the balcony became part of the scene through later stage productions.",
     "Shakespeare's main source, Arthur Brooke's poem The Tragicall Historye of Romeus and Juliet (1562), stretches the story over about nine months. Shakespeare squeezed it into about four days.",
-    "In Brooke's poem Juliet is sixteen; Shakespeare made her 'not yet fourteen', which makes her courage and her tragedy even more striking.",
+    "In Brooke's poem Juliet is not yet sixteen; Shakespeare made her not yet fourteen ('She's not fourteen', says the Nurse in 1.3), which makes her courage and her tragedy even more striking.",
     "On Shakespeare's stage Juliet was played by a boy actor, because women did not perform on the public stage in England until the 1660s.",
     "Thousands of letters addressed simply to 'Juliet, Verona' arrive every year, and volunteers known as Juliet's secretaries write back to them.",
     "'Wherefore art thou Romeo?' does not mean 'Where are you?'. 'Wherefore' means 'why', so Juliet is asking why he has to be a Montague.",
