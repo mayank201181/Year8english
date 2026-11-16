@@ -614,7 +614,7 @@ export const scriptWriting: Topic = {
         answerIndex: 1,
         hint: "Look for the version with no speech marks and no 'she said'.",
         explanation:
-          "Option B has the name in capitals, a short present-tense direction in brackets and the dialogue with no speech marks. Option A is tempting because the name is in capitals, but scripts never put dialogue in speech marks.",
+          "The option ‘MIA: (slamming the door) I'm not going.’ has the name in capitals, a short present-tense direction in brackets and the dialogue with no speech marks. The option ‘MIA: \"I'm not going.\"’ is tempting because the name is in capitals, but scripts never put dialogue in speech marks.",
         guideRef: "script-conventions",
       },
       {
@@ -639,7 +639,7 @@ export const scriptWriting: Topic = {
         answerIndex: 3,
         hint: "Apply the test: can the audience see it or hear it?",
         explanation:
-          "Folding and hiding a letter is visible action. Feelings of guilt, lifelong jealousy and private wondering are thoughts or backstory, which an audience cannot see; option A is tempting because guilt matters, but it must be shown through action or dialogue.",
+          "Folding and hiding a letter is visible action. Feelings of guilt, lifelong jealousy and private wondering are thoughts or backstory, which an audience cannot see; the option ‘(She feels guilty about what she said last summer.)’ is tempting because guilt matters, but it must be shown through action or dialogue.",
         guideRef: "stage-directions",
       },
       {
@@ -654,7 +654,7 @@ export const scriptWriting: Topic = {
         answerIndex: 0,
         hint: "Look for the sentence that names a technique, quotes, explains an effect and links to Shakespeare.",
         explanation:
-          "Option A follows Choice, Quote, Technique, Effect, Link. Option D is tempting because it names techniques, but it lists them without evidence or effect; option B only retells the plot.",
+          "The option ‘I used dramatic irony in 'Your mother will weep': the audience…’ follows Choice, Quote, Technique, Effect, Link. The option ‘I used a lot of techniques such as dramatic irony, subtext and…’ is tempting because it names techniques, but it lists them without evidence or effect; the option ‘In my scene, Juliet comes home, hides the potion, talks to the…’ only retells the plot.",
         guideRef: "writing-commentary",
       },
     ],
@@ -803,7 +803,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "The actor needs to find their own lines at a glance.",
             explanation:
-              "Names go in capitals in the margin so actors can spot their lines quickly. Option D is tempting because a character list does appear at the start, but names must also appear beside every line of dialogue.",
+              "Names go in capitals in the margin so actors can spot their lines quickly. The option ‘Only in the character list at the start, never beside the lines’ is tempting because a character list does appear at the start, but names must also appear beside every line of dialogue.",
             guideRef: "script-conventions",
           },
           {
@@ -848,7 +848,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "A scene heading tells the production team where and when.",
             explanation:
-              "A scene heading gives the place and time briefly. Option D is tempting because it describes a place, but 'reminds Juliet of her happy childhood' is a thought the audience cannot see.",
+              "A scene heading gives the place and time briefly. The option ‘SCENE 2. A kitchen which reminds Juliet of her happy childhood.’ is tempting because it describes a place, but 'reminds Juliet of her happy childhood' is a thought the audience cannot see.",
             guideRef: "script-conventions",
           },
           {
@@ -881,7 +881,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Parentheticals are best used when a line could be misread.",
             explanation:
-              "Without the direction an actor might say 'brilliant' sincerely, so the parenthetical prevents a misreading. Option A is tempting but wrong: putting a parenthetical before every line is a common error.",
+              "Without the direction an actor might say 'brilliant' sincerely, so the parenthetical prevents a misreading. The option ‘Because every line in a script needs a parenthetical’ is tempting but wrong: putting a parenthetical before every line is a common error.",
             guideRef: "stage-directions",
           },
           {
@@ -947,7 +947,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Compare what she says with what she does straight after.",
             explanation:
-              "'Fine' plus going straight upstairs and a slammed door suggests the opposite of fine: the exam went badly. Option C is possible in theory, but the only thing mentioned is the exam, so the most supported reading is B.",
+              "'Fine' plus going straight upstairs and a slammed door suggests the opposite of fine: the exam went badly. The option ‘Zara is angry with her mother about something else’ is possible in theory, but the only thing mentioned is the exam, so the most supported reading is B.",
             guideRef: "dramatic-devices",
           },
           {
@@ -962,7 +962,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "Dramatic irony depends on the audience knowing more than a character.",
             explanation:
-              "The audience knows about the poison and the character does not: that knowledge gap is dramatic irony. An argument (option C) creates conflict, but not dramatic irony.",
+              "The audience knows about the poison and the character does not: that knowledge gap is dramatic irony. An argument (the option ‘Two characters argue loudly in the street’) creates conflict, but not dramatic irony.",
             guideRef: "dramatic-devices",
           },
           {
@@ -977,7 +977,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "Which line sounds like a real person in the middle of an emotion?",
             explanation:
-              "Option C lets the information slip out through conflict and emotion. Option A is the classic exposition dump: 'As you know' tells a character what they already know purely to inform the audience.",
+              "The option ‘Don't you dare say that name in this house. Not after Tybalt.’ lets the information slip out through conflict and emotion. The option ‘As you know, Mother, Romeo was banished yesterday for killing our…’ is the classic exposition dump: 'As you know' tells a character what they already know purely to inform the audience.",
             guideRef: "dialogue-voice",
           },
           {
@@ -1002,7 +1002,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Height on stage often equals power.",
             explanation:
-              "A character placed higher usually has more power or status, so the levels show the king's dominance. Option D is the opposite of what the picture suggests.",
+              "A character placed higher usually has more power or status, so the levels show the king's dominance. The option ‘That both characters are equally important’ is the opposite of what the picture suggests.",
             guideRef: "stagecraft",
           },
           {
@@ -1017,7 +1017,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "The marker has already read your scene. What do they still want to know?",
             explanation:
-              "A commentary explains why you made your choices and how they affect an audience. Summarising the plot (option A) is the most common mistake: the marker already knows what happens.",
+              "A commentary explains why you made your choices and how they affect an audience. Summarising the plot (the option ‘To summarise the plot of your scene’) is the most common mistake: the marker already knows what happens.",
             guideRef: "writing-commentary",
           },
           {
@@ -1032,7 +1032,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "A good opening places the scene and states the purpose.",
             explanation:
-              "Option A locates the scene in the play and states a clear purpose. Option C is tempting because it gives accurate context, but it says nothing about the student's own choices.",
+              "The option ‘My scene is set between Act 3 Scenes 1 and 2 of Hamlet and gives a…’ locates the scene in the play and states a clear purpose. The option ‘Hamlet is a play by William Shakespeare written around 1600.’ is tempting because it gives accurate context, but it says nothing about the student's own choices.",
             guideRef: "writing-commentary",
           },
           {
@@ -1042,7 +1042,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "A strong prop connects to the plot and creates tension.",
             explanation:
-              "The vial links to the plot, creates dramatic irony and builds tension whenever someone comes close to finding it. A candle (option C) can create atmosphere, but it does not carry the same plot meaning.",
+              "The vial links to the plot, creates dramatic irony and builds tension whenever someone comes close to finding it. A candle (the option ‘A candle to light the room’) can create atmosphere, but it does not carry the same plot meaning.",
             guideRef: "stagecraft",
           },
           {
@@ -1057,7 +1057,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Which ending leaves an urgent question unanswered?",
             explanation:
-              "A key in the door, a freeze and a snap blackout leave the audience asking 'who is it?' at a moment of danger. Option C closes the conflict, so all the tension drains away.",
+              "A key in the door, a freeze and a snap blackout leave the audience asking 'who is it?' at a moment of danger. The option ‘NIA: Well, that's all sorted, then.’ closes the conflict, so all the tension drains away.",
             guideRef: "pace-structure",
           },
         ],
@@ -1079,7 +1079,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "'Beshrew' means 'curse'. What is Juliet saying 'Amen' to?",
             explanation:
-              "Juliet says 'Amen' to the curse, secretly wishing the Nurse's heart and soul cursed for betraying Romeo. Option A is what the Nurse thinks she means, which is exactly the dramatic irony.",
+              "Juliet says 'Amen' to the curse, secretly wishing the Nurse's heart and soul cursed for betraying Romeo. The option ‘She agrees that she should marry Paris’ is what the Nurse thinks she means, which is exactly the dramatic irony.",
             guideRef: "dramatic-devices",
           },
           {
@@ -1104,7 +1104,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "Compare these polite words with her soliloquy a moment later.",
             explanation:
-              "Her words are polite but her meaning is bitter: her soliloquy calls the Nurse a 'wicked fiend'. Option B is true (it is verse) but verse is not what makes it subtext.",
+              "Her words are polite but her meaning is bitter: her soliloquy calls the Nurse a 'wicked fiend'. The option ‘Because she is speaking in verse’ is true (it is verse) but verse is not what makes it subtext.",
             guideRef: "dramatic-devices",
           },
           {
@@ -1119,7 +1119,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "A dishclout is a dishcloth.",
             explanation:
-              "Calling Romeo a dishcloth next to Paris shows she has practically switched sides. Option A is the opposite: her loyalty to Romeo has collapsed.",
+              "Calling Romeo a dishcloth next to Paris shows she has practically switched sides. The option ‘She is secretly loyal to Romeo’ is the opposite: her loyalty to Romeo has collapsed.",
             guideRef: "dialogue-voice",
           },
           {
@@ -1149,7 +1149,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "What question does the audience leave the scene with?",
             explanation:
-              "It ends with a chilling threat, so the audience leaves fearing for Juliet: a cliffhanger. Option D is wrong because it hints at danger without revealing the plan.",
+              "It ends with a chilling threat, so the audience leaves fearing for Juliet: a cliffhanger. The option ‘It tells the audience exactly what will happen next’ is wrong because it hints at danger without revealing the plan.",
             guideRef: "pace-structure",
           },
           {
@@ -1164,7 +1164,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Read her soliloquy: 'I'll to the friar, to know his remedy'.",
             explanation:
-              "Her soliloquy reveals the real purpose: to find a remedy. Option C is tempting because she loves Romeo, but she says nothing about going to Mantua.",
+              "Her soliloquy reveals the real purpose: to find a remedy. The option ‘Going to find Romeo in Mantua’ is tempting because she loves Romeo, but she says nothing about going to Mantua.",
             guideRef: "dramatic-devices",
           },
           {
@@ -1179,7 +1179,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "What can Juliet say once she is alone that she could not say before?",
             explanation:
-              "With the Nurse gone, Juliet can reveal her true feelings to the audience. The scene does not end there, so option B is wrong.",
+              "With the Nurse gone, Juliet can reveal her true feelings to the audience. The scene does not end there, so the option ‘It ends the scene with a blackout’ is wrong.",
             guideRef: "speech-forms",
           },
           {
@@ -1194,7 +1194,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Keep the insult and the comparison, but update the language.",
             explanation:
-              "Option B keeps the comparison and the insulting image while sounding modern. Option A loses the scornful tone completely.",
+              "The option ‘Honestly? Next to Paris, Romeo's a dirty old dishcloth.’ keeps the comparison and the insulting image while sounding modern. The option ‘Romeo is very nice, but Paris is also nice.’ loses the scornful tone completely.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1209,7 +1209,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "Which line shows the Nurse knowing something she cannot know?",
             explanation:
-              "The Nurse never learns of the potion, so option C contradicts the play. The other lines fit what she knows: the wedding to Paris is being prepared.",
+              "The Nurse never learns of the potion, so the option ‘NURSE: Now, did the Friar give you that sleeping potion?’ contradicts the play. The other lines fit what she knows: the wedding to Paris is being prepared.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1234,7 +1234,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Think of 'Wilt thou be gone? it is not yet near day'.",
             explanation:
-              "Shakespeare embedded directions in the speech, which suited a daylight theatre with little scenery. Option A is wrong: stage directions did exist, and he wrote some, such as 'Exit, pursued by a bear'.",
+              "Shakespeare embedded directions in the speech, which suited a daylight theatre with little scenery. The option ‘Stage directions had not been invented’ is wrong: stage directions did exist, and he wrote some, such as 'Exit, pursued by a bear'.",
             guideRef: "stage-directions",
           },
           {
@@ -1250,7 +1250,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Why would Juliet ask 'Wilt thou be gone?'",
             explanation:
-              "The question and the debate about whether it is day tell us it is around dawn and Romeo is about to leave. Option D is tempting, but the birdsong is described in the dialogue, not demanded as a sound cue.",
+              "The question and the debate about whether it is day tell us it is around dawn and Romeo is about to leave. The option ‘That a nightingale must be heard as a sound effect’ is tempting, but the birdsong is described in the dialogue, not demanded as a sound cue.",
             guideRef: "stage-directions",
           },
           {
@@ -1266,7 +1266,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "Who hears an aside?",
             explanation:
-              "As an aside, only the audience hears the bitter pun, so we share Hamlet's secret hostility from his first line. Option A would be true only if he said it openly.",
+              "As an aside, only the audience hears the bitter pun, so we share Hamlet's secret hostility from his first line. The option ‘The court hears Hamlet insult the King openly’ would be true only if he said it openly.",
             guideRef: "speech-forms",
           },
           {
@@ -1282,7 +1282,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Who is asking the questions and who is confused?",
             explanation:
-              "The rapid short lines speed the pace and show Hamlet attacking while Ophelia struggles to follow. Option C is the reverse: her confused questions show she has lost control.",
+              "The rapid short lines speed the pace and show Hamlet attacking while Ophelia struggles to follow. The option ‘It gives Ophelia control of the conversation’ is the reverse: her confused questions show she has lost control.",
             guideRef: "speech-forms",
           },
           {
@@ -1297,7 +1297,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "Think about who is listening.",
             explanation:
-              "A soliloquy is a special kind of long speech: the character is alone and speaks private thoughts. Option D is tempting because both are long speeches, but the audience situation is different.",
+              "A soliloquy is a special kind of long speech: the character is alone and speaks private thoughts. The option ‘There is no difference: they are the same thing’ is tempting because both are long speeches, but the audience situation is different.",
             guideRef: "speech-forms",
           },
           {
@@ -1327,7 +1327,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "The audience knows; the lovers do not.",
             explanation:
-              "Knowing the ending creates dramatic irony and a sense of fate. Option A is tempting, but knowing the outcome makes us watch more anxiously, not less.",
+              "Knowing the ending creates dramatic irony and a sense of fate. The option ‘It removes all tension because we know the ending’ is tempting, but knowing the outcome makes us watch more anxiously, not less.",
             guideRef: "dramatic-devices",
           },
           {
@@ -1342,7 +1342,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Internal conflict happens inside one character's mind.",
             explanation:
-              "Hamlet's struggle with himself is internal. Juliet versus her father (option B) is external conflict: a character against another character.",
+              "Hamlet's struggle with himself is internal. Juliet versus her father (the option ‘Juliet's father orders her to marry Paris’) is external conflict: a character against another character.",
             guideRef: "dramatic-devices",
           },
           {
@@ -1357,7 +1357,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "What does the audience know that the family does not?",
             explanation:
-              "The audience knows about the potion, while the family believes Juliet is dead. Option A is wrong: their grief is real, which is what makes the irony painful.",
+              "The audience knows about the potion, while the family believes Juliet is dead. The option ‘Because the Capulets are pretending to be sad’ is wrong: their grief is real, which is what makes the irony painful.",
             guideRef: "dramatic-devices",
           },
         ],
@@ -1394,7 +1394,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "What was the relationship like at the beginning?",
             explanation:
-              "The early kindness gives a writer a 'before' to contrast with the 'after', making the audience feel the betrayal. Option C is the opposite: 'then I lov'd thee' shows he did trust Prospero.",
+              "The early kindness gives a writer a 'before' to contrast with the 'after', making the audience feel the betrayal. The option ‘It shows that Caliban never trusted Prospero’ is the opposite: 'then I lov'd thee' shows he did trust Prospero.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1409,7 +1409,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "The bigger light and the less are the sun and the moon.",
             explanation:
-              "Option C directly adapts the image of naming the lights, so a reader recognises the source. Option A modernises the idea of teaching, but loses the link to the sun and moon.",
+              "The option ‘He taught me the names of the stars: the big light, the little light.’ directly adapts the image of naming the lights, so a reader recognises the source. The option ‘He taught me how to read the clock on his phone.’ modernises the idea of teaching, but loses the link to the sun and moon.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1424,7 +1424,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "'Sty' means a pig pen. How could the set make him look confined?",
             explanation:
-              "A cramped rock forcing him to crouch makes the confinement visible, with the open island he is kept from just beyond. An empty stage (option D) can work symbolically, but alone it does nothing to show him penned in.",
+              "A cramped rock forcing him to crouch makes the confinement visible, with the open island he is kept from just beyond. An empty stage (the option ‘An empty stage with no set at all’) can work symbolically, but alone it does nothing to show him penned in.",
             guideRef: "stagecraft",
           },
           {
@@ -1449,7 +1449,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "A soliloquy is private and solitary.",
             explanation:
-              "A spotlight isolates the speaker and focuses the audience on their private thoughts. Full bright lighting (option A) works against the sense of intimacy.",
+              "A spotlight isolates the speaker and focuses the audience on their private thoughts. Full bright lighting (the option ‘Bright, full lighting across the whole stage’) works against the sense of intimacy.",
             guideRef: "stagecraft",
           },
           {
@@ -1464,7 +1464,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "Compare a blackout with a slow fade.",
             explanation:
-              "A blackout snaps the scene shut at a moment of tension, which suits a cliffhanger. Option D is wrong: a slow fade is often better for a quiet, lingering ending.",
+              "A blackout snaps the scene shut at a moment of tension, which suits a cliffhanger. The option ‘Because every scene must end in a blackout’ is wrong: a slow fade is often better for a quiet, lingering ending.",
             guideRef: "stagecraft",
           },
           {
@@ -1479,7 +1479,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "It is planned in rehearsal.",
             explanation:
-              "Blocking is the planned movement and positioning of actors. It has nothing to do with cutting lines (option D).",
+              "Blocking is the planned movement and positioning of actors. It has nothing to do with cutting lines (the option ‘Cutting lines from a script’).",
             guideRef: "stagecraft",
           },
           {
@@ -1509,7 +1509,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "Which one leaves the actor no room at all?",
             explanation:
-              "Option A micromanages every tiny movement, slowing the script and leaving the actor nothing to interpret. Option C is very short, but a well-placed pause is a precise, useful direction.",
+              "The option ‘(She picks up the cup with her right hand, lifts it exactly ten…’ micromanages every tiny movement, slowing the script and leaving the actor nothing to interpret. The option ‘(Pause.)’ is very short, but a well-placed pause is a precise, useful direction.",
             guideRef: "stage-directions",
           },
           {
@@ -1524,7 +1524,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "A missing scene shows something that happens offstage in the original.",
             explanation:
-              "Ophelia's night alone is never shown by Shakespeare, so it fills a gap. Options A, B and D all change the setting or objects of existing scenes: they are modernisations.",
+              "Ophelia's night alone is never shown by Shakespeare, so it fills a gap. The option ‘Moving the balcony scene to a block of flats in London’, B and D all change the setting or objects of existing scenes: they are modernisations.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1539,7 +1539,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Whose voice does the play sideline?",
             explanation:
-              "Ophelia is told what to do and think by Polonius and Laertes, so giving her a voice reveals something new. She is certainly not the main character (option A), and she dies in the play, so D is wrong too.",
+              "Ophelia is told what to do and think by Polonius and Laertes, so giving her a voice reveals something new. She is certainly not the main character (the option ‘She is the main character of the play’), and she dies in the play, so D is wrong too.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1554,7 +1554,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Keep the claim of ownership; update the words.",
             explanation:
-              "Option B keeps the defiant claim of ownership in modern speech. Option D keeps an old-fashioned style but garbles the grammar ('hast tak'st'), and it does not modernise anything.",
+              "The option ‘This island was mine before you ever stepped off that boat.’ keeps the defiant claim of ownership in modern speech. The option ‘Thou hast tak'st mine island, villain!’ keeps an old-fashioned style but garbles the grammar ('hast tak'st'), and it does not modernise anything.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1564,7 +1564,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Stagecraft is what the audience sees and hears beyond the words themselves.",
             explanation:
-              "A metaphor is a language technique within the dialogue, not part of the staging. Sound effects (option C) are a stagecraft element even though they are heard rather than seen.",
+              "A metaphor is a language technique within the dialogue, not part of the staging. Sound effects (the option ‘Sound effects’) are a stagecraft element even though they are heard rather than seen.",
             guideRef: "stagecraft",
           },
           {
@@ -1579,7 +1579,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "Arrive late: start in the middle of the action.",
             explanation:
-              "The storm throws the audience straight into chaos and tension. Option D is wrong: the storm is Prospero's doing, as we soon learn, which is itself a twist.",
+              "The storm throws the audience straight into chaos and tension. The option ‘It shows that Caliban is in charge of the island’ is wrong: the storm is Prospero's doing, as we soon learn, which is itself a twist.",
             guideRef: "stagecraft",
           },
           {
@@ -1589,7 +1589,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "Hamlet refused to take them back: 'I never gave you aught'.",
             explanation:
-              "The letters are the physical trace of a love Hamlet now denies. Her father's power (option A) is part of her story, but the letters themselves represent the relationship with Hamlet.",
+              "The letters are the physical trace of a love Hamlet now denies. Her father's power (the option ‘Her father's power’) is part of her story, but the letters themselves represent the relationship with Hamlet.",
             guideRef: "stagecraft",
           },
           {
@@ -1604,7 +1604,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Look for stillness rather than speed.",
             explanation:
-              "Silence and slow physical business slow the pace and build suspense. Interruptions (option B) speed the pace up.",
+              "Silence and slow physical business slow the pace and build suspense. Interruptions (the option ‘A character interrupting another mid-sentence’) speed the pace up.",
             guideRef: "pace-structure",
           },
           {
@@ -1629,7 +1629,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "It is about where a scene begins and ends.",
             explanation:
-              "It means cutting the slow build-up and the tidy wind-down, so a scene starts in the action and ends on a question. Option A takes the phrase too literally.",
+              "It means cutting the slow build-up and the tidy wind-down, so a scene starts in the action and ends on a question. The option ‘Characters should always enter late and leave before the end’ takes the phrase too literally.",
             guideRef: "pace-structure",
           },
           {
@@ -1644,7 +1644,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Costume changes can track a character's journey.",
             explanation:
-              "A gradually loosening costume suggests the character is unravelling. Summer heat (option D) is possible, but in drama such a progressive change usually signals a character's decline.",
+              "A gradually loosening costume suggests the character is unravelling. Summer heat (the option ‘That the play is set in summer’) is possible, but in drama such a progressive change usually signals a character's decline.",
             guideRef: "stagecraft",
           },
         ],
@@ -1665,7 +1665,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Check each term against its definition.",
             explanation:
-              "An aside is heard only by the audience while others are on stage, so D is accurate. Option A misuses 'soliloquy', which requires the character to be alone, not arguing with someone; option C is not dramatic irony, because if everyone on stage hears the plan the audience knows nothing the characters do not.",
+              "An aside is heard only by the audience while others are on stage, so D is accurate. The option ‘I used a soliloquy when Juliet and the Nurse argue together.’ misuses 'soliloquy', which requires the character to be alone, not arguing with someone; the option ‘I used dramatic irony when Juliet tells her parents and the Nurse…’ is not dramatic irony, because if everyone on stage hears the plan the audience knows nothing the characters do not.",
             guideRef: "writing-commentary",
           },
           {
@@ -1680,7 +1680,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Which sentence explains nothing?",
             explanation:
-              "Option B only retells the plot with no technique or effect. Option A is short, but it explains why the prop was chosen.",
+              "The option ‘Then the Nurse leaves and Juliet takes out the potion and looks at…’ only retells the plot with no technique or effect. The option ‘The rosemary is a deliberate prop because it was used at both…’ is short, but it explains why the prop was chosen.",
             guideRef: "writing-commentary",
           },
           {
@@ -1695,7 +1695,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "A good link quotes the original and explains why it was echoed.",
             explanation:
-              "Option C quotes the original precisely, locates it and explains the effect of the echo. Option B makes a vague link that could apply to any scene.",
+              "The option ‘Caliban's final line, 'This island's mine', deliberately repeats…’ quotes the original precisely, locates it and explains the effect of the echo. The option ‘My scene is set in the olden days, like Shakespeare's.’ makes a vague link that could apply to any scene.",
             guideRef: "writing-commentary",
           },
           {
@@ -1710,7 +1710,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "Who will watch the play, and what do they already know?",
             explanation:
-              "Audience means the people you are writing for, e.g. a modern teenage audience who know the play's ending. The examiner (option B) reads the commentary, but the scene's audience is who you imagine watching it.",
+              "Audience means the people you are writing for, e.g. a modern teenage audience who know the play's ending. The examiner (the option ‘Only the examiner marking the work’) reads the commentary, but the scene's audience is who you imagine watching it.",
             guideRef: "writing-commentary",
           },
           {
@@ -1725,7 +1725,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Look for 'intended' and a specific feeling.",
             explanation:
-              "Option B names the intended effect precisely and links it to a specific technique. Option D is over-certain: you cannot guarantee how every audience member will react.",
+              "The option ‘I intended the sudden silence to make the audience hold their…’ names the intended effect precisely and links it to a specific technique. The option ‘Everyone will definitely think Ophelia is the best character.’ is over-certain: you cannot guarantee how every audience member will react.",
             guideRef: "writing-commentary",
           },
           {
@@ -1741,7 +1741,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Compare it with Ben's line.",
             explanation:
-              "Scripts drop speech marks and 'she asked'. Option B would make it worse: stage directions should be in the present tense.",
+              "Scripts drop speech marks and 'she asked'. The option ‘It needs a stage direction in the past tense’ would make it worse: stage directions should be in the present tense.",
             guideRef: "script-conventions",
           },
           {
@@ -1757,7 +1757,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "Present tense, short, actable.",
             explanation:
-              "Option A is in the present tense and crisp; the action can show the sadness. Option C changes to the future tense, which is still wrong for stage directions.",
+              "The option ‘(The NURSE crosses to the window. Looks out.)’ is in the present tense and crisp; the action can show the sadness. The option ‘(The NURSE will walk to the window.)’ changes to the future tense, which is still wrong for stage directions.",
             guideRef: "stage-directions",
           },
           {
@@ -1772,7 +1772,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Each character needs their own way of speaking.",
             explanation:
-              "Distinct vocabulary, sentence lengths and habits make characters recognisable. Option D changes the register but would still leave them sounding identical to one another.",
+              "Distinct vocabulary, sentence lengths and habits make characters recognisable. The option ‘Put everyone's lines in Shakespearean language’ changes the register but would still leave them sounding identical to one another.",
             guideRef: "dialogue-voice",
           },
           {
@@ -1802,7 +1802,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "One is about what a character means; the other is about what the audience knows.",
             explanation:
-              "Subtext is hidden meaning in speech; dramatic irony is a gap in knowledge between audience and character. They often work together (as in Juliet's 'Amen!'), which is why option C is tempting, but they are different devices.",
+              "Subtext is hidden meaning in speech; dramatic irony is a gap in knowledge between audience and character. They often work together (as in Juliet's 'Amen!'), which is why the option ‘They are the same thing’ is tempting, but they are different devices.",
             guideRef: "dramatic-devices",
           },
           {
@@ -1817,7 +1817,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "Bring the danger physically close to the secret.",
             explanation:
-              "The Nurse's hand moving towards the hidden vial threatens discovery, so the audience holds its breath. An offstage call (option D) can interrupt, but it does not threaten the secret directly.",
+              "The Nurse's hand moving towards the hidden vial threatens discovery, so the audience holds its breath. An offstage call (the option ‘Lady Capulet calls from offstage about dinner’) can interrupt, but it does not threaten the secret directly.",
             guideRef: "pace-structure",
           },
           {
@@ -1833,7 +1833,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Do the words and the body agree?",
             explanation:
-              "Avoiding eye contact and shaking hands contradict his words, creating subtext: he is probably lying. Being cold (option B) could explain shaking hands, but not looking at the floor while sharing good news.",
+              "Avoiding eye contact and shaking hands contradict his words, creating subtext: he is probably lying. Being cold (the option ‘That he is cold’) could explain shaking hands, but not looking at the floor while sharing good news.",
             guideRef: "dramatic-devices",
           },
           {
@@ -1849,7 +1849,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "Sometimes saying nothing says everything.",
             explanation:
-              "The silence is an answer in itself (guilt) and stretches the tension. It does not end the scene (option C): the silence invites what happens next.",
+              "The silence is an answer in itself (guilt) and stretches the tension. It does not end the scene (the option ‘It shows that the scene has ended’): the silence invites what happens next.",
             guideRef: "pace-structure",
           },
           {
@@ -1864,7 +1864,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Guns and cars, but 'thee' and 'thou'.",
             explanation:
-              "Luhrmann moves the story to a modern city but keeps the original words. A musical with entirely new dialogue (option D) describes West Side Story.",
+              "Luhrmann moves the story to a modern city but keeps the original words. A musical with entirely new dialogue (the option ‘a musical with entirely new songs and dialogue’) describes West Side Story.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1879,7 +1879,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "What does a new viewpoint add?",
             explanation:
-              "Seeing Hamlet's events through two sidelined characters reveals new meanings. Option A goes too far: you only need one well-chosen scene.",
+              "Seeing Hamlet's events through two sidelined characters reveals new meanings. The option ‘It shows you should rewrite the whole play’ goes too far: you only need one well-chosen scene.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1894,7 +1894,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "Think about whose voice controls the story.",
             explanation:
-              "Option C explains the effect on the audience and links to the original power balance. Option A may be true practically, but it is not a dramatic justification for a commentary.",
+              "The option ‘It gives Caliban an uninterrupted voice and makes the audience his…’ explains the effect on the audience and links to the original power balance. The option ‘It means fewer actors are needed’ may be true practically, but it is not a dramatic justification for a commentary.",
             guideRef: "writing-commentary",
           },
           {
@@ -1909,7 +1909,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Which one hints instead of announcing?",
             explanation:
-              "The hesitation, avoiding eye contact and hiding behind 'Everyone says so' suggest guilt without stating it. Options A to C announce the feeling directly, which removes the subtext.",
+              "The hesitation, avoiding eye contact and hiding behind 'Everyone says so' suggest guilt without stating it. The option ‘NURSE: I feel very guilty about the advice I gave you.’ to C announce the feeling directly, which removes the subtext.",
             guideRef: "dramatic-devices",
           },
           {
@@ -1924,7 +1924,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Good evaluation is specific and honest.",
             explanation:
-              "Option B identifies a precise improvement and the reason for it, which shows critical awareness. Option A claims perfection, which shows no reflection at all.",
+              "The option ‘If I redrafted, I would cut the Nurse's first speech so the scene…’ identifies a precise improvement and the reason for it, which shows critical awareness. The option ‘Overall my scene is perfect.’ claims perfection, which shows no reflection at all.",
             guideRef: "writing-commentary",
           },
           {
@@ -1939,7 +1939,7 @@ export const scriptWriting: Topic = {
             answerIndex: 0,
             hint: "Where should a scene start?",
             explanation:
-              "Cutting the slow build-up and starting near the conflict grips the audience. Adding a narrator (option D) would bring novel-style telling into the script.",
+              "Cutting the slow build-up and starting near the conflict grips the audience. Adding a narrator (the option ‘Add a narrator to explain the background’) would bring novel-style telling into the script.",
             guideRef: "pace-structure",
           },
           {
@@ -1954,7 +1954,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Think about what subtext asks the audience to do.",
             explanation:
-              "Subtext makes the audience active detectives, and the unspoken truth hangs over every line. Option D is wrong: scripts can state facts, but holding them back is often more powerful.",
+              "Subtext makes the audience active detectives, and the unspoken truth hangs over every line. The option ‘Because scripts are not allowed to state facts’ is wrong: scripts can state facts, but holding them back is often more powerful.",
             guideRef: "dramatic-devices",
           },
         ],

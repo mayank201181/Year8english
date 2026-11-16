@@ -117,9 +117,9 @@ export function DeviceSpotter() {
       return;
     }
     setWrong(wrong.map((x, j) => (j === pi ? x + 1 : x)));
-    if (open.length > 0) setMsg({ tone: "ok", text: `There is a device hiding around "${word}", but it isn't ${d}. Look again: what is the writer doing with sound, comparison or form?` });
+    if (d === "simile" && norm(word) === "like" && !open.some((i) => p.spans[i].accept.includes("simile"))) setMsg({ tone: "bad", text: "Careful: not every 'like' makes a simile. A simile compares two different things; 'a night like this' just means 'a night such as this'." });
+    else if (open.length > 0) setMsg({ tone: "ok", text: `There is a device hiding around "${word}", but it isn't ${d}. Look again: what is the writer doing with sound, comparison or form?` });
     else if (containing.length > 0) setMsg({ tone: "ok", text: `You've already found the device on "${word}".` });
-    else if (d === "simile" && norm(word) === "like") setMsg({ tone: "bad", text: "Careful: not every 'like' makes a simile. A simile compares two different things." });
     else setMsg({ tone: "bad", text: `No hidden device on "${word}". Try a different word.` });
   }
 

@@ -12,9 +12,9 @@ export function InteractiveTab({ topic }: { topic: Topic }) {
   return (
     <div className="space-y-4">
       <div className="rounded-2xl border-l-4 border-indigo-400 bg-indigo-50 p-4">
-        <p className="text-xs font-bold uppercase tracking-wide text-indigo-600">🧪 Play & discover</p>
+        <p className="text-xs font-bold uppercase tracking-wide text-indigo-600">✒️ Try it yourself</p>
         <p className="mt-1 font-medium text-indigo-900">
-          Change the inputs and watch what happens — the best way to really understand {topic.title.toLowerCase()}.
+          Tap, build, tweak and test: get hands-on with the words and see how writers make their choices in {topic.title}.
         </p>
       </div>
 

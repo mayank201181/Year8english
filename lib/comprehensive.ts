@@ -1137,7 +1137,7 @@ const mcqP4: Paper<MCQ> = {
       answerIndex: 2,
       hint: "'It's' always means 'it is' or 'it has'. Test each one by expanding it.",
       explanation:
-        "'It's clear' = 'it is clear' (needs the apostrophe); 'its way' is possessive (no apostrophe, like 'his' or 'hers'). The second option is tempting, but 'lost it is way' makes no sense.",
+        "'It's clear' = 'it is clear' (needs the apostrophe); 'its way' is possessive (no apostrophe, like 'his' or 'hers'). The option ‘It's clear that the school has lost it's way.’ is tempting, but 'lost it is way' makes no sense.",
     },
     {
       id: "exam-mcq-p4-q04",
@@ -1151,7 +1151,7 @@ const mcqP4: Paper<MCQ> = {
       answerIndex: 3,
       hint: "A comma splice joins two complete sentences with only a comma.",
       explanation:
-        "'The bell rang' and 'everyone rushed out' are both main clauses joined by a bare comma: a comma splice. The first option is fine because the conjunction 'and' joins the clauses, and the third uses a semicolon correctly.",
+        "'The bell rang' and 'everyone rushed out' are both main clauses joined by a bare comma: a comma splice. The option ‘The bell rang, and everyone rushed out.’ is fine because the conjunction 'and' joins the clauses, and the third uses a semicolon correctly.",
     },
     {
       id: "exam-mcq-p4-q05",
@@ -1379,7 +1379,7 @@ const mcqP4: Paper<MCQ> = {
       answerIndex: 2,
       hint: "Parenthetical dashes come in a pair and wrap around extra information that could be removed.",
       explanation:
-        "Remove the words between the dashes and 'Our teacher was furious' still works, so the pair of dashes correctly encloses the extra detail. The first option is missing its second dash, so the parenthesis is never closed.",
+        "Remove the words between the dashes and 'Our teacher was furious' still works, so the pair of dashes correctly encloses the extra detail. The option ‘Our teacher – usually so calm was furious.’ is missing its second dash, so the parenthesis is never closed.",
     },
     {
       id: "exam-mcq-p4-q22",
@@ -1403,7 +1403,7 @@ const mcqP4: Paper<MCQ> = {
       answerIndex: 1,
       hint: "Punctuation goes inside the speech marks, and a new sentence of speech starts with a capital letter.",
       explanation:
-        "The comma sits inside the speech marks before 'said Mum', a full stop ends that sentence, and the second spoken sentence opens with a capital 'The'. The third option puts the comma outside the speech marks and loses the capital.",
+        "The comma sits inside the speech marks before 'said Mum', a full stop ends that sentence, and the second spoken sentence opens with a capital 'The'. The option ‘\"Close the window\", said Mum. \"the rain is coming in\".’ puts the comma outside the speech marks and loses the capital.",
     },
     {
       id: "exam-mcq-p4-q24",

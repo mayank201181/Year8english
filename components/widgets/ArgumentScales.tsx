@@ -74,6 +74,7 @@ const MOTIONS: Motion[] = [
 
 const MARKERS_FOR = ["Firstly,", "Furthermore,", "In addition,", "Moreover,"];
 const MARKERS_AG = ["However,", "Conversely,", "Nevertheless,", "On the other hand,"];
+const lower = (t: string) => t[0].toLowerCase() + t.slice(1);
 const r2 = (n: number) => Math.round(n * 100) / 100;
 
 export function ArgumentScales() {
@@ -180,8 +181,8 @@ export function ArgumentScales() {
           <Step>Your essay plan (block structure)</Step>
           <ol className="space-y-1 rounded-xl bg-white p-3 text-sm text-slate-700 ring-1 ring-slate-200">
             <li><b>Intro:</b> explain why &lsquo;{m.title.toLowerCase()}&rsquo; is debated, without giving your view yet.</li>
-            {forArgs.map((i, k) => <li key={i}><b className="text-emerald-700">{MARKERS_FOR[k % 4]}</b> {m.args[i].text}</li>)}
-            {agArgs.map((i, k) => <li key={i}><b className="text-rose-700">{MARKERS_AG[k % 4]}</b> {m.args[i].text}</li>)}
+            {forArgs.map((i, k) => <li key={i}><b className="text-emerald-700">{MARKERS_FOR[k % 4]}</b> {lower(m.args[i].text)}</li>)}
+            {agArgs.map((i, k) => <li key={i}><b className="text-rose-700">{MARKERS_AG[k % 4]}</b> {lower(m.args[i].text)}</li>)}
             <li><b>Conclusion:</b> your judgement, which must match the scales.</li>
           </ol>
         </>

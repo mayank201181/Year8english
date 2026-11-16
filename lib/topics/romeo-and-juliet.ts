@@ -616,7 +616,7 @@ export const romeoAndJuliet: Topic = {
         answerIndex: 1,
         hint: "Think about what Elizabethans used sonnets for, and then what the Prologue actually talks about.",
         explanation:
-          "Sonnets were the classic form for love poems, so the form announces a love story, yet the content ('grudge', 'mutiny', 'death-marked') warns of tragedy. Option A is false: most of the play is blank verse or prose, not sonnets.",
+          "Sonnets were the classic form for love poems, so the form announces a love story, yet the content ('grudge', 'mutiny', 'death-marked') warns of tragedy. The option ‘Because every speech in Shakespeare's plays is a sonnet’ is false: most of the play is blank verse or prose, not sonnets.",
         guideRef: "prologue-sonnet",
       },
     ],
@@ -729,7 +729,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 3,
             hint: "Count the lines in the passage above.",
-            explanation: "Fourteen lines of rhymed iambic pentameter make a sonnet. Option B is tempting if you think it is all quatrains, but the last two lines form a couplet: 4 + 4 + 4 + 2 = 14.",
+            explanation: "Fourteen lines of rhymed iambic pentameter make a sonnet. The option ‘16 lines: it is four quatrains’ is tempting if you think it is all quatrains, but the last two lines form a couplet: 4 + 4 + 4 + 2 = 14.",
             guideRef: "prologue-sonnet",
           },
           {
@@ -752,7 +752,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 1,
             hint: "Look at the contrast between 'ancient' and 'new'.",
-            explanation: "'Ancient grudge' = a long-standing hatred; 'new mutiny' = fresh outbreaks of violence. Option A reverses the meaning of 'ancient'.",
+            explanation: "'Ancient grudge' = a long-standing hatred; 'new mutiny' = fresh outbreaks of violence. The option ‘The feud has just started over a recent insult’ reverses the meaning of 'ancient'.",
             guideRef: "prologue-sonnet",
           },
           {
@@ -775,7 +775,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 2,
             hint: "Read lines 7 to 8 and 11 carefully.",
-            explanation: "The lovers' deaths 'bury their parents' strife', and only 'their children's end' could remove the rage. The marriage (option B) is the Friar's hope in the play, but the Prologue says it is death, not marriage, that ends the feud.",
+            explanation: "The lovers' deaths 'bury their parents' strife', and only 'their children's end' could remove the rage. The marriage (the option ‘A marriage between the two families’) is the Friar's hope in the play, but the Prologue says it is death, not marriage, that ends the feud.",
             guideRef: "prologue-sonnet",
           },
           {
@@ -875,7 +875,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 1,
             hint: "Romeo buys something in Mantua; Juliet finds no poison left for her.",
-            explanation: "Romeo drinks poison ('Thus with a kiss I die'); Juliet wakes, finds the cup empty and stabs herself ('O happy dagger'). Option A reverses them, the most common slip.",
+            explanation: "Romeo drinks poison ('Thus with a kiss I die'); Juliet wakes, finds the cup empty and stabs herself ('O happy dagger'). The option ‘Romeo stabs himself; Juliet takes poison’ reverses them, the most common slip.",
             guideRef: "context-ending",
           },
           {
@@ -889,7 +889,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 2,
             hint: "Capulet says 'O brother Montague, give me thy hand.'",
-            explanation: "The feud ends: the fathers shake hands and promise statues 'in pure gold'. Option A is wrong; the Prince says only that 'Some shall be pardoned, and some punishèd.'",
+            explanation: "The feud ends: the fathers shake hands and promise statues 'in pure gold'. The option ‘They are both banished by the Prince’ is wrong; the Prince says only that 'Some shall be pardoned, and some punishèd.'",
             guideRef: "context-ending",
           },
           {
@@ -912,7 +912,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 0,
             hint: "'Take their life' can mean two opposite things. Look at the line before: 'From forth the fatal loins...'",
-            explanation: "'From forth the fatal loins' shows they are born from these families, while 'take their life' also suggests suicide, so the line holds birth and death together. Option C is tempting, but they do not kill each other.",
+            explanation: "'From forth the fatal loins' shows they are born from these families, while 'take their life' also suggests suicide, so the line holds birth and death together. The option ‘The lovers take each other's lives in a fight’ is tempting, but they do not kill each other.",
             guideRef: "prologue-sonnet",
           },
         ],
@@ -938,7 +938,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 1,
             hint: "It is named after an Italian poet who wrote about an unattainable woman, Laura.",
-            explanation: "Petrarch's poems worship a woman who never loves him back; Romeo's sighing for Rosaline imitates this. Option A describes Romeo and Juliet's situation but not Petrarchan love.",
+            explanation: "Petrarch's poems worship a woman who never loves him back; Romeo's sighing for Rosaline imitates this. The option ‘Love between two people from feuding families’ describes Romeo and Juliet's situation but not Petrarchan love.",
             guideRef: "love",
           },
           {
@@ -962,7 +962,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 3,
             hint: "Look at who speaks lines 1 to 4, then lines 5 to 8.",
-            explanation: "Romeo has lines 1 to 4, Juliet 5 to 8, and they share lines 9 to 14. The structure shows them building one poem together. Option C describes only the final section.",
+            explanation: "Romeo has lines 1 to 4, Juliet 5 to 8, and they share lines 9 to 14. The structure shows them building one poem together. The option ‘They alternate single lines throughout’ describes only the final section.",
             guideRef: "love",
           },
           {
@@ -976,7 +976,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 0,
             hint: "Look at 'shrine', 'pilgrims', 'saints', 'prayer'.",
-            explanation: "Romeo is a 'pilgrim' and Juliet a 'saint' or 'holy shrine', which makes their love seem sacred. Light imagery (option D) is important in 2.2, but not in this sonnet.",
+            explanation: "Romeo is a 'pilgrim' and Juliet a 'saint' or 'holy shrine', which makes their love seem sacred. Light imagery (the option ‘Light: the sun, moon and stars’) is important in 2.2, but not in this sonnet.",
             guideRef: "love",
           },
           {
@@ -1013,7 +1013,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 0,
             hint: "Two voices, one poem.",
-            explanation: "By sharing the rhymes and the form, the lovers literally fit together. Option B is wrong: Juliet matches Romeo's wit, turning his images back on him.",
+            explanation: "By sharing the rhymes and the form, the lovers literally fit together. The option ‘It shows Romeo is cleverer than Juliet’ is wrong: Juliet matches Romeo's wit, turning his images back on him.",
             guideRef: "love",
           },
           {
@@ -1027,7 +1027,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 3,
             hint: "She plays on the word 'palm': a hand, and a palmer (pilgrim).",
-            explanation: "Juliet wittily teases Romeo: pilgrims 'kiss' by touching palms, so his hand has done nothing wrong and holding hands is enough. She is flirting, not rejecting him (option C).",
+            explanation: "Juliet wittily teases Romeo: pilgrims 'kiss' by touching palms, so his hand has done nothing wrong and holding hands is enough. She is flirting, not rejecting him (the option ‘That Romeo should leave immediately’).",
             guideRef: "love",
           },
           {
@@ -1050,7 +1050,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 1,
             hint: "He calls Romeo 'a virtuous and well-governed youth'.",
-            explanation: "Capulet will not let his party be disrupted and admits that Verona speaks well of Romeo. He certainly does not want Romeo to marry Juliet (option C); he has no idea they have met.",
+            explanation: "Capulet will not let his party be disrupted and admits that Verona speaks well of Romeo. He certainly does not want Romeo to marry Juliet (the option ‘He wants Romeo to marry Juliet’); he has no idea they have met.",
             guideRef: "conflict-turning-point",
           },
           {
@@ -1065,7 +1065,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 0,
             hint: "Her 'only hate' is a family.",
-            explanation: "The Nurse has just told her Romeo is 'the only son of your great enemy'. The antithesis of 'love' and 'hate' expresses her shock. Paris (option C) has been mentioned, but that is not what this couplet is about.",
+            explanation: "The Nurse has just told her Romeo is 'the only son of your great enemy'. The antithesis of 'love' and 'hate' expresses her shock. Paris (the option ‘That her parents want her to marry Paris’) has been mentioned, but that is not what this couplet is about.",
             guideRef: "love",
           },
           {
@@ -1090,7 +1090,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 1,
             hint: "Look at the adjectives 'envious', 'sick' and 'pale'.",
-            explanation: "Romeo personifies the moon as 'envious', 'sick and pale with grief' because Juliet outshines it. The moon was linked to Diana, goddess of chastity, so he may also be rejecting Rosaline's cold, chaste love; he is not worshipping the moon (option A).",
+            explanation: "Romeo personifies the moon as 'envious', 'sick and pale with grief' because Juliet outshines it. The moon was linked to Diana, goddess of chastity, so he may also be rejecting Rosaline's cold, chaste love; he is not worshipping the moon (the option ‘As a beautiful goddess he still worships’).",
             guideRef: "balcony-scene",
           },
           {
@@ -1105,7 +1105,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 2,
             hint: "Would a rose stop smelling sweet if we called it something else?",
-            explanation: "The rose metaphor argues that Romeo would be just as perfect without the name 'Montague'. Option D is the opposite of her argument (though it is sadly closer to how Verona behaves).",
+            explanation: "The rose metaphor argues that Romeo would be just as perfect without the name 'Montague'. The option ‘That names are the most important part of a person’ is the opposite of her argument (though it is sadly closer to how Verona behaves).",
             guideRef: "balcony-scene",
           },
           {
@@ -1120,7 +1120,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 0,
             hint: "How long does a flash of lightning last?",
-            explanation: "Lightning is brilliant but vanishes instantly, foreshadowing how quickly their love will end. Option B is tempting, but Juliet's focus is on speed ('cease to be / Ere one can say'), not danger.",
+            explanation: "Lightning is brilliant but vanishes instantly, foreshadowing how quickly their love will end. The option ‘It is dangerous because lightning can kill’ is tempting, but Juliet's focus is on speed ('cease to be / Ere one can say'), not danger.",
             guideRef: "balcony-scene",
           },
           {
@@ -1148,7 +1148,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 1,
             hint: "'For this alliance may so happy prove / To turn your households' rancour to pure love.'",
-            explanation: "The Friar hopes the 'alliance' (marriage) will end the feud. Capulet knows nothing of it, so option A is impossible.",
+            explanation: "The Friar hopes the 'alliance' (marriage) will end the feud. Capulet knows nothing of it, so the option ‘Because Lord Capulet asked him to’ is impossible.",
             guideRef: "characters",
           },
           {
@@ -1191,7 +1191,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 2,
             hint: "Which option shows his feelings shifting, rather than staying strong?",
-            explanation: "The swift switch from Rosaline to Juliet (the Friar exclaims 'Holy Saint Francis, what a change is here!') suggests fickleness. Dying beside Juliet (option D) is evidence for the opposite view: that his love is deep.",
+            explanation: "The swift switch from Rosaline to Juliet (the Friar exclaims 'Holy Saint Francis, what a change is here!') suggests fickleness. Dying beside Juliet (the option ‘He dies beside Juliet in the tomb’) is evidence for the opposite view: that his love is deep.",
             guideRef: "love",
           },
         ],
@@ -1246,7 +1246,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 0,
             hint: "Look at the list of things he hates.",
-            explanation: "Tybalt lumps 'peace', 'hell', 'all Montagues' and Benvolio together, showing an all-consuming hatred. Option D ignores 'all Montagues'.",
+            explanation: "Tybalt lumps 'peace', 'hell', 'all Montagues' and Benvolio together, showing an all-consuming hatred. The option ‘He hates only Benvolio’ ignores 'all Montagues'.",
             guideRef: "conflict-turning-point",
           },
           {
@@ -1312,7 +1312,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 2,
             hint: "'Why the devil came you between us? I was hurt under your arm.'",
-            explanation: "Romeo steps in to stop the fight and Tybalt thrusts under his arm. Romeo did not stab Mercutio (option B), but his peacemaking gives Tybalt the chance.",
+            explanation: "Romeo steps in to stop the fight and Tybalt thrusts under his arm. Romeo did not stab Mercutio (the option ‘Romeo accidentally stabs him’), but his peacemaking gives Tybalt the chance.",
             guideRef: "conflict-turning-point",
           },
           {
@@ -1355,7 +1355,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 0,
             hint: "'Fortune' here means fate or luck.",
-            explanation: "Romeo sees himself as a toy of fate. Critics also note that this lets him avoid responsibility for a choice he made in anger. 'Fortune' does not mean money here (option B).",
+            explanation: "Romeo sees himself as a toy of fate. Critics also note that this lets him avoid responsibility for a choice he made in anger. 'Fortune' does not mean money here (the option ‘He has become rich by luck’).",
             guideRef: "fate-time",
           },
           {
@@ -1378,7 +1378,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 1,
             hint: "It is the opposite of free will.",
-            explanation: "Fate is destiny, outside human control. Option A defines free will, its opposite.",
+            explanation: "Fate is destiny, outside human control. The option ‘A decision a character makes freely’ defines free will, its opposite.",
             guideRef: "fate-time",
           },
           {
@@ -1449,7 +1449,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 1,
             hint: "Does the change give the characters more time or less?",
-            explanation: "Bringing the wedding forward by a day forces Juliet to take the potion earlier and squeezes the timetable, so the letter has even less time. Option A is the reverse.",
+            explanation: "Bringing the wedding forward by a day forces Juliet to take the potion earlier and squeezes the timetable, so the letter has even less time. The option ‘It gives the Friar more time to send his letter’ is the reverse.",
             guideRef: "fate-time",
           },
           {
@@ -1463,7 +1463,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 2,
             hint: "Three of these options are evidence for fate or chance.",
-            explanation: "Option C lists deliberate decisions by characters, which supports free will. The others (the Prologue, the vision, the plague) are all evidence for fate or chance, so they argue the opposite.",
+            explanation: "The option ‘Romeo chooses to kill Tybalt and later chooses to take poison…’ lists deliberate decisions by characters, which supports free will. The others (the Prologue, the vision, the plague) are all evidence for fate or chance, so they argue the opposite.",
             guideRef: "fate-time",
           },
         ],
@@ -1504,7 +1504,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 1,
             hint: "'Consent' means agreement.",
-            explanation: "Here Capulet says his wishes are only 'part' of the decision and Paris must 'get her heart'. This contrasts sharply with his fury in 3.5, when he gives her no choice (option D describes the later Capulet).",
+            explanation: "Here Capulet says his wishes are only 'part' of the decision and Paris must 'get her heart'. This contrasts sharply with his fury in 3.5, when he gives her no choice (the option ‘That he will decide everything without asking Juliet’ describes the later Capulet).",
             guideRef: "family-patriarchy",
           },
           {
@@ -1518,7 +1518,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 3,
             hint: "Think about where Juliet ends up.",
-            explanation: "Lady Capulet speaks in anger, but the audience (warned by the Prologue) knows Juliet will indeed be 'married to her grave'. She knows nothing of the potion (option C).",
+            explanation: "Lady Capulet speaks in anger, but the audience (warned by the Prologue) knows Juliet will indeed be 'married to her grave'. She knows nothing of the potion (the option ‘It proves she knows about the potion’).",
             guideRef: "family-patriarchy",
           },
           {
@@ -1546,7 +1546,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 0,
             hint: "She pretends to agree to her face, then speaks alone.",
-            explanation: "Juliet pretends to accept the advice, then alone calls the Nurse 'Ancient damnation! O most wicked fiend!' and goes to the Friar. She only pretends to agree (option B).",
+            explanation: "Juliet pretends to accept the advice, then alone calls the Nurse 'Ancient damnation! O most wicked fiend!' and goes to the Friar. She only pretends to agree (the option ‘She thanks the Nurse and agrees’).",
             guideRef: "family-patriarchy",
           },
           {
@@ -1560,7 +1560,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 2,
             hint: "The word comes from Latin 'solus', alone.",
-            explanation: "A soliloquy is spoken alone on stage. Option D describes an 'aside', which is short and happens while other characters are present.",
+            explanation: "A soliloquy is spoken alone on stage. The option ‘A remark made to the audience while other characters cannot hear’ describes an 'aside', which is short and happens while other characters are present.",
             guideRef: "family-patriarchy",
           },
           {
@@ -1589,7 +1589,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 3,
             hint: "Is anyone there to answer her?",
-            explanation: "These rhetorical questions have no listener; they reveal panic escalating from the potion failing, to poison, to waking alone in the tomb. The Nurse has been sent away, so option A is wrong.",
+            explanation: "These rhetorical questions have no listener; they reveal panic escalating from the potion failing, to poison, to waking alone in the tomb. The Nurse has been sent away, so the option ‘They show Juliet is asking the Nurse for advice’ is wrong.",
             guideRef: "family-patriarchy",
           },
           {
@@ -1674,7 +1674,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 0,
             hint: "Peace is good; 'glooming' is not.",
-            explanation: "The feud has ended, but at the price of young lives, so the peace is overshadowed by grief. The sun refusing to shine is pathetic fallacy reinforcing this. Option D ignores 'glooming'.",
+            explanation: "The feud has ended, but at the price of young lives, so the peace is overshadowed by grief. The sun refusing to shine is pathetic fallacy reinforcing this. The option ‘Everyone is happy that the feud is over’ ignores 'glooming'.",
             guideRef: "context-ending",
           },
           {
@@ -1711,7 +1711,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 1,
             hint: "Look for a short quotation woven into the writer's own sentence, with analysis.",
-            explanation: "Option B blends a short quotation into the sentence and immediately analyses a single word. Option A drops a quotation in with 'Quote:' and repeats 'angry' without analysis.",
+            explanation: "The option ‘Capulet calls Juliet a 'disobedient wretch', a harsh noun…’ blends a short quotation into the sentence and immediately analyses a single word. The option ‘Capulet is angry. Quote: 'Hang thee, young baggage, disobedient…’ drops a quotation in with 'Quote:' and repeats 'angry' without analysis.",
             guideRef: "family-patriarchy",
           },
           {
@@ -1725,7 +1725,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 3,
             hint: "Which one names a technique but says nothing about its effect?",
-            explanation: "Option D only identifies the technique and repeats the quotation, explaining no meaning or effect. The other three all explore connotations or context.",
+            explanation: "The option ‘This is a metaphor because it compares Juliet to the sun.’ only identifies the technique and repeats the quotation, explaining no meaning or effect. The other three all explore connotations or context.",
             guideRef: "balcony-scene",
           },
           {
@@ -1739,7 +1739,7 @@ export const romeoAndJuliet: Topic = {
             ],
             answerIndex: 2,
             hint: "The Prologue said only 'their children's end' could remove the parents' rage.",
-            explanation: "The reconciliation fulfils the Prologue: peace comes only at the cost of the children ('A glooming peace'). Option A ignores the deaths; the ending is hopeful but not happy.",
+            explanation: "The reconciliation fulfils the Prologue: peace comes only at the cost of the children ('A glooming peace'). The option ‘To give the audience a completely happy ending’ ignores the deaths; the ending is hopeful but not happy.",
             guideRef: "context-ending",
           },
         ],

@@ -1524,7 +1524,7 @@ export const hamlet: Topic = {
             answerIndex: 2,
             hint: "'Kind' can mean both 'kindly' and 'natural / of the same kind'.",
             explanation:
-              "'More than kin' = too closely related now that Claudius is uncle and stepfather; 'less than kind' = unnatural and unloving. The first option reverses the meaning.",
+              "'More than kin' = too closely related now that Claudius is uncle and stepfather; 'less than kind' = unnatural and unloving. The option ‘Claudius is kind to Hamlet, so they are closer than family’ reverses the meaning.",
             guideRef: "characters",
           },
           {
@@ -1603,7 +1603,7 @@ export const hamlet: Topic = {
             answerIndex: 0,
             hint: "Only the words Shakespeare wrote go inside the quotation marks, and the sentence must still make sense.",
             explanation:
-              "The first option puts only Shakespeare's words in quotation marks and flows grammatically. The last option wrongly puts the student's own words inside quotation marks.",
+              "The option ‘Hamlet calls Denmark 'an unweeded garden', suggesting it is…’ puts only Shakespeare's words in quotation marks and flows grammatically. The option ‘'Hamlet calls Denmark an unweeded garden', suggesting it is…’ wrongly puts the student's own words inside quotation marks.",
             guideRef: "soliloquies",
           },
           {
@@ -1740,7 +1740,7 @@ export const hamlet: Topic = {
             answerIndex: 3,
             hint: "Remember the Catholic/Protestant split over purgatory.",
             explanation:
-              "Protestant teaching rejected purgatory, so a 'ghost' claiming to come from there might be a demon tempting Hamlet to sin. The first option is the opposite of the fear expressed.",
+              "Protestant teaching rejected purgatory, so a 'ghost' claiming to come from there might be a demon tempting Hamlet to sin. The option ‘Elizabethans believed all ghosts were harmless’ is the opposite of the fear expressed.",
             guideRef: "context",
           },
           {

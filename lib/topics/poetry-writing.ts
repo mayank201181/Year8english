@@ -661,7 +661,7 @@ export const poetryWriting: Topic = {
         answerIndex: 2,
         hint: "Look for a quotation, a technique AND an effect.",
         explanation:
-          "Option C names a technique (onomatopoeia), quotes the poem and explains a precise effect linked to the poem's purpose (home). Option A lists techniques with no quotation or effect; B merely summarises; D makes an overconfident claim about the reader with no analysis.",
+          "The option ‘The onomatopoeic 'click of the rice cooker' in my first line…’ names a technique (onomatopoeia), quotes the poem and explains a precise effect linked to the poem's purpose (home). The option ‘I used lots of techniques like similes, metaphors and alliteration…’ lists techniques with no quotation or effect; B merely summarises; D makes an overconfident claim about the reader with no analysis.",
         guideRef: "writing-commentary",
       },
     ],
@@ -848,7 +848,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 1,
             hint: "Think of how you might speak differently to a grandparent, a friend and a teacher.",
-            explanation: "Code-switching is moving between languages or varieties of language depending on who you are with. It is a rich subject for identity poems. Translation (option C) turns a whole text into another language; code-switching mixes them in real life.",
+            explanation: "Code-switching is moving between languages or varieties of language depending on who you are with. It is a rich subject for identity poems. Translation (the option ‘Translating a poem from one language into another’) turns a whole text into another language; code-switching mixes them in real life.",
             guideRef: "finding-ideas",
           },
           {
@@ -967,7 +967,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 2,
             hint: "Which line makes you want to read the next one?",
-            explanation: "The name line is specific, intriguing and raises a question (how does it sound in each language?). Option A is an abstract statement, B announces the topic instead of beginning the poem, and D is a familiar, clichéd metaphor.",
+            explanation: "The name line is specific, intriguing and raises a question (how does it sound in each language?). The option ‘Identity is a very important thing to all of us.’ is an abstract statement, B announces the topic instead of beginning the poem, and D is a familiar, clichéd metaphor.",
             guideRef: "titles-endings",
           },
           {
@@ -1155,7 +1155,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 1,
             hint: "Two and four go forth.",
-            explanation: "Lines 2 and 4 ('She folds the dumplings…' and 'I only understand the tune.') become lines 1 and 3 of the next stanza. Lines 1 and 3 are saved for the final stanza, which is why option A is tempting but wrong.",
+            explanation: "Lines 2 and 4 ('She folds the dumplings…' and 'I only understand the tune.') become lines 1 and 3 of the next stanza. Lines 1 and 3 are saved for the final stanza, which is why the option ‘'The kettle starts its thin, high song.' and 'Her radio hums in…’ is tempting but wrong.",
             guideRef: "traditional-forms",
           },
           {
@@ -1551,7 +1551,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 0,
             hint: "It should state an intention and hint at a method.",
-            explanation: "Option A states the poem's intention (belonging to several places) and the method (objects and sounds instead of explanation), setting up the analysis. The others are chatty, generic or irrelevant.",
+            explanation: "The option ‘In 'Inventory' I wanted to capture the feeling of belonging to…’ states the poem's intention (belonging to several places) and the method (objects and sounds instead of explanation), setting up the analysis. The others are chatty, generic or irrelevant.",
             guideRef: "writing-commentary",
           },
           {
@@ -1565,7 +1565,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 3,
             hint: "Quotation marks plus a symbol to show the line break.",
-            explanation: "Embed the quotation in quotation marks and use a slash ( / ) to show where the line breaks. This matters especially when your point is about the line break itself. Option A has no quotation marks and loses the line break.",
+            explanation: "Embed the quotation in quotation marks and use a slash ( / ) to show where the line breaks. This matters especially when your point is about the line break itself. The option ‘The enjambment in a suitcase that is never quite unpacked creates…’ has no quotation marks and loses the line break.",
             guideRef: "writing-commentary",
           },
           {
@@ -1579,7 +1579,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 3,
             hint: "Name the poem AND the specific technique you adapted.",
-            explanation: "Option D names the poet and poem, identifies the specific technique borrowed (untranslated words) and explains the effect in the student's own poem. Option B names the poet but not what was learned from her.",
+            explanation: "The option ‘Like Sujata Bhatt in 'Search for My Tongue', I placed words from…’ names the poet and poem, identifies the specific technique borrowed (untranslated words) and explains the effect in the student's own poem. The option ‘I like Sujata Bhatt's poem so I wrote one too.’ names the poet but not what was learned from her.",
             guideRef: "writing-commentary",
           },
           {
@@ -1650,7 +1650,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 2,
             hint: "Look for a judgement, a reason, a weakness AND a specific fix.",
-            explanation: "Option C makes a balanced judgement with evidence, identifies a specific weakness and proposes a concrete improvement. Claiming perfection (B) shows no critical awareness, and D is too vague to earn credit.",
+            explanation: "The option ‘The ending works because the drawer image returns from stanza two,…’ makes a balanced judgement with evidence, identifies a specific weakness and proposes a concrete improvement. Claiming perfection ‘I think my poem is perfect and I would not change anything.’ shows no critical awareness, and D is too vague to earn credit.",
             guideRef: "writing-commentary",
           },
           {
@@ -1664,7 +1664,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 1,
             hint: "Technique-spotting alone earns little.",
-            explanation: "Naming a technique earns very little; marks come from quoting it and explaining its effect and purpose. Listing more techniques (A) would add breadth but still no depth.",
+            explanation: "Naming a technique earns very little; marks come from quoting it and explaining its effect and purpose. Listing more techniques ‘A longer list of other techniques used’ would add breadth but still no depth.",
             guideRef: "writing-commentary",
           },
           {
@@ -1692,7 +1692,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 2,
             hint: "Raw material first, polishing last.",
-            explanation: "Ideas come first, then a free draft, then shaping, cutting and sharpening. Choosing rhymes before a subject (B) is a recipe for forced rhyme.",
+            explanation: "Ideas come first, then a free draft, then shaping, cutting and sharpening. Choosing rhymes before a subject ‘Choose a rhyme scheme → find rhyming words → think of a subject’ is a recipe for forced rhyme.",
             guideRef: "drafting-redrafting",
           },
           {
@@ -1734,7 +1734,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 2,
             hint: "Can you guarantee how every reader responds?",
-            explanation: "Tentative language ('I hoped… would sense') acknowledges that readers respond differently, and pointing to the specific image makes the claim analytical. Options A and B overclaim; D is vague and abstract.",
+            explanation: "Tentative language ('I hoped… would sense') acknowledges that readers respond differently, and pointing to the specific image makes the claim analytical. The option ‘'Everyone who reads it will cry.'’ and B overclaim; D is vague and abstract.",
             guideRef: "writing-commentary",
           },
           {
@@ -1800,7 +1800,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 2,
             hint: "Look for a decision that keeps a benefit AND fixes the problem — with a reason.",
-            explanation: "Option C identifies the problem, chooses a precise solution (half-rhyme), gives an example and explains the effect: sound is kept, meaning is freed. Removing every rhyming line (B) is drastic and unexplained.",
+            explanation: "The option ‘'I switched to half-rhymes such as 'stone / gone', which kept a…’ identifies the problem, chooses a precise solution (half-rhyme), gives an example and explains the effect: sound is kept, meaning is freed. Removing every rhyming line ‘'I removed every line that rhymed.'’ is drastic and unexplained.",
             guideRef: "drafting-redrafting",
           },
         ],

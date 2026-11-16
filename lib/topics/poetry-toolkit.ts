@@ -616,7 +616,7 @@ export const poetryToolkit: Topic = {
         answerIndex: 3,
         hint: "It comes from Italy and splits 14 lines into 8 + 6.",
         explanation:
-          "A Petrarchan sonnet is divided into an octave (8 lines) and a sestet (6 lines), with the turn at line 9. Option A is tempting because it is also a sonnet, but that is the Shakespearean pattern. B describes a villanelle and C a haiku.",
+          "A Petrarchan sonnet is divided into an octave (8 lines) and a sestet (6 lines), with the turn at line 9. The option ‘Three quatrains and a rhyming couplet, rhyming ABAB CDCD EFEF GG’ is tempting because it is also a sonnet, but that is the Shakespearean pattern. B describes a villanelle and C a haiku.",
         guideRef: "form",
       },
       {
@@ -631,7 +631,7 @@ export const poetryToolkit: Topic = {
         answerIndex: 1,
         hint: "Which one explains WHAT a word suggests and WHY that matters?",
         explanation:
-          "Option B zooms in on one word, explains its connotations (old, feeble) and links the effect to the eagle's power. Option C is tempting because it correctly names the technique and quotes, but it never explains the effect, so it is still feature spotting.",
+          "The option ‘The verb 'crawls' personifies the sea as old and feeble, shrinking…’ zooms in on one word, explains its connotations (old, feeble) and links the effect to the eagle's power. The option ‘In line 4 there is personification because the sea crawls.’ is tempting because it correctly names the technique and quotes, but it never explains the effect, so it is still feature spotting.",
         guideRef: "technique-and-effect",
       },
     ],
@@ -941,7 +941,7 @@ export const poetryToolkit: Topic = {
             answerIndex: 0,
             hint: "Which one names a technique but never explains its effect?",
             explanation:
-              "Option A is feature spotting: 'makes it interesting' could be said of any technique in any poem. The other three each explain a specific effect linked to a precise word or pattern.",
+              "The option ‘Blake uses rhetorical questions in the poem, which makes it…’ is feature spotting: 'makes it interesting' could be said of any technique in any poem. The other three each explain a specific effect linked to a precise word or pattern.",
             guideRef: "technique-and-effect",
           },
           {
@@ -1138,7 +1138,7 @@ export const poetryToolkit: Topic = {
             answerIndex: 1,
             hint: "Look for the first pronoun referring to the speaker.",
             explanation:
-              "'I've heard it' introduces the speaker's own testimony, making the claims about hope feel personal and proven. The poem does not use questions, so option A is wrong.",
+              "'I've heard it' introduces the speaker's own testimony, making the claims about hope feel personal and proven. The poem does not use questions, so the option ‘It switches from statements to questions’ is wrong.",
             guideRef: "tone-voice",
           },
           {
@@ -1283,7 +1283,7 @@ export const poetryToolkit: Topic = {
             question: "What is the rhyme scheme of lines 1 to 8?",
             options: ["ABAB CDCD", "ABBA ABBA", "AABB CCDD", "ABCB DEFE"],
             answerIndex: 1,
-            hint: "away (A), land (B), hand, stay...",
+            hint: "away ‘ABAB CDCD’, land ‘ABBA ABBA’, hand, stay...",
             explanation:
               "away / land / hand / stay / day / planned / understand / pray gives ABBA ABBA, the classic Petrarchan octave. ABAB CDCD is the Shakespearean pattern.",
             guideRef: "rhyme",
@@ -1355,7 +1355,7 @@ export const poetryToolkit: Topic = {
             answerIndex: 3,
             hint: "Read the last two lines.",
             explanation:
-              "'Better by far you should forget and smile / Than that you should remember and be sad' reverses the octave's plea. Option C is tempting because 'pray' appears in line 8, but the line says it will then be too late to pray.",
+              "'Better by far you should forget and smile / Than that you should remember and be sad' reverses the octave's plea. The option ‘She asks her loved one to pray for her’ is tempting because 'pray' appears in line 8, but the line says it will then be too late to pray.",
             guideRef: "structure",
           },
           {
@@ -1618,7 +1618,7 @@ export const poetryToolkit: Topic = {
             answerIndex: 1,
             hint: "It ends with two rhyming lines.",
             explanation:
-              "Three alternately rhymed quatrains plus a final couplet is the Shakespearean (English) sonnet. Option A is the Petrarchan sonnet, the most tempting confusion.",
+              "Three alternately rhymed quatrains plus a final couplet is the Shakespearean (English) sonnet. The option ‘An octave and a sestet with a volta at line 9’ is the Petrarchan sonnet, the most tempting confusion.",
             guideRef: "form",
           },
           {
@@ -1643,7 +1643,7 @@ export const poetryToolkit: Topic = {
             answerIndex: 0,
             hint: "Compare 'he stands' with 'he falls'.",
             explanation:
-              "The verbs move from 'clasps' and 'stands' (stillness) to 'falls' (explosive action): the poem builds tension and then releases it. Option D ignores the dramatic final line.",
+              "The verbs move from 'clasps' and 'stands' (stillness) to 'falls' (explosive action): the poem builds tension and then releases it. The option ‘There is no contrast; both stanzas describe the same stillness’ ignores the dramatic final line.",
             guideRef: "structure",
           },
           {
@@ -1754,7 +1754,7 @@ export const poetryToolkit: Topic = {
             answerIndex: 3,
             hint: "Ballads were originally sung stories.",
             explanation:
-              "Ballads are narrative songs, typically in quatrains rhyming ABCB, with strong rhythm and often a refrain. Option A describes a sonnet.",
+              "Ballads are narrative songs, typically in quatrains rhyming ABCB, with strong rhythm and often a refrain. The option ‘Fourteen lines, a volta and a final couplet’ describes a sonnet.",
             guideRef: "form",
           },
           {

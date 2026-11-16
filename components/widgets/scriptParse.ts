@@ -42,7 +42,6 @@ const TENSE: Record<string, string> = {
 };
 
 const STOP = new Set(["The", "A", "An", "He", "She", "They", "It", "But", "And", "Then", "When", "I", "We", "You", "His", "Her", "Their", "There", "This", "That", "Everybody", "Over", "Somewhere", "Suddenly", "After", "As", "In", "On", "At", "Outside", "Inside", "Mr", "Mrs", "Ms", "Miss", "Dr"]);
-const PRONOUNS = new Set(["he", "she", "they", "i"]);
 const V = Object.keys(SPEECH_VERBS).join("|");
 const QUOTE_RE = /[“"]([^”"]+)[”"]/g;
 const NM = "((?:Mr|Mrs|Ms|Miss|Dr)\\.? [A-Z][a-z]+|[A-Z][a-z]+)";

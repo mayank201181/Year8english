@@ -233,7 +233,7 @@ const mcqP1: Paper<MCQ> = {
         "It tells us directly how Mei is feeling",
       ],
       answerIndex: 1,
-      hint: "Does the last line answer a question or raise one?",
+      hint: "Does the last line settle a question or raise one?",
       explanation:
         "The isolated short sentence raises a new mystery at the moment of greatest tension, which is a cliffhanger. It does the opposite of resolving the story neatly.",
       guideRef: "structure",
@@ -250,7 +250,7 @@ const mcqP1: Paper<MCQ> = {
       answerIndex: 2,
       hint: "Look at the first line, the middle paragraphs and the last two lines. Wide or close?",
       explanation:
-        "The extract opens with a wide shot of the sky over Toa Payoh, moves to the storm sweeping the estate, then zooms in on Mei pressed against a pillar and the shape coming towards her. There is no flashback, so the first option is wrong.",
+        "The extract opens with a wide shot of the sky over Toa Payoh, moves to the storm sweeping the estate, then zooms in on Mei pressed against a pillar and the shape coming towards her. There is no flashback, so the option ‘From Mei's childhood to the present day’ is wrong.",
       guideRef: "structure",
     },
     {
@@ -335,7 +335,7 @@ const mcqP1: Paper<MCQ> = {
       answerIndex: 2,
       hint: "The best analysis names the technique AND explains a precise effect.",
       explanation:
-        "The third option zooms in on 'heavy as a coin' and explains exactly what it suggests (weight, solidity, a warning of force). 'Makes it more interesting' is a vague, empty comment that examiners do not credit.",
+        "The option ‘The simile 'heavy as a coin' makes a single raindrop feel solid…’ zooms in on 'heavy as a coin' and explains exactly what it suggests (weight, solidity, a warning of force). 'Makes it more interesting' is a vague, empty comment that examiners do not credit.",
       guideRef: "language-analysis",
     },
     {
@@ -350,7 +350,7 @@ const mcqP1: Paper<MCQ> = {
       answerIndex: 0,
       hint: "A good summary covers beginning, middle and end, in your own words.",
       explanation:
-        "The first option covers the whole extract in fresh wording. The third simply copies the first line, and the second focuses on a minor detail.",
+        "The option ‘A girl waits for her brother at her block as a violent tropical…’ covers the whole extract in fresh wording. The third simply copies the first line, and the second focuses on a minor detail.",
       guideRef: "summary-evaluation",
     },
     {
@@ -537,7 +537,7 @@ const mcqP2: Paper<MCQ> = {
       answerIndex: 1,
       hint: "Read the next sentence: 'Such fact impressed him as being cold and uncomfortable, and that was all.'",
       explanation:
-        "The precise figure is exactly the kind of 'fact' the man understands, while he misses its deadly 'significance'. The maths is correct (−50 °F is 82 degrees below freezing), so the first option is wrong.",
+        "The precise figure is exactly the kind of 'fact' the man understands, while he misses its deadly 'significance'. The maths is correct (−50 °F is 82 degrees below freezing), so the option ‘To show that the man's maths is wrong’ is wrong.",
       guideRef: "language-analysis",
     },
     {
@@ -627,7 +627,7 @@ const mcqP2: Paper<MCQ> = {
       answerIndex: 1,
       hint: "Own words means rephrasing, not reshuffling the same word.",
       explanation:
-        "The second option genuinely rephrases the idea. The others reuse the key word 'imagination' (or a form of it), so they show no understanding.",
+        "The option ‘He could not picture consequences or possibilities beyond the…’ genuinely rephrases the idea. The others reuse the key word 'imagination' (or a form of it), so they show no understanding.",
       guideRef: "summary-evaluation",
     },
     {
@@ -734,7 +734,7 @@ const mcqP3: Paper<MCQ> = {
       answerIndex: 1,
       hint: "Look at the ending: what does the writer want you to DO?",
       explanation:
-        "The article gives facts (inform) but also uses opinion and imperatives ('put down the phone, keep your distance') to make us value the otters (persuade). The first option is tempting, but the writer clearly takes a side.",
+        "The article gives facts (inform) but also uses opinion and imperatives ('put down the phone, keep your distance') to make us value the otters (persuade). The option ‘To inform readers about otters without giving any opinion’ is tempting, but the writer clearly takes a side.",
       guideRef: "non-fiction-viewpoint",
     },
     {
@@ -919,7 +919,7 @@ const mcqP3: Paper<MCQ> = {
       answerIndex: 0,
       hint: "Think of a writer describing a journey for readers who may never go.",
       explanation:
-        "Travel writing is personal, descriptive and often opinionated, as well as informative. A guidebook timetable is purely informative, which is why the second option is too narrow.",
+        "Travel writing is personal, descriptive and often opinionated, as well as informative. A guidebook timetable is purely informative, which is why the option ‘It only gives timetables and prices’ is too narrow.",
       guideRef: "non-fiction-viewpoint",
     },
     {
@@ -934,7 +934,7 @@ const mcqP3: Paper<MCQ> = {
       answerIndex: 1,
       hint: "Own words, and the cause-and-effect chain.",
       explanation:
-        "The second option explains the chain (clean-up → clean water → fish → otters) in fresh words. The first is a direct copy from the text, which does not count as a summary in your own words.",
+        "The option ‘Because a long clean-up made the river clean enough for fish to…’ explains the chain (clean-up → clean water → fish → otters) in fresh words. The first is a direct copy from the text, which does not count as a summary in your own words.",
       guideRef: "summary-evaluation",
     },
     {
@@ -949,7 +949,7 @@ const mcqP3: Paper<MCQ> = {
       answerIndex: 3,
       hint: "A strong evaluation weighs both sides and uses evidence.",
       explanation:
-        "The best evaluation gives a balanced judgement backed by quotations. The first option is factually wrong, because problems ARE mentioned; checking claims against the text is essential in evaluation.",
+        "The best evaluation gives a balanced judgement backed by quotations. The option ‘The writer is completely unfair because no problems are mentioned…’ is factually wrong, because problems ARE mentioned; checking claims against the text is essential in evaluation.",
       guideRef: "summary-evaluation",
     },
   ],
@@ -2518,7 +2518,7 @@ export const comprehension: Topic = {
         answerIndex: 2,
         hint: "Why would a writer add 'to begin with' after saying someone is dead?",
         explanation:
-          "The blunt fact hooks us, while 'to begin with' oddly suggests more is coming; indeed, Marley returns as a ghost. There is no setting description here, so the first option is wrong.",
+          "The blunt fact hooks us, while 'to begin with' oddly suggests more is coming; indeed, Marley returns as a ghost. There is no setting description here, so the option ‘It gives a detailed description of the setting’ is wrong.",
         guideRef: "structure",
       },
       {

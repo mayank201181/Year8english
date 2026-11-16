@@ -111,7 +111,7 @@ export function scheme(lines: string[]): string[] {
   });
 }
 
-const BANK = "light night bright flight sight white kite day way play say grey stay away sea free tree me see three sky high fly cry why try rain pain train again sun run fun done one home alone stone bone heart start part apart love above sound ground found around door floor more shore before sing ring spring king thing cloud crowd proud loud name same came flame sleep deep keep sweep cold old gold told hold time rhyme climb blue new through true rose knows those snow go slow know show fire tired desire air there care where hair moon soon tune spoon June street feet heat sweet meet eat bed red head said fear near here clear year dream seem stream green between seen sea mind find kind behind blind hand land stand sand end friend send bend".split(" ");
+const BANK = "light night bright flight sight white kite day way play say grey stay away sea free tree me see three sky high fly cry why try rain pain train again sun run fun done one home alone stone bone heart start part apart love above sound ground found around door floor more shore before sing ring spring king thing cloud crowd proud loud name same came flame sleep deep keep sweep cold old gold told hold time rhyme climb blue new through true rose knows those snow go slow know show fire tired desire air there care where hair moon soon tune spoon June street feet heat sweet meet eat bed red head said fear near here clear year dream seem stream green between seen sea mind find kind behind blind hand land stand sand end friend send bend fine line mine shine nine pine".split(" ");
 
 /** A few words that rhyme with `word` (from a small built-in bank). */
 export function rhymesFor(word: string, n = 4): string[] {

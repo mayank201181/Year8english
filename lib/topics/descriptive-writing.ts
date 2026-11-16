@@ -594,7 +594,7 @@ export const descriptiveWriting: Topic = {
         answerIndex: 2,
         hint: "Which sentence never uses a word like 'busy', 'crowded' or 'full'?",
         explanation:
-          "Option C gives evidence — every stool taken, a queue coiling past another stall — so the reader concludes for themselves that it is crowded. Option B is tempting because 'the busiest I had ever seen' sounds emphatic, but it still simply names the quality ('busiest') instead of showing it.",
+          "The option ‘Every plastic stool was taken, and the queue for chicken rice…’ gives evidence — every stool taken, a queue coiling past another stall — so the reader concludes for themselves that it is crowded. The option ‘It was the busiest hawker centre I had ever seen.’ is tempting because 'the busiest I had ever seen' sounds emphatic, but it still simply names the quality ('busiest') instead of showing it.",
         guideRef: "show-dont-tell",
       },
       {
@@ -719,7 +719,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Look for a sentence that names the emotion directly.",
             explanation:
-              "Option B names the feeling outright ('terrified'), so it tells. The others give physical evidence — shaking hands, rereading, trembling fingers — that lets the reader infer fear. Option D is tempting because 'trembling' is close to an emotion word, but it describes a visible action, not the feeling itself.",
+              "The option ‘She was terrified of what the letter might say.’ names the feeling outright ('terrified'), so it tells. The others give physical evidence — shaking hands, rereading, trembling fingers — that lets the reader infer fear. The option ‘The letter rustled in her trembling fingers.’ is tempting because 'trembling' is close to an emotion word, but it describes a visible action, not the feeling itself.",
             guideRef: "show-dont-tell",
           },
           {
@@ -734,7 +734,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "Which sentence would you notice with your nose?",
             explanation:
-              "Garlic in hot oil and 'sharp, sweet smoke' are smells. Option A is sight, B is sound and C is touch. Option B is tempting because a wok suggests cooking smells, but the sentence itself only describes the clanging sound.",
+              "Garlic in hot oil and 'sharp, sweet smoke' are smells. The option ‘The lanterns glowed red against the dusk.’ is sight, B is sound and C is touch. The option ‘The wok clanged against the burner.’ is tempting because a wok suggests cooking smells, but the sentence itself only describes the clanging sound.",
             guideRef: "five-senses",
           },
           {
@@ -760,7 +760,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "It links the outside world to an inner feeling.",
             explanation:
-              "Pathetic fallacy is when weather or setting mirrors a mood — a storm during an argument, for instance. Option A is tempting, but simply mentioning weather is not enough; the weather must reflect an emotion. Option B confuses 'pathetic' with 'pitiful'; the word actually comes from the Greek 'pathos', meaning feeling.",
+              "Pathetic fallacy is when weather or setting mirrors a mood — a storm during an argument, for instance. The option ‘Any sentence that mentions the weather’ is tempting, but simply mentioning weather is not enough; the weather must reflect an emotion. The option ‘Writing that makes the reader feel pity’ confuses 'pathetic' with 'pitiful'; the word actually comes from the Greek 'pathos', meaning feeling.",
             guideRef: "figurative-language",
           },
           {
@@ -775,7 +775,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "Which phrase have you heard hundreds of times before?",
             explanation:
-              "'As quiet as a mouse' is so overused that readers no longer picture anything — a cliché. The others are specific and fresh. Option B might seem odd, but comparing a dusk sky to milky-brown teh tarik is an original image rooted in a Singapore setting.",
+              "'As quiet as a mouse' is so overused that readers no longer picture anything — a cliché. The others are specific and fresh. The option ‘The sky turned the colour of teh tarik.’ might seem odd, but comparing a dusk sky to milky-brown teh tarik is an original image rooted in a Singapore setting.",
             guideRef: "figurative-language",
           },
           {
@@ -802,7 +802,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "Look for the version with no adverb at all.",
             explanation:
-              "'Sprinted' carries both ideas — running and speed — in a single strong verb. Option C is tempting because 'fast' is shorter than 'quickly', but it is still a weak verb propped up by an adverb.",
+              "'Sprinted' carries both ideas — running and speed — in a single strong verb. The option ‘He ran fast to the bus stop.’ is tempting because 'fast' is shorter than 'quickly', but it is still a weak verb propped up by an adverb.",
             guideRef: "precise-vocabulary",
           },
           {
@@ -842,7 +842,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "The 'where/when/how' phrase must come FIRST, followed by a comma.",
             explanation:
-              "'Beneath the swaying lanterns,' tells us where and is placed at the front of the sentence, followed by a comma. Option D contains exactly the same phrase, which makes it tempting, but there it comes at the end, so it is not fronted.",
+              "'Beneath the swaying lanterns,' tells us where and is placed at the front of the sentence, followed by a comma. The option ‘The crowd surged forward beneath the swaying lanterns.’ contains exactly the same phrase, which makes it tempting, but there it comes at the end, so it is not fronted.",
             guideRef: "sentence-variety",
           },
           {
@@ -857,7 +857,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Think of a drum beat after a long melody.",
             explanation:
-              "A short sentence after long ones lands with sudden force, creating impact, tension or a shift. Option C is tempting, but it is long, flowing sentences that usually slow the reader down; a short sentence makes them stop abruptly, not linger.",
+              "A short sentence after long ones lands with sudden force, creating impact, tension or a shift. The option ‘To slow the reader right down’ is tempting, but it is long, flowing sentences that usually slow the reader down; a short sentence makes them stop abruptly, not linger.",
             guideRef: "sentence-variety",
           },
           {
@@ -894,7 +894,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "Think of a circle that closes back on its starting point.",
             explanation:
-              "In a cyclical structure the final lines return to the opening image or phrase, usually changed, giving a sense of completion. Option B is tempting because seasons are a cycle, but a cyclical structure is about the ending echoing the opening, not about seasons.",
+              "In a cyclical structure the final lines return to the opening image or phrase, usually changed, giving a sense of completion. The option ‘Each paragraph describes a different season’ is tempting because seasons are a cycle, but a cyclical structure is about the ending echoing the opening, not about seasons.",
             guideRef: "structure",
           },
           {
@@ -924,7 +924,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "The capital letters in TiPToP are the clue.",
             explanation:
-              "TiPToP stands for Time, Place, Topic, Person. Option A is tempting because tone and pace matter in description, but they are not what the mnemonic stands for.",
+              "TiPToP stands for Time, Place, Topic, Person. The option ‘Tone, Pace, Tense, Punctuation’ is tempting because tone and pace matter in description, but they are not what the mnemonic stands for.",
             guideRef: "viewpoint-tense-paragraphing",
           },
           {
@@ -969,7 +969,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "Think about how a film camera moves through a scene.",
             explanation:
-              "The layers become camera positions, giving you a ready-made structure that can move from wide to close. Option A is tempting, but describing every object produces a list; strong writers select details rather than recording everything.",
+              "The layers become camera positions, giving you a ready-made structure that can move from wide to close. The option ‘So that you can describe every object in the picture’ is tempting, but describing every object produces a list; strong writers select details rather than recording everything.",
             guideRef: "planning-redrafting",
           },
           {
@@ -1018,7 +1018,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "Use the glossary — and think of someone you cannot calm down.",
             explanation:
-              "'Implacable' means impossible to calm or appease, so the weather feels relentless and almost hostile, like an enemy who will not be pacified. Option C is tempting because bad weather can be changeable, but 'implacable' stresses the opposite — that it will not ease at all.",
+              "'Implacable' means impossible to calm or appease, so the weather feels relentless and almost hostile, like an enemy who will not be pacified. The option ‘It changes from hour to hour’ is tempting because bad weather can be changeable, but 'implacable' stresses the opposite — that it will not ease at all.",
             guideRef: "precise-vocabulary",
           },
           {
@@ -1034,7 +1034,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "'Would not be wonderful' here means 'would not be surprising'. Why might a dinosaur not be surprising?",
             explanation:
-              "Dickens imagines the streets so muddy that it is as if the floodwaters have just drained away and dinosaurs might still roam — a humorous hyperbole that makes the filth seem primeval. Option C is tempting only if you miss the 'would not be wonderful' (it is imagined, not real).",
+              "Dickens imagines the streets so muddy that it is as if the floodwaters have just drained away and dinosaurs might still roam — a humorous hyperbole that makes the filth seem primeval. The option ‘It describes something that really happened’ is tempting only if you miss the 'would not be wonderful' (it is imagined, not real).",
             guideRef: "figurative-language",
           },
           {
@@ -1061,7 +1061,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Mourning (with a 'u') is not the same as morning.",
             explanation:
-              "Mourning is grieving for the dead; Victorian mourners wore black. The black soot becomes the city's funeral clothes for 'the death of the sun' — the vanished daylight. Option A is the trap: it confuses 'mourning' with 'morning'.",
+              "Mourning is grieving for the dead; Victorian mourners wore black. The black soot becomes the city's funeral clothes for 'the death of the sun' — the vanished daylight. The option ‘It means 'early in the day', showing the time’ is the trap: it confuses 'mourning' with 'morning'.",
             guideRef: "figurative-language",
           },
           {
@@ -1077,7 +1077,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "'Undistinguishable' = cannot be told apart. 'Mire' = deep mud.",
             explanation:
-              "The dogs are so plastered in mud that they blend into it — Dickens shows the depth of the mud rather than simply saying 'it was very muddy'. Option A is tempting because the dogs are hard to see, but the point is the mud covering them, not that they are lost.",
+              "The dogs are so plastered in mud that they blend into it — Dickens shows the depth of the mud rather than simply saying 'it was very muddy'. The option ‘The dogs are lost in the city’ is tempting because the dogs are hard to see, but the point is the mud covering them, not that they are lost.",
             guideRef: "show-dont-tell",
           },
           {
@@ -1093,7 +1093,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "How does an infection travel through a crowd?",
             explanation:
-              "Dickens uses 'infection' metaphorically: irritation passes from one jostling pedestrian to the next like a contagious illness. Option B is tempting because 'infection' literally means disease, but here it describes the spread of 'ill temper', not a fever.",
+              "Dickens uses 'infection' metaphorically: irritation passes from one jostling pedestrian to the next like a contagious illness. The option ‘The people are physically ill with a fever’ is tempting because 'infection' literally means disease, but here it describes the spread of 'ill temper', not a fever.",
             guideRef: "figurative-language",
           },
           {
@@ -1109,7 +1109,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "What does it mean for day to 'break'?",
             explanation:
-              "Day 'breaks' at dawn. By questioning whether it ever did, Dickens jokes that the fog and soot are so thick it is hard to tell day from night — gloom delivered with wit. Option A is tempting, but the brackets add a wry comment rather than fixing an error.",
+              "Day 'breaks' at dawn. By questioning whether it ever did, Dickens jokes that the fog and soot are so thick it is hard to tell day from night — gloom delivered with wit. The option ‘To correct a mistake in the previous phrase’ is tempting, but the brackets add a wry comment rather than fixing an error.",
             guideRef: "punctuation-for-effect",
           },
           {
@@ -1120,7 +1120,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "Where else do you hear 'deposits' and 'compound interest'?",
             explanation:
-              "'Deposits' and 'compound interest' are banking terms: the mud piles up and grows on itself like savings in a bank. Option A is tempting because 'crust upon crust' suggests layers, but the extended comparison here is financial.",
+              "'Deposits' and 'compound interest' are banking terms: the mud piles up and grows on itself like savings in a bank. The option ‘A layered cake’ is tempting because 'crust upon crust' suggests layers, but the extended comparison here is financial.",
             guideRef: "figurative-language",
           },
           {
@@ -1155,7 +1155,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Each repetition takes the fog somewhere new.",
             explanation:
-              "Each 'Fog' carries it into a new place — river, marshes, ships, cabins, people's throats — so it seems to fill the whole of London and beyond. Option A is tempting because fog obscures things, but the repetition actually clarifies how far the fog reaches.",
+              "Each 'Fog' carries it into a new place — river, marshes, ships, cabins, people's throats — so it seems to fill the whole of London and beyond. The option ‘It deliberately confuses the reader about the setting’ is tempting because fog obscures things, but the repetition actually clarifies how far the fog reaches.",
             guideRef: "sentence-variety",
           },
           {
@@ -1170,7 +1170,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "List the places the fog visits.",
             explanation:
-              "The paragraph pans from the river to the marshes, the ships, cabins, an apprentice's fingers and people on bridges — a sweeping camera movement. Option A is tempting because it does briefly zoom to the 'prentice boy', but it never settles on anyone's thoughts.",
+              "The paragraph pans from the river to the marshes, the ships, cabins, an apprentice's fingers and people on bridges — a sweeping camera movement. The option ‘It zooms in on one character's thoughts throughout’ is tempting because it does briefly zoom to the 'prentice boy', but it never settles on anyone's thoughts.",
             guideRef: "structure",
           },
           {
@@ -1196,7 +1196,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "Verbs are action words. What happens when there is no action?",
             explanation:
-              "Without main verbs, nothing 'happens': the scene becomes a series of frozen snapshots, mirroring a city paralysed by fog and mud. Option D is tempting because short fragments can feel quick, but here the effect is stillness and stagnation, not action.",
+              "Without main verbs, nothing 'happens': the scene becomes a series of frozen snapshots, mirroring a city paralysed by fog and mud. The option ‘To speed up the action’ is tempting because short fragments can feel quick, but here the effect is stillness and stagnation, not action.",
             guideRef: "sentence-variety",
           },
           {
@@ -1212,7 +1212,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "'Nether' means lower. Where is the sky now?",
             explanation:
-              "Looking down from the bridge, people see 'a nether sky' of fog — sky below as well as above — so they seem to float, cut off from the earth. Option A is tempting because balloons suggest adventure, but the image stresses disorientation, not thrill.",
+              "Looking down from the bridge, people see 'a nether sky' of fog — sky below as well as above — so they seem to float, cut off from the earth. The option ‘Excitement about flying’ is tempting because balloons suggest adventure, but the image stresses disorientation, not thrill.",
             guideRef: "figurative-language",
           },
           {
@@ -1227,7 +1227,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "Good analysis names a method AND explains its effect.",
             explanation:
-              "Option D identifies specific methods (repetition, minor sentences) and explains the effect on the reader. Option C is tempting because it uses a technical term, but it only spots a technique without saying what it achieves.",
+              "The option ‘The repeated minor sentences beginning 'Fog…' make the fog seem to…’ identifies specific methods (repetition, minor sentences) and explains the effect on the reader. The option ‘Dickens uses a simile in the passage.’ is tempting because it uses a technical term, but it only spots a technique without saying what it achieves.",
             guideRef: "sentence-variety",
           },
           {
@@ -1243,7 +1243,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "Read 'a great city' and then 'a great (and dirty) city'. What changes?",
             explanation:
-              "The brackets let Dickens slip in a sly, deflating comment: London may be 'great', but it is also filthy. Option D is tempting because the phrase follows a description of the river, but the aside judges the whole city, not the water's colour.",
+              "The brackets let Dickens slip in a sly, deflating comment: London may be 'great', but it is also filthy. The option ‘A description of the colour of the river’ is tempting because the phrase follows a description of the river, but the aside judges the whole city, not the water's colour.",
             guideRef: "punctuation-for-effect",
           },
           {
@@ -1258,7 +1258,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Borrow the technique, not the details.",
             explanation:
-              "Anaphora ('Haze on the expressway. Haze over the reservoir…') would transfer perfectly to a modern setting. Option A is tempting because the vocabulary is rich, but those nouns belong to Victorian London and would sound out of place in Singapore.",
+              "Anaphora ('Haze on the expressway. Haze over the reservoir…') would transfer perfectly to a modern setting. The option ‘Using Victorian vocabulary such as 'gunwales' and 'cabooses'’ is tempting because the vocabulary is rich, but those nouns belong to Victorian London and would sound out of place in Singapore.",
             guideRef: "sentence-variety",
           },
           {
@@ -1289,7 +1289,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "Which one names a real place and makes the train come alive?",
             explanation:
-              "Option D uses a specific place and personification ('sighed', 'breathed out') to show the crowd. Option B is tempting because it mentions two senses, but 'busy and loud' are tells, and 'I went on the MRT' is a flat, recount-style opening.",
+              "The option ‘At Raffles Place the doors sighed open, and the carriage breathed…’ uses a specific place and personification ('sighed', 'breathed out') to show the crowd. The option ‘I went on the MRT and it was busy and loud.’ is tempting because it mentions two senses, but 'busy and loud' are tells, and 'I went on the MRT' is a flat, recount-style opening.",
             guideRef: "show-dont-tell",
           },
           {
@@ -1304,7 +1304,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Which one have you never read before?",
             explanation:
-              "Option B uses precise, original details — rain bouncing 'knee-high', drains pouring 'brown, muscular ropes'. The others are worn-out phrases; D is tempting because it sounds dramatic, but 'a dark and stormy night' is one of the most famous clichés in English.",
+              "The option ‘Rain bounced knee-high off the road and poured from the drains in…’ uses precise, original details — rain bouncing 'knee-high', drains pouring 'brown, muscular ropes'. The others are worn-out phrases; D is tempting because it sounds dramatic, but 'a dark and stormy night' is one of the most famous clichés in English.",
             guideRef: "figurative-language",
           },
           {
@@ -1341,7 +1341,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "Which detail names exactly what it is?",
             explanation:
-              "Option A names a specific food (bak kwa), a precise smell ('sweet, burnt') and a sound-verb ('sizzling'). Option C is tempting because red is the festival colour, but 'lots of decorations' is vague — lanterns? couplets? paper cuttings?",
+              "The option ‘the sweet, burnt smell of bak kwa sizzling on its grill’ names a specific food (bak kwa), a precise smell ('sweet, burnt') and a sound-verb ('sizzling'). The option ‘lots of red decorations’ is tempting because red is the festival colour, but 'lots of decorations' is vague — lanterns? couplets? paper cuttings?",
             guideRef: "precise-vocabulary",
           },
           {
@@ -1357,7 +1357,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "Count the 'I could…' phrases and look at the nouns.",
             explanation:
-              "The sentence ticks off senses like a checklist, with vague nouns (trees, birds, flowers) and no precise detail. Option B is tempting if you think description must be in the present tense, but past tense is perfectly acceptable as long as it is consistent.",
+              "The sentence ticks off senses like a checklist, with vague nouns (trees, birds, flowers) and no precise detail. The option ‘It is written in the wrong tense’ is tempting if you think description must be in the present tense, but past tense is perfectly acceptable as long as it is consistent.",
             guideRef: "five-senses",
           },
           {
@@ -1372,7 +1372,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "Look for a specific bird, a precise sound and no 'I could hear'.",
             explanation:
-              "Option D names a specific bird (the koel, common in Singapore), a precise sound ('rising call') and a real place, and it removes 'I could hear'. Option C is tempting because it adds detail, but 'lots of', 'singing' and 'loudly' are vague, and 'I could hear' remains.",
+              "The option ‘A koel's rising call echoed across Swan Lake.’ names a specific bird (the koel, common in Singapore), a precise sound ('rising call') and a real place, and it removes 'I could hear'. The option ‘I could hear lots of birds singing loudly.’ is tempting because it adds detail, but 'lots of', 'singing' and 'loudly' are vague, and 'I could hear' remains.",
             guideRef: "five-senses",
           },
           {
@@ -1428,7 +1428,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "Find two complete sentences joined only by a comma.",
             explanation:
-              "In C, 'The rain stopped' and 'the steam rose from the road' are both complete sentences joined by just a comma — a comma splice. Option A is tempting because it also has a comma, but 'When the rain stopped' is a subordinate clause, so the comma there is correct.",
+              "In C, 'The rain stopped' and 'the steam rose from the road' are both complete sentences joined by just a comma — a comma splice. The option ‘When the rain stopped, the steam rose.’ is tempting because it also has a comma, but 'When the rain stopped' is a subordinate clause, so the comma there is correct.",
             guideRef: "punctuation-for-effect",
           },
           {
@@ -1443,7 +1443,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "Which weather matches nervous tension?",
             explanation:
-              "Pressing clouds and thick, still, 'waiting' air mirror the students' tension. Option B is also weather, which makes it tempting, but its cheerful mood does not match the tension asked for. Option D simply tells the feeling.",
+              "Pressing clouds and thick, still, 'waiting' air mirror the students' tension. The option ‘The sun shone brightly and the birds sang in the trees.’ is also weather, which makes it tempting, but its cheerful mood does not match the tension asked for. The option ‘I was very nervous about the exam.’ simply tells the feeling.",
             guideRef: "figurative-language",
           },
           {
@@ -1474,7 +1474,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "Look for a specific noun and a strong verb.",
             explanation:
-              "Option A uses one precise adjective ('ancient'), a specific noun ('rain tree') and a vivid verb with personification ('spread its arms'). Option B is tempting because it cuts two adjectives, but the noun and verb are still vague and 'stood' is lifeless.",
+              "The option ‘The ancient rain tree spread its arms over the park.’ uses one precise adjective ('ancient'), a specific noun ('rain tree') and a vivid verb with personification ('spread its arms'). The option ‘The big, old tree stood in the park.’ is tempting because it cuts two adjectives, but the noun and verb are still vague and 'stood' is lifeless.",
             guideRef: "precise-vocabulary",
           },
           {
@@ -1489,7 +1489,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "Which sentence piles sound upon sound?",
             explanation:
-              "Option C builds a long list of separate sounds, so the sentence itself feels crowded, and the repeated 'churned and churned' suggests endless noise. Option A is tempting because short sentences can have impact, but 'It was loud' only tells.",
+              "The option ‘Trays clattered, woks clanged, a child wailed, an auntie shouted…’ builds a long list of separate sounds, so the sentence itself feels crowded, and the repeated 'churned and churned' suggests endless noise. The option ‘It was loud.’ is tempting because short sentences can have impact, but 'It was loud' only tells.",
             guideRef: "sentence-variety",
           },
           {
@@ -1505,7 +1505,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Which ending echoes the opening image?",
             explanation:
-              "Option B returns to the lantern image and the bus, with a change (now leaving, and the light will burn until midnight), closing the circle. Option A is tempting because it also mentions leaving, but it drops the lantern image and ends on a dull recount detail.",
+              "The option ‘From the bus stop, as I leave, the roof is still glowing: a…’ returns to the lantern image and the bus, with a change (now leaving, and the light will burn until midnight), closing the circle. The option ‘Then I go home and have a shower.’ is tempting because it also mentions leaving, but it drops the lantern image and ends on a dull recount detail.",
             guideRef: "structure",
           },
           {
@@ -1520,7 +1520,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "Think 'went' → 'trudged', 'bird' → 'mynah'.",
             explanation:
-              "Substituting means replacing weak words with stronger, more precise ones. Option D is tempting because it involves replacing something, but ARMS works on the writing itself — the words and sentences — not just the title.",
+              "Substituting means replacing weak words with stronger, more precise ones. The option ‘Replacing your title with a better one’ is tempting because it involves replacing something, but ARMS works on the writing itself — the words and sentences — not just the title.",
             guideRef: "planning-redrafting",
           },
           {
@@ -1536,7 +1536,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "The happiness is still there — but how is it conveyed now?",
             explanation:
-              "The redraft replaces the tell ('everyone was happy') with one generous action that shows festive goodwill. Option C is tempting because the word 'happy' has disappeared, but the idea has not been removed — it is now shown instead of told.",
+              "The redraft replaces the tell ('everyone was happy') with one generous action that shows festive goodwill. The option ‘Removing the idea completely’ is tempting because the word 'happy' has disappeared, but the idea has not been removed — it is now shown instead of told.",
             guideRef: "planning-redrafting",
           },
           {
@@ -1588,7 +1588,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "'Mounting' means climbing. 'The fire' is the lightning.",
             explanation:
-              "The waves 'mount' (climb) to the sky's 'cheek' and 'dash' out the 'fire' — the lightning. Option C is tempting because 'pitch' (tar) is mentioned, but it is the sky that would pour down pitch, not the sea that turns into it.",
+              "The waves 'mount' (climb) to the sky's 'cheek' and 'dash' out the 'fire' — the lightning. The option ‘Turning into thick black tar’ is tempting because 'pitch' (tar) is mentioned, but it is the sky that would pour down pitch, not the sea that turns into it.",
             guideRef: "figurative-language",
           },
           {
@@ -1604,7 +1604,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "Pitch is the black tar used to seal ships.",
             explanation:
-              "Pitch is thick black tar, and 'stinking' adds a foul smell, so the clouds seem heavy, dark and disgusting — appealing to sight and smell together. Option B is tempting because storms can bring a fresh smell, but 'stinking' rules that out.",
+              "Pitch is thick black tar, and 'stinking' adds a foul smell, so the clouds seem heavy, dark and disgusting — appealing to sight and smell together. The option ‘They smell of flowers after rain’ is tempting because storms can bring a fresh smell, but 'stinking' rules that out.",
             guideRef: "five-senses",
           },
           {
@@ -1620,7 +1620,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Think about a blow against the chest.",
             explanation:
-              "Metaphorically, the sound of the drowning men 'knocks' against her heart like a physical blow, showing her deep compassion. Option C is tempting if you read 'knock' literally, but no one is at a door — the knock is emotional.",
+              "Metaphorically, the sound of the drowning men 'knocks' against her heart like a physical blow, showing her deep compassion. The option ‘Someone is knocking at the door of Prospero's cell’ is tempting if you read 'knock' literally, but no one is at a door — the knock is emotional.",
             guideRef: "figurative-language",
           },
           {
@@ -1636,7 +1636,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "What does the plank tell us without saying it?",
             explanation:
-              "The cyclical return to calm, now with one lonely plank, lets the reader work out that the ship has been destroyed — showing, not telling, at the most important moment. Option A is tempting because short endings can be strong, but length alone does not create the effect.",
+              "The cyclical return to calm, now with one lonely plank, lets the reader work out that the ship has been destroyed — showing, not telling, at the most important moment. The option ‘It is shorter than the other paragraphs’ is tempting because short endings can be strong, but length alone does not create the effect.",
             guideRef: "structure",
           },
           {
@@ -1651,7 +1651,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "Beware of answers with 'never' or 'always'.",
             explanation:
-              "Showing provides evidence, but a short tell can land powerfully once the reader already agrees. Option A is tempting because it sounds like the rule, but it is too absolute — great writers tell sometimes, deliberately.",
+              "Showing provides evidence, but a short tell can land powerfully once the reader already agrees. The option ‘Writers must never state a feeling directly’ is tempting because it sounds like the rule, but it is too absolute — great writers tell sometimes, deliberately.",
             guideRef: "show-dont-tell",
           },
           {
@@ -1667,7 +1667,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Why not three separate sentences?",
             explanation:
-              "Joining three closely linked clauses with semicolons keeps the reader moving through one long, monotonous sentence — just like a week of unbroken rain. Option A is tempting because semicolons can separate list items, but these clauses are closely related, not unrelated.",
+              "Joining three closely linked clauses with semicolons keeps the reader moving through one long, monotonous sentence — just like a week of unbroken rain. The option ‘They make the sentence a list of unrelated ideas’ is tempting because semicolons can separate list items, but these clauses are closely related, not unrelated.",
             guideRef: "punctuation-for-effect",
           },
           {
@@ -1683,7 +1683,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "The problem is repetition, not the viewpoint itself.",
             explanation:
-              "First person is fine; the repetition is the problem. Varying sentence openings fixes it while keeping the viewpoint. Option B is tempting, but removing the narrator entirely would change the viewpoint and lose the personal voice.",
+              "First person is fine; the repetition is the problem. Varying sentence openings fixes it while keeping the viewpoint. The option ‘Delete every mention of the narrator’ is tempting, but removing the narrator entirely would change the viewpoint and lose the personal voice.",
             guideRef: "viewpoint-tense-paragraphing",
           },
           {
@@ -1698,7 +1698,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "Ambitious does not mean long — it means exact.",
             explanation:
-              "'Needled' is an unexpected but exact verb: it shows the rain as sharp, stinging and repeated. Option B is tempting because the words are long and rare, but they are piled up so densely that the reader cannot picture anything — the thesaurus trap.",
+              "'Needled' is an unexpected but exact verb: it shows the rain as sharp, stinging and repeated. The option ‘The effulgent luminescence irradiated the crepuscular firmament.’ is tempting because the words are long and rare, but they are piled up so densely that the reader cannot picture anything — the thesaurus trap.",
             guideRef: "precise-vocabulary",
           },
           {
@@ -1728,7 +1728,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "White space around a line makes it stand out.",
             explanation:
-              "A single-line paragraph is surrounded by white space, so it stands out as a structural hinge where the mood shifts. Option D is tempting because dialogue often gets new lines, but this line contains no speech.",
+              "A single-line paragraph is surrounded by white space, so it stands out as a structural hinge where the mood shifts. The option ‘To introduce dialogue’ is tempting because dialogue often gets new lines, but this line contains no speech.",
             guideRef: "structure",
           },
           {
@@ -1744,7 +1744,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "Say 'mists and mellow' slowly. Is it hard or soft?",
             explanation:
-              "The 'm' is a soft, humming sound, so the alliteration slows the line and creates a warm, sleepy richness. Option A is tempting only if you assume all alliteration is harsh — hard sounds like 'c' and 'k' are harsh, but 'm' is gentle.",
+              "The 'm' is a soft, humming sound, so the alliteration slows the line and creates a warm, sleepy richness. The option ‘A harsh, violent sound’ is tempting only if you assume all alliteration is harsh — hard sounds like 'c' and 'k' are harsh, but 'm' is gentle.",
             guideRef: "five-senses",
           },
           {
@@ -1760,7 +1760,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Where is the eagle, and how would the sea look from there?",
             explanation:
-              "Seen from the clifftop, the waves look like something small creeping along — which makes the eagle seem huge and dominant. Option A is tempting because the sea can be stormy, but 'crawls' suggests slowness and smallness, not fury.",
+              "Seen from the clifftop, the waves look like something small creeping along — which makes the eagle seem huge and dominant. The option ‘It shows that the sea is angry’ is tempting because the sea can be stormy, but 'crawls' suggests slowness and smallness, not fury.",
             guideRef: "precise-vocabulary",
           },
           {
@@ -1775,7 +1775,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "What happens when the setting refuses to match the feeling?",
             explanation:
-              "When the weather contrasts with the mood, it can create irony and isolation — the world seems indifferent to the characters' grief. Option C is tempting if you treat pathetic fallacy as a rule, but writers deliberately break the pattern for effect.",
+              "When the weather contrasts with the mood, it can create irony and isolation — the world seems indifferent to the characters' grief. The option ‘It is a mistake, because weather must always match the mood’ is tempting if you treat pathetic fallacy as a rule, but writers deliberately break the pattern for effect.",
             guideRef: "figurative-language",
           },
           {
@@ -1791,7 +1791,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "Think of a camera flashing from one thing to the next.",
             explanation:
-              "Each fragment is a quick snapshot, so the reader experiences the dance as bursts of sound and colour. Option B is tempting because they lack main verbs, but deliberate minor sentences used for effect are rewarded, not penalised.",
+              "Each fragment is a quick snapshot, so the reader experiences the dance as bursts of sound and colour. The option ‘They are grammatical mistakes that would lose marks’ is tempting because they lack main verbs, but deliberate minor sentences used for effect are rewarded, not penalised.",
             guideRef: "sentence-variety",
           },
           {
@@ -1821,7 +1821,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "Plan briefly, write most, check at the end.",
             explanation:
-              "A short plan gives you structure, most of the time goes on writing, and a few minutes of checking catches tense slips and comma splices. Option B is tempting when time feels short, but unplanned descriptions usually drift into lists or stories.",
+              "A short plan gives you structure, most of the time goes on writing, and a few minutes of checking catches tense slips and comma splices. The option ‘No planning, 45 minutes writing’ is tempting when time feels short, but unplanned descriptions usually drift into lists or stories.",
             guideRef: "planning-redrafting",
           },
           {
@@ -1837,7 +1837,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "The best comment zooms in on one word and explains its effect.",
             explanation:
-              "Option D focuses on a precise word choice and explains its effect on the reader. Option C is tempting because it names a correct technique, but naming alone, without explaining the effect, earns little credit.",
+              "The option ‘Turning the noun 'knife' into the verb 'knive' makes the wind a…’ focuses on a precise word choice and explains its effect on the reader. The option ‘This is personification.’ is tempting because it names a correct technique, but naming alone, without explaining the effect, earns little credit.",
             guideRef: "precise-vocabulary",
           },
           {
@@ -1852,7 +1852,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "Which option never uses 'love' or 'loving'?",
             explanation:
-              "Peeling his prawns when he could do it himself is a small, specific act of devotion that lets the reader infer her love. Option D is tempting because it sounds poetic, but it still names 'love' directly.",
+              "Peeling his prawns when he could do it himself is a small, specific act of devotion that lets the reader infer her love. The option ‘Love filled her heart whenever she saw him.’ is tempting because it sounds poetic, but it still names 'love' directly.",
             guideRef: "show-dont-tell",
           },
           {
@@ -1867,7 +1867,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "Which plan is organised by the clock?",
             explanation:
-              "Plan A moves from dawn to midday to dusk, so time organises the paragraphs. Option B is tempting because it is also a sound structure, but it moves through space (a drone-to-zoom approach), not through time.",
+              "Plan A moves from dawn to midday to dusk, so time organises the paragraphs. The option ‘Background → midground → foreground’ is tempting because it is also a sound structure, but it moves through space (a drone-to-zoom approach), not through time.",
             guideRef: "structure",
           },
           {
@@ -1882,7 +1882,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "What can you actually perceive in the dark?",
             explanation:
-              "In darkness, the senses that still work — sound and touch — become vivid and unsettling, which suits the scene. Option D is tempting because it sounds thorough, but forcing every sense into every sentence creates a mechanical checklist.",
+              "In darkness, the senses that still work — sound and touch — become vivid and unsettling, which suits the scene. The option ‘All five senses equally in every sentence’ is tempting because it sounds thorough, but forcing every sense into every sentence creates a mechanical checklist.",
             guideRef: "five-senses",
           },
         ],

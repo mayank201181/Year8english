@@ -658,7 +658,7 @@ export const shakespeareLanguage: Topic = {
         answerIndex: 1,
         hint: "Think about who else is on stage, and how long the speech is.",
         explanation:
-          "A soliloquy is a (usually long) speech by a character alone, revealing their thoughts; an aside is a short comment made while others are present but unable to hear. Option A is wrong because both are usually in verse in serious scenes; option C describes a monologue rather than a soliloquy.",
+          "A soliloquy is a (usually long) speech by a character alone, revealing their thoughts; an aside is a short comment made while others are present but unable to hear. The option ‘A soliloquy is always in prose; an aside is always in verse’ is wrong because both are usually in verse in serious scenes; the option ‘A soliloquy is spoken to other characters; an aside is spoken to God’ describes a monologue rather than a soliloquy.",
         guideRef: "dramatic-devices",
       },
     ],
@@ -868,7 +868,7 @@ export const shakespeareLanguage: Topic = {
             answerIndex: 1,
             hint: "James wrote a book about witchcraft and traced his family tree to a character in the play.",
             explanation:
-              "James had written Daemonologie about witchcraft and claimed descent from Banquo, whose descendants the witches show as kings. Mocking Scotland would have insulted the Scottish-born king, so the first option is wrong.",
+              "James had written Daemonologie about witchcraft and claimed descent from Banquo, whose descendants the witches show as kings. Mocking Scotland would have insulted the Scottish-born king, so the option ‘It mocked Scotland, which James disliked’ is wrong.",
             guideRef: "life-and-times",
           },
           {
@@ -1230,7 +1230,7 @@ export const shakespeareLanguage: Topic = {
             answerIndex: 2,
             hint: "In an ABAB pattern, line 2 rhymes with line 4.",
             explanation:
-              "The first quatrain rhymes ABAB: dignity/mutiny (A) and scene/unclean (B). 'Dignity' is tempting because it is near, but it rhymes with 'mutiny' in line 3.",
+              "The first quatrain rhymes ABAB: dignity/mutiny ‘mutiny’ and scene/unclean ‘dignity’. 'Dignity' is tempting because it is near, but it rhymes with 'mutiny' in line 3.",
             guideRef: "verse-prose-rhyme",
           },
           {
@@ -1275,7 +1275,7 @@ export const shakespeareLanguage: Topic = {
             answerIndex: 0,
             hint: "The best analysis names the technique, explores meaning AND explains the effect.",
             explanation:
-              "Option A names the technique, explains the connotation (fate) and the effect on the audience (pity). Option D is the classic weak answer: it just repeats the quotation without explaining anything.",
+              "The option ‘The compound adjective 'star-cross'd' suggests the lovers are…’ names the technique, explains the connotation (fate) and the effect on the audience (pity). The option ‘This quote shows that Romeo and Juliet are lovers who are…’ is the classic weak answer: it just repeats the quotation without explaining anything.",
             guideRef: "reading-an-extract",
           },
         ],
@@ -1296,7 +1296,7 @@ export const shakespeareLanguage: Topic = {
             answerIndex: 1,
             hint: "Say 'today' or 'believe' aloud: da-DUM.",
             explanation:
-              "An iamb is unstressed then stressed (da-DUM), as in 'a-WAKE'. The first option is a trochee (DUM-da), its mirror image and the most common confusion. A ten-syllable line is a line of pentameter, not a single iamb.",
+              "An iamb is unstressed then stressed (da-DUM), as in 'a-WAKE'. The option ‘A stressed syllable followed by an unstressed one’ is a trochee (DUM-da), its mirror image and the most common confusion. A ten-syllable line is a line of pentameter, not a single iamb.",
             guideRef: "iambic-pentameter",
           },
           {
@@ -1337,7 +1337,7 @@ export const shakespeareLanguage: Topic = {
             answerIndex: 2,
             hint: "Tap da-DUM five times: the stress falls on every second syllable.",
             explanation:
-              "Scanned as iambs, the stresses fall on the even syllables: soft, light, YON-der, WIN-dow, breaks, which are also the most meaningful words. The first option lists the unstressed syllables, the exact reverse.",
+              "Scanned as iambs, the stresses fall on the even syllables: soft, light, YON-der, WIN-dow, breaks, which are also the most meaningful words. The option ‘But, what, through, -der, -dow’ lists the unstressed syllables, the exact reverse.",
             guideRef: "iambic-pentameter",
           },
           {
@@ -1825,7 +1825,7 @@ export const shakespeareLanguage: Topic = {
             answerIndex: 3,
             hint: "Does Adam fit Jaques' description of the 'last scene of all'?",
             explanation:
-              "Adam is old and weak but deeply loyal and loving, so Shakespeare's staging questions Jaques' cynical claim that old age is 'mere oblivion'. Option A is tempting because Adam is physically frail, but his character contradicts Jaques' idea that old age has nothing of value.",
+              "Adam is old and weak but deeply loyal and loving, so Shakespeare's staging questions Jaques' cynical claim that old age is 'mere oblivion'. The option ‘It proves that Jaques is completely correct about old age’ is tempting because Adam is physically frail, but his character contradicts Jaques' idea that old age has nothing of value.",
             guideRef: "reading-an-extract",
           },
           {

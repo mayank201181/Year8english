@@ -722,7 +722,7 @@ export const identityCulturePoetry: Topic = {
         answerIndex: 2,
         hint: "Think about how you might speak differently to a teacher, a friend and a grandparent.",
         explanation:
-          "Code-switching is moving between languages or dialects (e.g. Standard English at school, Singlish at a hawker centre). Translation (option D) is tempting but different: translating replaces one language with another, whereas code-switching mixes or alternates them in real use.",
+          "Code-switching is moving between languages or dialects (e.g. Standard English at school, Singlish at a hawker centre). Translation (the option ‘Translating a poem from one language into another’) is tempting but different: translating replaces one language with another, whereas code-switching mixes or alternates them in real use.",
         guideRef: "language-identity",
       },
       {
@@ -749,7 +749,7 @@ export const identityCulturePoetry: Topic = {
         answerIndex: 3,
         hint: "What do we expect from a mother?",
         explanation:
-          "A mother cares for and protects her children, so the metaphor presents the statue as welcoming exiles as if adopting them. Option C is tempting because she is ‘mighty’ with a torch, but the poem rejects the conquering ‘brazen giant’ model: her power is used to welcome, not to repel.",
+          "A mother cares for and protects her children, so the metaphor presents the statue as welcoming exiles as if adopting them. The option ‘She guards America by keeping foreigners out.’ is tempting because she is ‘mighty’ with a torch, but the poem rejects the conquering ‘brazen giant’ model: her power is used to welcome, not to repel.",
         guideRef: "belonging-displacement",
       },
       {
@@ -764,7 +764,7 @@ export const identityCulturePoetry: Topic = {
         answerIndex: 1,
         hint: "Look for a comparative connective and a precise shared idea in one sentence.",
         explanation:
-          "Option B links both poems in one sentence with the connective ‘While’ around a precise shared idea (arrival and belonging). Option A mentions both poems but simply places two facts side by side with no comparison or analysis.",
+          "The option ‘While Lazarus presents arrival as a warm welcome, Nichols suggests…’ links both poems in one sentence with the connective ‘While’ around a precise shared idea (arrival and belonging). The option ‘‘Island Man’ is about London. ‘The New Colossus’ is about New York.’ mentions both poems but simply places two facts side by side with no comparison or analysis.",
         guideRef: "comparing-poems",
       },
     ],
@@ -903,7 +903,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 2,
             hint: "Does the speaker expect an answer? What does ‘over-wise’ suggest about the world?",
             explanation:
-              "This rhetorical question implies that the world should not be allowed to know (‘count’) their private pain — the mask protects them. Option A takes the question literally; the speakers actually want to keep their tears hidden.",
+              "This rhetorical question implies that the world should not be allowed to know (‘count’) their private pain — the mask protects them. The option ‘It asks the world to help count the speakers’ tears.’ takes the question literally; the speakers actually want to keep their tears hidden.",
             guideRef: "form-voice",
           },
           {
@@ -946,7 +946,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 3,
             hint: "Read the journey as a metaphor.",
             explanation:
-              "The ‘mile’ is a metaphor for the struggle the speakers must endure, and ‘long’ suggests exhaustion and no end in sight. Option A reads the line literally, missing the metaphor.",
+              "The ‘mile’ is a metaphor for the struggle the speakers must endure, and ‘long’ suggests exhaustion and no end in sight. The option ‘The speakers are on a real walking journey across America.’ reads the line literally, missing the metaphor.",
             guideRef: "connotation-zoom",
           },
           {
@@ -961,7 +961,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "Say both versions aloud. How does your voice change?",
             explanation:
-              "The exclamation mark makes the last refrain louder and more intense — a cry of anguish or defiance. Option D is tempting because exclamation marks can show excitement, but nothing in the final stanza is happy: the clay is ‘vile’ and souls are ‘tortured’.",
+              "The exclamation mark makes the last refrain louder and more intense — a cry of anguish or defiance. The option ‘It shows the speakers are excited and happy.’ is tempting because exclamation marks can show excitement, but nothing in the final stanza is happy: the clay is ‘vile’ and souls are ‘tortured’.",
             guideRef: "form-voice",
           },
           {
@@ -1002,7 +1002,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 3,
             hint: "To ‘mouth’ words can mean to say them without real feeling.",
             explanation:
-              "To ‘mouth’ words is to say them emptily; ‘myriad subtleties’ suggests countless careful evasions. So the speakers speak, but only in a guarded way that hides their true feelings. Option B is tempting because masks hide faces, but the line shows them speaking, not silent.",
+              "To ‘mouth’ words is to say them emptily; ‘myriad subtleties’ suggests countless careful evasions. So the speakers speak, but only in a guarded way that hides their true feelings. The option ‘The speakers refuse to speak at all.’ is tempting because masks hide faces, but the line shows them speaking, not silent.",
             guideRef: "connotation-zoom",
           },
           {
@@ -1032,7 +1032,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "Which one names a feature but says nothing about its effect or meaning?",
             explanation:
-              "Option B is feature-spotting: it names ‘rhyme’ but gives no effect or link to the poem’s ideas, and ‘makes the poem good’ is a vague judgement. The others each link a precise technique to meaning.",
+              "The option ‘Dunbar uses lots of techniques like rhyme, which makes the poem good.’ is feature-spotting: it names ‘rhyme’ but gives no effect or link to the poem’s ideas, and ‘makes the poem good’ is a vague judgement. The others each link a precise technique to meaning.",
             guideRef: "writing-speaking",
           },
           {
@@ -1047,7 +1047,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "Would anyone call a Picasso painting ‘half’ a painting?",
             explanation:
-              "Agard pushes the logic of the label until it collapses: nobody calls a masterpiece or the weather ‘half’, so why call a person ‘half’? Option D is tempting because he does joke about English weather, but the joke serves the argument against the label.",
+              "Agard pushes the logic of the label until it collapses: nobody calls a masterpiece or the weather ‘half’, so why call a person ‘half’? The option ‘To complain about the weather in England’ is tempting because he does joke about English weather, but the joke serves the argument against the label.",
             guideRef: "prejudice-pride",
           },
           {
@@ -1087,7 +1087,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "Think about what strict rules and constant returns might symbolise.",
             explanation:
-              "The rondeau’s few rhymes and returning refrain create a sense of constraint, like the mask; writing it perfectly also shows a Black poet mastering a prestigious European form. Option A is false — Walt Whitman was writing free verse decades before 1895.",
+              "The rondeau’s few rhymes and returning refrain create a sense of constraint, like the mask; writing it perfectly also shows a Black poet mastering a prestigious European form. The option ‘Because free verse had not yet been invented in 1895’ is false — Walt Whitman was writing free verse decades before 1895.",
             guideRef: "form-voice",
           },
           {
@@ -1102,7 +1102,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 3,
             hint: "Who usually decides that a debt must be paid — the payer or someone else?",
             explanation:
-              "A debt is an obligation imposed on you; the speakers ‘pay’ with their hidden pain because the world’s ‘guile’ demands it. Option C contradicts the idea of a debt, which is owed, not freely chosen.",
+              "A debt is an obligation imposed on you; the speakers ‘pay’ with their hidden pain because the world’s ‘guile’ demands it. The option ‘Wearing the mask is something the speakers enjoy and choose freely.’ contradicts the idea of a debt, which is owed, not freely chosen.",
             guideRef: "connotation-zoom",
           },
           {
@@ -1165,7 +1165,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "Where else do you hear ‘O ye…’ — in everyday chat, or in hymns and old poetry?",
             explanation:
-              "‘O ye’ is an archaic, formal way of addressing people, found in scripture and songs, so it elevates humble traders. Option C is tempting but wrong: Naidu chose the style deliberately for its musical, respectful effect.",
+              "‘O ye’ is an archaic, formal way of addressing people, found in scripture and songs, so it elevates humble traders. The option ‘It shows the speaker cannot speak modern English.’ is tempting but wrong: Naidu chose the style deliberately for its musical, respectful effect.",
             guideRef: "form-voice",
           },
           {
@@ -1195,7 +1195,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "Stanza 1: displayed … brocade … jade.",
             explanation:
-              "Lines 2, 4 and 6 rhyme (displayed/brocade/jade; rice/spice/dice), while lines 1, 3 and 5 do not. This steady, chiming rhyme on alternate lines helps give the poem its song-like feel. Couplets (option A) would need neighbouring lines to rhyme.",
+              "Lines 2, 4 and 6 rhyme (displayed/brocade/jade; rice/spice/dice), while lines 1, 3 and 5 do not. This steady, chiming rhyme on alternate lines helps give the poem its song-like feel. Couplets (the option ‘Lines 1 and 2, 3 and 4, 5 and 6’) would need neighbouring lines to rhyme.",
             guideRef: "form-voice",
           },
           {
@@ -1221,7 +1221,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "What two big life events are mentioned?",
             explanation:
-              "Flowers serve both a wedding and a funeral, so the market — and the culture — is present at every stage of life. Option C reads too literally: these are different customers and different occasions, not one man’s story.",
+              "Flowers serve both a wedding and a funeral, so the market — and the culture — is present at every stage of life. The option ‘The bridegroom dies on his wedding day.’ reads too literally: these are different customers and different occasions, not one man’s story.",
             guideRef: "heritage-family",
           },
           {
@@ -1236,7 +1236,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 2,
             hint: "Whose goods and skills does the poem celebrate?",
             explanation:
-              "Every item is Indian-made and lovingly described, so under colonial rule the poem quietly asserts the richness of Indian culture. Option B is wrong: nothing in the poem mentions British goods.",
+              "Every item is Indian-made and lovingly described, so under colonial rule the poem quietly asserts the richness of Indian culture. The option ‘The poem praises British goods sold in Indian markets.’ is wrong: nothing in the poem mentions British goods.",
             guideRef: "heritage-family",
           },
           {
@@ -1252,7 +1252,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "Compare it with ‘Saffron, lentil, rice.’",
             explanation:
-              "Repeating ‘and’ (polysyndeton) stretches the list, making the goods feel plentiful and lingering. Option D is wrong because the rhyme comes from the end word ‘rice’, not from the repeated ‘and’.",
+              "Repeating ‘and’ (polysyndeton) stretches the list, making the goods feel plentiful and lingering. The option ‘It creates a rhyme with the line above.’ is wrong because the rhyme comes from the end word ‘rice’, not from the repeated ‘and’.",
             guideRef: "connotation-zoom",
           },
           {
@@ -1277,7 +1277,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "She admires the salwar kameez but feels ‘alien in the sitting-room’.",
             explanation:
-              "The clothes stand for her heritage: beautiful, but not quite comfortable in her English life. Option C is wrong because she clearly admires the colours (‘peacock-blue’); the problem is belonging, not taste.",
+              "The clothes stand for her heritage: beautiful, but not quite comfortable in her English life. The option ‘The girl’s dislike of all bright colours’ is wrong because she clearly admires the colours (‘peacock-blue’); the problem is belonging, not taste.",
             guideRef: "heritage-family",
           },
           {
@@ -1292,7 +1292,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 2,
             hint: "The phrase sounds like language from an official form.",
             explanation:
-              "The bureaucratic-sounding phrase captures an identity that does not fit neatly into one box. Option B is the opposite: the whole poem shows she does not feel completely English or completely Pakistani.",
+              "The bureaucratic-sounding phrase captures an identity that does not fit neatly into one box. The option ‘She is proud to belong completely to England.’ is the opposite: the whole poem shows she does not feel completely English or completely Pakistani.",
             guideRef: "heritage-family",
           },
           {
@@ -1307,7 +1307,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "Think about the connotations of ‘alien’ — foreign, not belonging.",
             explanation:
-              "‘Alien’ connotes something foreign that does not belong, and setting it in a familiar ‘sitting-room’ makes the displacement stronger. Option D overstates it: the poem does not say her family fail to recognise her.",
+              "‘Alien’ connotes something foreign that does not belong, and setting it in a familiar ‘sitting-room’ makes the displacement stronger. The option ‘Her family do not recognise her.’ overstates it: the poem does not say her family fail to recognise her.",
             guideRef: "connotation-zoom",
           },
           {
@@ -1352,7 +1352,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 3,
             hint: "How do you feel as a reader when you reach lines you cannot read?",
             explanation:
-              "The script puts her mother tongue physically on the page and reverses the usual situation: the English reader becomes the outsider. Option B is wrong — she writes fluently in English elsewhere in the poem, so it is a deliberate choice.",
+              "The script puts her mother tongue physically on the page and reverses the usual situation: the English reader becomes the outsider. The option ‘Because she could not find the English words’ is wrong — she writes fluently in English elsewhere in the poem, so it is a deliberate choice.",
             guideRef: "language-identity",
           },
           {
@@ -1367,7 +1367,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "Think about setting and attitude.",
             explanation:
-              "Both poems use a lively public space — a bazaar, a hawker centre — to celebrate a culture with pride. Option A is wrong because Naidu writes in formal Standard English and even the hawker poem only uses Singlish in its dialogue.",
+              "Both poems use a lively public space — a bazaar, a hawker centre — to celebrate a culture with pride. The option ‘Both are written entirely in Singlish.’ is wrong because Naidu writes in formal Standard English and even the hawker poem only uses Singlish in its dialogue.",
             guideRef: "comparing-poems",
           },
           {
@@ -1456,7 +1456,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "What does the old giant do with its ‘conquering limbs’? What does the new statue do?",
             explanation:
-              "By opening with what the statue is NOT — a conqueror — Lazarus makes her welcoming power stand out. Option D is wrong: the poem rejects the ‘storied pomp’ of the ‘ancient lands’ rather than praising it.",
+              "By opening with what the statue is NOT — a conqueror — Lazarus makes her welcoming power stand out. The option ‘To praise ancient Greece as the ideal nation’ is wrong: the poem rejects the ‘storied pomp’ of the ‘ancient lands’ rather than praising it.",
             guideRef: "connotation-zoom",
           },
           {
@@ -1503,7 +1503,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "A statue cannot literally speak. How, then, does it ‘cry’?",
             explanation:
-              "The paradox shows that the statue’s meaning speaks for itself: she ‘cries’ her welcome symbolically. Option D is tempting, but the message is clearly delivered — the poem goes on to print it.",
+              "The paradox shows that the statue’s meaning speaks for itself: she ‘cries’ her welcome symbolically. The option ‘It suggests nobody can hear the statue’s message.’ is tempting, but the message is clearly delivered — the poem goes on to print it.",
             guideRef: "form-voice",
           },
           {
@@ -1519,7 +1519,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "Picture people huddling. Why do people huddle?",
             explanation:
-              "People huddle when cold, frightened or poor, so ‘huddled’ creates pity and a sense of need. ‘Crowded’ only tells us about numbers. Option B ignores the vulnerable connotations entirely.",
+              "People huddle when cold, frightened or poor, so ‘huddled’ creates pity and a sense of need. ‘Crowded’ only tells us about numbers. The option ‘That the people are excited and celebrating’ ignores the vulnerable connotations entirely.",
             guideRef: "connotation-zoom",
           },
           {
@@ -1535,7 +1535,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 3,
             hint: "Whose shore is ‘your teeming shore’? Who has thrown these people away?",
             explanation:
-              "‘Your’ refers to the old countries: they treat the poor as ‘refuse’, while America takes in what they discard. Option A ignores the context of welcome — the statue goes on to say ‘Send these… to me’.",
+              "‘Your’ refers to the old countries: they treat the poor as ‘refuse’, while America takes in what they discard. The option ‘The statue believes migrants are worthless.’ ignores the context of welcome — the statue goes on to say ‘Send these… to me’.",
             guideRef: "connotation-zoom",
           },
           {
@@ -1551,7 +1551,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "Think of the connotations of ‘golden’ and what a door leads into.",
             explanation:
-              "‘Golden’ connotes value and opportunity, and a door is an entrance — so it symbolises entry into a promising new life. Option A takes the symbol literally; there was no golden door.",
+              "‘Golden’ connotes value and opportunity, and a door is an entrance — so it symbolises entry into a promising new life. The option ‘A real gold gate on Ellis Island’ takes the symbol literally; there was no golden door.",
             guideRef: "belonging-displacement",
           },
           {
@@ -1566,7 +1566,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "The statue needed something to stand on.",
             explanation:
-              "Lazarus wrote it for an auction to fund the pedestal; in 1903 it was placed on a plaque inside the pedestal. The statue was a gift from France, which may make option C tempting, but the poem was written for an American fundraiser.",
+              "Lazarus wrote it for an auction to fund the pedestal; in 1903 it was placed on a plaque inside the pedestal. The statue was a gift from France, which may make the option ‘To win a competition organised by the French government’ tempting, but the poem was written for an American fundraiser.",
             guideRef: "belonging-displacement",
           },
           {
@@ -1581,7 +1581,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 2,
             hint: "The poem’s subtitle says he still wakes up to a particular sound.",
             explanation:
-              "He wakes to the ‘blue surf’ of his ‘emerald island’ — a memory or dream in his head — before London’s traffic takes over. Option D confuses this poem with Nichols’s ‘Hurricane Hits England’.",
+              "He wakes to the ‘blue surf’ of his ‘emerald island’ — a memory or dream in his head — before London’s traffic takes over. The option ‘A hurricane hitting England’ confuses this poem with Nichols’s ‘Hurricane Hits England’.",
             guideRef: "belonging-displacement",
           },
           {
@@ -1596,7 +1596,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 3,
             hint: "Compare the connotations of ‘emerald’ (a jewel) and ‘grey metallic’.",
             explanation:
-              "‘Emerald’ connotes a precious, vivid green; ‘grey metallic’ suggests dull, cold machinery. The contrast shows where his heart lies. Option A reverses the poem’s attitude.",
+              "‘Emerald’ connotes a precious, vivid green; ‘grey metallic’ suggests dull, cold machinery. The contrast shows where his heart lies. The option ‘The man prefers modern cities to islands.’ reverses the poem’s attitude.",
             guideRef: "connotation-zoom",
           },
           {
@@ -1611,7 +1611,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "What has the storm shown her about the connection between her old home and new home?",
             explanation:
-              "The repetition stresses that the same earth lies under England and the Caribbean, so she can belong in both. Option D is the opposite of the poem’s resolution, which accepts her new home.",
+              "The repetition stresses that the same earth lies under England and the Caribbean, so she can belong in both. The option ‘The speaker wants to return to the Caribbean immediately.’ is the opposite of the poem’s resolution, which accepts her new home.",
             guideRef: "belonging-displacement",
           },
           {
@@ -1626,7 +1626,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "Dis-place: out of place.",
             explanation:
-              "Displacement is being, or feeling, out of place. Option B confuses it with layout; while poets may play with layout, that is not what the term means.",
+              "Displacement is being, or feeling, out of place. The option ‘Moving the lines of a poem around the page’ confuses it with layout; while poets may play with layout, that is not what the term means.",
             guideRef: "belonging-displacement",
           },
           {
@@ -1652,7 +1652,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 3,
             hint: "What happens to a stream that runs into a desert?",
             explanation:
-              "A stream that runs into sand dries up; likewise reason dies when it is lost in ‘dead habit’. The alliterative ‘dreary desert… dead’ makes blind tradition sound lifeless. Option A reads the metaphor literally.",
+              "A stream that runs into sand dries up; likewise reason dies when it is lost in ‘dead habit’. The alliterative ‘dreary desert… dead’ makes blind tradition sound lifeless. The option ‘India needs more rivers to water its deserts.’ reads the metaphor literally.",
             guideRef: "connotation-zoom",
           },
           {
@@ -1677,7 +1677,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "When do we finally reach ‘let my country awake’?",
             explanation:
-              "The ‘Where…’ clauses build suspense until the main clause, ‘let my country awake’, arrives at the end, like a climax. Option B is wrong because the anaphora gives the long sentence a clear, followable pattern.",
+              "The ‘Where…’ clauses build suspense until the main clause, ‘let my country awake’, arrives at the end, like a climax. The option ‘It makes the poem confusing and impossible to follow.’ is wrong because the anaphora gives the long sentence a clear, followable pattern.",
             guideRef: "form-voice",
           },
           {
@@ -1692,7 +1692,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 2,
             hint: "Compare ‘conquering limbs’ with ‘mild eyes’ and ‘world-wide welcome’.",
             explanation:
-              "The old giant has ‘conquering limbs’; the new statue is ‘mighty’ but has ‘mild eyes’ and offers ‘welcome’. Her strength protects rather than dominates. Option A gets the contrast backwards.",
+              "The old giant has ‘conquering limbs’; the new statue is ‘mighty’ but has ‘mild eyes’ and offers ‘welcome’. Her strength protects rather than dominates. The option ‘She is bigger and more frightening.’ gets the contrast backwards.",
             guideRef: "comparing-poems",
           },
           {
@@ -1707,7 +1707,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "Think about the big idea each poem hopes for or celebrates.",
             explanation:
-              "Lazarus imagines America as a refuge for those ‘yearning to breathe free’; Tagore prays for India to wake into a ‘heaven of freedom’. Option C is wrong — only Lazarus writes a sonnet; Tagore’s poem is a single free-verse sentence.",
+              "Lazarus imagines America as a refuge for those ‘yearning to breathe free’; Tagore prays for India to wake into a ‘heaven of freedom’. The option ‘Both are sonnets with a volta at line 9.’ is wrong — only Lazarus writes a sonnet; Tagore’s poem is a single free-verse sentence.",
             guideRef: "comparing-poems",
           },
         ],
@@ -1740,7 +1740,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "What does a white flag usually mean? What does it mean here?",
             explanation:
-              "A white flag usually signals surrender, but this one says ‘mine’ — the poet playfully reverses the symbol, showing a local custom with its own meaning. Option A uses the usual meaning, which the poem explicitly rejects.",
+              "A white flag usually signals surrender, but this one says ‘mine’ — the poet playfully reverses the symbol, showing a local custom with its own meaning. The option ‘It suggests the speaker has given up and lost the table.’ uses the usual meaning, which the poem explicitly rejects.",
             guideRef: "connotation-zoom",
           },
           {
@@ -1756,7 +1756,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 3,
             hint: "When does a curtain go up?",
             explanation:
-              "A curtain rises at the start of a performance, so the simile presents the hawker centre as a stage about to come alive. Option A focuses on the steam literally rather than the comparison.",
+              "A curtain rises at the start of a performance, so the simile presents the hawker centre as a stage about to come alive. The option ‘The food is too hot to eat.’ focuses on the steam literally rather than the comparison.",
             guideRef: "heritage-family",
           },
           {
@@ -1772,7 +1772,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "Read on to the next lines: ‘the quick, warm shorthand / of people who have queued together for years’.",
             explanation:
-              "The poem presents the brevity as ‘warm shorthand’ built on years of shared life, not rudeness. Option B is the outsider’s view that the poem goes on to challenge.",
+              "The poem presents the brevity as ‘warm shorthand’ built on years of shared life, not rudeness. The option ‘It is rude because it leaves out please and thank you.’ is the outsider’s view that the poem goes on to challenge.",
             guideRef: "language-identity",
           },
           {
@@ -1802,7 +1802,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "What does the cousin say, and how does the speaker respond?",
             explanation:
-              "The cousin’s phrase ‘broken English’ gives the speaker something to argue against, which shapes the rest of the poem. Option D is the opposite: the speaker has to tell her to ‘Listen again’.",
+              "The cousin’s phrase ‘broken English’ gives the speaker something to argue against, which shapes the rest of the poem. The option ‘She agrees that Singlish is beautiful.’ is the opposite: the speaker has to tell her to ‘Listen again’.",
             guideRef: "language-identity",
           },
           {
@@ -1818,7 +1818,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "What happens to butter folded into dough again and again?",
             explanation:
-              "Folding butter into dough creates layers that cannot be separated — like languages blended into one way of speaking. Option A is the opposite of ‘no one can say where one layer ends’.",
+              "Folding butter into dough creates layers that cannot be separated — like languages blended into one way of speaking. The option ‘They are kept strictly separate.’ is the opposite of ‘no one can say where one layer ends’.",
             guideRef: "language-identity",
           },
           {
@@ -1866,7 +1866,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 2,
             hint: "Who is in the queue? ‘The whole island’.",
             explanation:
-              "‘The whole island’ turns a meal into a picture of national togetherness — everyone shares the same place and language. Option A misreads a warm, communal image as a complaint.",
+              "‘The whole island’ turns a meal into a picture of national togetherness — everyone shares the same place and language. The option ‘It complains about long queues in Singapore.’ misreads a warm, communal image as a complaint.",
             guideRef: "heritage-family",
           },
           {
@@ -1881,7 +1881,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "Who controls what ‘me’ learns?",
             explanation:
-              "‘Dem’ (them) — the authorities — decide what he is told, so the refrain stresses a Eurocentric history imposed on him. Option D ignores who is doing the telling: it is ‘Dem’, not the speaker.",
+              "‘Dem’ (them) — the authorities — decide what he is told, so the refrain stresses a Eurocentric history imposed on him. The option ‘That the speaker is telling the reader a story’ ignores who is doing the telling: it is ‘Dem’, not the speaker.",
             guideRef: "prejudice-pride",
           },
           {
@@ -1936,7 +1936,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "What happens to the speaker at the end?",
             explanation:
-              "The speaker ignores what is done to his neighbours as long as no one takes ‘the yam / From my savouring mouth’ — until the authorities come for him. Option B is what the speaker believes at first; the ending proves him wrong.",
+              "The speaker ignores what is done to his neighbours as long as no one takes ‘the yam / From my savouring mouth’ — until the authorities come for him. The option ‘It is wise to mind your own business.’ is what the speaker believes at first; the ending proves him wrong.",
             guideRef: "prejudice-pride",
           },
           {
@@ -1967,7 +1967,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 2,
             hint: "Read it aloud, pausing at each dash.",
             explanation:
-              "The dashes create caesuras, so the speaker sounds as if she is whispering a secret. The poem still rhymes (you/too, Frog/Bog), so option B is false.",
+              "The dashes create caesuras, so the speaker sounds as if she is whispering a secret. The poem still rhymes (you/too, Frog/Bog), so the option ‘They replace all the rhymes.’ is false.",
             guideRef: "form-voice",
           },
           {
@@ -1982,7 +1982,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 1,
             hint: "Poem titles and quotations both go in quotation marks; names need capitals.",
             explanation:
-              "Option B puts the title and the embedded quotation in quotation marks and capitalises ‘Agard’. Option C is close but lowercases the poet’s name and does not mark the quotation.",
+              "The option ‘In ‘Half-Caste’, Agard demands that the listener ‘Explain yuself’.’ puts the title and the embedded quotation in quotation marks and capitalises ‘Agard’. The option ‘In ‘Half-Caste,’ agard demands that the listener explain yuself.’ is close but lowercases the poet’s name and does not mark the quotation.",
             guideRef: "writing-speaking",
           },
           {
@@ -1997,7 +1997,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 3,
             hint: "If the speaker can do both, what does that prove to the cousin?",
             explanation:
-              "Because the speaker clearly commands Standard English, her use of Singlish is a deliberate expression of belonging — which defeats the ‘broken English’ insult. Option B is tempting but the poem treats Singlish as precious, not as less important.",
+              "Because the speaker clearly commands Standard English, her use of Singlish is a deliberate expression of belonging — which defeats the ‘broken English’ insult. The option ‘Standard English is used to show the narration is more important…’ is tempting but the poem treats Singlish as precious, not as less important.",
             guideRef: "language-identity",
           },
           {
@@ -2012,7 +2012,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "A thesis needs a shared idea AND a precise difference.",
             explanation:
-              "Option A names a shared theme (defending mixed identity against an insult) and a precise difference in method (confrontation versus invitation). Option D gives facts about origin but makes no argument about the poems.",
+              "The option ‘Both poems defend a mixed identity against an outsider’s insult,…’ names a shared theme (defending mixed identity against an insult) and a precise difference in method (confrontation versus invitation). The option ‘Agard was born in Guyana, and the other poem was written for an app.’ gives facts about origin but makes no argument about the poems.",
             guideRef: "comparing-poems",
           },
         ],

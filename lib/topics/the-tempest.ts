@@ -1512,7 +1512,7 @@ export const theTempest: Topic = {
             ],
             answerIndex: 2,
             hint: "The best sentence zooms in on specific words and finds more than one meaning.",
-            explanation: "It analyses two specific words and offers a nuanced reading. The second option is tempting because it is clear, but it is vague ('doesn't like') and analyses no language.",
+            explanation: "It analyses two specific words and offers a nuanced reading. The option ‘This quote shows that Prospero doesn't like Caliban very much.’ is tempting because it is clear, but it is vague ('doesn't like') and analyses no language.",
             guideRef: "writing-analysis",
           },
           {
@@ -1582,7 +1582,7 @@ export const theTempest: Topic = {
             ],
             answerIndex: 3,
             hint: "Which one notices a feature but says nothing about its effect?",
-            explanation: "The last option spots the 'v' sounds but explains no effect and calls it 'a good quote' — feature-spotting. The third option is simpler than the first two, but it still makes a valid point about structure.",
+            explanation: "The option ‘This is a good quote because it has the letter 'v' in it twice.’ spots the 'v' sounds but explains no effect and calls it 'a good quote' — feature-spotting. The option ‘This is the turning point at which Prospero chooses mercy over…’ is simpler than the first two, but it still makes a valid point about structure.",
             guideRef: "writing-analysis",
           },
           {
@@ -1596,7 +1596,7 @@ export const theTempest: Topic = {
             ],
             answerIndex: 0,
             hint: "An interpretation should be presented as an interpretation.",
-            explanation: "The farewell idea is a popular interpretation, so 'Some critics read…' is accurate. The fourth option is tempting, but the Epilogue never mentions Shakespeare or retirement — Prospero speaks it.",
+            explanation: "The farewell idea is a popular interpretation, so 'Some critics read…' is accurate. The option ‘Shakespeare says in the Epilogue that he is retiring from writing.’ is tempting, but the Epilogue never mentions Shakespeare or retirement — Prospero speaks it.",
             guideRef: "context",
           },
           {

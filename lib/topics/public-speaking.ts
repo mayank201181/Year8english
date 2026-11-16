@@ -581,7 +581,7 @@ export const publicSpeaking: Topic = {
         answerIndex: 3,
         hint: "Which one makes the audience do or feel something in the first few seconds?",
         explanation:
-          "The last option is a hook: it involves the audience physically and proves the problem using the room itself. The first option is the classic tempting choice because it is polite, but it simply announces the topic and wastes the opening.",
+          "The option ‘Raise your hand if your alarm went off before six this morning.…’ is a hook: it involves the audience physically and proves the problem using the room itself. The option ‘Hello, my name is Sam, and today I am going to talk about why…’ is the classic tempting choice because it is polite, but it simply announces the topic and wastes the opening.",
         guideRef: "speech-structure",
       },
       {
@@ -753,7 +753,7 @@ export const publicSpeaking: Topic = {
             answerIndex: 3,
             hint: "Look for two opposite ideas balanced against each other.",
             explanation:
-              "'Action, not words' sets two opposites side by side: antithesis. The first option is a tricolon with anaphora, the second a rhetorical question, and the third hyperbole.",
+              "'Action, not words' sets two opposites side by side: antithesis. The option ‘We will fight, we will win, we will celebrate.’ is a tricolon with anaphora, the second a rhetorical question, and the third hyperbole.",
             guideRef: "persuasive-devices",
           },
           {
@@ -938,7 +938,7 @@ export const publicSpeaking: Topic = {
             answerIndex: 2,
             hint: "Look for 'we/us/our' and two opposite ideas balanced together.",
             explanation:
-              "'Let us' is inclusive, and 'solved the problem, not... ignored it' is antithesis. 'Is this really the best we can do?' has an inclusive pronoun but no balanced opposites; the last option is a tricolon with anaphora.",
+              "'Let us' is inclusive, and 'solved the problem, not... ignored it' is antithesis. 'Is this really the best we can do?' has an inclusive pronoun but no balanced opposites; the option ‘Every day, every week, every year, the problem grows.’ is a tricolon with anaphora.",
             guideRef: "persuasive-devices",
           },
         ],
@@ -1085,7 +1085,7 @@ export const publicSpeaking: Topic = {
             answerIndex: 1,
             hint: "Read the line just before it: 'When that the poor have cried, Caesar hath wept'.",
             explanation:
-              "A truly ambitious man would be 'sterner' (harsher), so Caesar's tears for the poor suggest he was not ambitious. The first option is the exact opposite of Antony's point.",
+              "A truly ambitious man would be 'sterner' (harsher), so Caesar's tears for the poor suggest he was not ambitious. The option ‘Caesar was too ambitious’ is the exact opposite of Antony's point.",
             guideRef: "antony-funeral-speech",
           },
           {
@@ -1190,7 +1190,7 @@ export const publicSpeaking: Topic = {
             answerIndex: 0,
             hint: "Think about kairos: whose words will be freshest in the crowd's minds?",
             explanation:
-              "Speaking last means Antony's words stay freshest, and with Brutus gone nobody can reply to his insinuations. Antony already has permission to speak, so the last option is wrong.",
+              "Speaking last means Antony's words stay freshest, and with Brutus gone nobody can reply to his insinuations. Antony already has permission to speak, so the option ‘Antony cannot speak without Brutus's permission’ is wrong.",
             guideRef: "antony-funeral-speech",
           },
           {
@@ -1282,7 +1282,7 @@ export const publicSpeaking: Topic = {
             answerIndex: 0,
             hint: "Notice the repeated word 'one' and the word 'ordinary'.",
             explanation:
-              "Each phrase shrinks the scale ('one... one... one ordinary'), so the large number seems even more shocking. Nothing compares this school with others, so the second option is not supported.",
+              "Each phrase shrinks the scale ('one... one... one ordinary'), so the large number seems even more shocking. Nothing compares this school with others, so the option ‘It proves the school is worse than others’ is not supported.",
             guideRef: "persuasive-devices",
           },
           {
@@ -1635,7 +1635,7 @@ export const publicSpeaking: Topic = {
             answerIndex: 3,
             hint: "What happens after the word 'but'?",
             explanation:
-              "She concedes the prejudice of the time, then counters it with antithesis: her body may be a woman's, but her courage is a king's. The first option stops reading at the semicolon and misses the turn.",
+              "She concedes the prejudice of the time, then counters it with antithesis: her body may be a woman's, but her courage is a king's. The option ‘Admitting she cannot lead the army’ stops reading at the semicolon and misses the turn.",
             guideRef: "rallying-speeches",
           },
           {
@@ -1812,7 +1812,7 @@ export const publicSpeaking: Topic = {
             answerIndex: 0,
             hint: "Think about who is the focus of each speech: the soldiers or the speaker.",
             explanation:
-              "Henry's speech is built on commands ('Stiffen', 'set the teeth', 'Follow'), while Elizabeth's centres on her own sacrifice and promise. The second option reverses the truth: Henry is the one who uses animal imagery (tiger, greyhounds).",
+              "Henry's speech is built on commands ('Stiffen', 'set the teeth', 'Follow'), while Elizabeth's centres on her own sacrifice and promise. The option ‘Henry uses no imagery at all; Elizabeth uses lots of animal imagery’ reverses the truth: Henry is the one who uses animal imagery (tiger, greyhounds).",
             guideRef: "rallying-speeches",
           },
         ],

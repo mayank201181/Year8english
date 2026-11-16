@@ -99,6 +99,23 @@
      engView(el, k, fx, fy, sx, sy)    camera: scale k about (fx, fy) and put that point at (sx, sy)
      engOutline(textEl, col, w)        a thick outline behind text (logos, big words)
      engShake(t, t0, amp)              [dx, dy] screen shake that dies away after t0
+     engDirector(S)                    a scene's shots, cast, lip-sync, looks, moods, lower thirds and pop-in beats:
+       const d = engDirector(S);       layers: d.world (camera moves it) holds d.bg (sets) and d.cast; then d.fg, d.hud
+       d.add(name, g, upd)             register a set built in d.bg; upd(t, g) runs while it is on screen
+                                       (default g.upd(t) if it has one)
+       d.who(kind, o)                  build a character in d.cast (engCast, or the episode's cast() if defined) -> g
+       d.shot(t0, spec)                from t0 until the next shot: spec = { set: name, conf: who (a confessional
+                                       background), cast: { who: [x, y, s] | { x, y, s, mood, look, ...extras } },
+                                       cam: [k0, k1, fx, fy] (zoom k0 -> k1 about (fx, fy) over the shot) }
+       d.mood(who, t0, mood)           from t0 on (until that character's next cue) this mood; null = default
+       d.look(who, t0, look)           from t0 on, pupils fixed at look (-1..1); null = automatic
+       d.x(who, t0, extras)            from t0 on, extras merged into set() (e.g. { hand: 1 }); later cues override
+       d.lower(kind | [NAME, role], t0, dur)  a lower third (default 3.2 s)
+       d.pop(el, t0, t1, x, y, s, r)   pop el in at t0 (overshoot), fade it at t1 (Infinity: never)
+       d.shake(t0, amp)                a screen shake of the world at t0
+       d.upd(t) -> { i, spec, t0 }     call first in the scene's update; returns the active shot
+     Automatic: only the speaker's mouth moves (scTalk); listeners on screen look towards the speaker;
+     the speaker looks at the camera. Characters not in the active shot are hidden.
      engQuizScene(S, o)                the whole quick-fire quiz chapter: returns the update function.
                                        Lines: intro, q1..q5 (pause 4.0), a1..a5, outro, then optional extra lines.
                                        o: { cast: (parent, who) => g (default engCast), title, accent,
@@ -1127,4 +1144,66 @@ function engQuizScene(S, o) {
     if (outroC) { if (t >= at('outro') - 0.05) engPop(outroC, t, at('outro'), 740, 400); else op(outroC, 0); }
     if (o.extra) o.extra(t);
   };
+}
+
+
+/* ---------- the director: shots, cast, reactions and beats for one scene ---------- */
+function engDirector(S) {
+  const root = S.root;
+  const world = G(root), bg = G(world), castL = G(world), fg = G(root), hud = G(root);
+  const sets = {}, people = {}, shots = [], cues = [], lowers = [], pops = [], shakes = [], confs = {};
+  const d = { world, bg, cast: castL, fg, hud, people };
+  d.add = (name, g, upd) => { sets[name] = { g, upd }; op(g, 0); return g; };
+  d.who = (kind, o) => {
+    const mk = typeof cast === 'function' ? cast : engCast;   // an episode's lib.js may define cast(parent, kind, o)
+    const g = mk(castL, kind, o || {}); people[kind] = g; op(g, 0); return g;
+  };
+  d.shot = (t0, spec) => { shots.push({ t0, spec }); shots.sort((a, b) => a.t0 - b.t0); return d; };
+  d.mood = (who, t0, mood) => { cues.push({ who, t0, k: 'mood', v: mood }); return d; };
+  d.look = (who, t0, look) => { cues.push({ who, t0, k: 'look', v: look }); return d; };
+  d.x = (who, t0, extras) => { cues.push({ who, t0, k: 'x', v: extras }); return d; };
+  d.lower = (who, t0, dur) => {
+    const g = Array.isArray(who) ? scLowerThird(hud, who[0], who[1]) : engLower(hud, who);
+    lowers.push({ g, t0, dur: dur || 3.2 }); g.set(0); return g;
+  };
+  d.pop = (el, t0, t1, x, y, s, r) => { pops.push({ el, t0, t1: t1 === undefined ? Infinity : t1, x, y, s, r }); op(el, 0); return el; };
+  d.shake = (t0, amp) => { shakes.push({ t0, amp }); return d; };
+  const conf = who => { if (!confs[who]) { confs[who] = engConf(bg, who); bg.insertBefore(confs[who], bg.firstChild); } return confs[who]; };
+  d.upd = t => {
+    let i = 0; shots.forEach((s, k) => { if (t >= s.t0) i = k; });
+    const sh = shots[i] || { t0: 0, spec: {} }, spec = sh.spec, t1 = shots[i + 1] ? shots[i + 1].t0 : S.D + 2;
+    // sets and confessionals
+    for (const n in sets) { const on = n === spec.set; op(sets[n].g, on ? 1 : 0); if (on) { if (sets[n].upd) sets[n].upd(t, sets[n].g); else if (sets[n].g.upd) sets[n].g.upd(t); } }
+    if (spec.conf) conf(spec.conf);
+    for (const w in confs) confs[w].set(w === spec.conf ? 1 : 0, t);
+    // camera
+    let k = 1, fx = 600, fy = 375;
+    if (spec.cam) { const p = clamp((t - sh.t0) / Math.max(0.1, t1 - sh.t0)); k = lerp(spec.cam[0], spec.cam[1], ease(p)); fx = spec.cam[2] || 600; fy = spec.cam[3] || 375; }
+    let sx = 0, sy = 0;
+    shakes.forEach(({ t0, amp }) => { const v = engShake(t, t0, amp); sx += v[0]; sy += v[1]; });
+    engView(world, k, fx, fy, fx + sx, fy + sy);
+    // the cast
+    const placed = spec.cast || (spec.conf ? { [spec.conf]: [330, 410, 1.45] } : {});
+    const speaker = scWho(S, t), pos = {};
+    for (const w in placed) { const v = placed[w]; pos[w] = Array.isArray(v) ? v[0] : v.x; }
+    for (const w in people) {
+      const g = people[w], v = placed[w];
+      if (!v) { op(g, 0); continue; }
+      op(g, 1);
+      const o = Array.isArray(v) ? { x: v[0], y: v[1], s: v[2] } : v;
+      tr(g, o.x, o.y, o.s || 1);
+      const st = Object.assign({}, o, { t, talk: scTalk(S, t, w) });
+      delete st.x; delete st.y; delete st.s;
+      let look = null, mood = o.mood;
+      cues.forEach(c => { if (c.who === w && t >= c.t0) { if (c.k === 'mood') mood = c.v === null ? o.mood : c.v; else if (c.k === 'look') look = c.v; else Object.assign(st, c.v); } });
+      if (mood) st.mood = mood; else delete st.mood;
+      if (look !== null) st.look = look;
+      else if (o.look === undefined) st.look = speaker && speaker !== w && pos[speaker] !== undefined ? clamp((pos[speaker] - o.x) / 260, -1, 1) * 0.9 : 0;
+      g.set(st);
+    }
+    lowers.forEach(({ g, t0, dur }) => g.set(win(t, t0, t0 + dur, 0.3)));
+    pops.forEach(({ el, t0, t1, x, y, s, r }) => { if (t < t0 - 0.02 || t > t1 + 0.3) op(el, 0); else engOut(el, t, t0, t1, x, y, s, r); });
+    return { i, spec, t0: sh.t0, t1 };
+  };
+  return d;
 }

@@ -194,7 +194,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 0,
     hint: "Discursive writing 'runs to and fro'.",
     explanation:
-      "Discursive writing weighs several viewpoints fairly before judging. An opinion in the first sentence (C) is tempting because good essays are clear, but it belongs to argumentative writing.",
+      "Discursive writing weighs several viewpoints fairly before judging. An opinion in the first sentence ‘A clear opinion stated in the first sentence’ is tempting because good essays are clear, but it belongs to argumentative writing.",
     guideRef: "what-is-discursive",
   },
   {
@@ -209,7 +209,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 3,
     hint: "Which wording already tells you which side to take?",
     explanation:
-      "'Argue that…' fixes your position before you start, so it is argumentative. 'To what extent' (A) can look one-sided, but it invites you to weigh how far something is true, which is discursive.",
+      "'Argue that…' fixes your position before you start, so it is argumentative. 'To what extent' ‘To what extent should homework be limited?’ can look one-sided, but it invites you to weigh how far something is true, which is discursive.",
     guideRef: "what-is-discursive",
   },
   {
@@ -224,7 +224,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 1,
     hint: "The reader needs a signpost that the essay is switching sides.",
     explanation:
-      "A turning-point sentence tells the reader the essay is moving to the other side. The final verdict (C) is tempting but belongs in the conclusion, not halfway through.",
+      "A turning-point sentence tells the reader the essay is moving to the other side. The final verdict ‘The writer's final verdict’ is tempting but belongs in the conclusion, not halfway through.",
     guideRef: "structures",
   },
   {
@@ -269,7 +269,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 0,
     hint: "It is the step where you show the disagreement.",
     explanation:
-      "CID = Context, Issue, Direction. The Issue step names the sides of the debate. 'Information: a dictionary definition' (D) is tempting but dictionary definitions are a weak, overused opening.",
+      "CID = Context, Issue, Direction. The Issue step names the sides of the debate. 'Information: a dictionary definition' ‘Information: a dictionary definition’ is tempting but dictionary definitions are a weak, overused opening.",
     guideRef: "introductions",
   },
   {
@@ -299,7 +299,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 3,
     hint: "Discursive essays need a formal one.",
     explanation:
-      "Register means how formal or informal language is. Structure (C) is about the order of arguments, which is a different concept.",
+      "Register means how formal or informal language is. Structure ‘The order in which arguments appear’ is about the order of arguments, which is a different concept.",
     guideRef: "balanced-tone",
   },
   {
@@ -339,7 +339,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 2,
     hint: "Which word mocks a view rather than describing it?",
     explanation:
-      "'Ridiculous' dismisses a view instead of weighing it. 'Significant' (B) expresses importance but is a neutral, measured word suitable for formal writing.",
+      "'Ridiculous' dismisses a view instead of weighing it. 'Significant' ‘Significant’ expresses importance but is a neutral, measured word suitable for formal writing.",
     guideRef: "balanced-tone",
   },
   {
@@ -349,7 +349,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 2,
     hint: "Cause → ?",
     explanation:
-      "'Consequently' means 'as a result'. 'Similarly' (A) adds a comparable point; it does not show cause and effect.",
+      "'Consequently' means 'as a result'. 'Similarly' ‘Similarly’ adds a comparable point; it does not show cause and effect.",
     guideRef: "discourse-markers",
   },
   {
@@ -359,7 +359,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 3,
     hint: "It shows you accept part of the other side's argument.",
     explanation:
-      "'Admittedly' concedes a point, ready for a 'however'. 'Moreover' (B) adds a further point to the same side; it does not concede anything.",
+      "'Admittedly' concedes a point, ready for a 'however'. 'Moreover' ‘Moreover’ adds a further point to the same side; it does not concede anything.",
     guideRef: "discourse-markers",
   },
   {
@@ -374,7 +374,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 1,
     hint: "Which one cannot show a pattern?",
     explanation:
-      "One anecdote is vivid but cannot prove a general pattern. An expert view (C) could be challenged, but a relevant expert still carries more weight than one personal story.",
+      "One anecdote is vivid but cannot prove a general pattern. An expert view ‘The view of a relevant expert’ could be challenged, but a relevant expert still carries more weight than one personal story.",
     guideRef: "evidence",
   },
   {
@@ -444,7 +444,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 1,
     hint: "Long enough for a T-chart and a judgement, short enough to leave writing time.",
     explanation:
-      "5–8 minutes allows a T-chart, choosing the best points and deciding a judgement. Starting at once (A) feels efficient but usually leads to drifting and repetition.",
+      "5–8 minutes allows a T-chart, choosing the best points and deciding a judgement. Starting at once ‘None: start writing at once’ feels efficient but usually leads to drifting and repetition.",
     guideRef: "planning-novel",
   },
 ];
@@ -461,7 +461,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 1,
     hint: "The second half gives the opposite view.",
     explanation:
-      "'Conversely' introduces the opposite view. 'Consequently' (A) is tempting because it is formal, but the second half is not a result of the first.",
+      "'Conversely' introduces the opposite view. 'Consequently' ‘consequently’ is tempting because it is formal, but the second half is not a result of the first.",
     guideRef: "discourse-markers",
   },
   {
@@ -471,7 +471,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 2,
     hint: "You need a word meaning 'despite that'.",
     explanation:
-      "'Nevertheless' means 'despite what has just been said'. 'Therefore' (A) would wrongly suggest that expense causes reduced competition.",
+      "'Nevertheless' means 'despite what has just been said'. 'Therefore' ‘Therefore’ would wrongly suggest that expense causes reduced competition.",
     guideRef: "discourse-markers",
   },
   {
@@ -526,7 +526,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 1,
     hint: "Which verb sounds the most determined?",
     explanation:
-      "'Insist' signals a very firmly held view. 'Concede' (D) means to admit a point, which is the opposite of holding firm.",
+      "'Insist' signals a very firmly held view. 'Concede' ‘Concede’ means to admit a point, which is the opposite of holding firm.",
     guideRef: "balanced-tone",
   },
   {
@@ -541,7 +541,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 0,
     hint: "It is what a fair debater does when the other side makes a good point.",
     explanation:
-      "To concede is to admit a point has some force. 'Refuse to listen' (B) is the opposite of conceding.",
+      "To concede is to admit a point has some force. 'Refuse to listen' ‘To refuse to listen to the other side’ is the opposite of conceding.",
     guideRef: "balanced-tone",
   },
   {
@@ -581,7 +581,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 3,
     hint: "Think of the certainty ladder.",
     explanation:
-      "'Will' is at the top of the certainty ladder and should be used only when the evidence is overwhelming. 'May' (C) expresses possibility, not certainty.",
+      "'Will' is at the top of the certainty ladder and should be used only when the evidence is overwhelming. 'May' ‘May’ expresses possibility, not certainty.",
     guideRef: "balanced-tone",
   },
   {
@@ -591,7 +591,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 1,
     hint: "The second sentence is a consequence of the first.",
     explanation:
-      "Struggling in exams is a result of not practising, so 'As a result' fits. 'On the other hand' (D) would wrongly signal a switch to the opposite view.",
+      "Struggling in exams is a result of not practising, so 'As a result' fits. 'On the other hand' ‘On the other hand’ would wrongly signal a switch to the opposite view.",
     guideRef: "discourse-markers",
   },
   {
@@ -601,7 +601,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 2,
     hint: "It literally refers to weighing scales.",
     explanation:
-      "'On balance' signals that the writer is weighing both sides to reach a judgement. 'Moreover' (B) adds another point, which suits a body paragraph, not a final weighing.",
+      "'On balance' signals that the writer is weighing both sides to reach a judgement. 'Moreover' ‘Moreover’ adds another point, which suits a body paragraph, not a final weighing.",
     guideRef: "discourse-markers",
   },
   {
@@ -656,7 +656,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 0,
     hint: "The sentence compares two different approaches.",
     explanation:
-      "'Whereas' links two contrasting clauses within one sentence. 'Furthermore' (C) would wrongly suggest the second clause adds to the first rather than contrasting with it.",
+      "'Whereas' links two contrasting clauses within one sentence. 'Furthermore' ‘furthermore’ would wrongly suggest the second clause adds to the first rather than contrasting with it.",
     guideRef: "discourse-markers",
   },
   {
@@ -738,7 +738,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 2,
     hint: "Think CID: Context, Issue, Direction.",
     explanation:
-      "Paragraph [1] gives context (a childhood visit), the issue (arks versus prisons) and direction ('worth weighing both views'). It does not give a verdict (A); that is saved for paragraph [5].",
+      "Paragraph [1] gives context (a childhood visit), the issue (arks versus prisons) and direction ('worth weighing both views'). It does not give a verdict ‘To give the writer's final verdict on zoos’; that is saved for paragraph [5].",
     guideRef: "introductions",
   },
   {
@@ -793,7 +793,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 3,
     hint: "Is it a personal story, a quoted expert, a number or a real case?",
     explanation:
-      "The Arabian oryx is a real case of a species reintroduced to the wild from captive-bred animals. It is not an anecdote (A), which would be a personal story.",
+      "The Arabian oryx is a real case of a species reintroduced to the wild from captive-bred animals. It is not an anecdote ‘An anecdote’, which would be a personal story.",
     guideRef: "evidence",
   },
   {
@@ -893,7 +893,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 2,
     hint: "The writer accepts part of the other side's case.",
     explanation:
-      "'Admittedly' concedes that the opponents have a real point before answering it. A straw man (A) would misrepresent the opponents' view, whereas this sentence takes it seriously.",
+      "'Admittedly' concedes that the opponents have a real point before answering it. A straw man ‘A straw man’ would misrepresent the opponents' view, whereas this sentence takes it seriously.",
     guideRef: "counter-rebuttal",
   },
   {
@@ -1062,7 +1062,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 2,
     hint: "Look for 'as'.",
     explanation:
-      "It compares Scrooge to an oyster using 'as', so it is a simile. Metaphor (A) is tempting, but a metaphor would say Scrooge *is* an oyster, without 'as' or 'like'.",
+      "It compares Scrooge to an oyster using 'as', so it is a simile. Metaphor ‘Metaphor’ is tempting, but a metaphor would say Scrooge *is* an oyster, without 'as' or 'like'.",
     guideRef: "planning-novel",
   },
   {
@@ -1072,7 +1072,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 1,
     hint: "Which ghost shows him the past?",
     explanation:
-      "The Ghost of Christmas Past appears in Stave Two. Stave Three (C) is tempting but belongs to the Ghost of Christmas Present and the Cratchits.",
+      "The Ghost of Christmas Past appears in Stave Two. Stave Three ‘Stave Three’ is tempting but belongs to the Ghost of Christmas Present and the Cratchits.",
     guideRef: "planning-novel",
   },
   {

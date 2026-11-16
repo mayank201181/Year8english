@@ -592,7 +592,7 @@ export const analyticalWriting: Topic = {
         answerIndex: 2,
         hint: "Look for the sentence that zooms in on a word and explains an effect.",
         explanation:
-          "Option C names a method (the possessive 'mine'), quotes it and explains its effect ('defiant', 'refuses to accept'). Option D is tempting because it mentions feelings, but it still only tells us what happens in the plot.",
+          "The option ‘The possessive 'mine' in 'This island's mine' makes Caliban's…’ names a method (the possessive 'mine'), quotes it and explains its effect ('defiant', 'refuses to accept'). The option ‘Caliban is angry with Prospero and later plots with Stephano and…’ is tempting because it mentions feelings, but it still only tells us what happens in the plot.",
         guideRef: "analysis-not-retelling",
       },
       {
@@ -607,7 +607,7 @@ export const analyticalWriting: Topic = {
         answerIndex: 1,
         hint: "It is PEEL with the 'Explain' split into two steps.",
         explanation:
-          "PETAL = Point, Evidence, Technique, Analysis, Link. Option A sounds plausible but 'Example' and 'Argument' are not the steps, and it loses the final Link.",
+          "PETAL = Point, Evidence, Technique, Analysis, Link. The option ‘Point, Example, Theme, Argument, Language’ sounds plausible but 'Example' and 'Argument' are not the steps, and it loses the final Link.",
         guideRef: "peel-petal",
       },
       {
@@ -730,7 +730,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Think of the pundit, not the fan.",
             explanation:
-              "Analysis explains HOW a writer creates meaning and WHY. Listing techniques (D) is tempting, but without explaining effects it is only feature spotting.",
+              "Analysis explains HOW a writer creates meaning and WHY. Listing techniques ‘Listing as many techniques as you can find in the extract’ is tempting, but without explaining effects it is only feature spotting.",
             guideRef: "analysis-not-retelling",
           },
           {
@@ -756,7 +756,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Where do you earn most of the marks?",
             explanation:
-              "The Explain section is where you analyse methods and effects, so it should be the longest. Evidence (C) is tempting, but long quotations leave less room for analysis.",
+              "The Explain section is where you analyse methods and effects, so it should be the longest. Evidence ‘Evidence’ is tempting, but long quotations leave less room for analysis.",
             guideRef: "peel-petal",
           },
           {
@@ -771,7 +771,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "It is like the topic sentence of the paragraph.",
             explanation:
-              "The Point is a clear, arguable claim that answers the question. Summarising the scene (B) is tempting, but that is retelling, not a point.",
+              "The Point is a clear, arguable claim that answers the question. Summarising the scene ‘To summarise what happens in the scene’ is tempting, but that is retelling, not a point.",
             guideRef: "peel-petal",
           },
           {
@@ -797,7 +797,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Look for a comparison word.",
             explanation:
-              "It compares Scrooge to flint using 'as', so it is a simile. Metaphor (A) is the tempting wrong answer: a metaphor would say Scrooge IS flint, without 'like' or 'as'.",
+              "It compares Scrooge to flint using 'as', so it is a simile. Metaphor ‘Metaphor’ is the tempting wrong answer: a metaphor would say Scrooge IS flint, without 'like' or 'as'.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -807,7 +807,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Does he say she is LIKE the sun, or that she IS the sun?",
             explanation:
-              "Saying Juliet IS the sun is a metaphor. Simile (B) is tempting, but a simile needs 'like' or 'as'.",
+              "Saying Juliet IS the sun is a metaphor. Simile ‘a simile’ is tempting, but a simile needs 'like' or 'as'.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -832,7 +832,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "The word hints at something rather than stating it outright.",
             explanation:
-              "'Implies' fits because 'cold' hints at mercilessness without stating it. 'Proves' (C) is tempting because it sounds confident, but a single word cannot prove an interpretation; it suggests one.",
+              "'Implies' fits because 'cold' hints at mercilessness without stating it. 'Proves' ‘proves’ is tempting because it sounds confident, but a single word cannot prove an interpretation; it suggests one.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -857,7 +857,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Which word opens up a second possible meaning?",
             explanation:
-              "'Alternatively' introduces a different reading. 'For example' (D) is tempting because it is a useful phrase, but it introduces evidence, not a new interpretation.",
+              "'Alternatively' introduces a different reading. 'For example' ‘For example,’ is tempting because it is a useful phrase, but it introduces evidence, not a new interpretation.",
             guideRef: "alternative-interpretations",
           },
           {
@@ -902,7 +902,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "It's your argument in a sentence or two.",
             explanation:
-              "A thesis is the arguable answer your whole essay proves. A list of techniques (D) is a common weak introduction, not a thesis, because it makes no argument.",
+              "A thesis is the arguable answer your whole essay proves. A list of techniques ‘A list of the techniques you will discuss’ is a common weak introduction, not a thesis, because it makes no argument.",
             guideRef: "thesis",
           },
           {
@@ -963,7 +963,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Snip it, slip it, unzip it.",
             explanation:
-              "Short quotations focus on exactly the words you will analyse. Paraphrasing (D) is tempting to save time, but without the writer's actual words you cannot analyse their choices.",
+              "Short quotations focus on exactly the words you will analyse. Paraphrasing ‘None: always paraphrase instead’ is tempting to save time, but without the writer's actual words you cannot analyse their choices.",
             guideRef: "embedding-quotations",
           },
           {
@@ -1034,7 +1034,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "It has a frown and a wrinkled lip.",
             explanation:
-              "'Visage' means face. 'A statue's base' (B) is the pedestal, mentioned later in the poem.",
+              "'Visage' means face. 'A statue's base' ‘a statue's base’ is the pedestal, mentioned later in the poem.",
             guideRef: "zooming-in",
           },
           {
@@ -1044,7 +1044,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Picture someone sneering at you.",
             explanation:
-              "A sneer is a scornful, mocking expression, so it connotes contempt. 'Sadness and regret' (C) might fit the ruined statue, but not the expression itself.",
+              "A sneer is a scornful, mocking expression, so it connotes contempt. 'Sadness and regret' ‘sadness and regret’ might fit the ruined statue, but not the expression itself.",
             guideRef: "zooming-in",
           },
           {
@@ -1144,7 +1144,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Listen to the first letters.",
             explanation:
-              "Both words begin with 'l', so this is alliteration. Oxymoron (C) is wrong: 'lone' and 'level' do not contradict each other.",
+              "Both words begin with 'l', so this is alliteration. Oxymoron ‘Oxymoron’ is wrong: 'lone' and 'level' do not contradict each other.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -1154,7 +1154,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Which verb means 'makes it stand out'?",
             explanation:
-              "'Emphasises' is precise: the vast desert makes the smallness of power stand out. 'Tells' (A) is vague and suggests the poem states it directly, which it does not.",
+              "'Emphasises' is precise: the vast desert makes the smallness of power stand out. 'Tells' ‘tells’ is vague and suggests the poem states it directly, which it does not.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -1314,7 +1314,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Count the lines and look at the final two.",
             explanation:
-              "It has 14 lines and ends with a rhyming couplet, so it is a sonnet, a form associated with love poetry. A soliloquy (D) is tempting because one actor speaks it, but the Chorus addresses the audience rather than revealing private thoughts.",
+              "It has 14 lines and ends with a rhyming couplet, so it is a sonnet, a form associated with love poetry. A soliloquy ‘A soliloquy’ is tempting because one actor speaks it, but the Chorus addresses the audience rather than revealing private thoughts.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -1399,7 +1399,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Which word holds two ideas in tension?",
             explanation:
-              "'Although' lets you hold two ideas at once ('Although Prospero seems wise, …'). 'Also' (C) only adds another idea; it doesn't create tension between them.",
+              "'Although' lets you hold two ideas at once ('Although Prospero seems wise, …'). 'Also' ‘Also’ only adds another idea; it doesn't create tension between them.",
             guideRef: "thesis",
           },
           {
@@ -1424,7 +1424,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "A shadow arrives before the person.",
             explanation:
-              "'Foreshadows' means hints at future events. 'Evokes' (C) means calls up a feeling or image; it is not about the future.",
+              "'Foreshadows' means hints at future events. 'Evokes' ‘evokes’ means calls up a feeling or image; it is not about the future.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -1434,7 +1434,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "It shares a root with 'vocal': to call out.",
             explanation:
-              "'Evokes' means calls up a feeling or image. 'Implies' (C) is close, but it means hints at a meaning, not calls up a sensation.",
+              "'Evokes' means calls up a feeling or image. 'Implies' ‘implies’ is close, but it means hints at a meaning, not calls up a sensation.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -1449,7 +1449,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Two contrasting ideas side by side.",
             explanation:
-              "Placing contrasting ideas side by side is juxtaposition: the source of life is called deadly. Simile (D) is wrong as there is no 'like' or 'as'.",
+              "Placing contrasting ideas side by side is juxtaposition: the source of life is called deadly. Simile ‘Simile’ is wrong as there is no 'like' or 'as'.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -1464,7 +1464,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Which phrase opens a second possibility?",
             explanation:
-              "'On the other hand, a modern audience might' signals a different reading. 'This shows that' (B) presents one meaning as fact.",
+              "'On the other hand, a modern audience might' signals a different reading. 'This shows that' ‘This shows that’ presents one meaning as fact.",
             guideRef: "alternative-interpretations",
           },
           {
@@ -1549,7 +1549,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Tentative language weighs possibilities.",
             explanation:
-              "'Definitely' expresses certainty, so it is not tentative. 'Arguably' (C) may look strong, but it actually admits that others could disagree.",
+              "'Definitely' expresses certainty, so it is not tentative. 'Arguably' ‘arguably’ may look strong, but it actually admits that others could disagree.",
             guideRef: "alternative-interpretations",
           },
           {
@@ -1650,7 +1650,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Which word sets two things against each other?",
             explanation:
-              "'Whereas' contrasts two ideas. 'Equally' (B) might look like a balancing word, but it signals that two things are the same.",
+              "'Whereas' contrasts two ideas. 'Equally' ‘equally’ might look like a balancing word, but it signals that two things are the same.",
             guideRef: "essay-structure-comparison",
           },
           {
