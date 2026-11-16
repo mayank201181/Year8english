@@ -7,7 +7,7 @@ export const shakespeareLanguageExtras: TopicExtras = {
     "Put your hand on your chest and feel your heartbeat: da-DUM, da-DUM. Over 400 years ago Shakespeare built almost every great speech on exactly that rhythm, and once you can hear it, you can hear the moments when his characters' hearts skip.",
   didYouKnow: [
     "The Oxford English Dictionary lists Shakespeare as the earliest recorded user of well over a thousand words (about 1,700 is the figure usually quoted), including 'lonely', 'eyeball' and 'assassination'.",
-    "When the Globe burned down in 1613, a witness wrote that nobody died, but one man's breeches caught fire and he put them out with a bottle of ale.",
+    "When the Globe burned down in 1613, during a performance of Henry VIII, Sir Henry Wotton wrote in a letter that nothing perished but wood, straw and a few cloaks: only one man's breeches caught fire, and he put them out with bottled ale.",
     "In Antony and Cleopatra, Cleopatra fears that actors will one day show 'Some squeaking Cleopatra boy my greatness': a joke the audience would have loved, because the line was spoken by a boy actor playing Cleopatra.",
     "Not one complete manuscript of a Shakespeare play survives in his own handwriting. The only pages that may be his are a few scenes in a play called Sir Thomas More.",
     "Spelling was not fixed in Shakespeare's time: his six surviving signatures spell his surname in several different ways.",

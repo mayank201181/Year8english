@@ -2744,7 +2744,7 @@ export const identityCulturePoetry: Topic = {
           {
             id: "idc-qa-p4-q09",
             extract:
-              "Summary (copyrighted poem; short phrases only): the speaker walks back into District Six, bulldozed under apartheid, and finds a smart new ‘whites only inn’. No sign says so now, ‘but we know where we belong’. Pressing his face to its glass, he feels his ‘Hands burn / for a stone, a bomb’. The title returns as the final line: ‘Nothing’s changed.’",
+              "Summary (copyrighted poem; short phrases only): the speaker walks back into District Six, bulldozed under apartheid, and finds a smart new ‘whites only inn’. No sign says so now, ‘but we know where we belong’. Pressing his nose to its glass, he feels his ‘Hands burn / for a stone, a bomb’. The title returns as the final line: ‘Nothing’s changed.’",
             question: "How does Tatamkhulu Afrika show in ‘Nothing’s Changed’ that inequality has survived the end of apartheid? (Quote only short phrases.)",
             marks: 3,
             hint: "Think about the smart new inn, the speaker’s anger and the title/final line.",
