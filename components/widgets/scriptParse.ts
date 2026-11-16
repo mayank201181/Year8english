@@ -91,6 +91,13 @@ function lastNameIn(text: string, names: Set<string>): string | null {
   return found;
 }
 
+// The subject of the last sentence, e.g. "Zara" in "Zara shook her head."
+function lastSubjectIn(text: string): string | null {
+  let found: string | null = null;
+  for (const m of text.matchAll(/(?:^|[.!?]\s+)(?:The\s+)?([A-Z][a-z]+)\s+[a-z]/g)) if (!STOP.has(m[1])) found = m[1];
+  return found;
+}
+
 export function proseToScript(prose: string): { items: ScriptItem[]; names: string[]; changed: number } {
   const names = findNames(prose);
   const items: ScriptItem[] = [];
@@ -104,7 +111,7 @@ export function proseToScript(prose: string): { items: ScriptItem[]; names: stri
       changed += d.filter((s) => s.changed).length;
       items.push({ kind: "dir", segs: d });
     }
-    lastMention = lastNameIn(txt, names) ?? lastMention;
+    lastMention = lastNameIn(txt, names) ?? lastSubjectIn(txt.trim()) ?? lastMention;
   };
   const guess = (): string => {
     const prev = speakers[speakers.length - 1];
