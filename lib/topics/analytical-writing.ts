@@ -1885,6 +1885,416 @@ export const analyticalWriting: Topic = {
         ],
       },
     ],
-    qaPapers: [],
+    qaPapers: [
+      {
+        id: "anl-qa-p1",
+        title: "Written Paper 1",
+        passage: {
+          id: "qa-p1-caliban",
+          title: "'Be not afeard'",
+          source: "William Shakespeare, The Tempest (1611), Act 3 Scene 2 (Caliban)",
+          text:
+            "Be not afeard; the isle is full of noises,\nSounds and sweet airs, that give delight and hurt not.\nSometimes a thousand twangling instruments\nWill hum about mine ears; and sometime voices\nThat, if I then had waked after long sleep,\nWill make me sleep again: and then, in dreaming,\nThe clouds methought would open and show riches\nReady to drop upon me, that when I waked\nI cried to dream again.",
+          note:
+            "Caliban, whom Prospero calls a monster and enslaves, comforts the frightened Stephano and Trinculo when they hear Ariel's invisible music. afeard = afraid; airs = tunes (also breezes); methought = it seemed to me.",
+        },
+        questions: [
+          {
+            id: "anl-qa-p1-q01",
+            question: "What is the effect of Caliban opening with the command 'Be not afeard'?",
+            marks: 2,
+            hint: "What kind of sentence is it, and what does it show about how Caliban treats the others?",
+            modelAnswer:
+              "'Be not afeard' is an imperative, but a gentle one: Caliban is reassuring the frightened Stephano and Trinculo. This reveals a caring, protective side to him that contrasts sharply with Prospero's view of him as a savage monster.",
+            markScheme: [
+              { point: "Identifies the imperative / command used to reassure", keywords: ["imperative", "command", "reassur", "comfort", "calm", "soothe"] },
+              { point: "Explains what this reveals: a gentle or caring side that challenges the 'monster' view", keywords: ["caring", "gentle", "kind", "protective", "monster", "sympath", "not a savage", "contrast"] },
+            ],
+            commonError: "Saying only that Caliban tells them not to be scared, without commenting on what this reveals about his character.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p1-q02",
+            question: "Zoom in on the phrase 'sweet airs'. What do these words suggest about the island and about Caliban?",
+            marks: 3,
+            hint: "'Airs' has two meanings. What does 'sweet' add?",
+            modelAnswer:
+              "The adjective 'sweet' connotes something gentle, pleasant and delicious to the senses. 'Airs' can mean both tunes and soft breezes, so the island seems filled with music that drifts through the air itself, as if it is enchanted. That Caliban notices and treasures this beauty suggests he has a sensitive, poetic soul, far from the brute Prospero describes.",
+            markScheme: [
+              { point: "Explores the connotations of 'sweet' (pleasant, gentle, delightful)", keywords: ["sweet", "pleasant", "gentle", "delight", "lovely", "soft", "beautiful"] },
+              { point: "Explains the double meaning of 'airs' (tunes and breezes) or the island as magical/musical", keywords: ["tunes", "music", "melod", "breeze", "wind", "magical", "enchant", "double meaning"] },
+              { point: "Links to Caliban's character: sensitive, poetic, appreciative", keywords: ["sensitive", "poetic", "appreciat", "treasure", "loves the island", "beauty", "not a brute", "connection"] },
+            ],
+            commonError: "Explaining only the island and forgetting the second half of the question about Caliban.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p1-q03",
+            question:
+              "Improve this weak answer by embedding a shorter quotation and adding analysis: “Caliban loves the island. 'Sometimes a thousand twangling instruments / Will hum about mine ears'. This shows it is musical.”",
+            marks: 3,
+            hint: "Snip the quotation to the words you want to analyse, slip it into your sentence, then unzip it.",
+            modelAnswer:
+              "Caliban describes 'a thousand twangling instruments' that 'hum' about his ears; the onomatopoeic 'twangling' and 'hum' make the island sound alive with music, suggesting it is a place of constant, magical wonder that he loves.",
+            markScheme: [
+              { point: "Uses a shorter quotation (a few words rather than two full lines)", keywords: ["thousand twangling", "twangling", "hum", "instruments", "about mine ears"] },
+              { point: "Embeds the quotation in a grammatical sentence of their own", keywords: ["describes", "hears", "refers to", "speaks of", "mentions", "calls"] },
+              { point: "Adds analysis of a word or technique and its effect", keywords: ["onomatopoeia", "onomatopoeic", "alive", "magical", "suggest", "wonder", "hyperbole", "exaggerat"] },
+            ],
+            commonError: "Keeping the long quotation and simply changing 'shows' to 'suggests'.",
+            guideRef: "embedding-quotations",
+          },
+          {
+            id: "anl-qa-p1-q04",
+            question: "Analyse the final line, 'I cried to dream again'. What does it reveal about Caliban's life?",
+            marks: 4,
+            hint: "Why would anyone cry on waking up? Think about what his waking life is like.",
+            modelAnswer:
+              "The line reveals that Caliban's dreams are far happier than his reality. The verb 'cried' suggests heartbreak or longing, as though waking is a painful loss. This implies that his waking life, enslaved and insulted by Prospero, is miserable, so he can only find riches and freedom in sleep. The short, simple line ends the speech on a note of sadness that invites the audience to sympathise with a character Prospero calls a monster.",
+            markScheme: [
+              { point: "Explains the meaning: his dreams are better than reality / he wants to escape", keywords: ["dreams", "reality", "escape", "better than", "prefers", "awake"] },
+              { point: "Zooms in on 'cried' (sadness, longing, loss)", keywords: ["cried", "sadness", "longing", "heartbreak", "loss", "upset", "weep", "yearn"] },
+              { point: "Links to his miserable waking life (enslaved by Prospero)", keywords: ["slave", "enslaved", "prospero", "miserable", "trapped", "suffering", "servant", "captive"] },
+              { point: "Explains the effect on the audience: sympathy / challenges the monster view", keywords: ["sympath", "pity", "audience", "monster", "human", "vulnerable", "feel sorry"] },
+            ],
+            commonError: "Taking 'cried' to mean he shouted out, and missing the sadness of waking up.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p1-q05",
+            question: "Write a thesis statement for the question: 'How does Shakespeare present Caliban in this speech?'",
+            marks: 3,
+            hint: "Shakespeare presents Caliban as ___ and ___, in order to ___.",
+            modelAnswer:
+              "In this speech Shakespeare presents Caliban as unexpectedly sensitive and poetic, a man who finds delight in music and dreams, in order to challenge the audience's assumption, encouraged by Prospero, that he is nothing but a savage monster.",
+            markScheme: [
+              { point: "An arguable claim using 'presents' or similar, not an announcement", keywords: ["presents", "portrays", "depicts", "as both", "although", "reveals caliban"] },
+              { point: "Names specific qualities shown in the speech", keywords: ["sensitive", "poetic", "gentle", "lonely", "dreamer", "vulnerable", "caring", "lyrical"] },
+              { point: "Hints at purpose or effect on the audience", keywords: ["in order to", "audience", "challenge", "question", "sympath", "monster", "make us"] },
+            ],
+            commonError: "Writing 'In this essay I will explain how Caliban is presented', which states an intention but makes no argument.",
+            guideRef: "thesis",
+          },
+          {
+            id: "anl-qa-p1-q06",
+            question: "Identify TWO different techniques in the speech. For each, give a short quotation and explain its effect.",
+            marks: 4,
+            hint: "Look for sound words, a list, imagery of the sky, or lines that run on.",
+            modelAnswer:
+              "First, Shakespeare uses onomatopoeia in 'twangling' and 'hum', which make the island buzz with music, suggesting it is alive and enchanted. Second, he uses imagery of the sky: 'The clouds methought would open and show riches'. This heavenly vision evokes wonder and longing, as if Caliban glimpses a paradise that is always just out of reach. Enjambment across lines such as 'sometime voices / That, if I then had waked' also makes the speech flow like a dream.",
+            markScheme: [
+              { point: "Names a first technique accurately with a quotation", keywords: ["onomatopoeia", "twangling", "hum", "list", "noises", "sounds", "sibilance"] },
+              { point: "Explains the effect of the first technique", keywords: ["alive", "musical", "magical", "enchant", "buzz", "vivid", "atmosphere"] },
+              { point: "Names a second technique accurately with a quotation", keywords: ["imagery", "clouds", "riches", "enjambment", "run on", "contrast", "metaphor"] },
+              { point: "Explains the effect of the second technique", keywords: ["wonder", "longing", "dreamlike", "dream like", "heaven", "paradise", "flow", "out of reach"] },
+            ],
+            commonError: "Naming two techniques without quotations or effects (feature spotting).",
+            guideRef: "terminology-and-verbs",
+          },
+          {
+            id: "anl-qa-p1-q07",
+            question: "Write a full PEEL paragraph answering: 'How does Shakespeare present Caliban as sensitive in this speech?'",
+            marks: 5,
+            hint: "Point → short embedded quotation → technique and zoom in → alternative reading or effect → link to Shakespeare's purpose.",
+            modelAnswer:
+              "Shakespeare presents Caliban as deeply sensitive to beauty, which complicates Prospero's view of him as a monster. Caliban tells the others that the isle is full of 'Sounds and sweet airs, that give delight and hurt not'. The gentle adjective 'sweet' and the noun 'delight' create a semantic field of pleasure, while the reassuring phrase 'hurt not' suggests that Caliban, so often hurt himself, values gentleness above all. Perhaps this is why he responds to music so strongly: it is the one kindness the island gives him. By giving the 'monster' some of the play's most beautiful poetry, Shakespeare invites his audience to question who is truly civilised on the island.",
+            markScheme: [
+              { point: "Point: a clear claim about Caliban's sensitivity", keywords: ["presents", "portrays", "sensitive", "gentle", "poetic", "appreciat"] },
+              { point: "Evidence: a short, embedded quotation", keywords: ["sweet airs", "delight", "hurt not", "twangling", "cried to dream", "full of noises"] },
+              { point: "Explains a technique or zooms in on a word", keywords: ["adjective", "noun", "verb", "semantic field", "onomatopoeia", "connot", "imagery"] },
+              { point: "Develops the effect or offers an alternative reading", keywords: ["perhaps", "alternatively", "suggests", "implies", "could", "might"] },
+              { point: "Link: to Shakespeare's purpose, the audience or the monster/civilised theme", keywords: ["audience", "monster", "civilised", "civilized", "prospero", "question", "purpose", "colonial"] },
+            ],
+            commonError: "Spending most of the paragraph explaining what the speech means in plain English rather than how the language works.",
+            guideRef: "peel-petal",
+          },
+          {
+            id: "anl-qa-p1-q08",
+            question:
+              "Give TWO different interpretations of 'The clouds methought would open and show riches / Ready to drop upon me'. Which do you find more convincing, and why?",
+            marks: 4,
+            hint: "Are the 'riches' literal treasure, or something else? Use tentative language.",
+            modelAnswer:
+              "On one level, the 'riches' may be literal wealth, suggesting Caliban longs for the power and comfort that Prospero enjoys and he has lost. Alternatively, the clouds opening could be a heavenly, almost religious vision, implying that Caliban yearns for grace, beauty or freedom rather than gold. I find the second reading more convincing because the image is 'Ready to drop', gentle and freely given, which matches the tender tone of the whole speech rather than any greed.",
+            markScheme: [
+              { point: "First interpretation (e.g. literal wealth, power, what he has lost)", keywords: ["wealth", "treasure", "gold", "money", "power", "lost", "status"] },
+              { point: "Second interpretation (e.g. heavenly vision, freedom, grace, beauty)", keywords: ["heaven", "religious", "divine", "freedom", "grace", "paradise", "spiritual", "hope"] },
+              { point: "Uses tentative language to signal interpretations", keywords: ["perhaps", "alternatively", "could", "might", "may", "on the other hand"] },
+              { point: "Judges which reading is more convincing, with a reason from the text", keywords: ["more convincing", "more persuasive", "stronger", "i find", "prefer", "because"] },
+            ],
+            commonError: "Giving two readings but never deciding between them, or giving a second reading with no link to the words.",
+            guideRef: "alternative-interpretations",
+          },
+          {
+            id: "anl-qa-p1-q09",
+            question:
+              "The Tempest was first performed in 1611, as English ships were exploring and claiming land in the Americas. How might this context shape an audience's response to Caliban's speech?",
+            marks: 3,
+            hint: "Who is the 'native' of the island, and who arrived and took control?",
+            modelAnswer:
+              "In 1611 English explorers were claiming land in the Americas and often described its peoples as savages. Caliban, the island's original inhabitant now enslaved by a newcomer, mirrors these colonised peoples. His tender, poetic description of the island he loves could therefore make an audience question whether the 'savage' label is fair, and whether Prospero has any real right to rule the island.",
+            markScheme: [
+              { point: "Accurately explains the context (exploration/colonisation of the Americas)", keywords: ["coloni", "americas", "explor", "settlers", "new world", "empire", "virginia"] },
+              { point: "Links Caliban to colonised peoples (the island's native, now enslaved)", keywords: ["native", "original", "inhabitant", "enslaved", "taken", "stolen", "his island"] },
+              { point: "Explains the effect on the audience (questioning the savage label or Prospero's rule)", keywords: ["question", "sympath", "savage", "right to rule", "unfair", "injustice", "uneasy"] },
+            ],
+            commonError: "Writing a paragraph of history about explorers and never linking it to Caliban's words.",
+            guideRef: "purpose-audience-context",
+          },
+          {
+            id: "anl-qa-p1-q10",
+            extract: "You taught me language, and my profit on't\nIs, I know how to curse.\n(Caliban to Prospero, Act 1 Scene 2)",
+            question: "How does the 'Be not afeard' speech challenge what Caliban says about language in Act 1?",
+            marks: 3,
+            hint: "In Act 1 he says language is only good for cursing. What does he use it for in Act 3?",
+            modelAnswer:
+              "In Act 1 Caliban bitterly claims that his only 'profit' from language is the ability to curse. Yet in Act 3 he uses language to create some of the most beautiful poetry in the play, describing 'sweet airs' and clouds full of riches. This contrast suggests that Caliban's angry words in Act 1 come from his treatment by Prospero, and that he is capable of far more than the savage both he and Prospero claim he is.",
+            markScheme: [
+              { point: "Explains the Act 1 claim: language used only to curse", keywords: ["curse", "cursing", "profit", "insult", "anger", "bitter"] },
+              { point: "Contrasts this with the beautiful, poetic language of Act 3", keywords: ["poetic", "poetry", "beautiful", "lyrical", "sweet airs", "gentle", "contrast", "whereas"] },
+              { point: "Draws a conclusion about Caliban (more than a savage / anger caused by treatment)", keywords: ["more than", "capable", "treatment", "prospero", "complex", "not just", "savage", "human"] },
+            ],
+            commonError: "Describing each speech separately without explaining the contrast between them.",
+            guideRef: "essay-structure-comparison",
+          },
+          {
+            id: "anl-qa-p1-q11",
+            question:
+              "Plan an essay on 'How does Shakespeare present Caliban in The Tempest?' Give a thesis, three paragraph topics in a logical order (each with a short quotation) and one sentence explaining why your order works.",
+            marks: 6,
+            hint: "Try moving from the obvious reading of Caliban to the most perceptive one.",
+            modelAnswer:
+              "Thesis: Shakespeare presents Caliban as both a monster and a victim, leaving the audience uneasy about Prospero's power.\nParagraph 1: Caliban as savage and rebellious, seen in his curses and Prospero's insult 'poisonous slave'.\nParagraph 2: Caliban as a wronged native who insists 'This island's mine'.\nParagraph 3: Caliban as sensitive and poetic, describing 'sweet airs' and crying 'to dream again'.\nOrder: the essay moves from the obvious 'monster' reading to the most sympathetic one, so the argument builds towards the idea that Caliban is more human than Prospero admits.",
+            markScheme: [
+              { point: "A clear, arguable thesis", keywords: ["presents", "both", "although", "thesis", "monster and", "victim"] },
+              { point: "Paragraph 1 topic with a relevant quotation", keywords: ["curse", "poisonous slave", "savage", "rebel", "thing of darkness", "monster"] },
+              { point: "Paragraph 2 topic with a relevant quotation", keywords: ["island s mine", "island", "sycorax", "stolen", "native", "wronged"] },
+              { point: "Paragraph 3 topic with a relevant quotation", keywords: ["sweet airs", "afeard", "dream", "noises", "poetic", "sensitive"] },
+              { point: "Paragraphs arranged in a logical order", keywords: ["paragraph 1", "first", "then", "finally", "order", "builds"] },
+              { point: "Explains why the order works", keywords: ["obvious", "perceptive", "sympathetic", "develop", "chronolog", "build", "journey"] },
+            ],
+            commonError: "Listing three quotations in the order they appear without any controlling argument.",
+            guideRef: "essay-structure-comparison",
+          },
+          {
+            id: "anl-qa-p1-q12",
+            question:
+              "This quotation is copied incorrectly: Caliban says the isle is 'full of noises, Sounds and sweet airs'. Rewrite it correctly and explain the rule you have used.",
+            marks: 2,
+            hint: "'Sounds' starts a new line in the verse.",
+            modelAnswer:
+              "Caliban says the isle is 'full of noises, / Sounds and sweet airs'. When quoting verse across a line break you mark the break with a forward slash ( / ), keeping the capital letter that begins the new line.",
+            markScheme: [
+              { point: "Inserts a slash between 'noises,' and 'Sounds'", keywords: ["slash", "forward slash", "oblique", "stroke", "virgule"] },
+              { point: "Explains the rule: a slash shows a line break in verse/poetry", keywords: ["line break", "new line", "verse", "poetry", "line ending", "next line"] },
+            ],
+            commonError: "Putting the slash in the wrong place or removing the capital 'S'.",
+            guideRef: "embedding-quotations",
+          },
+        ],
+      },
+      {
+        id: "anl-qa-p2",
+        title: "Written Paper 2",
+        passage: {
+          id: "qa-p2-ozymandias",
+          title: "Ozymandias",
+          source: "Percy Bysshe Shelley (1818)",
+          text:
+            "I met a traveller from an antique land,\nWho said—“Two vast and trunkless legs of stone\nStand in the desert. . . . Near them, on the sand,\nHalf sunk a shattered visage lies, whose frown,\nAnd wrinkled lip, and sneer of cold command,\nTell that its sculptor well those passions read\nWhich yet survive, stamped on these lifeless things,\nThe hand that mocked them, and the heart that fed;\nAnd on the pedestal, these words appear:\nMy name is Ozymandias, King of Kings;\nLook on my Works, ye Mighty, and despair!\nNothing beside remains. Round the decay\nOf that colossal Wreck, boundless and bare\nThe lone and level sands stretch far away.”",
+          note:
+            "Ozymandias is a Greek name for the Egyptian pharaoh Ramesses II. trunkless = without a body; visage = face; mocked = imitated (and also ridiculed).",
+        },
+        questions: [
+          {
+            id: "anl-qa-p2-q01",
+            question: "What do the phrases 'trunkless legs' and 'shattered visage' suggest about the statue and the king it shows?",
+            marks: 2,
+            hint: "What state is the statue in? What might that say about the king's power?",
+            modelAnswer:
+              "'Trunkless legs' and a 'shattered visage' show that the statue is broken into pieces, with no body and a smashed face. This suggests that the king's once mighty power has been destroyed too: all that remains of him is fragments.",
+            markScheme: [
+              { point: "Explains that the statue is broken/incomplete", keywords: ["broken", "no body", "pieces", "smashed", "ruin", "fragment", "incomplete"] },
+              { point: "Links this to the destruction of the king's power", keywords: ["power", "destroyed", "faded", "fallen", "gone", "lost", "weak"] },
+            ],
+            commonError: "Describing the statue without saying what its ruin suggests about the king.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p2-q02",
+            question: "Zoom in on 'sneer of cold command'. Analyse at least two words and one sound effect.",
+            marks: 3,
+            hint: "'Sneer', 'cold', and the repeated 'c' sound.",
+            modelAnswer:
+              "The noun 'sneer' connotes contempt and mockery, suggesting the king looked down on everyone beneath him. The adjective 'cold' implies he ruled without warmth or mercy. The hard 'c' alliteration in 'cold command' sounds clipped and harsh, like a barked order, so the very sound of the phrase conveys his tyranny.",
+            markScheme: [
+              { point: "Analyses 'sneer' (contempt, mockery, arrogance)", keywords: ["sneer", "contempt", "mock", "scorn", "arrogan", "looks down", "disdain"] },
+              { point: "Analyses 'cold' (no warmth, merciless, emotionless)", keywords: ["cold", "heartless", "merciless", "unfeeling", "no warmth", "emotionless", "cruel"] },
+              { point: "Explains the alliteration / harsh sound", keywords: ["alliteration", "hard c", "harsh", "clipped", "plosive", "sound", "order"] },
+            ],
+            commonError: "Writing 'there is alliteration' without explaining how the sound fits the meaning.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p2-q03",
+            question: "Explain the irony of the inscription 'Look on my Works, ye Mighty, and despair!'",
+            marks: 4,
+            hint: "What did Ozymandias MEAN by it? What does it mean NOW?",
+            modelAnswer:
+              "The imperatives 'Look' and 'despair' show Ozymandias boasting: he wanted other mighty rulers to despair because they could never match his great 'Works'. The irony is that 'Nothing beside remains': his works have crumbled into the desert. Now the line means something quite different: rulers should despair because, like him, all their power will eventually turn to dust. His own boast has become a warning against pride.",
+            markScheme: [
+              { point: "Identifies the boastful tone / imperatives", keywords: ["imperative", "boast", "command", "arrogan", "proud", "brag"] },
+              { point: "Explains the intended meaning: others should despair at his greatness", keywords: ["could never match", "jealous", "greatness", "envy", "intimidate", "impress", "outdone"] },
+              { point: "Explains that his works no longer exist", keywords: ["nothing beside remains", "nothing remains", "crumbled", "gone", "desert", "ruin", "vanished"] },
+              { point: "Explains the new ironic meaning (all power fades / warning against pride)", keywords: ["irony", "ironic", "all power", "warning", "pride", "fade", "temporary", "turn to dust"] },
+            ],
+            commonError: "Explaining what the king meant but never stating why it is ironic now.",
+            guideRef: "alternative-interpretations",
+          },
+          {
+            id: "anl-qa-p2-q04",
+            question: "Why does Shelley place the short sentence 'Nothing beside remains.' straight after the inscription?",
+            marks: 3,
+            hint: "Think about contrast, sentence length and where it falls in the line.",
+            modelAnswer:
+              "Shelley juxtaposes the king's grand boast with the blunt statement that 'Nothing beside remains'. The sentence is short and flat, and it stops mid-line with a caesura, as if the poem itself falls silent. This structure instantly deflates Ozymandias's pride, making the gap between his claim and reality almost comic.",
+            markScheme: [
+              { point: "Identifies the contrast/juxtaposition with the boast", keywords: ["juxtapos", "contrast", "straight after", "boast", "immediately"] },
+              { point: "Comments on the short, blunt sentence or caesura", keywords: ["short", "blunt", "caesura", "full stop", "abrupt", "pause", "simple"] },
+              { point: "Explains the effect: deflates/undercuts pride", keywords: ["deflate", "undercut", "undermine", "mock", "pride", "comic", "humble", "puncture"] },
+            ],
+            commonError: "Explaining what the sentence means without discussing why its position matters.",
+            guideRef: "essay-structure-comparison",
+          },
+          {
+            id: "anl-qa-p2-q05",
+            question: "Write a thesis statement for: 'How does Shelley present power in Ozymandias?'",
+            marks: 2,
+            hint: "Shelley presents power as ___, in order to ___.",
+            modelAnswer:
+              "Shelley presents power as arrogant, cruel and ultimately temporary, in order to warn that even the mightiest tyrant will be swallowed by time.",
+            markScheme: [
+              { point: "An arguable claim about how power is presented", keywords: ["presents", "portrays", "temporary", "arrogant", "cruel", "fleeting", "fragile"] },
+              { point: "Hints at Shelley's purpose or message", keywords: ["in order to", "warn", "message", "time", "tyrant", "purpose", "reminds"] },
+            ],
+            commonError: "Writing a summary of the poem ('Ozymandias is about a broken statue') instead of an argument.",
+            guideRef: "thesis",
+          },
+          {
+            id: "anl-qa-p2-q06",
+            question: "Rewrite this feature-spotting sentence as real analysis: “Shelley uses alliteration in 'boundless and bare' and 'lone and level'.”",
+            marks: 4,
+            hint: "Embed the quotations, explain the sound and image, then link to the poem's message.",
+            modelAnswer:
+              "The alliterative phrases 'boundless and bare' and 'lone and level' slow the final lines down with their soft, long sounds, making the desert seem to stretch on endlessly. The adjectives 'bare' and 'lone' evoke total emptiness, so nothing of the king's empire is left. This vast, silent landscape emphasises how small and temporary Ozymandias's power was compared with time.",
+            markScheme: [
+              { point: "Embeds the quotations in a sentence", keywords: ["boundless and bare", "lone and level", "boundless", "level sands"] },
+              { point: "Explains the effect of the sound (slow, soft, drawn out)", keywords: ["slow", "soft", "long", "drawn out", "calm", "smooth", "lingering"] },
+              { point: "Explains the image or connotations (emptiness, endlessness)", keywords: ["empty", "emptiness", "endless", "vast", "nothing", "desolate", "isolat"] },
+              { point: "Links to the poem's message about power and time", keywords: ["power", "time", "temporary", "small", "insignificant", "pride", "tyrant"] },
+            ],
+            commonError: "Adding 'which makes it effective' to the original sentence instead of explaining a specific effect.",
+            guideRef: "terminology-and-verbs",
+          },
+          {
+            id: "anl-qa-p2-q07",
+            question: "Write a full PEEL paragraph answering: 'How does Shelley present Ozymandias as arrogant?'",
+            marks: 5,
+            hint: "Choose either the 'sneer' or the inscription as your evidence, then zoom in.",
+            modelAnswer:
+              "Shelley presents Ozymandias as a ruler whose arrogance is carved into stone. The inscription commands, 'Look on my Works, ye Mighty, and despair!' The imperative verbs 'Look' and 'despair' show him ordering even other kings about, while the self-given title 'King of Kings' suggests he saw himself as above every other human ruler. Perhaps the exclamation mark captures the very sound of his boasting voice. Yet because 'Nothing beside remains', Shelley turns this arrogance into a joke, warning his readers that pride in power is foolish when time destroys everything.",
+            markScheme: [
+              { point: "Point: a clear claim about Ozymandias's arrogance", keywords: ["presents", "portrays", "arrogan", "proud", "pride", "boastful"] },
+              { point: "Evidence: a short, embedded quotation", keywords: ["look on my works", "king of kings", "despair", "sneer", "cold command", "ye mighty"] },
+              { point: "Names and explains a technique", keywords: ["imperative", "exclamation", "title", "alliteration", "noun", "adjective", "verb"] },
+              { point: "Zooms in and develops the effect or an alternative reading", keywords: ["suggests", "implies", "perhaps", "connot", "above", "superior", "alternatively"] },
+              { point: "Link: to irony, time or Shelley's message about power", keywords: ["irony", "ironic", "nothing beside remains", "time", "warn", "message", "temporary", "fade"] },
+            ],
+            commonError: "Describing the statue in general without focusing on the words that show arrogance.",
+            guideRef: "peel-petal",
+          },
+          {
+            id: "anl-qa-p2-q08",
+            question: "The sculptor 'well those passions read / Which yet survive'. What might Shelley be suggesting about art compared with power?",
+            marks: 3,
+            hint: "Whose work has lasted longer, the king's or the sculptor's?",
+            modelAnswer:
+              "The sculptor 'read' the king's passions so well that they 'yet survive' in stone, long after the king himself has died. This suggests that art can outlast political power: the sculptor's skill preserves, and even exposes, the tyrant's cruelty. However, the statue is itself a 'colossal Wreck', so Shelley perhaps implies that even art cannot resist time forever.",
+            markScheme: [
+              { point: "Explains that the sculptor understood and captured the king's passions", keywords: ["understood", "captured", "read", "skill", "carved", "recorded", "preserved"] },
+              { point: "Argues that art outlasts power", keywords: ["outlast", "survive", "longer", "art", "lasted", "endures", "outlives"] },
+              { point: "Offers a qualification or alternative (art too is ruined)", keywords: ["however", "wreck", "also", "even art", "perhaps", "time", "alternatively"] },
+            ],
+            commonError: "Ignoring the sculptor entirely and writing only about the king.",
+            guideRef: "alternative-interpretations",
+          },
+          {
+            id: "anl-qa-p2-q09",
+            question: "'The hand that mocked them' can mean the hand that imitated them AND the hand that ridiculed them. Explore both readings and say which you find more interesting.",
+            marks: 4,
+            hint: "Use tentative language and then make a judgement.",
+            modelAnswer:
+              "On one level, 'mocked' means imitated: the sculptor's hand copied the king's frown and sneer accurately in stone. Alternatively, 'mocked' could mean ridiculed, suggesting the sculptor secretly made fun of the tyrant by recording his cruelty for ever. I find the second reading more interesting because it means the powerless artist has the last laugh over the 'King of Kings'.",
+            markScheme: [
+              { point: "Explains 'mocked' as imitated/copied", keywords: ["imitated", "copied", "reproduced", "replicated", "carved", "captured"] },
+              { point: "Explains 'mocked' as ridiculed/made fun of", keywords: ["ridicul", "made fun", "laughed", "scorn", "satir", "teased"] },
+              { point: "Uses tentative language", keywords: ["perhaps", "alternatively", "could", "might", "may", "possibly"] },
+              { point: "Makes a judgement with a reason", keywords: ["more interesting", "more convincing", "i find", "prefer", "last laugh", "because"] },
+            ],
+            commonError: "Choosing only one meaning and ignoring the double meaning the question points to.",
+            guideRef: "alternative-interpretations",
+          },
+          {
+            id: "anl-qa-p2-q10",
+            question:
+              "Shelley was a radical who hated tyranny and lived while King George III ruled Britain. Write two sentences that integrate this context into an analysis of the title 'King of Kings'.",
+            marks: 3,
+            hint: "Analyse the title first, then show how the context sharpens it.",
+            modelAnswer:
+              "The grand title 'King of Kings' shows Ozymandias claiming to be the greatest ruler of all, yet the poem leaves him as broken stone. Writing as a radical who despised tyranny, Shelley may intend this collapse as a warning to the powerful rulers of his own day: however mighty they think they are, their power will also crumble.",
+            markScheme: [
+              { point: "Analyses the title 'King of Kings' (supreme power, arrogance)", keywords: ["king of kings", "greatest", "supreme", "above", "superior", "arrogan"] },
+              { point: "Uses the context accurately (radical, hated tyranny, monarchy of his time)", keywords: ["radical", "tyranny", "george", "monarch", "his own time", "rulers of his"] },
+              { point: "Integrates context into a purpose (warning to rulers)", keywords: ["warning", "warn", "may intend", "message", "purpose", "crumble", "criticis"] },
+            ],
+            commonError: "Writing about Shelley's life in one sentence and the title in another without connecting them.",
+            guideRef: "purpose-audience-context",
+          },
+          {
+            id: "anl-qa-p2-q11",
+            question: "Analyse the final two lines: 'boundless and bare / The lone and level sands stretch far away.'",
+            marks: 4,
+            hint: "Think about size, emptiness, sound and the contrast with the king's boast.",
+            modelAnswer:
+              "The adjectives 'boundless and bare' evoke a desert that is both endless and empty, with nothing left of the empire. The alliteration of 'lone and level' slows the line down, and the verb phrase 'stretch far away' makes the sands seem to go on for ever, like time itself. This vast emptiness contrasts with the king's boast about his 'Works', emphasising that his power has shrunk to nothing.",
+            markScheme: [
+              { point: "Analyses 'boundless and bare' (endless and empty)", keywords: ["boundless", "endless", "bare", "empty", "infinite", "vast"] },
+              { point: "Comments on the sound (alliteration, slow pace)", keywords: ["alliteration", "slow", "lone and level", "sound", "pace", "long vowel"] },
+              { point: "Analyses 'stretch far away' (time, eternity)", keywords: ["stretch", "far away", "forever", "for ever", "eternity", "time", "distance"] },
+              { point: "Contrasts with the king's boast / power reduced to nothing", keywords: ["contrast", "boast", "works", "nothing", "insignificant", "power", "irony"] },
+            ],
+            commonError: "Only describing the desert without linking it back to Ozymandias.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p2-q12",
+            question: "“'Ozymandias' is more about the power of time than the power of kings.” How far do you agree? Write a short argued response.",
+            marks: 5,
+            hint: "Give evidence for both sides, then decide. Use 'although' or 'however'.",
+            modelAnswer:
+              "To a large extent I agree, because the poem's final image is not of the king but of 'lone and level sands' that 'stretch far away', suggesting that time outlasts every ruler. The 'decay' of the 'colossal Wreck' shows time defeating even the greatest works. However, Shelley still spends much of the poem on the king's 'sneer of cold command', so it is also a sharp attack on tyranny. Perhaps the best answer is that the two are connected: Shelley uses the power of time to mock the power of kings. Ultimately, though, time has the last word.",
+            markScheme: [
+              { point: "Argues that the poem is about time, with evidence", keywords: ["sands", "decay", "time", "stretch far away", "wreck", "outlasts"] },
+              { point: "Considers the other side: it is about kings/tyranny, with evidence", keywords: ["sneer", "cold command", "king of kings", "tyrann", "tyrant", "arrogan"] },
+              { point: "Uses a counter-argument connective", keywords: ["however", "although", "on the other hand", "yet", "whereas", "nevertheless"] },
+              { point: "Uses tentative language or explores how the ideas connect", keywords: ["perhaps", "arguably", "connected", "both", "might", "suggests"] },
+              { point: "Reaches a clear overall judgement", keywords: ["agree", "ultimately", "overall", "to a large extent", "in conclusion", "last word"] },
+            ],
+            commonError: "Agreeing or disagreeing without considering the other side, or sitting on the fence without a final judgement.",
+            guideRef: "essay-structure-comparison",
+          },
+        ],
+      },
+    ],
   },
 };
