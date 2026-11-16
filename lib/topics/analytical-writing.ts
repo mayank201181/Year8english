@@ -2295,6 +2295,416 @@ export const analyticalWriting: Topic = {
           },
         ],
       },
+      {
+        id: "anl-qa-p3",
+        title: "Written Paper 3",
+        passage: {
+          id: "qa-p3-scrooge",
+          title: "The cold within him",
+          source: "Charles Dickens, A Christmas Carol (1843), Stave One",
+          text:
+            "Oh! But he was a tight-fisted hand at the grindstone, Scrooge! a squeezing, wrenching, grasping, scraping, clutching, covetous, old sinner! Hard and sharp as flint, from which no steel had ever struck out generous fire; secret, and self-contained, and solitary as an oyster. The cold within him froze his old features, nipped his pointed nose, shrivelled his cheek, stiffened his gait; made his eyes red, his thin lips blue; and spoke out shrewdly in his grating voice. A frosty rime was on his head, and on his eyebrows, and his wiry chin. He carried his own low temperature always about with him; he iced his office in the dog-days; and didn't thaw it one degree at Christmas.",
+          note:
+            "tight-fisted = mean with money; covetous = greedily wanting what others have; flint = a hard stone struck with steel to make sparks; gait = way of walking; rime = frost; dog-days = the hottest days of summer.",
+        },
+        questions: [
+          {
+            id: "anl-qa-p3-q01",
+            question: "Identify ONE simile in the extract and explain its effect.",
+            marks: 2,
+            hint: "Look for 'as'.",
+            modelAnswer:
+              "The simile 'solitary as an oyster' compares Scrooge to an oyster, which is tightly shut inside a hard shell. This suggests he has closed himself off from other people and is impossible to reach.",
+            markScheme: [
+              { point: "Identifies a simile with a quotation", keywords: ["solitary as an oyster", "as an oyster", "sharp as flint", "hard and sharp", "as flint", "simile"] },
+              { point: "Explains its effect", keywords: ["closed", "shut", "isolat", "alone", "hard", "unreachable", "cold", "unfeeling"] },
+            ],
+            commonError: "Picking a phrase with no comparison word, such as 'old sinner', and calling it a simile.",
+            guideRef: "terminology-and-verbs",
+          },
+          {
+            id: "anl-qa-p3-q02",
+            question: "Analyse the list 'squeezing, wrenching, grasping, scraping, clutching'.",
+            marks: 4,
+            hint: "What kind of words are these? What do they have in common? Zoom in on one.",
+            modelAnswer:
+              "Dickens piles up a list of five present participles, all verbs of grabbing and holding tightly. The accumulation feels relentless, as if Scrooge's greed never stops for breath. Zooming in on 'wrenching', it suggests violently twisting something away from someone, implying he takes money by force from people who can't afford it. The list therefore presents his greed as aggressive and physical, not just a habit.",
+            markScheme: [
+              { point: "Identifies the list / accumulation", keywords: ["list", "accumulat", "pile", "asyndet", "series", "repetition"] },
+              { point: "Identifies the word class (verbs / present participles) and shared meaning of grabbing", keywords: ["verbs", "participle", "ing", "grab", "holding", "grip", "taking"] },
+              { point: "Zooms in on one word and explains it", keywords: ["wrenching", "clutching", "squeezing", "grasping", "scraping", "twist"] },
+              { point: "Explains the overall effect: greedy, relentless, aggressive", keywords: ["greed", "relentless", "aggressive", "never stops", "miser", "selfish", "violent"] },
+            ],
+            commonError: "Saying 'the list shows Scrooge is mean' without explaining what the type of words or the length of the list adds.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p3-q03",
+            question: "Identify three words from the semantic field of cold and explain what Dickens suggests through this field.",
+            marks: 3,
+            hint: "Look in the middle and end of the extract: frost, ice, temperature…",
+            modelAnswer:
+              "Dickens uses a semantic field of cold, including 'froze', 'frosty rime' and 'iced'. The coldness works as a metaphor for Scrooge's lack of warmth and kindness: his heart is frozen. Because he 'iced his office in the dog-days', the field also suggests that his coldness spreads to everyone around him, chilling even the hottest days.",
+            markScheme: [
+              { point: "Identifies three cold words from the extract", keywords: ["froze", "frosty", "rime", "iced", "low temperature", "thaw", "cold within"] },
+              { point: "Explains the coldness as lack of warmth / kindness / emotion", keywords: ["kindness", "warmth", "emotion", "heartless", "unfeeling", "uncaring", "frozen heart"] },
+              { point: "Explains a further effect (spreads to others / unchanging even at Christmas)", keywords: ["spreads", "others", "office", "dog days", "christmas", "affects", "everyone"] },
+            ],
+            commonError: "Listing the words correctly but not explaining what cold represents.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p3-q04",
+            question: "Explain the metaphor 'from which no steel had ever struck out generous fire'.",
+            marks: 3,
+            hint: "Flint and steel were used to make sparks for a fire. What is the 'fire'?",
+            modelAnswer:
+              "Flint is struck with steel to make sparks and start a fire. Dickens says no steel has ever struck 'generous fire' from Scrooge, meaning no person or event has ever managed to spark any generosity in him. The 'fire' connotes warmth and kindness, which links to the semantic field of cold: Scrooge is stone that has never produced warmth.",
+            markScheme: [
+              { point: "Explains the flint and steel image (striking sparks)", keywords: ["flint", "steel", "spark", "struck", "strike", "light a fire"] },
+              { point: "Explains the meaning: nothing has ever made him generous", keywords: ["never generous", "no one", "nothing", "never", "generosity", "kindness"] },
+              { point: "Explains the connotations of 'fire' (warmth) or links to cold imagery", keywords: ["warmth", "warm", "fire", "cold", "heat", "passion"] },
+            ],
+            commonError: "Treating it as a literal fire rather than a metaphor for generosity.",
+            guideRef: "terminology-and-verbs",
+          },
+          {
+            id: "anl-qa-p3-q05",
+            question: "The extract opens 'Oh! But he was a tight-fisted hand at the grindstone, Scrooge!' What is the effect of this exclamatory narrative voice?",
+            marks: 2,
+            hint: "Imagine someone telling you this story aloud.",
+            modelAnswer:
+              "The exclamations make the narrator sound like a lively storyteller speaking directly to us, almost outraged and amused at once. This engages the reader and invites us to share the narrator's disapproval of Scrooge from the very start.",
+            markScheme: [
+              { point: "Identifies the exclamatory/storytelling narrative voice", keywords: ["exclamat", "storyteller", "narrator", "spoken", "directly", "voice", "conversational"] },
+              { point: "Explains the effect on the reader (engages, shares disapproval, humour)", keywords: ["engag", "disapprov", "outrage", "humour", "humor", "comic", "judge", "dislike"] },
+            ],
+            commonError: "Saying 'it makes it exciting' without explaining what attitude the voice creates.",
+            guideRef: "terminology-and-verbs",
+          },
+          {
+            id: "anl-qa-p3-q06",
+            question:
+              "Improve this answer by embedding a shorter quotation and analysing it: “Scrooge is cold. 'He carried his own low temperature always about with him; he iced his office in the dog-days; and didn't thaw it one degree at Christmas.' This shows he is cold.”",
+            marks: 4,
+            hint: "Pick the two or three most powerful words and build your sentence around them.",
+            modelAnswer:
+              "Dickens claims that Scrooge 'iced his office in the dog-days', a hyperbole implying that his coldness is so powerful it can freeze a room in the heat of summer. The verb 'iced' suggests he actively makes the atmosphere hostile for everyone around him, such as his clerk.",
+            markScheme: [
+              { point: "Uses a much shorter quotation", keywords: ["iced his office", "iced", "dog days", "low temperature", "thaw"] },
+              { point: "Embeds it in a grammatical sentence", keywords: ["claims", "describes", "says that", "explains", "writes that", "tells us"] },
+              { point: "Uses a precise analytical verb instead of 'shows'", keywords: ["suggests", "implies", "conveys", "emphasises", "emphasizes", "evokes", "highlights"] },
+              { point: "Analyses the effect of a word or technique", keywords: ["hyperbole", "exaggerat", "verb", "summer", "hostile", "others", "freeze", "metaphor"] },
+            ],
+            commonError: "Shortening the quotation but still ending with 'this shows he is cold', which repeats the point instead of analysing.",
+            guideRef: "embedding-quotations",
+          },
+          {
+            id: "anl-qa-p3-q07",
+            question: "Write a full PEEL paragraph answering: 'How does Dickens present Scrooge as isolated?'",
+            marks: 5,
+            hint: "'secret, and self-contained, and solitary as an oyster' is full of material.",
+            modelAnswer:
+              "Dickens presents Scrooge as a man who has deliberately shut himself away from the world. He is 'secret, and self-contained, and solitary as an oyster'. The sibilance of the repeated 's' sounds creates a hushed, hissing effect, as though Scrooge whispers to no one, while the polysyndeton ('and… and') stretches out his loneliness. The simile of the oyster suggests a creature locked inside a hard shell; perhaps, though, it also hints that a pearl lies hidden within, foreshadowing the kinder man he will become. In this way Dickens prepares the reader for a story of redemption.",
+            markScheme: [
+              { point: "Point: a clear claim about Scrooge's isolation", keywords: ["presents", "portrays", "isolat", "alone", "lonely", "shut"] },
+              { point: "Evidence: a short, embedded quotation", keywords: ["solitary", "oyster", "self contained", "secret", "tight fisted", "flint"] },
+              { point: "Names and explains a technique", keywords: ["simile", "sibilance", "polysyndeton", "repetition", "list", "adjective", "alliteration"] },
+              { point: "Develops the effect or an alternative reading", keywords: ["perhaps", "pearl", "alternatively", "suggests", "implies", "shell", "hidden"] },
+              { point: "Link: to the story's purpose (redemption) or Dickens's message", keywords: ["redemption", "change", "transform", "foreshadow", "message", "dickens wants", "christmas"] },
+            ],
+            commonError: "Writing about Scrooge's meanness in general and forgetting the focus on isolation.",
+            guideRef: "peel-petal",
+          },
+          {
+            id: "anl-qa-p3-q08",
+            question: "Explore TWO readings of 'solitary as an oyster'. Which is more convincing, given that A Christmas Carol is a story about Scrooge changing?",
+            marks: 3,
+            hint: "What is an oyster like on the outside? What might be hidden inside?",
+            modelAnswer:
+              "On the surface the simile suggests Scrooge is hard, closed and impossible to open, like an oyster's shell. Alternatively, oysters can contain pearls, so Dickens may be hinting that something precious is hidden inside him. Given that the story ends with Scrooge transformed, the second reading is more convincing: the simile quietly foreshadows his redemption.",
+            markScheme: [
+              { point: "First reading: closed, hard, unreachable", keywords: ["closed", "hard", "shell", "shut", "unreachable", "tough"] },
+              { point: "Second reading: hidden pearl / goodness inside", keywords: ["pearl", "hidden", "inside", "precious", "goodness", "potential"] },
+              { point: "Judgement linked to the story's change/redemption", keywords: ["redemption", "change", "transform", "foreshadow", "more convincing", "ending"] },
+            ],
+            commonError: "Giving only the 'closed shell' reading and missing the hint of hidden value.",
+            guideRef: "alternative-interpretations",
+          },
+          {
+            id: "anl-qa-p3-q09",
+            question:
+              "Dickens wrote A Christmas Carol in 1843, when many poor people in London lived in terrible conditions and Dickens wanted wealthy readers to be more generous. Use this context to explain the purpose of this description of Scrooge.",
+            marks: 3,
+            hint: "Who is Scrooge meant to represent, and what does Dickens want his readers to feel about him?",
+            modelAnswer:
+              "In 1843 many Londoners lived in severe poverty, and Dickens wanted the comfortable middle and upper classes to help them. By making Scrooge a 'covetous, old sinner' whose coldness freezes everyone around him, Dickens turns selfish wealth into something ugly and unnatural. His purpose is to make readers reject Scrooge's attitude and, by the end, to want to be generous themselves.",
+            markScheme: [
+              { point: "Accurately explains the context (poverty in 1840s London)", keywords: ["poverty", "poor", "1843", "victorian", "workhouse", "conditions", "inequality"] },
+              { point: "Links context to specific words in the description", keywords: ["covetous", "sinner", "tight fisted", "cold", "greedy", "grasping", "clutching"] },
+              { point: "Explains Dickens's purpose (criticise selfishness, encourage generosity)", keywords: ["purpose", "persuade", "criticis", "generous", "charity", "change attitudes", "message", "warn"] },
+            ],
+            commonError: "Retelling facts about Victorian poverty without linking them to the description of Scrooge.",
+            guideRef: "purpose-audience-context",
+          },
+          {
+            id: "anl-qa-p3-q10",
+            question: "Why might Dickens call Scrooge an 'old sinner' rather than just 'an old man'? Analyse the word 'sinner'.",
+            marks: 3,
+            hint: "Where does the idea of 'sin' come from? Why does it matter in a Christmas story?",
+            modelAnswer:
+              "The noun 'sinner' has religious connotations, suggesting that Scrooge's greed is not just unpleasant but morally wrong in the eyes of God. In a story set at Christmas, a Christian festival, this makes his meanness seem even worse. The word also implies that a sinner can repent, foreshadowing Scrooge's eventual redemption.",
+            markScheme: [
+              { point: "Identifies the religious connotations of 'sinner'", keywords: ["religious", "religion", "god", "christian", "bible", "church", "moral"] },
+              { point: "Explains that greed is presented as morally wrong (worse at Christmas)", keywords: ["wrong", "wicked", "christmas", "greed", "immoral", "worse", "evil"] },
+              { point: "Explores the possibility of repentance / redemption", keywords: ["repent", "redemption", "forgiv", "saved", "change", "foreshadow"] },
+            ],
+            commonError: "Defining 'sinner' as 'a bad person' without exploring its religious weight.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p3-q11",
+            question:
+              "Write a thesis and two topic sentences for an essay on 'How does Dickens present Scrooge in Stave One?' Arrange them in a logical order.",
+            marks: 4,
+            hint: "Thesis first; each topic sentence should cover a different aspect of Scrooge and use 'presents' or similar.",
+            modelAnswer:
+              "Thesis: Dickens presents Scrooge as greedy, cold and isolated, yet hints that he can change, in order to show his readers that selfishness is both ugly and curable.\nTopic sentence 1: Dickens first presents Scrooge's greed as aggressive and physical, through a relentless list of grasping verbs.\nTopic sentence 2: Building on this, Dickens presents Scrooge's coldness as so extreme that it spreads to everyone around him, yet the oyster simile hints at hidden goodness.",
+            markScheme: [
+              { point: "An arguable thesis that answers the question", keywords: ["presents", "portrays", "although", "yet", "in order to", "thesis"] },
+              { point: "First topic sentence with a clear focus", keywords: ["greed", "greedy", "mean", "miser", "money", "grasping"] },
+              { point: "Second topic sentence with a different focus", keywords: ["cold", "isolat", "solitary", "lonely", "frozen", "oyster"] },
+              { point: "Logical order / signposting between paragraphs", keywords: ["first", "building on", "then", "next", "secondly", "develop", "furthermore"] },
+            ],
+            commonError: "Writing two topic sentences that make the same point in different words.",
+            guideRef: "essay-structure-comparison",
+          },
+          {
+            id: "anl-qa-p3-q12",
+            question: "How does Dickens use language to present Scrooge in the whole extract? Write two linked analytical paragraphs.",
+            marks: 6,
+            hint: "Paragraph 1: greed (the list). Paragraph 2: coldness (the semantic field). Include an alternative reading and Dickens's purpose.",
+            modelAnswer:
+              "Dickens presents Scrooge's greed as violent and relentless. He is 'a squeezing, wrenching, grasping, scraping, clutching' old man: a list of present participles that all describe gripping or tearing. The verb 'wrenching' suggests he twists money away from others by force, and the sheer length of the list makes his greed feel never-ending.\n\nBuilding on this, Dickens presents Scrooge's coldness as something that infects everything around him. A semantic field of cold, from 'froze' to 'frosty rime' to 'iced', turns his meanness into weather. Because he 'iced his office in the dog-days', his coldness even defeats summer. Yet the simile 'solitary as an oyster' perhaps hints at a pearl hidden inside. Writing in 1843, when London's poor desperately needed help, Dickens makes selfishness repulsive so that his readers will choose generosity instead.",
+            markScheme: [
+              { point: "Clear points that answer the question", keywords: ["presents", "portrays", "greed", "cold", "isolat"] },
+              { point: "Short, embedded quotations", keywords: ["wrenching", "clutching", "froze", "iced", "oyster", "flint", "rime"] },
+              { point: "Accurate terminology", keywords: ["list", "semantic field", "simile", "verb", "participle", "metaphor", "sibilance"] },
+              { point: "Zooms in on a single word and its connotations", keywords: ["the verb", "the word", "connot", "suggests", "implies", "noun"] },
+              { point: "Alternative interpretation using tentative language", keywords: ["perhaps", "alternatively", "pearl", "could", "might", "may"] },
+              { point: "Links to Dickens's purpose or context", keywords: ["1843", "poor", "poverty", "purpose", "generos", "readers", "victorian"] },
+            ],
+            commonError: "Writing two paragraphs that both list techniques without zooming in on any single word.",
+            guideRef: "peel-petal",
+          },
+        ],
+      },
+      {
+        id: "anl-qa-p4",
+        title: "Written Paper 4",
+        passage: {
+          id: "qa-p4-hamlet",
+          title: "'O, that this too too solid flesh would melt'",
+          source: "William Shakespeare, Hamlet (c.1600), Act 1 Scene 2 (opening of Hamlet's first soliloquy)",
+          text:
+            "O, that this too too solid flesh would melt,\nThaw and resolve itself into a dew!\nOr that the Everlasting had not fix'd\nHis canon 'gainst self-slaughter! O God! God!\nHow weary, stale, flat and unprofitable,\nSeem to me all the uses of this world!\nFie on't! ah fie! 'tis an unweeded garden,\nThat grows to seed; things rank and gross in nature\nPossess it merely. That it should come to this!",
+          note:
+            "Hamlet is alone on stage. His father died less than two months ago and his mother has married his uncle Claudius, now king. the Everlasting = God; canon = law; self-slaughter = suicide; rank = foul and overgrown; merely = completely.",
+        },
+        questions: [
+          {
+            id: "anl-qa-p4-q01",
+            question: "This speech is a soliloquy. What is a soliloquy, and why is it effective here?",
+            marks: 2,
+            hint: "Who is on stage, and who hears Hamlet's true feelings?",
+            modelAnswer:
+              "A soliloquy is a speech in which a character alone on stage speaks their private thoughts aloud. Here it lets the audience see Hamlet's true despair, which he cannot reveal to the court, so we understand his grief more deeply than any other character does.",
+            markScheme: [
+              { point: "Defines a soliloquy (alone on stage, private thoughts)", keywords: ["alone", "private", "thoughts", "inner", "by himself", "no one else"] },
+              { point: "Explains the effect here (reveals true despair to the audience)", keywords: ["audience", "true feelings", "despair", "honest", "reveal", "secret", "real"] },
+            ],
+            commonError: "Defining a soliloquy as 'a long speech' without mentioning that the character is alone.",
+            guideRef: "terminology-and-verbs",
+          },
+          {
+            id: "anl-qa-p4-q02",
+            question: "Analyse Hamlet's wish that his flesh would 'melt, / Thaw and resolve itself into a dew'.",
+            marks: 3,
+            hint: "What happens to something that melts into dew? What is Hamlet really wishing?",
+            modelAnswer:
+              "The verbs 'melt' and 'thaw' suggest Hamlet wants his body to dissolve away gently, without any violent act. Turning into 'a dew' implies he wishes simply to disappear, leaving almost nothing behind. This evokes his exhaustion and despair: grief has made his own body feel like a heavy burden he longs to be rid of.",
+            markScheme: [
+              { point: "Zooms in on the verbs 'melt'/'thaw' (dissolving)", keywords: ["melt", "thaw", "dissolv", "verb", "liquid", "soften"] },
+              { point: "Explains the wish to disappear / die", keywords: ["disappear", "vanish", "die", "death", "cease", "not exist", "suicid"] },
+              { point: "Explains what this reveals about his feelings (despair, exhaustion, burden)", keywords: ["despair", "exhaust", "grief", "burden", "weary", "depress", "hopeless"] },
+            ],
+            commonError: "Explaining the image literally (ice melting) without linking it to Hamlet's emotional state.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p4-q03",
+            question: "Analyse the list of adjectives 'weary, stale, flat and unprofitable'.",
+            marks: 3,
+            hint: "Zoom in on one adjective. What does the list as a whole do?",
+            modelAnswer:
+              "Shakespeare uses a list of four negative adjectives that drags on like Hamlet's mood. 'Stale' connotes food left out too long: life has lost all freshness and flavour. Together the adjectives convey that Hamlet finds nothing in the world worth doing, revealing a deep despair.",
+            markScheme: [
+              { point: "Identifies the list of adjectives", keywords: ["list", "adjectives", "accumulat", "four", "series", "build up"] },
+              { point: "Zooms in on one adjective's connotations", keywords: ["stale", "flat", "weary", "unprofitable", "tasteless", "lifeless", "pointless"] },
+              { point: "Explains the overall effect (despair, nothing has value)", keywords: ["despair", "meaningless", "worthless", "nothing", "depress", "hopeless", "no value"] },
+            ],
+            commonError: "Explaining each adjective's dictionary meaning without saying what they show together.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p4-q04",
+            question: "Analyse the extended metaphor of the world as 'an unweeded garden'.",
+            marks: 4,
+            hint: "What happens to a garden nobody tends? What might 'rank and gross' things represent?",
+            modelAnswer:
+              "Hamlet uses an extended metaphor, describing the world as 'an unweeded garden / That grows to seed'. The adjective 'unweeded' implies neglect: no one has removed what is harmful, so weeds have taken over. The phrase 'rank and gross' suggests something foul-smelling and corrupt. This hints at the corruption in Denmark under Claudius and begins the play's wider imagery of rot and disease.",
+            markScheme: [
+              { point: "Identifies the (extended) metaphor", keywords: ["metaphor", "extended", "garden", "imagery", "compares"] },
+              { point: "Analyses 'unweeded' (neglect, harmful growth)", keywords: ["unweeded", "neglect", "untended", "weeds", "overgrown", "taken over"] },
+              { point: "Analyses 'rank and gross' (foul, corrupt)", keywords: ["rank", "gross", "foul", "corrupt", "disgust", "rotten", "smell"] },
+              { point: "Links to Denmark, Claudius or the play's imagery of rot", keywords: ["denmark", "claudius", "rot", "disease", "state", "court", "kingdom"] },
+            ],
+            commonError: "Explaining that a garden has weeds but not what the weeds represent.",
+            guideRef: "zooming-in",
+          },
+          {
+            id: "anl-qa-p4-q05",
+            question: "What is the effect of the broken exclamations 'O God! God!' and 'Fie on't! ah fie!'?",
+            marks: 2,
+            hint: "How do these sound compared with smooth, regular verse?",
+            modelAnswer:
+              "The short exclamations break up the regular rhythm of the verse, as if Hamlet's thoughts are collapsing. They convey overwhelming emotion: he is so disgusted and distressed that he can hardly form complete sentences.",
+            markScheme: [
+              { point: "Identifies the exclamations / broken rhythm", keywords: ["exclamat", "broken", "rhythm", "interrupt", "fragment", "short", "caesura"] },
+              { point: "Explains the emotional effect (distress, disgust, collapse)", keywords: ["emotion", "distress", "disgust", "overwhelm", "anguish", "breakdown", "despair"] },
+            ],
+            commonError: "Saying 'it shows he is upset' without referring to the effect of the broken rhythm.",
+            guideRef: "terminology-and-verbs",
+          },
+          {
+            id: "anl-qa-p4-q06",
+            question:
+              "Hamlet wishes 'the Everlasting had not fix'd / His canon 'gainst self-slaughter'. How might a religious audience in c.1600 respond to this?",
+            marks: 3,
+            hint: "What did Christian teaching say about suicide? What does the line tell us about Hamlet's state of mind?",
+            modelAnswer:
+              "Hamlet wishes God had not forbidden suicide, revealing that he would end his life if his faith allowed it. For a religious audience in c.1600, who believed suicide was a grave sin, this would be shocking and alarming. It shows how desperate his grief has become, while also suggesting that his religious beliefs are the only thing holding him back, which might make the audience feel both sympathy and fear for him.",
+            markScheme: [
+              { point: "Explains the meaning: Hamlet wishes God had not forbidden suicide", keywords: ["forbid", "forbidden", "god", "law", "suicide", "end his life", "kill himself"] },
+              { point: "Explains the religious context: suicide was a grave sin", keywords: ["sin", "christian", "religious", "damnation", "hell", "church", "faith"] },
+              { point: "Explains the audience's response (shock, alarm, sympathy)", keywords: ["shock", "alarm", "sympath", "fear", "concern", "pity", "disturb"] },
+            ],
+            commonError: "Ignoring the religious context and simply saying that Hamlet is sad.",
+            guideRef: "purpose-audience-context",
+          },
+          {
+            id: "anl-qa-p4-q07",
+            question: "Write a full PEEL paragraph answering: 'How does Shakespeare present Hamlet's state of mind in this soliloquy?'",
+            marks: 5,
+            hint: "Pick one powerful quotation, zoom in, offer an alternative reading, then link to the wider play.",
+            modelAnswer:
+              "Shakespeare presents Hamlet as so consumed by grief that the whole world seems poisoned to him. He calls it 'an unweeded garden', a metaphor in which nothing healthy can grow. The adjective 'unweeded' implies that someone should have tended the garden but failed; perhaps Hamlet is blaming his mother, whose hasty remarriage has let 'rank and gross' things take root. Alternatively, the image could point at Claudius, suggesting the whole state is choking under a corrupt king. Either way, Hamlet's private despair becomes the first sign that something is badly wrong in Denmark.",
+            markScheme: [
+              { point: "Point: a clear claim about Hamlet's state of mind", keywords: ["presents", "portrays", "grief", "despair", "disgust", "depress"] },
+              { point: "Evidence: a short, embedded quotation", keywords: ["unweeded garden", "rank and gross", "weary", "stale", "too too solid", "melt"] },
+              { point: "Names and explains a technique", keywords: ["metaphor", "adjective", "list", "verb", "exclamation", "imagery", "repetition"] },
+              { point: "Offers an alternative reading with tentative language", keywords: ["perhaps", "alternatively", "could", "might", "may", "on the other hand"] },
+              { point: "Link: to the wider play, Denmark, Claudius or Gertrude", keywords: ["denmark", "claudius", "gertrude", "mother", "state", "corrupt", "rotten"] },
+            ],
+            commonError: "Describing Hamlet's situation (his father's death, his mother's marriage) instead of analysing the language.",
+            guideRef: "peel-petal",
+          },
+          {
+            id: "anl-qa-p4-q08",
+            question: "Who or what might the 'unweeded garden' represent? Give at least two possibilities and decide which is most convincing.",
+            marks: 4,
+            hint: "The world in general? Denmark? Gertrude? Look at the line 'That it should come to this!'",
+            modelAnswer:
+              "The garden could represent the world in general, which seems pointless to Hamlet in his grief. Alternatively, it may represent Denmark under Claudius, a state choked by corruption. It might even represent Gertrude, whose remarriage Hamlet sees as letting something 'rank' grow. The Denmark reading is perhaps most convincing, because the play keeps returning to images of rot, such as Marcellus's later line 'Something is rotten in the state of Denmark'.",
+            markScheme: [
+              { point: "First possibility (e.g. the world / life in general)", keywords: ["world", "life", "everything", "existence", "humanity"] },
+              { point: "Second possibility (e.g. Denmark, Claudius, Gertrude)", keywords: ["denmark", "claudius", "gertrude", "mother", "court", "state", "king"] },
+              { point: "Uses tentative language", keywords: ["perhaps", "alternatively", "could", "might", "may", "possibly"] },
+              { point: "Judges which is most convincing with a reason", keywords: ["most convincing", "more convincing", "because", "i think", "persuasive", "strongest"] },
+            ],
+            commonError: "Giving several readings with no evidence from the text and no final judgement.",
+            guideRef: "alternative-interpretations",
+          },
+          {
+            id: "anl-qa-p4-q09",
+            extract: "O brave new world,\nThat has such people in't!\n(Miranda, The Tempest, Act 5 Scene 1)",
+            question: "Compare Hamlet's view of the world in his soliloquy with Miranda's view here.",
+            marks: 3,
+            hint: "Use a comparative connective. Compare attitudes AND methods.",
+            modelAnswer:
+              "Hamlet sees the world as 'an unweeded garden', full of corruption and decay, whereas Miranda calls it a 'brave new world', full of wonder. Both speak in exclamations, but Hamlet's express disgust while Miranda's express joyful amazement. Ironically, Miranda is looking at men who betrayed her father, so perhaps both views are shaped more by the speaker's feelings than by the world itself.",
+            markScheme: [
+              { point: "Explains Hamlet's negative view with evidence", keywords: ["unweeded", "rank", "stale", "decay", "corrupt", "disgust", "negative"] },
+              { point: "Explains Miranda's positive view with evidence", keywords: ["brave new world", "wonder", "amaze", "optimis", "joy", "hopeful", "positive"] },
+              { point: "Uses a comparative connective and/or compares methods", keywords: ["whereas", "in contrast", "however", "both", "similarly", "while", "unlike"] },
+            ],
+            commonError: "Writing about the two quotations in separate sentences without ever comparing them.",
+            guideRef: "essay-structure-comparison",
+          },
+          {
+            id: "anl-qa-p4-q10",
+            extract: "the isle is full of noises,\nSounds and sweet airs, that give delight and hurt not.\n(Caliban, The Tempest, Act 3 Scene 2)",
+            question: "Write an integrated comparison paragraph on how Caliban and Hamlet describe the world around them.",
+            marks: 4,
+            hint: "Open with a point covering both, then move between the texts with connectives.",
+            modelAnswer:
+              "Both characters are outsiders in their worlds, yet they describe their surroundings in opposite ways. Caliban, though enslaved, finds his island full of 'sweet airs, that give delight and hurt not', a semantic field of pleasure that reveals his love for it. In contrast, Hamlet, a prince in his own court, calls Denmark 'an unweeded garden' where 'rank and gross' things grow. Whereas Caliban finds beauty despite his suffering, Hamlet finds only decay despite his privilege, suggesting that how we see the world depends on our inner state rather than our circumstances.",
+            markScheme: [
+              { point: "Opens with a comparative point covering both texts", keywords: ["both", "each", "while", "yet they", "outsiders", "opposite"] },
+              { point: "Uses evidence from both texts", keywords: ["sweet airs", "delight", "unweeded", "rank and gross", "full of noises", "hurt not"] },
+              { point: "Uses comparative connectives", keywords: ["whereas", "in contrast", "however", "similarly", "unlike", "on the other hand"] },
+              { point: "Analyses the methods or meaning of the contrast", keywords: ["semantic field", "metaphor", "beauty", "decay", "suggesting", "inner", "despite"] },
+            ],
+            commonError: "Using the block method (all about Caliban, then all about Hamlet) inside a single paragraph.",
+            guideRef: "essay-structure-comparison",
+          },
+          {
+            id: "anl-qa-p4-q11",
+            question: "Write a conclusion for an essay on 'How does Shakespeare present Hamlet's grief in Act 1 Scene 2?'",
+            marks: 3,
+            hint: "Answer the question again with more depth; no new quotations; end with a judgement about purpose.",
+            modelAnswer:
+              "Ultimately, Shakespeare presents Hamlet's grief as so overwhelming that it poisons his view of the entire world, turning life into something 'stale' and Denmark into a rotting garden. By revealing this despair in a private soliloquy, Shakespeare makes the audience Hamlet's confidants, so that we understand his pain before anyone else on stage does. In doing so, he suggests that Hamlet's personal sorrow is also a symptom of a deeper sickness in the state, setting up the tragedy to come.",
+            markScheme: [
+              { point: "Answers the question again with a clear overall statement", keywords: ["ultimately", "overall", "in conclusion", "presents", "to conclude"] },
+              { point: "Draws ideas together (grief, world view, soliloquy) without new evidence", keywords: ["grief", "despair", "soliloquy", "world", "together", "overwhelming"] },
+              { point: "Makes a final judgement about Shakespeare's purpose or wider meaning", keywords: ["purpose", "suggests", "tragedy", "state", "audience", "sickness", "foreshadow"] },
+            ],
+            commonError: "Repeating the introduction word for word, or introducing a brand-new quotation in the conclusion.",
+            guideRef: "essay-structure-comparison",
+          },
+          {
+            id: "anl-qa-p4-q12",
+            extract:
+              "Student paragraph: “Hamlet's dad has died and his mum has married his uncle so he is sad. 'O, that this too too solid flesh would melt, / Thaw and resolve itself into a dew! / Or that the Everlasting had not fix'd / His canon 'gainst self-slaughter!' Shakespeare uses lots of techniques here like metaphors and exclamations. Shakespeare was born in 1564. This shows Hamlet is sad.”",
+            question: "Identify FOUR weaknesses in this student paragraph, then rewrite the first two sentences to fix them.",
+            marks: 6,
+            hint: "Look for retelling, a hanging long quotation, feature spotting, bolted-on context and a weak verb.",
+            modelAnswer:
+              "Weaknesses: (1) it opens by retelling the plot; (2) it drops a four-line quotation in without embedding it; (3) it feature spots ('lots of techniques') without explaining any effect; (4) the context about Shakespeare's birth is bolted on and irrelevant; it also ends with the vague 'shows Hamlet is sad'.\nRewrite: Shakespeare presents Hamlet as so crushed by grief that he wants simply to vanish. He longs for his 'too too solid flesh' to 'melt', and the repeated 'too' suggests his body feels like an unbearable weight, while the verb 'melt' implies a wish to dissolve quietly out of existence.",
+            markScheme: [
+              { point: "Identifies the retelling of the plot", keywords: ["retell", "plot", "narrat", "summar", "story", "what happens"] },
+              { point: "Identifies the long, hanging (unembedded) quotation", keywords: ["long quotation", "too long", "hanging", "not embedded", "dropped", "four lines"] },
+              { point: "Identifies the feature spotting", keywords: ["feature spot", "lots of techniques", "no effect", "names techniques", "list of techniques", "doesn t explain"] },
+              { point: "Identifies the bolted-on context (or the vague 'shows')", keywords: ["bolted", "irrelevant", "1564", "born", "context", "vague", "shows hamlet is sad"] },
+              { point: "Rewrite embeds a short quotation", keywords: ["solid flesh", "melt", "thaw", "too too", "dew", "weary"] },
+              { point: "Rewrite uses a precise verb and explains an effect", keywords: ["suggests", "implies", "conveys", "evokes", "emphasises", "emphasizes", "highlights"] },
+            ],
+            commonError: "Spotting the weaknesses but rewriting with the same long quotation and 'this shows'.",
+            guideRef: "analysis-not-retelling",
+          },
+        ],
+      },
     ],
   },
 };

@@ -220,6 +220,7 @@ function engCast(parent, kind, o) {
         op(hand, h > 0.02 ? 1 : 0);
         if (h > 0.02) hand.setAttribute('transform', `translate(0 ${((1 - h) * 120).toFixed(1)})`);
         const ph = st.phone || 0;
+        if (!phone) return;   // scMake calls set() once before the phone exists
         op(phone, ph);
         if (ph > 0) tr(phone, -150 + 40 * (1 - ph), 40 + 30 * (1 - ph), 1, -8);
       } }));
@@ -264,7 +265,7 @@ function engCast(parent, kind, o) {
       face: { x: 0, y: -28, eye: 14, gap: 54, mouthW: 36, mouthY: 40, lidCol: '#E4B496' },
       sweat: [[-66, -84], [70, -78]],
       upd: (t, g, st) => {
-        const m = st.mug || 0; op(mug, m);
+        const m = st.mug || 0; if (!mug) return; op(mug, m);
         if (m > 0) { tr(mug, 112, 92 + 30 * (1 - m), 0.62); mug.upd(t); }
       } }));
     mug = engMug(c.firstChild, 1); op(mug, 0);
@@ -319,7 +320,7 @@ function engCast(parent, kind, o) {
         E('path', { d: 'M40,-140 L58,-140 Q62,-140 62,-134 L62,0 Q62,10 54,12 L48,12 L48,-130', fill: ball('#F2CF63', '#A87C14'), stroke: SC_INK, 'stroke-width': 3.5, 'stroke-linejoin': 'round' }, g);   // clip
         E('ellipse', { cx: 0, cy: -150, rx: 30, ry: 8, fill: '#C9A13C', stroke: SC_INK, 'stroke-width': 3 }, g);
       },
-      face: { x: -4, y: -46, eye: 13, gap: 40, mouthW: 26, mouthY: 44, lidCol: '#8A2446' },
+      face: { x: -4, y: -46, eye: 13, gap: 40, mouthW: 26, mouthY: 56, lidCol: '#8A2446' },
       upd: (t, g, st) => {
         const k = st.ink || 0;
         tr(blot, 0, 178, Math.max(0.01, k * (1 + 0.04 * Math.sin(t * 3))));
@@ -582,8 +583,7 @@ function engTech(parent, label, o) {
   const g = G(parent), inner = G(g);
   const tw = textWidth(label, size, FD, 800), w = o.w || Math.max(tw + 110, o.def ? textWidth(o.def, size * 0.72, FB, 700) + 60 : 0);
   const h = size * 1.7;
-  // luggage tag: a rounded label with a clipped corner and a hole, hanging from a string
-  E('path', { d: `M${-w / 2 + 34},${-h / 2 - 34} L${-w / 2 + 24},${-h / 2 - 70}`, stroke: '#FFFFFF', 'stroke-width': 3, opacity: 0.7 }, inner);
+  // luggage tag: a rounded label with a clipped corner and a hole
   E('path', { d: `M${-w / 2 + 26},${-h / 2} L${w / 2 - 14},${-h / 2} Q${w / 2},${-h / 2} ${w / 2},${-h / 2 + 14} L${w / 2},${h / 2 - 14} Q${w / 2},${h / 2} ${w / 2 - 14},${h / 2} L${-w / 2 + 26},${h / 2} L${-w / 2},${h / 2 - 26} L${-w / 2},${-h / 2 + 26} Z`,
     fill: col, stroke: SC_INK, 'stroke-width': 4, 'stroke-linejoin': 'round' }, inner);
   E('circle', { cx: -w / 2 + 30, cy: 0, r: 9, fill: '#FFFFFF', stroke: SC_INK, 'stroke-width': 3 }, inner);
@@ -751,7 +751,8 @@ function engClassroom(parent) {
   const fan = G(g); tr(fan, 1090, 40);
   E('rect', { x: -4, y: -40, width: 8, height: 34, fill: '#8C9AA6' }, fan);
   const blades = G(fan);
-  for (let k = 0; k < 3; k++) E('ellipse', { cx: 0, cy: 0, rx: 90, ry: 9, fill: '#F4F1E6', stroke: '#8C9AA6', 'stroke-width': 2, transform: `rotate(${k * 60}) scale(1 1)` }, blades);
+  const bl = G(blades);
+  for (let k = 0; k < 3; k++) E('path', { d: 'M0,0 C20,-16 80,-22 90,-6 C80,8 20,10 0,0 Z', fill: '#F4F1E6', stroke: '#8C9AA6', 'stroke-width': 3, transform: `rotate(${k * 120})` }, bl);
   E('circle', { r: 14, fill: '#DCE4EA', stroke: '#8C9AA6', 'stroke-width': 3 }, fan);
   // whiteboard
   g.board = { x: 350, y: 110, w: 620, h: 330 };
@@ -785,7 +786,7 @@ function engClassroom(parent) {
   E('rect', { x: 64, y: -90, width: 64, height: 16, fill: '#2E7DD8', stroke: SC_INK, 'stroke-width': 2 }, desk);
   g.desk = [180, 540];
   g.setMugs = n => mugs.forEach((m, k) => op(m, k < n ? 1 : 0));
-  g.upd = t => tr(blades, 0, 0, 1, (t * 220) % 360);
+  g.upd = t => blades.setAttribute('transform', `scale(1 0.25) rotate(${((t * 220) % 360).toFixed(1)})`);
   g.upd(0);
   return g;
 }
@@ -922,7 +923,7 @@ function engFlat(parent) {
   });
   E('path', { d: 'M195,0 L195,280 M0,140 L390,140', stroke: '#FFFFFF', 'stroke-width': 8, opacity: 0.9 }, w_);
   // wall clock and family photo
-  const ck = G(g); tr(ck, 620, 110);
+  const ck = G(g); tr(ck, 640, 170);
   E('circle', { r: 40, fill: '#FFFFFF', stroke: SC_INK, 'stroke-width': 4 }, ck);
   const hh = E('line', { x1: 0, y1: 0, x2: 0, y2: -20, stroke: SC_INK, 'stroke-width': 5, 'stroke-linecap': 'round' }, ck);
   const mm = E('line', { x1: 0, y1: 0, x2: 0, y2: -30, stroke: SC_INK, 'stroke-width': 3, 'stroke-linecap': 'round' }, ck);
@@ -952,10 +953,10 @@ function engFlat(parent) {
   const fan = G(g); tr(fan, 560, 30);
   E('rect', { x: -4, y: -30, width: 8, height: 24, fill: '#8C9AA6' }, fan);
   const blades = G(fan);
-  for (let k = 0; k < 3; k++) E('ellipse', { rx: 110, ry: 10, fill: '#8B5A2B', stroke: '#5A3A1A', 'stroke-width': 2, transform: `rotate(${k * 60})` }, blades);
+  for (let k = 0; k < 3; k++) E('path', { d: 'M0,0 C24,-18 96,-24 110,-6 C96,10 24,12 0,0 Z', fill: '#8B5A2B', stroke: '#5A3A1A', 'stroke-width': 3, transform: `rotate(${k * 120})` }, blades);
   E('circle', { r: 14, fill: '#C9A13C', stroke: '#5A3A1A', 'stroke-width': 3 }, fan);
   g.upd = t => {
-    tr(blades, 0, 0, 1, (t * 260) % 360);
+    blades.setAttribute('transform', `scale(1 0.25) rotate(${((t * 260) % 360).toFixed(1)})`);
     laundry.forEach(({ c, x, y, k }) => c.setAttribute('transform', `rotate(${(Math.sin(t * 2 + k) * 6).toFixed(1)} ${x} ${y})`));
   };
   g.clock = h => { tr(hh, 0, 0, 1, (h % 12) * 30); tr(mm, 0, 0, 1, (h % 1) * 360); };
@@ -1036,22 +1037,22 @@ function engGlobeOutside(parent) {
   const ripples = G(g);
   for (let k = 0; k < 10; k++) E('path', { d: `M${k * 130},${580 + (k % 3) * 40} q20,-8 40,0 q20,8 40,0`, fill: 'none', stroke: '#BDE7FF', 'stroke-width': 3, opacity: 0.6 }, ripples);
   E('path', { d: 'M0,520 L1200,500 L1200,540 L0,560 Z', fill: '#7A9A5A' }, g);   // bank
-  // the round-ish (polygonal) playhouse
-  const b = G(g); tr(b, 600, 470);
-  E('path', { d: 'M-300,0 L-300,-210 L-200,-240 L200,-240 L300,-210 L300,0 Z', fill: '#F4EEDC', stroke: '#5A3A1A', 'stroke-width': 6 }, b);
-  let tim = ''; for (let x = -300; x <= 300; x += 60) tim += `M${x},0 L${x},-${x === -300 || x === 300 ? 210 : 236} `;
-  tim += 'M-300,-70 L300,-70 M-300,-140 L300,-140';
-  E('path', { d: tim, stroke: '#6B4423', 'stroke-width': 7 }, b);
-  for (let x = -270; x < 300; x += 120) E('path', { d: `M${x},-70 L${x + 60},-140 M${x + 60},-70 L${x},-140`, stroke: '#6B4423', 'stroke-width': 5 }, b);
-  E('path', { d: 'M-320,-206 L-210,-262 L210,-262 L320,-206 L300,-196 L-300,-196 Z', fill: '#D9B35A', stroke: '#8A6A2A', 'stroke-width': 5 }, b);   // thatch
-  let th = ''; for (let x = -300; x < 300; x += 18) th += `M${x},-200 L${x + 6},-250 `;
+  // the playhouse: a many-sided "wooden O", drawn as a squat cylinder
+  const b = G(g); tr(b, 600, 520);
+  E('path', { d: 'M-300,-200 L-300,0 Q0,46 300,0 L300,-200 Q0,-160 -300,-200 Z', fill: '#F4EEDC', stroke: '#5A3A1A', 'stroke-width': 6 }, b);
+  let tim = '';
+  for (let k = 1; k < 10; k++) { const x = -300 * Math.cos(k / 10 * Math.PI); tim += `M${x.toFixed(1)},${(46 * (1 - (x / 300) ** 2) * 0.5 - 1).toFixed(1)} L${x.toFixed(1)},${(-200 + 40 * (1 - (x / 300) ** 2) * 0.5).toFixed(1)} `; }
+  tim += 'M-300,-66 Q0,-24 300,-66 M-300,-134 Q0,-94 300,-134';
+  E('path', { d: tim, stroke: '#6B4423', 'stroke-width': 7, fill: 'none' }, b);
+  E('path', { d: 'M-326,-196 Q0,-150 326,-196 L270,-246 Q0,-214 -270,-246 Z', fill: '#D9B35A', stroke: '#8A6A2A', 'stroke-width': 5, 'stroke-linejoin': 'round' }, b);   // thatch ring
+  let th = ''; for (let x = -300; x < 300; x += 18) th += `M${x},${(-196 + 46 * (1 - (x / 326) ** 2)).toFixed(0)} L${(x * 0.86).toFixed(0)},${(-244 + 32 * (1 - (x / 300) ** 2)).toFixed(0)} `;
   E('path', { d: th, stroke: '#B08A3A', 'stroke-width': 2, opacity: 0.7 }, b);
-  E('rect', { x: -50, y: -320, width: 100, height: 60, fill: '#F4EEDC', stroke: '#5A3A1A', 'stroke-width': 5 }, b);   // the hut
-  E('path', { d: 'M-60,-316 L0,-350 L60,-316 Z', fill: '#D9B35A', stroke: '#8A6A2A', 'stroke-width': 4 }, b);
-  E('line', { x1: 0, y1: -350, x2: 0, y2: -440, stroke: '#5A3A1A', 'stroke-width': 6 }, b);
+  E('rect', { x: -50, y: -290, width: 100, height: 64, fill: '#F4EEDC', stroke: '#5A3A1A', 'stroke-width': 5 }, b);   // the hut
+  E('path', { d: 'M-60,-286 L0,-320 L60,-286 Z', fill: '#D9B35A', stroke: '#8A6A2A', 'stroke-width': 4 }, b);
+  E('line', { x1: 0, y1: -320, x2: 0, y2: -440, stroke: '#5A3A1A', 'stroke-width': 6 }, b);
   const flag = E('path', { d: '', fill: '#E8424F', stroke: '#8A1A24', 'stroke-width': 3 }, b);
-  E('rect', { x: -40, y: -90, width: 80, height: 90, rx: 30, fill: '#3A2418', stroke: '#5A3A1A', 'stroke-width': 5 }, b);   // entrance
-  g.flagXY = [600, 470 - 420];
+  E('rect', { x: -40, y: -70, width: 80, height: 90, rx: 30, fill: '#3A2418', stroke: '#5A3A1A', 'stroke-width': 5 }, b);   // entrance
+  g.flagXY = [600, 520 - 420];
   g.upd = t => {
     const w = Math.sin(t * 5) * 8;
     flag.setAttribute('d', `M0,-440 Q40,${(-446 + w).toFixed(1)} 80,${(-436 - w).toFixed(1)} L80,-396 Q40,${(-406 + w).toFixed(1)} 0,-400 Z`);
@@ -1077,7 +1078,7 @@ function engQuizScene(S, o) {
   E('rect', { x: 120, y: 600, width: 280, height: 40, rx: 10, fill: '#2A1A4A', stroke: ENG.gold, 'stroke-width': 4 }, Lbg);
   const headG = G(Lfg), head = T(headG, 0, 0, o.title || 'QUICK-FIRE QUIZ', { size: 72, weight: 800, anchor: 'middle', fill: ENG.gold });
   engOutline(head, '#2A0A3A', 12);
-  const sub = T(Lfg, 600, 410, 'Say each answer out loud before it appears.', { size: 32, weight: 700, anchor: 'middle', fill: '#FFFFFF', font: FB });
+  const sub = T(Lfg, 720, 410, 'Say each answer out loud before it appears.', { size: 30, weight: 700, anchor: 'middle', fill: '#FFFFFF', font: FB });
   const counter = T(Lfg, 1150, 70, '', { size: 30, weight: 800, anchor: 'end', fill: ENG.gold });
   // cast: whoever speaks stands at the host spot
   const mk = o.cast || ((p, who) => engCast(p, who));
@@ -1099,7 +1100,7 @@ function engQuizScene(S, o) {
     const pIntro = P(t, at(lines[0].id), 0.5, pop);
     const qStart = Q.length ? at('q1') : 1e9;
     const small = t >= qStart - 0.05;
-    op(headG, clamp(pIntro * 2)); tr(headG, small ? 760 : 600, small ? 150 : 330, small ? 0.6 : 1);
+    op(headG, clamp(pIntro * 2)); tr(headG, small ? 760 : 720, small ? 150 : 330, small ? 0.6 : 0.9);
     op(sub, t < qStart ? P(t, mid(lines[0].id, 0.4), 0.4, linear) : 0);
     // the current speaker at the host spot
     let who = '';

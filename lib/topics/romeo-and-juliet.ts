@@ -271,13 +271,6 @@ export const romeoAndJuliet: Topic = {
       themes: ["fate", "love", "death"],
     },
     {
-      quote: "Where civil blood makes civil hands unclean",
-      source: "The Chorus, Prologue",
-      analysis:
-        "The repetition of 'civil' stresses that citizens of the same city are killing each other. There is irony too: 'civil' also means polite and civilised, yet these respectable families have bloody hands. 'Unclean' hints at sin and guilt.",
-      themes: ["conflict", "hate"],
-    },
-    {
       quote: "What, drawn and talk of peace? I hate the word / As I hate hell, all Montagues, and thee.",
       source: "Tybalt, Act 1 Scene 1",
       analysis:
@@ -2143,7 +2136,7 @@ export const romeoAndJuliet: Topic = {
               { point: "Uses the Friar's warnings or Juliet's caution", keywords: ["friar", "in their eyes", "wisely and slow", "violent delights", "too sudden", "lightning"] },
               { point: "Evidence for true love: mutual / shared sonnet / religious imagery", keywords: ["mutual", "shared sonnet", "pilgrim", "saint", "holy", "equal", "returned"] },
               { point: "Evidence for true love: sacrifice / courage / defiance", keywords: ["sacrifice", "courage", "defies", "potion", "die for", "risk", "brave"] },
-              { point: "Refers to at least two specific scenes", keywords: ["1.1", "1.5", "2.2", "3.5", "4.3", "5.3", "balcony", "ball", "tomb"] },
+              { point: "Refers to at least two specific scenes", keywords: ["1.1", "1.5", "2.2", "3.5", "4.3", "5.3", "balcony", "tomb"] },
               { point: "Clear conclusion with judgement", keywords: ["overall", "in conclusion", "i disagree", "i agree", "ultimately", "to some extent"] },
             ],
             commonError: "Writing only about how romantic the lovers are, without considering the opposite view.",
