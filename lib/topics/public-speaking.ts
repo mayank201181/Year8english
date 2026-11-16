@@ -640,7 +640,7 @@ export const publicSpeaking: Topic = {
           "Elizabeth begins with a concession, admitting she has 'the body but of a weak and feeble woman', which voices the prejudice her soldiers may hold and shows she is honest about it. The conjunction 'but' then pivots into an antithesis, contrasting her 'body' with her 'heart and stomach', where 'stomach' meant courage, so she claims the inner qualities that matter in war. The comparison 'of a king' places her on the same level as any male ruler, and the addition 'and of a king of England too' intensifies this with national pride, flattering her English audience. Together these techniques build ethos: she turns a possible weakness into a reason to trust her bravery.",
         markScheme: [
           { point: "Identifies the concession/admission of 'weak and feeble'", keywords: ["concession", "admit", "acknowledg", "weak and feeble", "prejudice", "counter-argument"] },
-          { point: "Identifies the antithesis/contrast of body and heart", keywords: ["antithesis", "contrast", "but", "body", "opposite", "juxtapos"] },
+          { point: "Identifies the antithesis/contrast of body and heart", keywords: ["antithesis", "contrast", "pivot", "body and heart", "opposite", "juxtapos"] },
           { point: "Explains 'stomach'/'king' as courage and equal status to a male ruler", keywords: ["courage", "brave", "stomach", "king", "strength", "equal"] },
           { point: "Links to ethos/trust or national pride in 'king of England'", keywords: ["ethos", "trust", "credib", "england", "patriot", "national pride"] },
         ],
@@ -1877,7 +1877,7 @@ export const publicSpeaking: Topic = {
             markScheme: [
               { point: "Identifies anaphora (repetition of 'We can' at the start)", keywords: ["anaphora", "repetition", "repeat", "we can"] },
               { point: "Identifies tricolon/rule of three or climax", keywords: ["tricolon", "rule of three", "three", "triplet", "climax"] },
-              { point: "Identifies antithesis/contrast or inclusive pronoun", keywords: ["antithesis", "contrast", "inclusive", "pronoun", "we ", "passive", "opposite"] },
+              { point: "Identifies antithesis/contrast or inclusive pronoun", keywords: ["antithesis", "contrast", "inclusive", "pronoun", "'we'", "passive", "opposite"] },
               { point: "Explains the overall effect (pushes audience to act, unity, rising rhythm)", keywords: ["action", "act", "motivat", "unite", "rhythm", "obvious choice", "inspire", "persuade"] },
             ],
             commonError: "Listing three device names without explaining the overall effect on the audience.",
@@ -1937,7 +1937,7 @@ export const publicSpeaking: Topic = {
               "A call to action is a specific instruction at the end of a speech telling the audience what to do next, usually in imperatives. Example: 'So tomorrow, before the first bell, do one kind thing nobody asked you to do. Hold a door, share your snack, or say one generous word to someone who looks lonely.'",
             markScheme: [
               { point: "Defines call to action as telling the audience what to do", keywords: ["tell the audience", "what to do", "instruction", "act", "action", "urge"] },
-              { point: "Writes a specific call to action with imperatives", keywords: ["tomorrow", "today", "hold", "share", "say", "do one", "smile", "help"] },
+              { point: "Writes a specific call to action with imperatives", keywords: ["tomorrow", "today", "hold", "share", "say one", "do one", "smile", "help"] },
             ],
             commonError: "Writing a summary ('Kindness is important') instead of a specific action the audience can take.",
             guideRef: "speech-structure",
@@ -2068,7 +2068,7 @@ export const publicSpeaking: Topic = {
             modelAnswer:
               "Henry sets up an antithesis between peace and war. In peace, 'modest stillness and humility' suits a man, which shows Henry values gentleness and is not simply bloodthirsty. 'But' marks the turn: when 'the blast of war blows in our ears', the right behaviour changes to the ferocity of 'the tiger'. The contrast justifies the violent transformation he demands, because it presents fierceness as the correct, honourable response to war, not a loss of character. The plosive 'b' sounds in 'blast... blows' also mimic the noise of battle.",
             markScheme: [
-              { point: "Identifies contrast/antithesis between peace and war", keywords: ["antithesis", "contrast", "peace", "war", "opposite", "but"] },
+              { point: "Identifies contrast/antithesis between peace and war", keywords: ["antithesis", "contrast", "peace and war", "peace", "opposite", "juxtapos"] },
               { point: "Explains the peace behaviour (stillness, humility) and its implication", keywords: ["stillness", "humility", "modest", "gentle", "calm", "not bloodthirsty"] },
               { point: "Explains how the contrast justifies ferocity in war", keywords: ["justif", "right response", "honourable", "transform", "ferocity", "tiger", "appropriate"] },
             ],
@@ -2177,7 +2177,7 @@ export const publicSpeaking: Topic = {
             modelAnswer:
               "'Listen, team. One more half, my friends, one more half. They think we're tired; I see a pack of wolves that has smelled the finish line. So lift your heads, fill your lungs, and play like the whole school is watching, because it is.' Techniques: inclusive, affectionate address and repetition ('my friends', 'one more half', echoing 'Once more unto the breach, dear friends, once more'); an animal metaphor ('a pack of wolves'); and imperatives in a tricolon ('lift your heads, fill your lungs, and play').",
             markScheme: [
-              { point: "Writes a fluent, motivating team talk", keywords: ["team", "we", "let's", "together", "win", "final"] },
+              { point: "Writes a fluent, motivating team talk", keywords: ["team", "come on", "let's", "together", "win", "final"] },
               { point: "Uses and labels a first technique from Henry (e.g. inclusive address, repetition)", keywords: ["inclusive", "friends", "repetition", "once more", "direct address", "one more"] },
               { point: "Uses and labels a second technique (e.g. imperatives, animal imagery)", keywords: ["imperative", "animal", "simile", "metaphor", "wolves", "lions", "tiger", "command"] },
               { point: "Includes a tricolon/rallying cry or strong close", keywords: ["tricolon", "rule of three", "rallying", "cry", "three", "climax"] },
@@ -2280,7 +2280,7 @@ export const publicSpeaking: Topic = {
             modelAnswer:
               "The sentence balances opposites: 'what we say' against 'what they did', words against actions and the living speakers against the dead soldiers, and 'little note' against 'never forget'. This antithesis raises the soldiers' deeds far above the speeches being made, showing deep respect and humility. It suggests Lincoln believes action and sacrifice matter more than words, which honours the dead and makes the living audience feel their duty is to act, not just to talk.",
             markScheme: [
-              { point: "Identifies the opposites (say/did, we/they, little note/never forget)", keywords: ["say", "did", "words", "actions", "deeds", "we", "they", "never forget"] },
+              { point: "Identifies the opposites (say/did, we/they, little note/never forget)", keywords: ["what we say", "what they did", "words", "actions", "deeds", "little note", "never forget"] },
               { point: "Names antithesis/balance and explains how it elevates the soldiers", keywords: ["antithesis", "contrast", "balance", "elevat", "above", "more important"] },
               { point: "Explains Lincoln's attitude (respect, humility, action over words)", keywords: ["respect", "humble", "humility", "honour", "honor", "admir", "action over words"] },
             ],
@@ -2313,7 +2313,7 @@ export const publicSpeaking: Topic = {
             markScheme: [
               { point: "Identifies the tricolon/rule of three", keywords: ["tricolon", "three", "rule of three", "triplet"] },
               { point: "Identifies repetition of 'the people' at the end (epistrophe) and its emphasis", keywords: ["epistrophe", "the people", "repetition", "repeat", "emphasis"] },
-              { point: "Explains the changing prepositions as a definition of democracy", keywords: ["of", "by", "for", "preposition", "democracy", "definition", "citizens"] },
+              { point: "Explains the changing prepositions as a definition of democracy", keywords: ["preposition", "of, by", "democracy", "definition", "citizens", "run by"] },
               { point: "Explains its position as the climax/final words and its memorability", keywords: ["final", "climax", "last", "ending", "memorable", "quot", "perish"] },
             ],
             commonError: "Calling the repetition anaphora: 'the people' comes at the END of each phrase.",
@@ -2426,7 +2426,7 @@ export const publicSpeaking: Topic = {
             modelAnswer:
               "The possessive 'My' presents the soldiers as belonging to her, like a family, which creates a personal bond rather than a distant, formal relationship. The adjective 'loving' suggests their loyalty and affection for her, and flatters them, so they are encouraged to live up to that description and fight for a queen who trusts them.",
             markScheme: [
-              { point: "Analyses 'My' (belonging, personal bond, family)", keywords: ["my", "possessive", "belong", "personal", "family", "bond"] },
+              { point: "Analyses 'My' (belonging, personal bond, family)", keywords: ["'my'", "possessive", "belong", "personal", "family", "bond"] },
               { point: "Analyses 'loving' (affection, loyalty, flattery)", keywords: ["loving", "love", "affection", "loyal", "flatter", "warm"] },
             ],
             commonError: "Explaining that it is direct address without analysing the individual words.",
@@ -2460,7 +2460,7 @@ export const publicSpeaking: Topic = {
               { point: "Clear point about turning weakness into strength", keywords: ["weakness", "strength", "doubt", "overcome", "turn", "confront"] },
               { point: "Embedded evidence from the line", keywords: ["weak and feeble", "heart and stomach", "king of england", "body but of"] },
               { point: "Explains the concession and its effect", keywords: ["concession", "concede", "admit", "acknowledg", "honest", "disarm"] },
-              { point: "Explains the antithesis and/or meaning of 'stomach'", keywords: ["antithesis", "contrast", "but", "stomach", "courage", "brave"] },
+              { point: "Explains the antithesis and/or meaning of 'stomach'", keywords: ["antithesis", "contrast", "pivot", "stomach", "courage", "brave"] },
               { point: "Links to purpose/context (ethos, gender attitudes, Armada, national pride)", keywords: ["ethos", "context", "women", "female", "armada", "national pride", "loyal", "1588"] },
             ],
             commonError: "Taking 'stomach' literally, or describing the line without linking it to the audience's doubts and Elizabeth's purpose.",
@@ -2509,7 +2509,7 @@ export const publicSpeaking: Topic = {
               "Practically, she promises the soldiers 'rewards and crowns' (money) that 'shall be duly paid', a concrete incentive that appeals to their self-interest, a kind of logos. She guarantees this 'on a word of a prince', staking her royal honour on it and switching to the royal 'We', which is an appeal to her authority and trustworthiness (ethos).",
             markScheme: [
               { point: "Identifies the practical promise of payment/reward (logos, self-interest)", keywords: ["reward", "paid", "payment", "money", "crowns", "practical", "logos"] },
-              { point: "Explains the appeal to royal authority ('word of a prince', royal 'We', ethos)", keywords: ["word of a prince", "royal", "authority", "ethos", "honour", "we", "trust"] },
+              { point: "Explains the appeal to royal authority ('word of a prince', royal 'We', ethos)", keywords: ["word of a prince", "royal", "authority", "ethos", "honour", "royal we", "trust"] },
             ],
             commonError: "Missing that 'crowns' are coins here, not literal crowns for the soldiers' heads.",
             guideRef: "ethos-pathos-logos",
