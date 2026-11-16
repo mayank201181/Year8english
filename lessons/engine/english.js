@@ -66,9 +66,8 @@
                            'context' | 'drama' | 'punct' | 'grammar', def, size (34), w }. g.set(p) swings it in.
      ENG_TECH              the category colours (use them for every technique, in every episode)
      engPeel(parent, rows, o)  MINI PEEL LADDER. rows: 4 strings (Point, Evidence, Explain, Link), "**bold**"
-                           allowed; o: { w (680), size (26), title }. Rungs go up from the bottom: P at the
-                           bottom? No: P at the TOP, read downwards like a paragraph. g.set(n) shows n rungs
-                           (fractions pop the next one). g.h is its height; origin = top centre.
+                           allowed; o: { w (680), size (26), title }. P is the top rung (it reads down like a
+                           paragraph). g.set(n) shows the first n rungs (fractions pop the next one). g.h is its height; origin = top centre.
      engScan(parent, sylls, o)  SCANSION STRIP for metre. sylls: ['But', 'soft', 'what', ...]; o: { stress:
                            'u/u/u/u/u/' (default iambic, one char per syllable), size (40), maxW (1040),
                            feet (true: brackets in pairs) }. Origin = centre of the row.
@@ -163,7 +162,7 @@ function engWrap(text, size, maxW, font, weight) {
     if (!seg) return;
     const bold = seg.startsWith('**');
     (bold ? seg.slice(2, -2) : seg).split(/\s+/).forEach((w, i, arr) => {
-      if (w) words.push({ w, bold, glue: !bold && i === 0 && !/^\s/.test(seg) && words.length > 0 && !/\s$/.test(words[words.length - 1].raw || '') });
+      if (w) words.push({ w, bold, glue: !bold && i === 0 && !/^\s/.test(seg) && words.length > 0 });
     });
   });
   const lines = []; let cur = [];
@@ -199,7 +198,6 @@ function engCast(parent, kind, o) {
         E('path', { d: 'M-74,-40 Q-92,40 -70,70 L70,70 Q92,40 74,-40 Z', fill: hair, stroke: SC_INK, 'stroke-width': 3 }, g);   // bob, behind
         hand = G(g);   // raised right arm (behind the shirt)
         E('path', { d: 'M62,96 Q96,40 102,-60', fill: 'none', stroke: '#2BA39A', 'stroke-width': 30, 'stroke-linecap': 'round' }, hand);
-        E('path', { d: 'M62,96 Q96,40 102,-60', fill: 'none', stroke: SC_INK, 'stroke-width': 34, 'stroke-linecap': 'round', opacity: 0 }, hand);
         E('rect', { x: 88, y: -88, width: 30, height: 30, rx: 12, fill: skin, stroke: SC_INK, 'stroke-width': 3 }, hand);
         E('path', { d: 'M-100,140 Q-96,62 -40,52 L40,52 Q96,62 100,140 Z', fill: '#2BA39A', stroke: SC_INK, 'stroke-width': 4 }, g);   // polo
         E('path', { d: 'M-34,52 L0,84 L34,52 L22,48 L0,66 L-22,48 Z', fill: '#FFFFFF', stroke: SC_INK, 'stroke-width': 3, 'stroke-linejoin': 'round' }, g);   // collar
@@ -261,7 +259,7 @@ function engCast(parent, kind, o) {
         E('rect', { x: -52, y: -14, width: 42, height: 26, rx: 8, fill: 'rgba(255,255,255,0.25)', stroke: '#3A2A20', 'stroke-width': 4 }, gl);
         E('rect', { x: 10, y: -14, width: 42, height: 26, rx: 8, fill: 'rgba(255,255,255,0.25)', stroke: '#3A2A20', 'stroke-width': 4 }, gl);
         E('path', { d: 'M-10,-2 Q0,-8 10,-2', fill: 'none', stroke: '#3A2A20', 'stroke-width': 4 }, gl);
-        E('path', { d: 'M-46,6 Q-30,12 -16,6 M16,6 Q30,12 46,6', fill: 'none', stroke: '#C98E78', 'stroke-width': 3, opacity: 0.8, transform: 'translate(0 96)' }, g);   // eye bags
+        E('path', { d: 'M-40,-6 Q-27,0 -14,-6 M14,-6 Q27,0 40,-6', fill: 'none', stroke: '#C98E78', 'stroke-width': 3, opacity: 0.8 }, g);   // eye bags
       },
       face: { x: 0, y: -28, eye: 14, gap: 54, mouthW: 36, mouthY: 40, lidCol: '#E4B496' },
       sweat: [[-66, -84], [70, -78]],
@@ -277,12 +275,10 @@ function engCast(parent, kind, o) {
         halo = E('ellipse', { cx: 0, cy: -10, rx: 170, ry: 200, fill: glow('#9FD8FF'), opacity: 0.45 }, g);
         const body = G(g, { opacity: 0.9 });
         tail = E('path', { d: '', fill: '#C7DCF8', stroke: '#7FA6D9', 'stroke-width': 4, 'stroke-linejoin': 'round' }, body);
-        E('path', { d: 'M-86,150 Q-92,64 -40,50 L40,50 Q92,64 86,150 Z', fill: '#AFC7EA', stroke: '#5E86BF', 'stroke-width': 4 }, body);   // doublet
-        for (let k = 0; k < 4; k++) E('circle', { cx: 0, cy: 72 + k * 20, r: 5, fill: '#E2B33C', stroke: '#9C7A1E', 'stroke-width': 1.5 }, body);
-        E('path', { d: 'M-60,80 L-70,140 M60,80 L70,140', stroke: '#8EAEDB', 'stroke-width': 4 }, body);
+        E('path', { d: 'M-86,132 Q-92,64 -40,50 L40,50 Q92,64 86,132 Z', fill: '#AFC7EA', stroke: '#5E86BF', 'stroke-width': 4 }, body);   // doublet
+        for (let k = 0; k < 3; k++) E('circle', { cx: 0, cy: 76 + k * 20, r: 5, fill: '#E2B33C', stroke: '#9C7A1E', 'stroke-width': 1.5 }, body);
+        E('path', { d: 'M-60,80 L-68,128 M60,80 L68,128', stroke: '#8EAEDB', 'stroke-width': 4 }, body);
         // ruff: a pleated white collar
-        let ruff = '';
-        for (let k = 0; k <= 20; k++) { const a = Math.PI + k / 20 * Math.PI * 1.0, r = k % 2 ? 66 : 80; ruff += (k ? ' L' : 'M') + (Math.cos(a) * r).toFixed(1) + ',' + (40 + Math.sin(a) * -r * 0.28 + 6).toFixed(1); }
         E('ellipse', { cx: 0, cy: 46, rx: 84, ry: 24, fill: '#FFFFFF', stroke: '#7FA6D9', 'stroke-width': 4 }, body);
         E('path', { d: 'M-80,46 Q-60,30 -40,46 Q-20,30 0,46 Q20,30 40,46 Q60,30 80,46', fill: 'none', stroke: '#B8CCE6', 'stroke-width': 3 }, body);
         E('path', { d: 'M-80,48 Q-60,62 -40,48 Q-20,62 0,48 Q20,62 40,48 Q60,62 80,48', fill: 'none', stroke: '#B8CCE6', 'stroke-width': 3 }, body);
@@ -295,17 +291,17 @@ function engCast(parent, kind, o) {
         E('path', { d: 'M-14,24 Q0,30 14,24 L6,56 L0,64 L-6,56 Z', fill: '#B9A58E', stroke: '#7FA6D9', 'stroke-width': 3, 'stroke-linejoin': 'round' }, body);   // pointed beard
         quill = engQuill(g, 0.8); op(quill, 0);
       },
-      face: { x: 0, y: -50, eye: 14, gap: 46, mouthW: 30, mouthY: 40, lidCol: '#C9DAF2', iris: '#25365E' },
+      face: { x: 0, y: -50, eye: 14, gap: 46, mouthW: 30, mouthY: 48, lidCol: '#C9DAF2', iris: '#25365E' },
       upd: (t, g, st) => {
         const gl = st.glow || 0;
         attr(halo, 'opacity', 0.38 + 0.12 * Math.sin(t * 2.2) + 0.4 * gl);
         const w = Math.sin(t * 3.1) * 14, w2 = Math.cos(t * 2.3) * 10;
-        tail.setAttribute('d', `M-70,140 Q${(-50 + w).toFixed(1)},200 ${(-10 + w2).toFixed(1)},214 Q${(30 + w).toFixed(1)},226 ${(18 - w2).toFixed(1)},250 Q${(70 + w).toFixed(1)},214 70,140 Z`);
+        tail.setAttribute('d', `M-74,126 Q${(-50 + w).toFixed(1)},170 ${(-10 + w2).toFixed(1)},180 Q${(30 + w).toFixed(1)},188 ${(16 - w2).toFixed(1)},206 Q${(70 + w).toFixed(1)},176 74,126 Z`);
         const q = st.quill || 0; op(quill, q);
         if (q > 0) tr(quill, 120, 40 - 30 * q, 0.8, -20 + Math.sin(t * 4) * 6);
       } }));
     // the moustache sits over the face, above the mouth
-    const mo = G(c.firstChild); tr(mo, 0, -16);
+    const mo = G(c.firstChild); tr(mo, 0, -20);
     E('path', { d: 'M-2,0 C-12,-10 -32,-8 -40,4 C-30,0 -18,6 -2,4 Z M2,0 C12,-10 32,-8 40,4 C30,0 18,6 2,4 Z', fill: '#B9A58E', stroke: '#7FA6D9', 'stroke-width': 2.5, 'stroke-linejoin': 'round' }, mo);
   } else if (kind === 'nib') {
     let blot = null, drop = null;
@@ -538,7 +534,7 @@ function engCard(parent, text, o) {
 function engQuote(parent, o) {
   o = o || {};
   const w = o.w || 760, size = o.size || 40, g = G(parent), inner = G(g);
-  const lines = engWrap(o.text || '', size, w - 120, FD, 600);
+  const lines = engWrap(o.text || '', size, w - 156, FD, 600);
   const lh = size * 1.3, by = (o.who || o.where) ? 64 : 10;
   const h = lines.length * lh + 70 + by;
   E('rect', { x: -w / 2 + 8, y: -h / 2 + 10, width: w, height: h, rx: 18, fill: '#000000', opacity: 0.28 }, inner);
@@ -981,7 +977,6 @@ function engGlobe(parent) {
         E('circle', { cx: hx, cy: hy, r: 13, fill: ['#F1C7A8', '#C98E62', '#EDC39B', '#8A5A3A'][(j + k) % 4] }, g);
         E('rect', { x: hx - 15, y: hy + 10, width: 30, height: 30, rx: 8, fill: ['#7A1E2E', '#2E5A8A', '#1E7A5A', '#5A2E7A'][(j + k * 2) % 4] }, g);
       }
-      E('rect', { x: Math.min(x0, x0 + sd * 260), y: y + 84 + 16, width: 260, height: 10, fill: '#8B5A2B', transform: `skewY(${sd * 8})`, opacity: 0 }, g);
       E('path', { d: `M${x0},${y + 110} L${x0 + sd * 260},${y + 120}`, stroke: '#6B4423', 'stroke-width': 8 }, g);
     }
     E('path', { d: `M${x0},150 L${x0 + sd * 260},190`, stroke: '#5A3A1A', 'stroke-width': 10 }, g);
@@ -1080,9 +1075,9 @@ function engQuizScene(S, o) {
   const rayP = E('path', { d: rays, fill: o.accent || ENG.violet, opacity: 0.1 }, Lbg);
   E('ellipse', { cx: 260, cy: 640, rx: 260, ry: 70, fill: glow('#FFE6A8'), opacity: 0.35 }, Lbg);
   E('rect', { x: 120, y: 600, width: 280, height: 40, rx: 10, fill: '#2A1A4A', stroke: ENG.gold, 'stroke-width': 4 }, Lbg);
-  const head = T(Lfg, 600, 150, o.title || 'QUICK-FIRE QUIZ', { size: 72, weight: 800, anchor: 'middle', fill: ENG.gold });
+  const headG = G(Lfg), head = T(headG, 0, 0, o.title || 'QUICK-FIRE QUIZ', { size: 72, weight: 800, anchor: 'middle', fill: ENG.gold });
   engOutline(head, '#2A0A3A', 12);
-  const sub = T(Lfg, 600, 215, 'Say each answer out loud before it appears.', { size: 32, weight: 700, anchor: 'middle', fill: '#FFFFFF', font: FB });
+  const sub = T(Lfg, 600, 410, 'Say each answer out loud before it appears.', { size: 32, weight: 700, anchor: 'middle', fill: '#FFFFFF', font: FB });
   const counter = T(Lfg, 1150, 70, '', { size: 30, weight: 800, anchor: 'end', fill: ENG.gold });
   // cast: whoever speaks stands at the host spot
   const mk = o.cast || ((p, who) => engCast(p, who));
@@ -1098,14 +1093,13 @@ function engQuizScene(S, o) {
     const rg = ring(Lfg, 46, ENG.gold);
     Q.push({ k, qc, ac, rg });
   }
-  const outroC = has('outro') ? engCard(Lfg, strip(lines.find(l => l.id === 'outro').cap), { w: 760, size: 36, stroke: ENG.gold }) : null;
+  const outroC = has('outro') ? engCard(Lfg, strip(lines.find(l => l.id === 'outro').cap), { w: 700, size: 36, stroke: ENG.gold }) : null;
   return t => {
     tr(rayP, 600, 400, 1, (t * 4) % 360);
     const pIntro = P(t, at(lines[0].id), 0.5, pop);
     const qStart = Q.length ? at('q1') : 1e9;
-    op(head, clamp(pIntro * 2)); tr(head, 600, t < qStart ? 300 : 110, t < qStart ? 1 : 0.6);
-    head.setAttribute('transform', `translate(${t < qStart ? 0 : 0} ${t < qStart ? 150 : -40}) scale(${t < qStart ? 1 : 0.62})`);
-    head.setAttribute('x', t < qStart ? 600 : 600 / 0.62); head.setAttribute('y', t < qStart ? 150 : 150);
+    const small = t >= qStart - 0.05;
+    op(headG, clamp(pIntro * 2)); tr(headG, small ? 760 : 600, small ? 150 : 330, small ? 0.6 : 1);
     op(sub, t < qStart ? P(t, mid(lines[0].id, 0.4), 0.4, linear) : 0);
     // the current speaker at the host spot
     let who = '';
@@ -1129,7 +1123,7 @@ function engQuizScene(S, o) {
       if (ac && t >= at(aid) - 0.02) engPop(ac, t, at(aid), 760, 520);
     });
     setText(counter, shown);
-    if (outroC) { if (t >= at('outro') - 0.05) { engPop(outroC, t, at('outro'), 680, 380); op(head, 1); } else op(outroC, 0); }
+    if (outroC) { if (t >= at('outro') - 0.05) engPop(outroC, t, at('outro'), 740, 400); else op(outroC, 0); }
     if (o.extra) o.extra(t);
   };
 }
