@@ -298,7 +298,7 @@ export const identityCulturePoetry: Topic = {
           "The mask is a **metaphor** for the smiling, cheerful face that people facing prejudice may feel forced to show to survive. Dunbar, the son of formerly enslaved parents, writes for a whole community (‘we’) whose pain the world refuses to see. The grin is not happiness — it is armour.",
       },
       body:
-        "**Prejudice** is judging someone unfairly, often because of their race, religion or background. **Racism** is prejudice based on race. Poems in this unit answer prejudice in very different ways — by hiding, by mocking, by educating and by protesting.\n\n**Paul Laurence Dunbar’s *We Wear the Mask*** (1895) speaks for Black Americans after slavery. The mask ‘grins and lies’ (**personification** — giving human actions to an object), hiding ‘torn and bleeding hearts’. The world sees only smiles; God alone hears ‘our cries’. The poem is a **rondeau**, a strict French form (see the form section), and its refrain ‘We wear the mask’ keeps returning like the mask itself.\n\n**John Agard’s *Half-Caste*** takes the offensive label ‘half-caste’ (once used for people of mixed race) and pushes its logic until it collapses. If mixing makes you ‘half’, is Picasso’s painting half? Is English weather half? Is a Tchaikovsky symphony, played on black and white keys, half? He ends by inviting the listener to come back with ‘de whole of yu eye’ and hear the other half of his story — the prejudice belongs to the listener, not to him.\n\nIn ***Checking Out Me History***, Agard criticises the **Eurocentric** history (focused on Europe) he was taught in Guyana: 1066, Columbus, Florence Nightingale, nursery rhymes — but not Toussaint L’Ouverture, Nanny of the Maroons or Mary Seacole. The refrain ‘Dem tell me’ shows who controlled his education; the final line, ‘I carving out me identity’, shows him taking that control back.\n\nTatamkhulu Afrika’s ***Nothing’s Changed*** returns to District Six in Cape Town, flattened under apartheid, and finds a smart new inn that no sign marks as whites-only — ‘but we know where we belong’. His anger is physical: his ‘hands burn’ for ‘a stone, a bomb’. Niyi Osundare’s ***Not My Business*** shows a speaker who ignores the arrests of his neighbours as long as no one takes ‘the yam / From my savouring mouth’ — until they come for him.",
+        "**Prejudice** is judging someone unfairly, often because of their race, religion or background. **Racism** is prejudice based on race. Poems in this unit answer prejudice in very different ways — by hiding, by mocking, by educating and by protesting.\n\n**Paul Laurence Dunbar’s *We Wear the Mask*** (1895) speaks for Black Americans after slavery. The mask ‘grins and lies’ (**personification** — giving human actions to an object), hiding ‘torn and bleeding hearts’. The world sees only smiles; God alone hears ‘our cries’. The poem is a **rondeau**, a strict French form (see the form section), and its refrain ‘We wear the mask’ keeps returning like the mask itself.\n\n**John Agard’s *Half-Caste*** takes the offensive label ‘half-caste’ (once used for people of mixed race) and pushes its logic until it collapses. If mixing makes you ‘half’, is Picasso’s painting half? Is English weather half? Is a Tchaikovsky symphony, played on black and white keys, half? He ends by inviting the listener to come back with ‘de whole of yu eye’ and hear the other half of his story — the prejudice belongs to the listener, not to him.\n\nIn ***Checking Out Me History***, Agard criticises the **Eurocentric** history (focused on Europe) he was taught in Guyana: 1066, Columbus, Florence Nightingale, nursery rhymes — but not Toussaint L’Ouverture, Nanny of the Maroons or Mary Seacole. The refrain ‘Dem tell me’ shows who controlled his education; the final line, ‘I carving out me identity’, shows him taking that control back.\n\nTatamkhulu Afrika’s ***Nothing’s Changed*** returns to District Six in Cape Town, flattened under apartheid, and finds a smart new inn that no sign marks as whites-only — ‘but we know where we belong’. His anger is physical: his ‘hands burn’ for ‘a stone, a bomb’. Niyi Osundare’s ***Not My Business*** shows a speaker who ignores what is done to his neighbours (two are seized by the authorities, one loses her job) as long as no one takes ‘the yam / From my savouring mouth’ — until they come for him.",
       passage: MASK,
       keyPoints: [
         "Dunbar hides pain behind a mask; Agard mocks and confronts prejudice; Afrika protests; Osundare warns against silence.",
@@ -978,7 +978,7 @@ export const identityCulturePoetry: Topic = {
             id: "idc-mcq-p1-q11",
             question: "Which piece of context is MOST useful for understanding the poem?",
             options: [
-              "Dunbar was born in Ohio in the winter.",
+              "Dunbar was born in Ohio in the summer of 1872.",
               "Dunbar’s parents had been enslaved, and Black Americans faced severe prejudice in the 1890s.",
               "Rondeaus were popular in medieval France.",
               "Dunbar wrote some poems in dialect and some in Standard English.",
@@ -1936,7 +1936,7 @@ export const identityCulturePoetry: Topic = {
             answerIndex: 0,
             hint: "What happens to the speaker at the end?",
             explanation:
-              "The speaker ignores his neighbours’ arrests as long as no one takes ‘the yam / From my savouring mouth’ — until the authorities come for him. Option B is what the speaker believes at first; the ending proves him wrong.",
+              "The speaker ignores what is done to his neighbours as long as no one takes ‘the yam / From my savouring mouth’ — until the authorities come for him. Option B is what the speaker believes at first; the ending proves him wrong.",
             guideRef: "prejudice-pride",
           },
           {
@@ -2125,7 +2125,7 @@ export const identityCulturePoetry: Topic = {
             modelAnswer:
               "Because the poem is one long sentence, the reader has to hold all the ‘Where…’ clauses in mind, building suspense until the main clause, ‘let my country awake’, arrives at the end. This makes the final prayer feel like a climax, and the unbroken sentence mirrors the ‘ever-widening thought’ Tagore hopes for.",
             markScheme: [
-              { point: "Explains the build-up / suspense until the main clause or final line", keywords: ["suspense", "build", "climax", "final line", "main clause", "end", "wait"] },
+              { point: "Explains the build-up / suspense until the main clause or final line", keywords: ["suspense", "build", "climax", "final line", "main clause", "at the end", "wait"] },
               { point: "Links the unbroken structure to meaning (unity, widening thought, a single prayer)", keywords: ["unbroken", "unity", "widening", "prayer", "flow", "continuous", "one breath"] },
             ],
             commonError: "Saying only that ‘it is long’ without explaining what the length achieves.",
@@ -2342,7 +2342,7 @@ export const identityCulturePoetry: Topic = {
             markScheme: [
               { point: "Beginning: separation — answers in English / rivers never meet", keywords: ["beginning", "start", "english", "never meet", "separate", "rivers"] },
               { point: "Middle: lost, understands little (one word in five)", keywords: ["middle", "lost", "one word in five", "struggle", "does not understand", "frustrat"] },
-              { point: "End: connection / acceptance after speaking Tamil", keywords: ["end", "connection", "accept", "bangle", "speaks tamil", "closer", "crossed"] },
+              { point: "End: connection / acceptance after speaking Tamil", keywords: ["by the end", "at the end", "connection", "accept", "bangle", "speaks tamil", "closer", "crossed"] },
             ],
             commonError: "Describing only the ending, without showing the development across the poem.",
             guideRef: "heritage-family",
@@ -2492,7 +2492,7 @@ export const identityCulturePoetry: Topic = {
             markScheme: [
               { point: "Everyday / ordinary local details rather than landmarks", keywords: ["everyday", "ordinary", "local", "void deck", "lift", "mrt", "routine"] },
               { point: "Sensory imagery (smell of rain, sound of the voice)", keywords: ["sensory", "smell", "sound", "senses", "rain", "voice"] },
-              { point: "Structure/repetition of ‘from’ or routine builds belonging", keywords: ["repetition", "from", "list", "every morning", "belonging", "familiar"] },
+              { point: "Structure/repetition of ‘from’ or routine builds belonging", keywords: ["repetition", "repeated from", "list", "every morning", "belonging", "familiar"] },
             ],
             commonError: "Listing the places without explaining how the choice of details creates a sense of home.",
             guideRef: "belonging-displacement",
@@ -2539,7 +2539,7 @@ export const identityCulturePoetry: Topic = {
             modelAnswer:
               "The poet uses anaphora of ‘From…’ in stanzas two to four, turning the poem into a list of places that answer the teacher’s question; the list shows how many places make up the speaker. In the final stanza, the repeated ‘I will say:’ gives three different answers, moving from ‘here’ to ‘everywhere’ to ‘I am from the question’. This builds to a confident climax: the speaker no longer needs one answer.",
             markScheme: [
-              { point: "Identifies the repeated ‘From…’ (anaphora / list)", keywords: ["from", "anaphora", "list", "listing", "places"] },
+              { point: "Identifies the repeated ‘From…’ (anaphora / list)", keywords: ["anaphora", "repeated from", "repetition of from", "repeats from", "list", "listing", "places"] },
               { point: "Identifies the repeated ‘I will say’ in the final stanza", keywords: ["i will say", "final stanza", "three answers", "ending", "last stanza"] },
               { point: "Explains the effect: builds to a confident climax / identity made of many places", keywords: ["climax", "builds", "confident", "many places", "no single", "more than one", "build-up"] },
             ],
@@ -2585,7 +2585,7 @@ export const identityCulturePoetry: Topic = {
             modelAnswer:
               "I’m from the hiss of the pressure cooker at six,\nfrom Paati’s ‘eat first, study later’,\nfrom a school bag heavy as a small country,\nfrom ‘lah’ and ‘aiyoh’ and ‘sorry, sorry’,\nfrom the gap where two languages hold hands.\n\nI chose to repeat ‘from’ at the start of each line so that, like the poem in this paper, my identity builds up as a list of small, specific things.",
             markScheme: [
-              { point: "Uses anaphora or a refrain", keywords: ["from", "i am", "i'm", "where"] },
+              { point: "Uses anaphora or a refrain", keywords: ["anaphora", "refrain", "repeat", "repetition", "i'm from", "i am from"] },
               { point: "Uses a simile or metaphor", keywords: ["like", "as if", "heavy as", "metaphor", "simile"] },
               { point: "Includes a specific, concrete detail (sound, smell, object, phrase)", keywords: ["smell", "sound", "hiss", "kitchen", "bag", "lah", "paati", "grandmother"] },
               { point: "Explains a choice and its effect", keywords: ["i chose", "so that", "because", "in order to", "effect"] },
@@ -2599,7 +2599,7 @@ export const identityCulturePoetry: Topic = {
             marks: 6,
             hint: "Find evidence of unhappiness, then evidence of acceptance or pride. Which wins by the end?",
             modelAnswer:
-              "There is clear evidence that the speaker finds having no single home painful. The question ‘lands’ on them ‘like a suitcase I have packed too many times’, suggesting weariness, and ‘a passport with more stamps than friends’ hints at loneliness. Even in Chennai, the speaker is a visitor to ‘a museum of your own face’, connected by family resemblance but distant in language.\n\nHowever, the poem does not end in unhappiness. The everyday details of Singapore — ‘the lift that smells of rain’ — show the speaker can build belonging. The wordplay on ‘mind the gap’ turns into the bold metaphor ‘Maybe I am the gap’, a place ‘where the doors open both ways’, which presents in-between identity as openness. The final stanza’s repeated ‘I will say’ builds to the confident ‘I am from the question’. So I only partly agree: the speaker begins weary and lonely, but by the end has turned having no single home into a source of identity and even pride.",
+              "There is clear evidence that the speaker finds having no single home painful. The question ‘lands’ on them ‘like a suitcase I have packed too many times’, suggesting weariness, and ‘a passport with more stamps than friends’ hints at loneliness. Even in Chennai, the speaker is a visitor to ‘a museum of your own face’, connected by family resemblance but distant in language.\n\nHowever, the poem does not end in unhappiness. The everyday details of Singapore — ‘the lift that smells of rain’ — show the speaker can build belonging. The wordplay on ‘mind the gap’ turns into the bold metaphor ‘Maybe I am the gap’, the place ‘where the train stops / and the doors open both ways’, which presents in-between identity as openness. The final stanza’s repeated ‘I will say’ builds to the confident ‘I am from the question’. So I only partly agree: the speaker begins weary and lonely, but by the end has turned having no single home into a source of identity and even pride.",
             markScheme: [
               { point: "Evidence of unhappiness/weariness (suitcase, too many times)", keywords: ["suitcase", "too many times", "weary", "tired", "burden"] },
               { point: "Evidence of loneliness or distance (stamps than friends, museum)", keywords: ["stamps", "friends", "lonely", "museum", "half give back", "distance"] },
@@ -2702,7 +2702,7 @@ export const identityCulturePoetry: Topic = {
               "The poem has two short four-line stanzas (quatrains). It uses rhyme, such as ‘you’/‘too’ in the first stanza and ‘Frog’/‘Bog’ in the second, which adds to its playful, song-like tone.",
             markScheme: [
               { point: "Two stanzas / quatrains / eight lines", keywords: ["two stanzas", "quatrain", "four lines", "eight lines", "two verses"] },
-              { point: "Rhyme (you/too, Frog/Bog) or exclamations/questions", keywords: ["rhyme", "frog", "bog", "you", "too", "exclamation"] },
+              { point: "Rhyme (you/too, Frog/Bog) or exclamations/questions", keywords: ["rhyme", "rhymes", "frog", "bog", "you/too", "exclamation"] },
             ],
             commonError: "Naming features vaguely (‘it has lines’) without precise detail.",
             guideRef: "form-voice",
@@ -2725,6 +2725,8 @@ export const identityCulturePoetry: Topic = {
           },
           {
             id: "idc-qa-p4-q08",
+            extract:
+              "Summary (copyrighted poem; short phrases only): the refrain ‘Dem tell me’ lists the European history Agard was taught (1066, Columbus, Florence Nightingale, nursery rhymes). He says it was like they would ‘Bandage up me eye with me own history’. Between these lines he praises heroes left out of his lessons: Toussaint L’Ouverture, Nanny de Maroon, Shaka and Mary Seacole. The final line: ‘I carving out me identity’.",
             question: "In ‘Checking Out Me History’, how does Agard show why knowing your own history matters to identity? (Quote only short phrases.)",
             marks: 4,
             hint: "Think about ‘Dem tell me’, ‘Bandage up me eye’, the heroes he discovers, and the final line.",
@@ -2741,6 +2743,8 @@ export const identityCulturePoetry: Topic = {
           },
           {
             id: "idc-qa-p4-q09",
+            extract:
+              "Summary (copyrighted poem; short phrases only): the speaker walks back into District Six, bulldozed under apartheid, and finds a smart new ‘whites only inn’. No sign says so now, ‘but we know where we belong’. Pressing his face to its glass, he feels his ‘Hands burn / for a stone, a bomb’. The title returns as the final line: ‘Nothing’s changed.’",
             question: "How does Tatamkhulu Afrika show in ‘Nothing’s Changed’ that inequality has survived the end of apartheid? (Quote only short phrases.)",
             marks: 3,
             hint: "Think about the smart new inn, the speaker’s anger and the title/final line.",
@@ -2756,9 +2760,11 @@ export const identityCulturePoetry: Topic = {
           },
           {
             id: "idc-qa-p4-q10",
+            extract:
+              "Summary (copyrighted poem; short phrases only): in stanzas 1–3, something is done to a neighbour each time. Akanni is beaten and pushed into a waiting jeep, Danladi is dragged from his house at night, and Chinwe finds she has lost her job. After each, the speaker asks ‘What business of mine is it’, so long as no one takes ‘the yam / From my savouring mouth’. In the final stanza there is a knock at his own door, and the jeep is waiting outside.",
             question: "Explain how the structure of Niyi Osundare’s ‘Not My Business’ supports its message. (Quote only short phrases.)",
             marks: 4,
-            hint: "Each stanza tells of a neighbour taken away; then the speaker repeats his question about the yam. What happens at the end?",
+            hint: "Each of the first three stanzas tells of something done to a neighbour; then the speaker repeats his question about the yam. What happens at the end?",
             modelAnswer:
               "The poem is built as a pattern: each stanza describes another neighbour — Akanni, Danladi, Chinwe — suffering at the hands of the authorities, followed by the speaker’s repeated, selfish question, ‘What business of mine is it’, as long as no one takes ‘the yam’ from his ‘savouring mouth’. The repetition shows his indifference hardening as the injustice grows. The pattern then breaks in the final stanza, when the jeep comes for him. This structural twist makes the message clear: staying silent while others suffer leaves you defenceless when it is your turn.",
             markScheme: [
@@ -2778,7 +2784,7 @@ export const identityCulturePoetry: Topic = {
             modelAnswer:
               "Both poets use the second person to pull the reader into the poem. Dickinson’s ‘Who are you?’ is warm and conspiratorial: she invites the reader to be a fellow ‘Nobody’, creating a ‘pair of us’ against the public world. In contrast, Bhatt opens with ‘You ask me what I mean’, which positions the reader as someone who does not understand and needs an explanation — perhaps an outsider who speaks only one language. Bhatt then makes that outsider feel it by printing Gujarati script the ‘you’ cannot read. So Dickinson’s ‘you’ creates friendship and shared secrecy, whereas Bhatt’s ‘you’ creates distance at first, so that the reader experiences the speaker’s sense of being divided between languages.",
             markScheme: [
-              { point: "Shared method: second person draws the reader in", keywords: ["both", "second person", "direct address", "you", "involve", "draws"] },
+              { point: "Shared method: second person draws the reader in", keywords: ["both", "second person", "direct address", "pronoun you", "involve", "draws", "pulls the reader"] },
               { point: "Dickinson: friendly, conspiratorial ‘you’ (pair of us)", keywords: ["pair of us", "friendly", "conspiratorial", "secret", "who are you", "warm"] },
               { point: "Bhatt: ‘you’ as questioner/outsider (You ask me what I mean)", keywords: ["you ask me", "outsider", "questioner", "does not understand", "explain", "question"] },
               { point: "Bhatt makes the reader experience exclusion (Gujarati script)", keywords: ["gujarati", "script", "cannot read", "excluded", "exclusion", "outsider"] },
@@ -2799,7 +2805,7 @@ export const identityCulturePoetry: Topic = {
               { point: "Dunbar: hiding pain (evidence: mask, grins, bleeding hearts)", keywords: ["mask", "grins", "bleeding", "hide", "hidden", "cries"] },
               { point: "Agard: confronting (evidence: explain yuself, label)", keywords: ["explain yuself", "confront", "challenge", "label", "half-caste", "direct"] },
               { point: "Compares form (rondeau vs free verse) or language (Standard English vs Creole spelling)", keywords: ["rondeau", "free verse", "standard english", "creole", "phonetic", "form"] },
-              { point: "Compares voice (we vs I/yu) or tone", keywords: ["we", "collective", "i and yu", "voice", "tone", "pronoun"] },
+              { point: "Compares voice (we vs I/yu) or tone", keywords: ["collective", "we wear", "first person plural", "i and yu", "voice", "tone", "pronoun"] },
               { point: "Uses context and/or a final evaluative judgement with connectives", keywords: ["1890s", "context", "ultimately", "whereas", "in contrast", "overall"] },
             ],
             commonError: "Writing a block comparison (all Dunbar, then all Agard) and quoting long lines from ‘Half-Caste’.",
