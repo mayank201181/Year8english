@@ -1,0 +1,626 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 51.09,
+   "lines": [
+    {
+     "id": "ping",
+     "start": 0.6,
+     "end": 7.277,
+     "cap": "**Narrator:** Monday, break time. Mei's phone has pinged ninety-four times. Someone has added Verona to the class group chat.",
+     "who": "narr"
+    },
+    {
+     "id": "hate",
+     "start": 7.877,
+     "end": 14.363,
+     "cap": "**Tybalt:** 'What, drawn and talk of peace? I hate the word / As I hate hell, all Montagues, and thee!'",
+     "who": "tybalt"
+    },
+    {
+     "id": "cats",
+     "start": 14.963,
+     "end": 18.611,
+     "cap": "**Mercutio:** Calm down, **Tybalt**, 'Prince of Cats'. Stop typing in caps lock.",
+     "who": "mercutio"
+    },
+    {
+     "id": "mope",
+     "start": 19.181,
+     "end": 24.194,
+     "cap": "**Romeo:** Leave me in the dark. **Rosaline** doesn't text back. 'O brawling love, O loving hate!'",
+     "who": "romeo"
+    },
+    {
+     "id": "fourdays",
+     "start": 24.794,
+     "end": 30.383,
+     "cap": "**Juliet:** He forgets Rosaline tonight, marries me tomorrow afternoon, and we're both dead by Thursday dawn.",
+     "who": "juliet"
+    },
+    {
+     "id": "spoiler",
+     "start": 31.003,
+     "end": 37.681,
+     "cap": "**Mei:** Whoa, spoiler alert! Wait — **four days**? That's shorter than a geography project! **One star** for life choices.",
+     "who": "mei"
+    },
+    {
+     "id": "chorus",
+     "start": 38.301,
+     "end": 44.018,
+     "cap": "**Will:** It's not a spoiler if I put it in the **Prologue**, child! Welcome to **1595**!",
+     "who": "will"
+    },
+    {
+     "id": "title",
+     "start": 44.638,
+     "end": 48.99,
+     "cap": "**Narrator:** All the School's a Stage. Episode four: Two Households, One Group Chat.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "prologue",
+   "title": "Spoilers in fourteen lines",
+   "short": "Prologue & feud",
+   "card": true,
+   "start": 51.09,
+   "end": 119.164,
+   "lines": [
+    {
+     "id": "brooke",
+     "start": 52.89,
+     "end": 61.807,
+     "cap": "**Mr H:** Shakespeare didn't invent this plot. He adapted **Arthur Brooke's** **1562** poem — compressing **nine months** into **four frantic days**.",
+     "who": "mrh"
+    },
+    {
+     "id": "sonnet",
+     "start": 62.407,
+     "end": 73.01,
+     "cap": "**Nib:** The **Chorus** opens with a **Shakespearean sonnet**: **fourteen lines** of **iambic pentameter** — three quatrains and a couplet, **4 + 4 + 4 + 2**.",
+     "who": "nib"
+    },
+    {
+     "id": "clash",
+     "start": 73.61,
+     "end": 82.847,
+     "cap": "**Will:** A sonnet was the classic **love-poem** form! Yet I pack mine with a **semantic field** of violence: '**grudge**', '**mutiny**', '**civil blood**', '**death-marked love**'.",
+     "who": "will"
+    },
+    {
+     "id": "stars",
+     "start": 83.467,
+     "end": 91.169,
+     "cap": "**Will:** 'A pair of **star-crossed lovers** take their life'. Elizabethans believed in **astrology**: the stars themselves block their path.",
+     "who": "will"
+    },
+    {
+     "id": "irony",
+     "start": 91.769,
+     "end": 97.337,
+     "cap": "**Mr H:** And because we know the ending from minute one, the entire play runs on **dramatic irony**.",
+     "who": "mrh"
+    },
+    {
+     "id": "sides",
+     "start": 97.907,
+     "end": 104.221,
+     "cap": "**Mei:** Okay, let's sort the group chat. Left side: **Montagues** — **Romeo**, and his peaceful cousin **Benvolio**.",
+     "who": "mei"
+    },
+    {
+     "id": "capulets",
+     "start": 104.791,
+     "end": 111.298,
+     "cap": "**Juliet:** Right side: **Capulets** — me, not yet **fourteen**; my fiery **cousin** **Tybalt** — NOT my brother! — my parents, and **the Nurse**.",
+     "who": "juliet"
+    },
+    {
+     "id": "middle",
+     "start": 111.898,
+     "end": 117.914,
+     "cap": "**Mercutio:** And stuck in the middle: **Friar Laurence**, **Prince Escalus**, and the Prince's kinsmen — Count **Paris**, and me, **Mercutio**! Neither house!",
+     "who": "mercutio"
+    }
+   ]
+  },
+  {
+   "id": "love",
+   "title": "Pilgrims, the sun and 'wherefore'",
+   "short": "Sonnet & window",
+   "card": true,
+   "start": 119.164,
+   "end": 202.084,
+   "lines": [
+    {
+     "id": "petrarch",
+     "start": 120.964,
+     "end": 132.612,
+     "cap": "**Nib:** In **Act 1 Scene 1**, Romeo performs **Petrarchan love** for absent **Rosaline**: one-sided, dramatic, stuffed with **oxymorons** like '**cold fire, sick health**'.",
+     "who": "nib"
+    },
+    {
+     "id": "feast",
+     "start": 133.212,
+     "end": 140.871,
+     "cap": "**Romeo:** Then I gatecrash the Capulet ball in **Act 1 Scene 5** — and meet Juliet! 'My lips, two blushing **pilgrims**, ready stand'",
+     "who": "romeo"
+    },
+    {
+     "id": "shared",
+     "start": 141.491,
+     "end": 147.933,
+     "cap": "**Juliet:** 'Good pilgrim, you do wrong your hand too much'. Our first **fourteen lines** together form one **shared sonnet**, ending in a kiss!",
+     "who": "juliet"
+    },
+    {
+     "id": "sacred",
+     "start": 148.553,
+     "end": 158.132,
+     "cap": "**Mr H:** Notice the **extended religious metaphor** — **pilgrim, holy shrine, saint, prayer**. Unlike Rosaline, this love is **mutual** and **sacred**.",
+     "who": "mrh"
+    },
+    {
+     "id": "nobalk",
+     "start": 158.732,
+     "end": 166.967,
+     "cap": "**Will:** **Act 2 Scene 2**: Capulet's orchard at night! Fun fact: the word '**balcony**' never appears in my script. Juliet is at a **window**!",
+     "who": "will"
+    },
+    {
+     "id": "sun",
+     "start": 167.567,
+     "end": 172.559,
+     "cap": "**Romeo:** 'But soft, what light through yonder window breaks? / It is the East, and **Juliet is the sun**.'",
+     "who": "romeo"
+    },
+    {
+     "id": "why",
+     "start": 173.199,
+     "end": 179.449,
+     "cap": "**Juliet:** Not knowing he's below, I ask: 'O Romeo, Romeo, **wherefore** art thou Romeo?' Remember: **wherefore** means **WHY**!",
+     "who": "juliet"
+    },
+    {
+     "id": "rose",
+     "start": 180.049,
+     "end": 187.26,
+     "cap": "**Juliet:** 'What's in a name? That which we call a **rose** / By any other word would smell as sweet.' Names shouldn't matter — though in Verona, they kill.",
+     "who": "juliet"
+    },
+    {
+     "id": "lightning",
+     "start": 187.88,
+     "end": 196.712,
+     "cap": "**Nib:** Juliet is the practical one! She warns their love is '**Too like the lightning**' — a **simile** that **foreshadows** brilliant, brief destruction.",
+     "who": "nib"
+    },
+    {
+     "id": "two",
+     "start": 197.312,
+     "end": 200.704,
+     "cap": "**Mei:** Shared sonnet at a party? Okay, smooth. **Two stars**.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "turning",
+   "title": "Mad blood and fortune's fool",
+   "short": "Act 3 Scene 1",
+   "card": true,
+   "start": 202.084,
+   "end": 273.469,
+   "lines": [
+    {
+     "id": "slow",
+     "start": 203.884,
+     "end": 212.567,
+     "cap": "**Kevin:** In **Act 2**, Friar Laurence agrees to marry them secretly to end the feud, warning: 'Wisely and slow. They stumble that run fast.' Good pause!",
+     "who": "kevin"
+    },
+    {
+     "id": "violent",
+     "start": 213.167,
+     "end": 221.487,
+     "cap": "**Mr H:** And right before the wedding: '**These violent delights have violent ends**.' Then Shakespeare slams straight into **Act 3 Scene 1**.",
+     "who": "mrh"
+    },
+    {
+     "id": "heat",
+     "start": 222.087,
+     "end": 230.919,
+     "cap": "**Nib:** **Act 3 Scene 1** is the **turning point**. Blazing noon heat: 'these **hot days**, is the **mad blood stirring**' — **pathetic fallacy**!",
+     "who": "nib"
+    },
+    {
+     "id": "villain",
+     "start": 231.519,
+     "end": 234.527,
+     "cap": "**Tybalt:** Romeo, thou art a villain! Draw thy sword!",
+     "who": "tybalt"
+    },
+    {
+     "id": "refuse",
+     "start": 235.067,
+     "end": 242.789,
+     "cap": "**Romeo:** I've literally just married your cousin thirty minutes ago, **Tybalt**, so I love thee! (**Dramatic irony**: Mercutio doesn't know why!)",
+     "who": "romeo"
+    },
+    {
+     "id": "grave",
+     "start": 243.389,
+     "end": 249.363,
+     "cap": "**Mercutio:** Tybalt stabs me under Romeo's arm! Dying in **prose**, I still pun: 'Ask for me tomorrow, and you shall find me a **grave** man.'",
+     "who": "mercutio"
+    },
+    {
+     "id": "plague",
+     "start": 249.983,
+     "end": 254.74,
+     "cap": "**Mercutio:** And because neither family is mine, I curse them both three times: '**A plague o' both your houses!**'",
+     "who": "mercutio"
+    },
+    {
+     "id": "fool",
+     "start": 255.38,
+     "end": 262.228,
+     "cap": "**Romeo:** Grief-stricken, I kill **Tybalt** and cry: '**O, I am fortune's fool!**' Prince Escalus **banishes** me to Mantua.",
+     "who": "romeo"
+    },
+    {
+     "id": "shift",
+     "start": 262.848,
+     "end": 272.149,
+     "cap": "**Mr H:** Right here the genre shifts: comedy and hope die with Mercutio. Every disaster after **Act 3 Scene 1** flows from this street fight.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "tomb",
+   "title": "Patriarchy, potion and a glooming peace",
+   "short": "Potion & tomb",
+   "card": true,
+   "start": 273.469,
+   "end": 368.027,
+   "lines": [
+    {
+     "id": "pat",
+     "start": 275.269,
+     "end": 287.835,
+     "cap": "**Mr H:** **Act 3 Scene 5**: **patriarchy** — a society where fathers rule daughters' lives. In **Act 1**, Lord Capulet said Juliet's consent mattered. Now she refuses Paris:",
+     "who": "mrh"
+    },
+    {
+     "id": "wretch",
+     "start": 288.435,
+     "end": 295.965,
+     "cap": "**Will:** 'Hang thee, **young baggage, disobedient wretch**! ... get thee to church o' Thursday, / Or never after look me in the face.'",
+     "who": "will"
+    },
+    {
+     "id": "alone",
+     "start": 296.585,
+     "end": 305.375,
+     "cap": "**Juliet:** Violent **imperatives** and insults! My mother turns away, even the Nurse says marry Paris. Alone in **Act 4 Scene 3**, I face the **42-hour** potion.",
+     "who": "juliet"
+    },
+    {
+     "id": "vial",
+     "start": 305.995,
+     "end": 313.995,
+     "cap": "**Juliet:** My **soliloquy** asks terrifying **rhetorical questions** — 'What if it be a poison?' — yet I drink: 'My dismal scene I needs must act alone.'",
+     "who": "juliet"
+    },
+    {
+     "id": "letter",
+     "start": 314.615,
+     "end": 322.359,
+     "cap": "**Mei:** And the Friar's letter explaining the plan? Blocked because Friar John gets quarantined for **plague**! Mercutio's curse came true!",
+     "who": "mei"
+    },
+    {
+     "id": "debate",
+     "start": 322.959,
+     "end": 333.86,
+     "cap": "**Mr H:** **Fate versus free will**: the stars and the plague look like **fate**, yet the feud, Romeo's rage, Capulet's rush and **haste** are **human choices**. Argue **both**.",
+     "who": "mrh"
+    },
+    {
+     "id": "kiss",
+     "start": 334.48,
+     "end": 341.733,
+     "cap": "**Romeo:** **Act 5 Scene 3**, the tomb. Thinking Juliet dead, I drink poison: 'Thus with a kiss I die' — seconds before she wakes!",
+     "who": "romeo"
+    },
+    {
+     "id": "peace",
+     "start": 342.333,
+     "end": 352.061,
+     "cap": "**Nib:** Juliet takes Romeo's dagger. Only over their children's bodies do the fathers shake hands. Prince Escalus closes with a **rhyming couplet**:",
+     "who": "nib"
+    },
+    {
+     "id": "woe",
+     "start": 352.631,
+     "end": 360.418,
+     "cap": "**Will:** 'For never was a story of more woe / Than this of Juliet and her Romeo.' '**A glooming peace**' — peace, at a terrible price.",
+     "who": "will"
+    },
+    {
+     "id": "three",
+     "start": 361.058,
+     "end": 366.647,
+     "cap": "**Mei:** Three stars! Devastating, brilliant... and Friar Laurence should lose his teaching licence.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "peel",
+   "title": "Eight Bs and the PEEL ladder",
+   "short": "PEEL & zoom",
+   "card": true,
+   "start": 368.027,
+   "end": 425.461,
+   "lines": [
+    {
+     "id": "eightb",
+     "start": 369.827,
+     "end": 375.843,
+     "cap": "**Mei:** Plot in **eight Bs**: **Brawl, Ball, Balcony, Bride, Blood, Banished, Bottle, Burial**! Boom!",
+     "who": "mei"
+    },
+    {
+     "id": "task",
+     "start": 376.443,
+     "end": 384.123,
+     "cap": "**Mr H:** Mug Eleven is ready. Question: **How does Shakespeare present Romeo's feelings for Juliet in Act 2 Scene 2?**",
+     "who": "mrh"
+    },
+    {
+     "id": "p1",
+     "start": 384.693,
+     "end": 390.325,
+     "cap": "**Mei:** **Point**: Shakespeare presents Romeo's love for Juliet as overwhelming and almost worshipful.",
+     "who": "mei"
+    },
+    {
+     "id": "p2",
+     "start": 390.865,
+     "end": 397.82,
+     "cap": "**Mei:** **Evidence**: seeing her at the window at night, he declares '**Juliet is the sun**' and urges her to '**kill the envious moon**'.",
+     "who": "mei"
+    },
+    {
+     "id": "p3",
+     "start": 398.39,
+     "end": 407.286,
+     "cap": "**Mei:** **Explain**: the **metaphor** makes her the centre of light and life in Verona's darkness, while **personifying** the pale moon rejects cold **Rosaline**.",
+     "who": "mei"
+    },
+    {
+     "id": "p4",
+     "start": 407.886,
+     "end": 415.267,
+     "cap": "**Mei:** **Link**: **however**, the violent verb '**kill**' hints that even tender love here speaks the language of death, **foreshadowing** the tomb.",
+     "who": "mei"
+    },
+    {
+     "id": "kevin",
+     "start": 415.887,
+     "end": 420.901,
+     "cap": "**Kevin:** She said 'however', zoomed in on 'kill', AND put me right after 'however'! Best day of my life!",
+     "who": "kevin"
+    },
+    {
+     "id": "sigh",
+     "start": 421.521,
+     "end": 424.081,
+     "cap": "**Mr H:** *Sigh.* Top band. Don't let it go to your head.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 425.461,
+   "end": 507.478,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 427.261,
+     "end": 432.658,
+     "cap": "**Narrator:** Before Tybalt challenges the whiteboard to a duel, here are your memory hooks and six exam traps.",
+     "who": "narr"
+    },
+    {
+     "id": "hooks",
+     "start": 433.258,
+     "end": 446.869,
+     "cap": "**Mei:** Plot: **8 Bs**. Sonnet: **4 + 4 + 4 + 2 = 14**. Six deaths: **My Teacher Paints Really Joyful Landscapes** — Mercutio, Tybalt, Paris, Romeo, Juliet, Lady Montague!",
+     "who": "mei"
+    },
+    {
+     "id": "t1",
+     "start": 447.509,
+     "end": 452.245,
+     "cap": "**Juliet:** One! '**Wherefore** art thou Romeo?' means **WHY** are you a Montague — never 'where are you hiding'!",
+     "who": "juliet"
+    },
+    {
+     "id": "t2",
+     "start": 452.845,
+     "end": 456.962,
+     "cap": "**Romeo:** Two! The whole play takes **about four days**, Sunday to Thursday — NOT months!",
+     "who": "romeo"
+    },
+    {
+     "id": "t3",
+     "start": 457.562,
+     "end": 465.071,
+     "cap": "**Tybalt:** Three! I am Juliet's **cousin**, NOT her brother! And **Mercutio** belongs to **neither** family — he's the Prince's kinsman!",
+     "who": "tybalt"
+    },
+    {
+     "id": "t4",
+     "start": 465.671,
+     "end": 471.261,
+     "cap": "**Mercutio:** Four! **Act 3 Scene 1** is the **turning point**! Don't confuse it with **Act 5 Scene 3**, which is the catastrophe.",
+     "who": "mercutio"
+    },
+    {
+     "id": "t5",
+     "start": 471.861,
+     "end": 479.818,
+     "cap": "**Mr H:** Five! On **fate versus free will**, never pick only one. Show how human **haste** and hatred work **with** 'star-crossed' fate.",
+     "who": "mrh"
+    },
+    {
+     "id": "t6",
+     "start": 480.418,
+     "end": 487.778,
+     "cap": "**Nib:** Six! Don't retell the plot, darling! **Embed** two-to-five-word quotes and **zoom in** on single words and effects.",
+     "who": "nib"
+    },
+    {
+     "id": "four",
+     "start": 488.418,
+     "end": 499.021,
+     "cap": "**Mei:** Final Term 1 Shakespeare verdict for Romeo and Juliet: **four stars**. Gorgeous poetry, minus one star because a single delivered WhatsApp would've saved six lives.",
+     "who": "mei"
+    },
+    {
+     "id": "fair",
+     "start": 499.741,
+     "end": 505.778,
+     "cap": "**Will:** In **1595** we had carrier friars, Mei! Four stars across Term 1 — I'll take it!",
+     "who": "will"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 507.478,
+   "end": 611.463,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 509.278,
+     "end": 513.417,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 514.037,
+     "end": 518.303,
+     "cap": "**Mr H:** What poetic form is the **Prologue**, and how many lines does it have?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 522.623,
+     "end": 529.663,
+     "cap": "**Nib:** A **Shakespearean sonnet**: **14 lines** of iambic pentameter (**4 + 4 + 4 + 2**).",
+     "who": "nib"
+    },
+    {
+     "id": "q2",
+     "start": 529.983,
+     "end": 538.069,
+     "cap": "**Mr H:** How do Romeo's **oxymorons** about **Rosaline** contrast with his first lines to **Juliet** in **Act 1 Scene 5**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 542.389,
+     "end": 549.258,
+     "cap": "**Juliet:** Rosaline gets one-sided **Petrarchan** clichés; Romeo and I share a mutual **sonnet** of sacred **pilgrim** imagery!",
+     "who": "juliet"
+    },
+    {
+     "id": "q3",
+     "start": 549.578,
+     "end": 555.082,
+     "cap": "**Mr H:** Which scene is the **turning point** of the play, and who curses '**A plague o' both your houses!**'?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 559.402,
+     "end": 563.37,
+     "cap": "**Mercutio:** **Act 3 Scene 1** — and **I** do, **Mercutio**, because neither feuding house is mine!",
+     "who": "mercutio"
+    },
+    {
+     "id": "q4",
+     "start": 563.69,
+     "end": 569.962,
+     "cap": "**Mr H:** Over roughly how many **days** does Shakespeare compress the entire story of Romeo and Juliet?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 574.282,
+     "end": 577.802,
+     "cap": "**Romeo:** About **four days** — from Sunday morning to Thursday before dawn!",
+     "who": "romeo"
+    },
+    {
+     "id": "q5",
+     "start": 578.122,
+     "end": 586.229,
+     "cap": "**Mr H:** In **Act 3 Scene 5**, what does Lord Capulet's explosion ('**disobedient wretch!**') reveal about **Verona's society**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 590.549,
+     "end": 595.69,
+     "cap": "**Mei:** **Patriarchy**: fathers controlled daughters' marriages and expected total obedience.",
+     "who": "mei"
+    },
+    {
+     "id": "outro",
+     "start": 596.01,
+     "end": 601.13,
+     "cap": "**Mr H:** Brilliant work. Now try the **Romeo and Juliet** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "kick",
+     "start": 601.85,
+     "end": 605.114,
+     "cap": "**Tybalt:** Who just removed me from the Year 8 WhatsApp group?!",
+     "who": "tybalt"
+    },
+    {
+     "id": "admin",
+     "start": 605.714,
+     "end": 609.063,
+     "cap": "**Mei:** Group admin privileges, **Tybalt**. Wisely and slow.",
+     "who": "mei"
+    }
+   ]
+  }
+ ],
+ "total": 611.463
+}

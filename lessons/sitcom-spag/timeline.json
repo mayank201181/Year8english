@@ -1,0 +1,661 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 56.947,
+   "lines": [
+    {
+     "id": "flat",
+     "start": 0.6,
+     "end": 5.549,
+     "cap": "**Narrator:** Queenstown. Six-thirty p.m. Mei is texting the family group chat about dinner.",
+     "who": "narr"
+    },
+    {
+     "id": "txt",
+     "start": 6.149,
+     "end": 7.813,
+     "cap": "**Mei:** Sent! '**Let's eat Grandma!**'",
+     "who": "mei"
+    },
+    {
+     "id": "ahma",
+     "start": 8.453,
+     "end": 13.552,
+     "cap": "**Ah Ma:** Excuse me?! I cook curry chicken for twelve years and now you want to **eat** your grandmother?!",
+     "who": "ahma"
+    },
+    {
+     "id": "bag",
+     "start": 14.222,
+     "end": 20.238,
+     "cap": "**Kevin:** You forgot me! Without a **comma of direct address**, 'Grandma' is the **object** of 'eat'! You've made dinner a crime!",
+     "who": "kevin"
+    },
+    {
+     "id": "room",
+     "start": 20.908,
+     "end": 26.561,
+     "cap": "**Narrator:** Wednesday. Room 8H. Mr Hargreaves has finally reached mug twenty-three out of twenty-three.",
+     "who": "narr"
+    },
+    {
+     "id": "stop",
+     "start": 27.181,
+     "end": 30.957,
+     "cap": "**Full Stop:** Full Stop. Kevin called backup. Sentence. Over.",
+     "who": "stop"
+    },
+    {
+     "id": "semi",
+     "start": 31.577,
+     "end": 37.167,
+     "cap": "**Semicolon:** Semicolon; Kevin's older cousin. I hold two main clauses together without breaking a sweat.",
+     "who": "semi"
+    },
+    {
+     "id": "apos",
+     "start": 37.787,
+     "end": 44.208,
+     "cap": "**Apostrophe:** And I'm Apostrophe! Another hawker stall wrote **FRIED NOODLE'S** with an apostrophe and I haven't slept since Tuesday!",
+     "who": "apos"
+    },
+    {
+     "id": "mrh",
+     "start": 44.878,
+     "end": 50.361,
+     "cap": "**Mr H:** Last episode of the year, 8H. Grammar, punctuation and vocabulary.",
+     "who": "mrh"
+    },
+    {
+     "id": "title",
+     "start": 51.001,
+     "end": 54.947,
+     "cap": "**Narrator:** All the School's a Stage. Episode sixteen: Let's Eat, Grandma.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "words",
+   "title": "Word classes, roots and RAVEN",
+   "short": "Words & roots",
+   "card": true,
+   "start": 56.947,
+   "end": 138.299,
+   "lines": [
+    {
+     "id": "jab",
+     "start": 58.747,
+     "end": 67.601,
+     "cap": "**Mr H:** Lewis Carroll wrote: ''Twas brillig, and the **slithy toves** did **gyre** in the wabe.' Nonsense words — yet you know their **word classes**.",
+     "who": "mrh"
+    },
+    {
+     "id": "pos",
+     "start": 68.241,
+     "end": 75.515,
+     "cap": "**Mei:** Because of their **jobs**! '**Toves**' follows 'the', so it's a **noun**; '**slithy**' describes it — **adjective**; '**gyre**' follows 'did' — **verb**!",
+     "who": "mei"
+    },
+    {
+     "id": "nouns",
+     "start": 76.155,
+     "end": 84.881,
+     "cap": "**Nib:** Know all eight! **Nouns** include **proper** capitals like Singapore and **abstract nouns** for untouchable ideas like courage.",
+     "who": "nib"
+    },
+    {
+     "id": "verbs",
+     "start": 85.501,
+     "end": 91.474,
+     "cap": "**Mr H:** **Verbs** include **modals** of possibility and obligation: **can, could, might, must, should**.",
+     "who": "mrh"
+    },
+    {
+     "id": "ly",
+     "start": 92.074,
+     "end": 99.135,
+     "cap": "**Will:** Careful with '-ly': most are **adverbs**, like 'quickly', yet '**friendly**', '**lovely**' and my beloved '**lonely**' are **adjectives**!",
+     "who": "will"
+    },
+    {
+     "id": "stamp",
+     "start": 99.775,
+     "end": 104.533,
+     "cap": "**Nib:** **Earliest recorded user** of 'lonely', Will. Still not its inventor.",
+     "who": "nib"
+    },
+    {
+     "id": "det",
+     "start": 105.133,
+     "end": 117.271,
+     "cap": "**Nib:** Spot the job: in '**my** bag', 'my' is a **determiner** before a noun; in 'the bag is **mine**', 'mine' stands alone as a **pronoun**. **Prepositions** show position: **under, through, beside**.",
+     "who": "nib"
+    },
+    {
+     "id": "roots",
+     "start": 117.941,
+     "end": 128.373,
+     "cap": "**Mr H:** Unlock unfamiliar vocabulary with **roots**: Greek **chron** means time, Latin **bene** means good and **mal** means bad — so **malevolent** means wishing harm.",
+     "who": "mrh"
+    },
+    {
+     "id": "raven",
+     "start": 129.013,
+     "end": 136.949,
+     "cap": "**Kevin:** And for **affect** versus **effect**, use **RAVEN**: **R**emember, **A**ffect is a **V**erb, **E**ffect is a **N**oun! Just like British **practise** with an 's' for the verb!",
+     "who": "kevin"
+    }
+   ]
+  },
+  {
+   "id": "clauses",
+   "title": "Phrases, clauses and four sentence types",
+   "short": "Clauses & types",
+   "card": true,
+   "start": 138.299,
+   "end": 214.405,
+   "lines": [
+    {
+     "id": "phr",
+     "start": 140.099,
+     "end": 148.398,
+     "cap": "**Mr H:** A **phrase** has no subject doing a verb: 'under the old bridge'. A **clause** has a **subject** and a **verb**: 'the river froze'.",
+     "who": "mrh"
+    },
+    {
+     "id": "main",
+     "start": 149.018,
+     "end": 153.306,
+     "cap": "**Full Stop:** 'The river froze.' **Main clause**. Stands alone. Sentence. Over.",
+     "who": "stop"
+    },
+    {
+     "id": "sub",
+     "start": 153.906,
+     "end": 165.234,
+     "cap": "**Nib:** Add a **subordinating conjunction** — **AAAWWUBBIS**: **After, Although, As, When, While, Until, Before, Because, If, Since** — and it becomes a **subordinate clause** that cannot stand alone.",
+     "who": "nib"
+    },
+    {
+     "id": "front",
+     "start": 165.904,
+     "end": 172.261,
+     "cap": "**Kevin:** And when that subordinate clause comes **first** — '**Although** she was terrified**,** Lina stepped forward' — put me right after it!",
+     "who": "kevin"
+    },
+    {
+     "id": "rel",
+     "start": 172.881,
+     "end": 180.519,
+     "cap": "**Nib:** A **relative clause** starts with **who, which, that** or **whose** to describe a noun: 'the lift, **which had been humming**, stopped'.",
+     "who": "nib"
+    },
+    {
+     "id": "simple",
+     "start": 181.139,
+     "end": 188.755,
+     "cap": "**Mr H:** Sentence types depend on **clauses**, not length! Twenty words with **one** main clause is still a **simple sentence**.",
+     "who": "mrh"
+    },
+    {
+     "id": "comp",
+     "start": 189.375,
+     "end": 196.201,
+     "cap": "**Semicolon:** Join two equal main clauses with **FANBOYS** — **For, And, Nor, But, Or, Yet, So** — or with me, and you have a **compound sentence**.",
+     "who": "semi"
+    },
+    {
+     "id": "orwell",
+     "start": 196.841,
+     "end": 205.353,
+     "cap": "**Will:** George Orwell opens **Nineteen Eighty-Four** with a compound jolt: 'It was a bright cold day in April, **and** the clocks were striking **thirteen**.'",
+     "who": "will"
+    },
+    {
+     "id": "cmplx",
+     "start": 205.993,
+     "end": 213.055,
+     "cap": "**Mei:** Main plus subordinate is **complex**; and no main verb at all — like '**Darkness.**' — is a **minor sentence** for impact!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "splice",
+   "title": "Defeating the comma splice (enter Semicolon)",
+   "short": "Splices & colons",
+   "card": true,
+   "start": 214.405,
+   "end": 305.851,
+   "lines": [
+    {
+     "id": "crime",
+     "start": 216.205,
+     "end": 222.519,
+     "cap": "**Mei:** Look at my sentence: 'The match was cancelled, it had rained all night.' I paused for breath, so I used Kevin!",
+     "who": "mei"
+    },
+    {
+     "id": "panic",
+     "start": 223.139,
+     "end": 229.369,
+     "cap": "**Kevin:** PAPER BAG! PAPER BAG! Those are **two main clauses**! I'm a comma, not structural concrete! That's a **comma splice**!",
+     "who": "kevin"
+    },
+    {
+     "id": "fix3",
+     "start": 230.039,
+     "end": 235.756,
+     "cap": "**Full Stop:** Three legal fixes. Fix one: use me. 'The match was cancelled**.** It had rained all night.'",
+     "who": "stop"
+    },
+    {
+     "id": "fixsemi",
+     "start": 236.356,
+     "end": 247.129,
+     "cap": "**Semicolon:** Fix two: use a **semicolon** to balance two closely linked clauses: 'The match was cancelled**;** it had rained all night.' Venetian printer Aldus Manutius invented me in the **1490s**.",
+     "who": "semi"
+    },
+    {
+     "id": "fixconj",
+     "start": 247.799,
+     "end": 256.909,
+     "cap": "**Mr H:** Fix three: add a conjunction like '**because**'. And watch the biggest exam trap: '**however**' and '**therefore**' are **adverbs**, NOT conjunctions!",
+     "who": "mrh"
+    },
+    {
+     "id": "how",
+     "start": 257.549,
+     "end": 262.434,
+     "cap": "**Semicolon:** Never write ', however,'. Put **me** or Full Stop in front: 'I was tired**; however,** I kept going.'",
+     "who": "semi"
+    },
+    {
+     "id": "dickens",
+     "start": 263.054,
+     "end": 273.294,
+     "cap": "**Will:** Charles Dickens spliced on purpose in **A Tale of Two Cities** — 'It was the best of times, it was the worst of times' — for breathless antithesis. Do **not** try that in an essay.",
+     "who": "will"
+    },
+    {
+     "id": "oxford",
+     "start": 273.964,
+     "end": 283.393,
+     "cap": "**Kevin:** Use me for **lists** — a missing Oxford comma cost a dairy company **five million dollars** in **2017**! — and around removable **non-defining** clauses!",
+     "who": "kevin"
+    },
+    {
+     "id": "colon",
+     "start": 284.033,
+     "end": 295.809,
+     "cap": "**Nib:** A **colon** needs a **complete main clause** before it, then points like a drumroll to a list, explanation or reveal: 'The plan was simple**:** wait, slip past, and run.'",
+     "who": "nib"
+    },
+    {
+     "id": "dash",
+     "start": 296.479,
+     "end": 304.501,
+     "cap": "**Mr H:** **Dashes** add a dramatic twist; **brackets** whisper a quiet aside; and a shorter **hyphen** joins words like '**well-known**'.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "apostrophe",
+   "title": "Apostrophes, homophones and speech",
+   "short": "Apostrophes",
+   "card": true,
+   "start": 305.851,
+   "end": 368.385,
+   "lines": [
+    {
+     "id": "sob",
+     "start": 307.651,
+     "end": 316.12,
+     "cap": "**Apostrophe:** Listen carefully, Year 8! I have **only two jobs** in the English language! **Never** use me to make a plural! Just write **bananas** and **the 1990s**!",
+     "who": "apos"
+    },
+    {
+     "id": "job1",
+     "start": 316.79,
+     "end": 321.441,
+     "cap": "**Apostrophe:** Job one: **omission** — showing missing letters, like **don't**, **they're**, and **it's** meaning **it is**.",
+     "who": "apos"
+    },
+    {
+     "id": "job2",
+     "start": 322.041,
+     "end": 330.723,
+     "cap": "**Mr H:** Job two: **possession**. Singular owner: **the girl's bag**. Plural already ending in 's': after the 's' — **the girls' changing room**.",
+     "who": "mrh"
+    },
+    {
+     "id": "child",
+     "start": 331.363,
+     "end": 337.23,
+     "cap": "**Mei:** What about '**children**'? It's already plural without an 's' — so we add apostrophe 's': **the children's toys**!",
+     "who": "mei"
+    },
+    {
+     "id": "its",
+     "start": 337.85,
+     "end": 344.933,
+     "cap": "**Apostrophe:** And **possessive pronouns never take an apostrophe**: **its, hers, yours, theirs, whose**! The dog wagged **its** tail — no apostrophe!",
+     "who": "apos"
+    },
+    {
+     "id": "homo",
+     "start": 345.573,
+     "end": 353.615,
+     "cap": "**Nib:** Test your **homophones**: **they're** means they are, **their** shows belonging, **there** is a place. **Who's** is who is; **whose** shows belonging.",
+     "who": "nib"
+    },
+    {
+     "id": "speech",
+     "start": 354.255,
+     "end": 360.293,
+     "cap": "**Kevin:** In **dialogue**, put me **inside** the closing speech marks before a reporting clause: '\"I'm cold**,**\" she said.'",
+     "who": "kevin"
+    },
+    {
+     "id": "tiptop",
+     "start": 360.913,
+     "end": 367.035,
+     "cap": "**Mr H:** And start a **new line for every new speaker** — part of **TiPToP**: **Time, Place, Topic, Person**.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "finale",
+   "title": "Standard English, register and Kevin's moment",
+   "short": "Kevin's moment",
+   "card": true,
+   "start": 368.385,
+   "end": 445.623,
+   "lines": [
+    {
+     "id": "err",
+     "start": 370.185,
+     "end": 373.983,
+     "cap": "**Mei:** Quick proofread! 'Me and Arjun was late, we could of ran faster.'",
+     "who": "mei"
+    },
+    {
+     "id": "std",
+     "start": 374.583,
+     "end": 382.092,
+     "cap": "**Mr H:** Four fixes: subject '**Arjun and I**', plural '**were**', semicolon for the splice, and '**could have** run' — never 'could of'!",
+     "who": "mrh"
+    },
+    {
+     "id": "agree",
+     "start": 382.732,
+     "end": 389.089,
+     "cap": "**Nib:** Match the **true subject**: 'The **box** of chocolates **was** full', and '**Each** of the players **receives** a medal.'",
+     "who": "nib"
+    },
+    {
+     "id": "pass",
+     "start": 389.709,
+     "end": 399.587,
+     "cap": "**Mr H:** **Active voice**: 'The dog bit the postman.' **Passive voice** uses **be** plus past participle — 'Mistakes **were made**' — shifting focus or hiding the blame!",
+     "who": "mrh"
+    },
+    {
+     "id": "reg",
+     "start": 400.227,
+     "end": 413.923,
+     "cap": "**Nib:** Match **register** to audience. **Singlish** words like **kiasu** and **shiok** are in the Oxford English Dictionary — brilliant with friends, while **code-switching** to formal **Standard English** wins exam marks.",
+     "who": "nib"
+    },
+    {
+     "id": "peel",
+     "start": 414.593,
+     "end": 426.433,
+     "cap": "**Mei:** And in essays, we analyse grammar with **PEEL**: Dickens's parallel clauses in '**best of times, worst of times**' create breathless **antithesis**, linking to a world torn by revolution!",
+     "who": "mei"
+    },
+    {
+     "id": "home",
+     "start": 427.103,
+     "end": 431.327,
+     "cap": "**Narrator:** Friday, seven p.m. Queenstown. Mei picks up her phone one more time.",
+     "who": "narr"
+    },
+    {
+     "id": "hero",
+     "start": 431.947,
+     "end": 434.805,
+     "cap": "**Mei:** Kevin — right here, after 'eat'. '**Let's eat, Grandma!**'",
+     "who": "mei"
+    },
+    {
+     "id": "glow",
+     "start": 435.445,
+     "end": 440.224,
+     "cap": "**Kevin:** Direct address! Grammatically necessary! Nobody gets eaten! Best day of my life!",
+     "who": "kevin"
+    },
+    {
+     "id": "puffs",
+     "start": 440.894,
+     "end": 444.243,
+     "cap": "**Ah Ma:** Much better! Come and eat — I fried twenty-three curry puffs!",
+     "who": "ahma"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 445.623,
+   "end": 527.819,
+   "lines": [
+    {
+     "id": "bell",
+     "start": 447.423,
+     "end": 451.626,
+     "cap": "**Narrator:** End of the school year. One last round of mark-savers from Room 8H.",
+     "who": "narr"
+    },
+    {
+     "id": "hooks",
+     "start": 452.226,
+     "end": 464.535,
+     "cap": "**Mei:** Memory hooks! Compound clauses: **FANBOYS**. Subordinate clauses: **AAAWWUBBIS**. Paragraphs: **TiPToP**. Affect verb, effect noun: **RAVEN**!",
+     "who": "mei"
+    },
+    {
+     "id": "t1",
+     "start": 465.205,
+     "end": 471.093,
+     "cap": "**Kevin:** One. Never **comma-splice** two main clauses! Fix with a full stop, a semicolon or a conjunction.",
+     "who": "kevin"
+    },
+    {
+     "id": "t2",
+     "start": 471.693,
+     "end": 477.496,
+     "cap": "**Semicolon:** Two. '**However**' and '**therefore**' are adverbs — put a **semicolon** or **full stop** before them, never just a comma.",
+     "who": "semi"
+    },
+    {
+     "id": "t3",
+     "start": 478.116,
+     "end": 484.175,
+     "cap": "**Apostrophe:** Three. **Its** without an apostrophe shows belonging; **it's** means it is. And **never** use an apostrophe for plurals!",
+     "who": "apos"
+    },
+    {
+     "id": "t4",
+     "start": 484.795,
+     "end": 490.683,
+     "cap": "**Mr H:** Four. Write **could have**, never 'could of', keep **one tense**, and match verbs to the **true subject**.",
+     "who": "mrh"
+    },
+    {
+     "id": "t5",
+     "start": 491.283,
+     "end": 501.032,
+     "cap": "**Nib:** Five. Keep speech punctuation **inside** closing speech marks, start a **new line per speaker**, and use formal **Standard English** in exams.",
+     "who": "nib"
+    },
+    {
+     "id": "t6",
+     "start": 501.672,
+     "end": 509.139,
+     "cap": "**Full Stop:** Six. Simple sentences can be long; minor sentences have no main verb. Choose each for **effect**. Sentence. Over.",
+     "who": "stop"
+    },
+    {
+     "id": "rev",
+     "start": 509.779,
+     "end": 513.213,
+     "cap": "**Mei:** Final Year 8 reviews! Will: **four and a half stars**.",
+     "who": "mei"
+    },
+    {
+     "id": "will",
+     "start": 513.833,
+     "end": 516.607,
+     "cap": "**Will:** Four and a HALF?! Why not five?!",
+     "who": "will"
+    },
+    {
+     "id": "kfive",
+     "start": 517.207,
+     "end": 522.775,
+     "cap": "**Mei:** Hamlet is still four hours long. **Kevin the Comma**: **five stars**. Saved my grandmother.",
+     "who": "mei"
+    },
+    {
+     "id": "kjoy",
+     "start": 523.445,
+     "end": 525.919,
+     "cap": "**Kevin:** Five stars?! I don't even need my paper bag!",
+     "who": "kevin"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 527.819,
+   "end": 616.478,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 529.619,
+     "end": 534.163,
+     "cap": "**Mr H:** Final quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 534.783,
+     "end": 539.925,
+     "cap": "**Mr H:** Give **three ways** to fix the comma splice: 'The bell rang, everyone rushed out.'",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 544.245,
+     "end": 548.277,
+     "cap": "**Semicolon:** Use a **full stop**, a **semicolon**, or a **conjunction** like 'and' or 'when'.",
+     "who": "semi"
+    },
+    {
+     "id": "q2",
+     "start": 548.597,
+     "end": 551.903,
+     "cap": "**Mr H:** Should you write 'the **childrens'** coats' or 'the **children's** coats'?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 556.223,
+     "end": 561.066,
+     "cap": "**Apostrophe:** **The children's coats** — 'children' is already plural without an 's', so add apostrophe 's'!",
+     "who": "apos"
+    },
+    {
+     "id": "q3",
+     "start": 561.386,
+     "end": 565.93,
+     "cap": "**Mr H:** What type of sentence is 'Although she was exhausted, Priya kept running'?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 570.25,
+     "end": 573.941,
+     "cap": "**Mei:** A **complex sentence**: a subordinate clause plus a main clause.",
+     "who": "mei"
+    },
+    {
+     "id": "q4",
+     "start": 574.261,
+     "end": 576.671,
+     "cap": "**Mr H:** What must always come **before** a **colon**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 580.991,
+     "end": 585.322,
+     "cap": "**Nib:** A **complete main clause** that could stand alone as a sentence.",
+     "who": "nib"
+    },
+    {
+     "id": "q5",
+     "start": 585.642,
+     "end": 589.247,
+     "cap": "**Mr H:** In 'The dog wagged **its** tail', does **its** take an apostrophe?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 593.567,
+     "end": 598.175,
+     "cap": "**Kevin:** **No!** Possessive **its** never takes an apostrophe — **it's** only means 'it is' or 'it has'!",
+     "who": "kevin"
+    },
+    {
+     "id": "outro",
+     "start": 598.495,
+     "end": 606.431,
+     "cap": "**Mr H:** Brilliant work all year, 8H. Now try the **Grammar, Punctuation & Vocabulary** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "st1",
+     "start": 607.171,
+     "end": 611.417,
+     "cap": "**Will:** All the school's a stage... and honestly? Not a bad cast.",
+     "who": "will"
+    },
+    {
+     "id": "st2",
+     "start": 612.037,
+     "end": 613.978,
+     "cap": "**Mr H:** Kettle's on. Who wants tea?",
+     "who": "mrh"
+    }
+   ]
+  }
+ ],
+ "total": 616.478
+}

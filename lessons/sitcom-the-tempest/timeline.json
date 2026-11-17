@@ -1,0 +1,752 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 54.855,
+   "lines": [
+    {
+     "id": "monsoon",
+     "start": 0.6,
+     "end": 8.259,
+     "cap": "**Narrator:** Tuesday, 4 p.m. Outside Banyan Hill, Singapore's afternoon rain has arrived. Inside the school hall, so has a wizard.",
+     "who": "narr"
+    },
+    {
+     "id": "roar",
+     "start": 8.859,
+     "end": 13.659,
+     "cap": "**Prospero:** Blow, winds! Flicker, hall spotlights! Spin, ceiling fans, at speed setting THREE!",
+     "who": "prospero"
+    },
+    {
+     "id": "risk",
+     "start": 14.279,
+     "end": 19.015,
+     "cap": "**Mr H:** Excuse me. My risk assessment does not cover magical shipwrecks.",
+     "who": "mrh"
+    },
+    {
+     "id": "hair",
+     "start": 19.615,
+     "end": 24.607,
+     "cap": "**Ariel:** Relax! Every passenger is safe! '**Not a hair perish'd.**' The ship is parked neatly in the harbour.",
+     "who": "ariel"
+    },
+    {
+     "id": "five",
+     "start": 25.177,
+     "end": 28.057,
+     "cap": "**Ariel:** Also, Prospero, you promised me five minutes off.",
+     "who": "ariel"
+    },
+    {
+     "id": "host",
+     "start": 28.657,
+     "end": 34.801,
+     "cap": "**Caliban:** Don't trust him. I showed him the fresh springs on my island, and he locked me behind a rock. **One star**.",
+     "who": "caliban"
+    },
+    {
+     "id": "phone",
+     "start": 35.471,
+     "end": 39.439,
+     "cap": "**Mei:** Wait. The 'monster' has my review app? And he's actually got a point?",
+     "who": "mei"
+    },
+    {
+     "id": "last",
+     "start": 40.039,
+     "end": 48.145,
+     "cap": "**Will:** **The Tempest**! Written around **1611**: the last play I wrote all on my own. Revenge, magic, colonial awkwardness!",
+     "who": "will"
+    },
+    {
+     "id": "title",
+     "start": 48.765,
+     "end": 52.755,
+     "cap": "**Narrator:** All the School's a Stage. Episode two: The Isle Is Full of Noises.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "context",
+   "title": "Shipwrecks, new worlds and a farewell",
+   "short": "Context",
+   "card": true,
+   "start": 54.855,
+   "end": 147.523,
+   "lines": [
+    {
+     "id": "jacobean",
+     "start": 56.655,
+     "end": 62.799,
+     "cap": "**Narrator:** Wednesday, Period 2. Will has brought seashells into the library. The librarian is pretending not to see.",
+     "who": "narr"
+    },
+    {
+     "id": "james",
+     "start": 63.399,
+     "end": 71.313,
+     "cap": "**Will:** First performed at court for **King James I** in **1611**. And printed **first** in the **1623 First Folio**!",
+     "who": "will"
+    },
+    {
+     "id": "romance",
+     "start": 71.883,
+     "end": 81.654,
+     "cap": "**Nib:** Genre: a late **Romance**, or tragicomedy. It begins like a tragedy, with betrayal and a storm, yet ends in **forgiveness** and **reunion**.",
+     "who": "nib"
+    },
+    {
+     "id": "bermuda",
+     "start": 82.254,
+     "end": 90.297,
+     "cap": "**Mr H:** **Context**. In **1609**, an English ship, the **Sea Venture**, wrecked off **Bermuda** sailing to **Jamestown, Virginia**.",
+     "who": "mrh"
+    },
+    {
+     "id": "survived",
+     "start": 90.867,
+     "end": 97.864,
+     "cap": "**Ariel:** Everyone thought they drowned! A year later, every passenger turned up alive. I even name-drop '**the still-vex'd Bermoothes**'.",
+     "who": "ariel"
+    },
+    {
+     "id": "colony",
+     "start": 98.484,
+     "end": 104.607,
+     "cap": "**Mei:** Hold on. Europeans sailing to a 'new world' and taking over an island somebody already lives on...",
+     "who": "mei"
+    },
+    {
+     "id": "colonial",
+     "start": 105.177,
+     "end": 115.63,
+     "cap": "**Mr H:** **Colonialism**. Audiences in **1611** were fascinated by New World voyages, and modern critics read Prospero and Caliban through empire.",
+     "who": "mrh"
+    },
+    {
+     "id": "montaigne",
+     "start": 116.23,
+     "end": 125.723,
+     "cap": "**Nib:** The French writer **Montaigne** wrote '**Of Cannibals**', questioning who is truly 'savage'. Notice **Caliban** is nearly an anagram of **canibal**.",
+     "who": "nib"
+    },
+    {
+     "id": "farewell",
+     "start": 126.343,
+     "end": 133.341,
+     "cap": "**Will:** Plus, a master magician breaking his staff and saying goodbye to the stage? Obviously, Prospero is ME.",
+     "who": "will"
+    },
+    {
+     "id": "careful",
+     "start": 133.941,
+     "end": 142.047,
+     "cap": "**Mr H:** Careful. In an exam, that's an **interpretation**, not a fact. Write: '**some critics argue** Shakespeare is saying farewell'.",
+     "who": "mrh"
+    },
+    {
+     "id": "ruin",
+     "start": 142.717,
+     "end": 146.173,
+     "cap": "**Will:** You ruin all my best exits, Hargreaves.",
+     "who": "will"
+    }
+   ]
+  },
+  {
+   "id": "plot",
+   "title": "Four hours and three plots",
+   "short": "Plot & foils",
+   "card": true,
+   "start": 147.523,
+   "end": 239.047,
+   "lines": [
+    {
+     "id": "unities",
+     "start": 149.323,
+     "end": 158.411,
+     "cap": "**Mr H:** Unusually for Shakespeare, The Tempest obeys the classical **unities of time and place**: one island, about **four hours** in real time.",
+     "who": "mrh"
+    },
+    {
+     "id": "mrt",
+     "start": 159.011,
+     "end": 162.787,
+     "cap": "**Mei:** Four hours? That's shorter than waiting for the bus in monsoon rain.",
+     "who": "mei"
+    },
+    {
+     "id": "backstory",
+     "start": 163.357,
+     "end": 169.245,
+     "cap": "**Prospero:** Twelve years ago, I was **Duke of Milan**. 'Me, poor man, my library / Was dukedom large enough.'",
+     "who": "prospero"
+    },
+    {
+     "id": "usurp",
+     "start": 169.865,
+     "end": 177.183,
+     "cap": "**Mei:** Wait. You ignored your job to read magic books, so your brother **Antonio** and **King Alonso** of Naples stole your dukedom?",
+     "who": "mei"
+    },
+    {
+     "id": "boat",
+     "start": 177.783,
+     "end": 184.865,
+     "cap": "**Miranda:** They cast us adrift in a rotten boat when I was three! Only kind old **Gonzalo** packed us food, clothes, and Father's books.",
+     "who": "miranda"
+    },
+    {
+     "id": "fiveacts",
+     "start": 185.485,
+     "end": 191.587,
+     "cap": "**Nib:** Five acts: **Storm, Schemes, Spells, Show, Set free**. And three parallel plot strands.",
+     "who": "nib"
+    },
+    {
+     "id": "strands",
+     "start": 192.157,
+     "end": 200.327,
+     "cap": "**Mr H:** One: **Ferdinand** and **Miranda** fall in love. Two: **Antonio** and **Sebastian** plot to murder sleeping King Alonso.",
+     "who": "mrh"
+    },
+    {
+     "id": "comic",
+     "start": 200.897,
+     "end": 208.876,
+     "cap": "**Ariel:** Three: the comic parody! Caliban teams up with **Trinculo** the jester and drunken butler **Stephano**, who gets distracted by shiny laundry.",
+     "who": "ariel"
+    },
+    {
+     "id": "saga",
+     "start": 209.496,
+     "end": 218.179,
+     "cap": "**Mei:** Shipwrecked royals: **S A G A, F**. **Sebastian, Alonso, Gonzalo, Antonio, Ferdinand**. Like a very toxic group holiday.",
+     "who": "mei"
+    },
+    {
+     "id": "foils",
+     "start": 218.799,
+     "end": 226.905,
+     "cap": "**Nib:** Watch the **foils**: characters who contrast. **AIR-iel** is airy and obedient; **CLAY-iban** is earthy and rebellious.",
+     "who": "nib"
+    },
+    {
+     "id": "logs",
+     "start": 227.475,
+     "end": 232.382,
+     "cap": "**Miranda:** And Ferdinand carries logs gladly for love of me, while Caliban curses every stick!",
+     "who": "miranda"
+    },
+    {
+     "id": "unpaid",
+     "start": 232.952,
+     "end": 237.667,
+     "cap": "**Caliban:** Because Ferdinand gets a royal wedding, and I get pinched by hedgehogs!",
+     "who": "caliban"
+    }
+   ]
+  },
+  {
+   "id": "magic",
+   "title": "Power, magic and 'My liberty'",
+   "short": "Power & freedom",
+   "card": true,
+   "start": 239.047,
+   "end": 321.107,
+   "lines": [
+    {
+     "id": "props",
+     "start": 240.847,
+     "end": 247.204,
+     "cap": "**Narrator:** Period 3. Prospero refuses to take off his magic cloak, even though it is thirty-two degrees outside.",
+     "who": "narr"
+    },
+    {
+     "id": "symbols",
+     "start": 247.804,
+     "end": 255.591,
+     "cap": "**Nib:** Prospero's **cloak**, **staff** and **books** symbolise his power. In **Act 1 Scene 2**, hear how he remembers Milan:",
+     "who": "nib"
+    },
+    {
+     "id": "prince",
+     "start": 256.131,
+     "end": 259.971,
+     "cap": "**Prospero:** 'Thy father was the Duke of Milan and / A prince of power.'",
+     "who": "prospero"
+    },
+    {
+     "id": "plosive",
+     "start": 260.591,
+     "end": 267.289,
+     "cap": "**Mr H:** **Enjambment** isolates 'A prince of power', and the plosive **p** **alliteration** sounds proud and forceful.",
+     "who": "mrh"
+    },
+    {
+     "id": "dashes",
+     "start": 267.859,
+     "end": 276.051,
+     "cap": "**Kevin:** Um, excuse me! In that speech, Prospero keeps interrupting himself with dashes: 'I pray thee, mark me'. Twelve years later, he's still furious!",
+     "who": "kevin"
+    },
+    {
+     "id": "liberty",
+     "start": 276.671,
+     "end": 282.538,
+     "cap": "**Ariel:** Tell me about it! I raised his storm, split fire on the rigging, and asked for two tiny words: '**My liberty.**'",
+     "who": "ariel"
+    },
+    {
+     "id": "shortline",
+     "start": 283.208,
+     "end": 289.992,
+     "cap": "**Nib:** A bold **short line**: just four syllables. Watch how Prospero reacts when his control is challenged.",
+     "who": "nib"
+    },
+    {
+     "id": "oak",
+     "start": 290.562,
+     "end": 297.73,
+     "cap": "**Prospero:** Sycorax trapped thee in a cloven pine for twelve years! Murmur again, and I will **rend an oak** and peg thee in his **knotty entrails**!",
+     "who": "prospero"
+    },
+    {
+     "id": "tyrant",
+     "start": 298.37,
+     "end": 302.359,
+     "cap": "**Mei:** Whoa. Rescuer, or new jailer? That's proper **tyrant** behaviour.",
+     "who": "mei"
+    },
+    {
+     "id": "debate",
+     "start": 302.929,
+     "end": 312.935,
+     "cap": "**Mr H:** That's the top-band debate. Is Prospero a **wise father-ruler** guiding everyone home, or a **controlling tyrant** who rules by fear? Argue **both**.",
+     "who": "mrh"
+    },
+    {
+     "id": "two",
+     "start": 313.605,
+     "end": 319.727,
+     "cap": "**Mei:** Two stars so far, Prospero. Threatening employees with oak trees is an H R violation.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "caliban",
+   "title": "Caliban: monster or rightful heir?",
+   "short": "Caliban",
+   "card": true,
+   "start": 321.107,
+   "end": 417.057,
+   "lines": [
+    {
+     "id": "turn",
+     "start": 322.907,
+     "end": 328.966,
+     "cap": "**Caliban:** My turn to talk to the camera. Before his boat arrived, my mother **Sycorax** left this island to ME.",
+     "who": "caliban"
+    },
+    {
+     "id": "mine",
+     "start": 329.566,
+     "end": 334.537,
+     "cap": "**Caliban:** 'This island's mine, by Sycorax my mother, / Which thou tak'st from me.'",
+     "who": "caliban"
+    },
+    {
+     "id": "mono",
+     "start": 335.177,
+     "end": 342.43,
+     "cap": "**Mr H:** Blunt **monosyllables**: 'This island's mine'. And present-tense '**tak'st**' shows he feels the theft is still happening.",
+     "who": "mrh"
+    },
+    {
+     "id": "sty",
+     "start": 343.0,
+     "end": 349.997,
+     "cap": "**Caliban:** At first he gave me water with berries in it. I showed him every spring! Now? 'Here you **sty** me / In this hard rock.'",
+     "who": "caliban"
+    },
+    {
+     "id": "pig",
+     "start": 350.617,
+     "end": 359.193,
+     "cap": "**Nib:** Zoom in on that verb: '**sty**'. A sty is a pig pen. It shows Prospero pens him up and degrades him like an animal.",
+     "who": "nib"
+    },
+    {
+     "id": "curse",
+     "start": 359.793,
+     "end": 364.145,
+     "cap": "**Caliban:** 'You taught me language; and my profit on't / Is, I know how to curse.'",
+     "who": "caliban"
+    },
+    {
+     "id": "profit",
+     "start": 364.785,
+     "end": 371.484,
+     "cap": "**Mei:** Ooh, '**profit**' is bitter **irony**! They call language a civilising gift, and he turns their own words into a weapon.",
+     "who": "mei"
+    },
+    {
+     "id": "other",
+     "start": 372.084,
+     "end": 381.257,
+     "cap": "**Mr H:** Now weigh the other side. Prospero says he lodged Caliban in his cell until Caliban tried to attack Miranda — which Caliban doesn't deny.",
+     "who": "mrh"
+    },
+    {
+     "id": "nurture",
+     "start": 381.857,
+     "end": 386.252,
+     "cap": "**Prospero:** 'A devil, a born devil, on whose nature / Nurture can never stick.'",
+     "who": "prospero"
+    },
+    {
+     "id": "noises",
+     "start": 386.852,
+     "end": 394.383,
+     "cap": "**Will:** Yet in **Act 3 Scene 2**, right in the middle of a drunken murder plot, listen to who gets the play's loveliest **blank verse**:",
+     "who": "will"
+    },
+    {
+     "id": "afeard",
+     "start": 394.953,
+     "end": 401.417,
+     "cap": "**Caliban:** 'Be not afeard; the isle is full of noises, / Sounds and sweet airs, that give delight and hurt not.'",
+     "who": "caliban"
+    },
+    {
+     "id": "sibilance",
+     "start": 402.087,
+     "end": 411.58,
+     "cap": "**Nib:** Soft **sibilance** in '**Sounds and sweet airs**'. Stephano answers in greedy **prose**, while the 'monster' hears music and cries to dream again.",
+     "who": "nib"
+    },
+    {
+     "id": "three",
+     "start": 412.2,
+     "end": 415.677,
+     "cap": "**Mei:** Three stars! One whole star just for Caliban's poetry.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "mercy",
+   "title": "Dreams, mercy and the PEEL ladder",
+   "short": "Mercy & PEEL",
+   "card": true,
+   "start": 417.057,
+   "end": 524.347,
+   "lines": [
+    {
+     "id": "masque",
+     "start": 418.857,
+     "end": 426.729,
+     "cap": "**Narrator:** Act 4. Prospero stages a glittering wedding **masque** of spirits for Miranda and Ferdinand — then remembers Caliban's plot and snaps it off.",
+     "who": "narr"
+    },
+    {
+     "id": "stuff",
+     "start": 427.329,
+     "end": 432.748,
+     "cap": "**Prospero:** 'We are such stuff / As dreams are made on, and our little life / Is rounded with a sleep.'",
+     "who": "prospero"
+    },
+    {
+     "id": "globe",
+     "start": 433.418,
+     "end": 441.055,
+     "cap": "**Will:** And when he says '**the great globe itself**' shall dissolve, that's a **pun** on the Earth AND my **Globe Theatre**. Magic as **metatheatre**!",
+     "who": "will"
+    },
+    {
+     "id": "tender",
+     "start": 441.655,
+     "end": 449.698,
+     "cap": "**Ariel:** By **Act 5**, all his enemies are trapped. I tell him: if you saw them weeping, your feelings would grow tender. '**Mine would, sir, were I human.**'",
+     "who": "ariel"
+    },
+    {
+     "id": "rarer",
+     "start": 450.318,
+     "end": 455.417,
+     "cap": "**Prospero:** The spirit taught the man pity. 'The rarer action is / In virtue than in vengeance.'",
+     "who": "prospero"
+    },
+    {
+     "id": "abjure",
+     "start": 456.037,
+     "end": 460.965,
+     "cap": "**Prospero:** 'But this rough magic / I here abjure'... I'll break my staff, and drown my book.",
+     "who": "prospero"
+    },
+    {
+     "id": "edge",
+     "start": 461.585,
+     "end": 469.734,
+     "cap": "**Mr H:** Notice the ending isn't tidy. Alonso repents, but **Antonio says nothing**. And when Miranda sees those courtiers—",
+     "who": "mrh"
+    },
+    {
+     "id": "brave",
+     "start": 470.274,
+     "end": 473.047,
+     "cap": "**Miranda:** 'O brave new world, / That has such people in't!'",
+     "who": "miranda"
+    },
+    {
+     "id": "newtothee",
+     "start": 473.647,
+     "end": 482.778,
+     "cap": "**Nib:** '**Brave**' means splendid. Prospero replies drily, '**'Tis new to thee**' — sharp **dramatic irony**, since we know Antonio is a traitor.",
+     "who": "nib"
+    },
+    {
+     "id": "epilogue",
+     "start": 483.378,
+     "end": 490.546,
+     "cap": "**Prospero:** In the **Epilogue**, my magic is gone. In short **rhyming couplets**, I beg **the audience** to clap: 'Let your indulgence set me free.'",
+     "who": "prospero"
+    },
+    {
+     "id": "peelP",
+     "start": 491.166,
+     "end": 499.337,
+     "cap": "**Mei:** Right, Mr H — PEEL check on Caliban! **Point**: Shakespeare presents Caliban as degraded yet sympathetic, not a simple monster.",
+     "who": "mei"
+    },
+    {
+     "id": "peelE",
+     "start": 499.877,
+     "end": 507.045,
+     "cap": "**Mei:** **Evidence** and **Explain**: complaining 'here you **sty** me', the verb '**sty**' reduces a human islander to a pig in a pen.",
+     "who": "mei"
+    },
+    {
+     "id": "peelL",
+     "start": 507.585,
+     "end": 515.03,
+     "cap": "**Mei:** **Link**: this invites a **colonial** reading of stolen land — **however**, his plot against Prospero keeps our judgement balanced.",
+     "who": "mei"
+    },
+    {
+     "id": "evidence",
+     "start": 515.63,
+     "end": 522.947,
+     "cap": "**Mr H:** Embedded quote, single-word zoom, context AND an alternative view. I need a sit-down and Mug Nine.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 524.347,
+   "end": 599.684,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 526.147,
+     "end": 531.737,
+     "cap": "**Narrator:** Before Prospero drowns his book in the school pond, here are your memory hooks and six exam traps.",
+     "who": "narr"
+    },
+    {
+     "id": "hooks",
+     "start": 532.337,
+     "end": 540.315,
+     "cap": "**Mei:** Acts 1 to 5: **Storm, Schemes, Spells, Show, Set free**. Foils: **AIR-iel** and **CLAY-iban**. Royals: **S A G A, F**.",
+     "who": "mei"
+    },
+    {
+     "id": "t1",
+     "start": 540.935,
+     "end": 545.287,
+     "cap": "**Ariel:** One! Nobody drowns in Act 1! The storm is an **illusion**: '**Not a hair perish'd**'.",
+     "who": "ariel"
+    },
+    {
+     "id": "t2",
+     "start": 545.887,
+     "end": 552.138,
+     "cap": "**Miranda:** Two! '**O brave new world**' is spoken by **Miranda**, not Ferdinand — and '**brave**' means **splendid**, not courageous!",
+     "who": "miranda"
+    },
+    {
+     "id": "t3",
+     "start": 552.738,
+     "end": 558.754,
+     "cap": "**Caliban:** Three! Don't call me 'just a monster', and don't make me an angel. Weigh **both** sides: **victim AND villain**.",
+     "who": "caliban"
+    },
+    {
+     "id": "t4",
+     "start": 559.354,
+     "end": 567.375,
+     "cap": "**Mr H:** Four! Don't state 'Prospero IS Shakespeare retiring' as a fact. Present it as an **interpretation**: '**some critics argue**'.",
+     "who": "mrh"
+    },
+    {
+     "id": "t5",
+     "start": 567.975,
+     "end": 574.866,
+     "cap": "**Nib:** Five! Write '**the audience**', darling, never 'the reader'. And don't forget **Antonio stays silent** at the end!",
+     "who": "nib"
+    },
+    {
+     "id": "t6",
+     "start": 575.466,
+     "end": 581.503,
+     "cap": "**Kevin:** Six! Don't drop four-line quote boulders! **Embed** two or three words, and **zoom in** on one word, like '**sty**'!",
+     "who": "kevin"
+    },
+    {
+     "id": "review",
+     "start": 582.173,
+     "end": 591.944,
+     "cap": "**Mei:** Final rating for The Tempest: **four stars**. Great magic, top-tier Caliban speeches, minus one star because Antonio never even apologised.",
+     "who": "mei"
+    },
+    {
+     "id": "off",
+     "start": 592.614,
+     "end": 594.79,
+     "cap": "**Ariel:** Prospero! Episode's over! My liberty?",
+     "who": "ariel"
+    },
+    {
+     "id": "free",
+     "start": 595.36,
+     "end": 597.984,
+     "cap": "**Prospero:** Fine. To the canteen, spirit: be free!",
+     "who": "prospero"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 599.684,
+   "end": 686.815,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 601.484,
+     "end": 605.623,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 606.243,
+     "end": 611.213,
+     "cap": "**Mr H:** Which real **1609 shipwreck** off **Bermuda** helped inspire The Tempest?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 615.533,
+     "end": 618.691,
+     "cap": "**Ariel:** The **Sea Venture**, sailing to Jamestown — everyone survived!",
+     "who": "ariel"
+    },
+    {
+     "id": "q2",
+     "start": 619.011,
+     "end": 623.896,
+     "cap": "**Mr H:** In 'here you **sty** me / In this hard rock', what does the verb '**sty**' suggest?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 628.216,
+     "end": 632.995,
+     "cap": "**Caliban:** That Prospero pens me up like a **pig in a sty** — treated like an animal.",
+     "who": "caliban"
+    },
+    {
+     "id": "q3",
+     "start": 633.315,
+     "end": 638.819,
+     "cap": "**Mr H:** What two-word **short line** does Ariel speak to demand freedom in **Act 1 Scene 2**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 643.139,
+     "end": 643.949,
+     "cap": "**Ariel:** '**My liberty.**'",
+     "who": "ariel"
+    },
+    {
+     "id": "q4",
+     "start": 644.269,
+     "end": 649.581,
+     "cap": "**Mr H:** Who cries 'O **brave new world**, / That has such people in't!', and what does '**brave**' mean?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 653.901,
+     "end": 658.36,
+     "cap": "**Miranda:** **Miranda**! And '**brave**' means **splendid** or fine — creating dramatic irony.",
+     "who": "miranda"
+    },
+    {
+     "id": "q5",
+     "start": 658.68,
+     "end": 665.443,
+     "cap": "**Mr H:** Complete Prospero's moral turning point in **Act 5**: 'The rarer action is / In **virtue** than in...'",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 669.763,
+     "end": 672.6,
+     "cap": "**Prospero:** '...in **vengeance**.' Choosing **mercy** over revenge.",
+     "who": "prospero"
+    },
+    {
+     "id": "outro",
+     "start": 672.92,
+     "end": 677.272,
+     "cap": "**Mr H:** Brilliant work. Now try **The Tempest** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "puff",
+     "start": 677.992,
+     "end": 681.043,
+     "cap": "**Ariel:** I am free! Free to fly! Free to try a canteen curry puff!",
+     "who": "ariel"
+    },
+    {
+     "id": "share",
+     "start": 681.663,
+     "end": 684.415,
+     "cap": "**Mei:** Hey — freedom does NOT include my curry puff.",
+     "who": "mei"
+    }
+   ]
+  }
+ ],
+ "total": 686.815
+}

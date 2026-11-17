@@ -1,0 +1,710 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 61.659,
+   "lines": [
+    {
+     "id": "term3",
+     "start": 0.6,
+     "end": 6.381,
+     "cap": "**Narrator:** Term 3. Room 8H. Mr Hargreaves is on mug number sixteen, and carrying a very thick book.",
+     "who": "narr"
+    },
+    {
+     "id": "novel",
+     "start": 6.951,
+     "end": 9.661,
+     "cap": "**Mr H:** Right, 8H. This term: **the novel**.",
+     "who": "mrh"
+    },
+    {
+     "id": "outrage",
+     "start": 10.281,
+     "end": 15.806,
+     "cap": "**Will:** A **NOVEL**?! Three hundred pages of **PROSE**?! Where are the **iambs**?! Where are the swords?!",
+     "who": "will"
+    },
+    {
+     "id": "shady",
+     "start": 16.476,
+     "end": 23.217,
+     "cap": "**Shady:** Relax, folks. I was there. Nobody panicked, Mr H wept with joy, and I saved everyone from a tiger.",
+     "who": "shady"
+    },
+    {
+     "id": "mei",
+     "start": 23.857,
+     "end": 29.745,
+     "cap": "**Mei:** Excuse me, trenchcoat guy — Mr H is drinking tea, and that's a ceiling fan, not a tiger.",
+     "who": "mei"
+    },
+    {
+     "id": "omni",
+     "start": 30.345,
+     "end": 38.836,
+     "cap": "**Omni:** Lady Omni, **omniscient narrator**. Through my binoculars I see Shady is lying, Mei wants a curry puff, and Will secretly envies Charles Dickens.",
+     "who": "omni"
+    },
+    {
+     "id": "deny",
+     "start": 39.506,
+     "end": 43.965,
+     "cap": "**Will:** Get out of my thought bubble, madam! I do NOT envy his book sales!",
+     "who": "will"
+    },
+    {
+     "id": "nib",
+     "start": 44.565,
+     "end": 51.434,
+     "cap": "**Nib:** Remember: a novel is **constructed** prose fiction! Name the writer, and ask **WHAT, HOW, and WHY**.",
+     "who": "nib"
+    },
+    {
+     "id": "rev",
+     "start": 52.034,
+     "end": 55.362,
+     "cap": "**Mei:** Three hundred pages and a lying detective: **one star**.",
+     "who": "mei"
+    },
+    {
+     "id": "title",
+     "start": 56.082,
+     "end": 59.559,
+     "cap": "**Narrator:** All the School's a Stage. Episode eleven: Unreliable.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "voice",
+   "title": "Who's holding the camera?",
+   "short": "Perspective",
+   "card": true,
+   "start": 61.659,
+   "end": 159.663,
+   "lines": [
+    {
+     "id": "lib",
+     "start": 63.459,
+     "end": 68.75,
+     "cap": "**Narrator:** Tuesday. The library. Shady and Omni are arguing over who gets to narrate Mei's homework.",
+     "who": "narr"
+    },
+    {
+     "id": "rule",
+     "start": 69.35,
+     "end": 77.969,
+     "cap": "**Mr H:** Rule one: the **narrator** is NOT the **author**. Charlotte Brontë created Jane Eyre's voice; she wasn't locked in the red-room herself.",
+     "who": "mrh"
+    },
+    {
+     "id": "first",
+     "start": 78.589,
+     "end": 87.079,
+     "cap": "**Nib:** **First person** uses '**I**'. Intimate access to one mind, like Pip or Jane — yet limited and potentially biased.",
+     "who": "nib"
+    },
+    {
+     "id": "second",
+     "start": 87.679,
+     "end": 93.909,
+     "cap": "**Mei:** **Second person** uses '**you**' — pointing the camera straight at the reader! Rare in whole novels, and slightly creepy.",
+     "who": "mei"
+    },
+    {
+     "id": "thirdl",
+     "start": 94.509,
+     "end": 103.149,
+     "cap": "**Mr H:** **Third person limited** uses 'he' or 'she', staying over **one** character's shoulder, like young Bruno in The Boy in the Striped Pyjamas.",
+     "who": "mrh"
+    },
+    {
+     "id": "thirdo",
+     "start": 103.769,
+     "end": 111.79,
+     "cap": "**Omni:** **Third person omniscient** sees **every** mind, past and future, and comments openly! Listen to Dickens: '**Marley was dead: to begin with.**'",
+     "who": "omni"
+    },
+    {
+     "id": "multi",
+     "start": 112.43,
+     "end": 120.238,
+     "cap": "**Nib:** Some novels even switch between **multiple narrators**, like Wonder or Noughts and Crosses, so we compare sides.",
+     "who": "nib"
+    },
+    {
+     "id": "unrel",
+     "start": 120.838,
+     "end": 127.793,
+     "cap": "**Shady:** Or pick me: an **unreliable narrator**! Maybe I'm **naïve**, **biased**, **deceptive**, or **remembering from long ago**!",
+     "who": "shady"
+    },
+    {
+     "id": "irony",
+     "start": 128.413,
+     "end": 134.279,
+     "cap": "**Mei:** Wait — when a naïve narrator misses the danger, **we** see what they don't! That's **dramatic irony**!",
+     "who": "mei"
+    },
+    {
+     "id": "pip",
+     "start": 134.879,
+     "end": 142.73,
+     "cap": "**Will:** Hark at Dickens's Great Expectations: 'the **small bundle of shivers** growing afraid of it all and beginning to cry, **was Pip**.'",
+     "who": "will"
+    },
+    {
+     "id": "retro",
+     "start": 143.37,
+     "end": 152.245,
+     "cap": "**Nib:** A frightened boy wouldn't say 'bundle of shivers'! That's a **retrospective narrator**: child's terror in the adult Pip's wry words.",
+     "who": "nib"
+    },
+    {
+     "id": "hide",
+     "start": 152.865,
+     "end": 158.283,
+     "cap": "**Mr H:** Always explain both sides of perspective: what it **lets us feel**, and what it **hides**.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "steal",
+   "title": "Building people out of words",
+   "short": "Characterisation",
+   "card": true,
+   "start": 159.663,
+   "end": 255.295,
+   "lines": [
+    {
+     "id": "wed",
+     "start": 161.463,
+     "end": 166.221,
+     "cap": "**Narrator:** Wednesday. Mr Hargreaves writes five letters on the whiteboard: S, T, E, A, L.",
+     "who": "narr"
+    },
+    {
+     "id": "direct",
+     "start": 166.821,
+     "end": 176.293,
+     "cap": "**Mr H:** **Direct characterisation** tells us outright. In The Secret Garden: 'the **most disagreeable-looking child** ever seen. It was true, too.'",
+     "who": "mrh"
+    },
+    {
+     "id": "indirect",
+     "start": 176.913,
+     "end": 185.169,
+     "cap": "**Nib:** **Indirect characterisation** **shows** us through **STEAL**: **Speech, Thoughts, Effect on others, Actions, and Looks**.",
+     "who": "nib"
+    },
+    {
+     "id": "hyde",
+     "start": 185.789,
+     "end": 193.149,
+     "cap": "**Shady:** In Jekyll and Hyde, I barely bumped that kid — 'the man **trampled calmly** over the child's body.' Calmly! See? Polite!",
+     "who": "shady"
+    },
+    {
+     "id": "horror",
+     "start": 193.769,
+     "end": 200.51,
+     "cap": "**Mei:** 'Trampled **calmly**' is terrifying! The contrast between violence and zero emotion shows Hyde is inhuman!",
+     "who": "mei"
+    },
+    {
+     "id": "scrooge",
+     "start": 201.11,
+     "end": 209.153,
+     "cap": "**Will:** Listen to Dickens pile up verbs on Scrooge: 'a **squeezing, wrenching, grasping, scraping, clutching**, covetous, old sinner!'",
+     "who": "will"
+    },
+    {
+     "id": "oyster",
+     "start": 209.793,
+     "end": 216.833,
+     "cap": "**Omni:** And the simile: '**secret, and self-contained, and solitary as an oyster**.' Sibilant, hard shell — yet an oyster can hide a **pearl**!",
+     "who": "omni"
+    },
+    {
+     "id": "foil",
+     "start": 217.473,
+     "end": 227.777,
+     "cap": "**Nib:** Writers also pair a protagonist with a **foil character** — warm, cheerful Fred or Fezziwig makes Scrooge's icy greed look even sharper!",
+     "who": "nib"
+    },
+    {
+     "id": "arc",
+     "start": 228.397,
+     "end": 237.762,
+     "cap": "**Mr H:** A **dynamic** character changes across a **character arc** — **starting point**, **catalyst**, **end point** — whereas a **static** character stays the same.",
+     "who": "mrh"
+    },
+    {
+     "id": "round",
+     "start": 238.362,
+     "end": 246.447,
+     "cap": "**Nib:** And E. M. Forster separated one-note **flat** characters from complex **round** ones capable of surprising us!",
+     "who": "nib"
+    },
+    {
+     "id": "end",
+     "start": 247.047,
+     "end": 253.895,
+     "cap": "**Mei:** Three spirits crack Scrooge's shell until he's '**as good a friend, as good a master, and as good a man**'! Two stars!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "setting",
+   "title": "Weather with an attitude",
+   "short": "Setting & mood",
+   "card": true,
+   "start": 255.295,
+   "end": 329.076,
+   "lines": [
+    {
+     "id": "rain",
+     "start": 257.095,
+     "end": 261.063,
+     "cap": "**Narrator:** Four p.m. Queenstown. Rain hammers the windows on schedule.",
+     "who": "narr"
+    },
+    {
+     "id": "set",
+     "start": 261.633,
+     "end": 267.564,
+     "cap": "**Mr H:** **Setting** is place, time and social world. **Atmosphere** is the mood it creates for the reader.",
+     "who": "mrh"
+    },
+    {
+     "id": "red",
+     "start": 268.164,
+     "end": 275.247,
+     "cap": "**Omni:** Look inside Jane Eyre's **red-room**: 'deep red damask', 'crimson cloth', a bed 'like a **tabernacle**', a chair 'like a **pale throne**'.",
+     "who": "omni"
+    },
+    {
+     "id": "judge",
+     "start": 275.887,
+     "end": 282.841,
+     "cap": "**Mei:** Red connotes **anger**, **blood**, and **danger** — and 'throne' makes the furniture sit in judgement on ten-year-old Jane!",
+     "who": "mei"
+    },
+    {
+     "id": "pf",
+     "start": 283.461,
+     "end": 292.165,
+     "cap": "**Nib:** When weather or nature mirrors human emotion — mournful rain for grief, howling wind for turmoil — that is **pathetic fallacy**.",
+     "who": "nib"
+    },
+    {
+     "id": "trap",
+     "start": 292.785,
+     "end": 300.06,
+     "cap": "**Mr H:** Careful: when Dickens says 'No wind that blew was bitterer than' Scrooge, that's a **comparison**, not pathetic fallacy.",
+     "who": "mrh"
+    },
+    {
+     "id": "marshes",
+     "start": 300.66,
+     "end": 308.447,
+     "cap": "**Will:** Whereas Pip's 'bleak place overgrown with nettles' and 'dark flat wilderness' make the marshes threaten him before anyone speaks!",
+     "who": "will"
+    },
+    {
+     "id": "door",
+     "start": 309.067,
+     "end": 315.573,
+     "cap": "**Shady:** And in Jekyll and Hyde, my back door sits in 'a **blind forehead** of discoloured wall'! Totally welcoming, right?",
+     "who": "shady"
+    },
+    {
+     "id": "sec",
+     "start": 316.173,
+     "end": 321.933,
+     "cap": "**Omni:** Personifying a wall as '**blind**' turns the setting into a symbol of Victorian secrecy and hypocrisy.",
+     "who": "omni"
+    },
+    {
+     "id": "link",
+     "start": 322.533,
+     "end": 327.696,
+     "cap": "**Mei:** So never just write 'the room is scary' — link setting to **character**, **tension**, or **symbolism**!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "plot",
+   "title": "Every rocket climbs, falls, returns",
+   "short": "Plot & structure",
+   "card": true,
+   "start": 329.076,
+   "end": 413.613,
+   "lines": [
+    {
+     "id": "hall",
+     "start": 330.876,
+     "end": 335.505,
+     "cap": "**Narrator:** Thursday. The school hall. Will has discovered cliffhangers and refuses to come down.",
+     "who": "narr"
+    },
+    {
+     "id": "pvs",
+     "start": 336.105,
+     "end": 343.465,
+     "cap": "**Mr H:** **Plot** is what happens. **Structure** is how the writer arranges it: order, **pacing**, shifts and chapter endings.",
+     "who": "mrh"
+    },
+    {
+     "id": "frey",
+     "start": 344.065,
+     "end": 355.415,
+     "cap": "**Nib:** **Freytag's pyramid** maps five stages — **Every Rocket Climbs, Falls, Returns**: **Exposition, Rising action, Climax, Falling action, Resolution**.",
+     "who": "nib"
+    },
+    {
+     "id": "climax",
+     "start": 356.055,
+     "end": 363.223,
+     "cap": "**Mei:** Wait — the **climax** isn't the very last page! Tension peaks first, then drops into falling action and **dénouement**!",
+     "who": "mei"
+    },
+    {
+     "id": "tools",
+     "start": 363.843,
+     "end": 370.883,
+     "cap": "**Omni:** Writers bend time too: **in medias res** drops us mid-action; **flashbacks** jump back; **foreshadowing** plants warnings!",
+     "who": "omni"
+    },
+    {
+     "id": "circ",
+     "start": 371.503,
+     "end": 379.609,
+     "cap": "**Nib:** And **circular structure** ends right where the novel began, like Of Mice and Men returning to the same river pool.",
+     "who": "nib"
+    },
+    {
+     "id": "serial",
+     "start": 380.209,
+     "end": 388.764,
+     "cap": "**Will:** Dickens published Great Expectations in **weekly instalments**! Every **cliffhanger** sold next week's magazine! Oh, I respect the hustle!",
+     "who": "will"
+    },
+    {
+     "id": "kev",
+     "start": 389.404,
+     "end": 396.785,
+     "cap": "**Kevin:** Watch **pacing** in Chapter 1! One giant reflective sentence with six of my commas lullabies you across the churchyard...",
+     "who": "kevin"
+    },
+    {
+     "id": "shout",
+     "start": 397.385,
+     "end": 403.273,
+     "cap": "**Shady:** '**Hold your noise!**' cried a terrible voice! Boom — short, violent imperative shatters the stillness!",
+     "who": "shady"
+    },
+    {
+     "id": "shift",
+     "start": 403.893,
+     "end": 412.213,
+     "cap": "**Mr H:** When analysing structure, track those shifts: **opens with**, **zooms in**, **interrupts**, **returns to** — and say **why**. Three stars!",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "themes",
+   "title": "Across the whole novel",
+   "short": "Themes & PEEL",
+   "card": true,
+   "start": 413.613,
+   "end": 496.717,
+   "lines": [
+    {
+     "id": "fri",
+     "start": 415.413,
+     "end": 419.253,
+     "cap": "**Narrator:** Friday. Room 8H. Essay day: writing about a **whole novel**.",
+     "who": "narr"
+    },
+    {
+     "id": "theme",
+     "start": 419.823,
+     "end": 428.975,
+     "cap": "**Mr H:** A one-word topic like 'loneliness' is just a **subject**. Phrase a **theme** as an **idea**: 'Burnett suggests being needed cures loneliness.'",
+     "who": "mrh"
+    },
+    {
+     "id": "motsym",
+     "start": 429.595,
+     "end": 440.241,
+     "cap": "**Nib:** A **motif** recurs across the novel, like cold and fire. A **symbol** is concrete standing for abstract, like the locked garden or Jekyll's 'blind' door.",
+     "who": "nib"
+    },
+    {
+     "id": "ctx",
+     "start": 440.881,
+     "end": 452.486,
+     "cap": "**Mr H:** Weave in **context** only when it sharpens **writer's purpose**: in the 1843 Hungry Forties, Scrooge's workhouse line exposes real Victorian cruelty.",
+     "who": "mrh"
+    },
+    {
+     "id": "ttt",
+     "start": 453.126,
+     "end": 459.505,
+     "cap": "**Omni:** And don't quote only Chapter 1! Use **Then, Turn, The End**: evidence from the **beginning, turning point, and end**!",
+     "who": "omni"
+    },
+    {
+     "id": "p",
+     "start": 460.125,
+     "end": 465.949,
+     "cap": "**Mei:** PEEL time! **Point**: Dickens presents Scrooge's greed as so extreme it physically freezes him.",
+     "who": "mei"
+    },
+    {
+     "id": "e",
+     "start": 466.489,
+     "end": 472.419,
+     "cap": "**Mei:** **Evidence**: 'The **cold within him** froze his old features, **nipped** his pointed nose, **shrivelled** his cheek.'",
+     "who": "mei"
+    },
+    {
+     "id": "ex",
+     "start": 473.019,
+     "end": 480.699,
+     "cap": "**Mei:** **Explain**: The **extended metaphor** of inner cold and harsh verbs 'nipped' and 'shrivelled' imply greed harms Scrooge himself.",
+     "who": "mei"
+    },
+    {
+     "id": "l",
+     "start": 481.299,
+     "end": 489.385,
+     "cap": "**Mei:** **Link**: Setting coldness up like weather prepares his Stave Five thaw, proving Dickens's message that anyone can choose generosity.",
+     "who": "mei"
+    },
+    {
+     "id": "sigh",
+     "start": 490.005,
+     "end": 495.317,
+     "cap": "**Mr H:** Named the writer, zoomed on two verbs, linked to the whole-novel arc. Splendid.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 496.717,
+   "end": 576.33,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 498.517,
+     "end": 502.57,
+     "cap": "**Narrator:** Before you close Chapter One, the department would like to save you some marks.",
+     "who": "narr"
+    },
+    {
+     "id": "h1",
+     "start": 503.17,
+     "end": 509.463,
+     "cap": "**Mei:** Memory hooks! **WHAT, HOW, WHY** on every extract; **STEAL** for indirect characterisation!",
+     "who": "mei"
+    },
+    {
+     "id": "h2",
+     "start": 510.063,
+     "end": 517.871,
+     "cap": "**Nib:** **Every Rocket Climbs, Falls, Returns** for Freytag's pyramid; **Then, Turn, The End** for whole-novel essays!",
+     "who": "nib"
+    },
+    {
+     "id": "t1",
+     "start": 518.491,
+     "end": 525.638,
+     "cap": "**Mr H:** One. Don't **retell the plot** or treat characters like real mates. Write '**Dickens presents**', '**Brontë suggests**'.",
+     "who": "mrh"
+    },
+    {
+     "id": "t2",
+     "start": 526.238,
+     "end": 532.041,
+     "cap": "**Shady:** Two. Never confuse the **narrator** with the **author** — and watch out for **unreliable** narrators like me!",
+     "who": "shady"
+    },
+    {
+     "id": "t3",
+     "start": 532.641,
+     "end": 538.102,
+     "cap": "**Omni:** Three. Don't assume third person is always all-knowing: check **third limited** versus **omniscient**!",
+     "who": "omni"
+    },
+    {
+     "id": "t4",
+     "start": 538.702,
+     "end": 544.121,
+     "cap": "**Kevin:** Four. Don't quote only Chapter 1 in a whole-novel essay! Track **beginning, middle, and end**!",
+     "who": "kevin"
+    },
+    {
+     "id": "t5",
+     "start": 544.721,
+     "end": 552.081,
+     "cap": "**Nib:** Five. State a **theme** as a full idea, not one word — and never bolt on random Victorian history!",
+     "who": "nib"
+    },
+    {
+     "id": "t6",
+     "start": 552.681,
+     "end": 559.657,
+     "cap": "**Will:** Six. Keep quotations **short and embedded**, like 'solitary as an oyster'. Even prose can turn a phrase.",
+     "who": "will"
+    },
+    {
+     "id": "rev",
+     "start": 560.297,
+     "end": 566.825,
+     "cap": "**Mei:** Reading the Novel: **four stars**! Cliffhangers are sneaky, and Scrooge's oyster shell actually made sense.",
+     "who": "mei"
+    },
+    {
+     "id": "prose",
+     "start": 567.445,
+     "end": 571.583,
+     "cap": "**Will:** Four stars for **prose**?! My plays don't even have chapters!",
+     "who": "will"
+    },
+    {
+     "id": "ham",
+     "start": 572.183,
+     "end": 574.53,
+     "cap": "**Mei:** Will, Hamlet is still four hours long.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 576.33,
+   "end": 663.377,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 578.13,
+     "end": 582.269,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 582.889,
+     "end": 588.947,
+     "cap": "**Mr H:** Which third-person perspective stays close to **one** character's thoughts rather than knowing everyone's?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 593.267,
+     "end": 596.851,
+     "cap": "**Omni:** **Third person limited** — also called close third person!",
+     "who": "omni"
+    },
+    {
+     "id": "q2",
+     "start": 597.171,
+     "end": 603.038,
+     "cap": "**Mr H:** What do the five letters of **STEAL** stand for in indirect characterisation?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 607.358,
+     "end": 610.537,
+     "cap": "**Mei:** **Speech, Thoughts, Effect on others, Actions, and Looks**.",
+     "who": "mei"
+    },
+    {
+     "id": "q3",
+     "start": 610.857,
+     "end": 615.614,
+     "cap": "**Mr H:** What technique uses **weather or nature** to mirror human emotion or mood?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 619.934,
+     "end": 621.534,
+     "cap": "**Nib:** **Pathetic fallacy**.",
+     "who": "nib"
+    },
+    {
+     "id": "q4",
+     "start": 621.854,
+     "end": 625.63,
+     "cap": "**Mr H:** Name the five stages of **Freytag's pyramid** in order.",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 629.95,
+     "end": 634.067,
+     "cap": "**Kevin:** **Exposition, Rising action, Climax, Falling action, and Resolution**!",
+     "who": "kevin"
+    },
+    {
+     "id": "q5",
+     "start": 634.387,
+     "end": 639.358,
+     "cap": "**Mr H:** In a whole-novel essay, from which **three parts** of the book should you choose quotations?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 643.678,
+     "end": 647.049,
+     "cap": "**Mr H:** The **beginning**, the **turning point** in the middle, and the **end**.",
+     "who": "mrh"
+    },
+    {
+     "id": "outro",
+     "start": 647.369,
+     "end": 652.211,
+     "cap": "**Mr H:** Brilliant work. Now try the **Reading the Novel** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "st1",
+     "start": 652.931,
+     "end": 656.003,
+     "cap": "**Shady:** True story: Mei gave me six stars and bought me lunch.",
+     "who": "shady"
+    },
+    {
+     "id": "st2",
+     "start": 656.603,
+     "end": 660.977,
+     "cap": "**Omni:** Binoculars confirm: she gave four stars and ate the curry puff herself.",
+     "who": "omni"
+    }
+   ]
+  }
+ ],
+ "total": 663.377
+}

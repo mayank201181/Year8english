@@ -1,0 +1,647 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 55.675,
+   "lines": [
+    {
+     "id": "hawk",
+     "start": 0.6,
+     "end": 7.853,
+     "cap": "**Narrator:** Queenstown hawker centre, Singapore. Seven p.m. UNESCO Intangible Cultural Heritage since **2020**.",
+     "who": "narr"
+    },
+    {
+     "id": "chope",
+     "start": 8.473,
+     "end": 13.167,
+     "cap": "**Mei:** Packet of tissues on the table: seat **choped**. Now watch a local order coffee.",
+     "who": "mei"
+    },
+    {
+     "id": "willtry",
+     "start": 13.767,
+     "end": 20.103,
+     "cap": "**Will:** Allow me! Ho, tapster! Pour forth thy darkest Arabian berry, unburdened by sweet cane!",
+     "who": "will"
+    },
+    {
+     "id": "blank",
+     "start": 20.773,
+     "end": 22.906,
+     "cap": "**Narrator:** The kopi uncle did not pour forth.",
+     "who": "narr"
+    },
+    {
+     "id": "meitry",
+     "start": 23.526,
+     "end": 25.723,
+     "cap": "**Mei:** Uncle, one **kopi-O kosong**, can?",
+     "who": "mei"
+    },
+    {
+     "id": "broken",
+     "start": 26.343,
+     "end": 32.402,
+     "cap": "**Nib:** No 'please'? Non-standard grammar? Darling, that is *broken* English!",
+     "who": "nib"
+    },
+    {
+     "id": "lexi",
+     "start": 33.022,
+     "end": 38.014,
+     "cap": "**Lexi:** Excuse me! That is **code-switching**, and it is **mended**, not broken! I am **Lexi** — **Mother Tongue**!",
+     "who": "lexi"
+    },
+    {
+     "id": "suit",
+     "start": 38.654,
+     "end": 44.499,
+     "cap": "**Suitcase:** And I'm **Suitcase**. Every sticker on me is a poem about **identity, migration, and belonging**.",
+     "who": "suitcase"
+    },
+    {
+     "id": "rev",
+     "start": 45.139,
+     "end": 48.958,
+     "cap": "**Mei:** Will's hawker skills: **one star**. Let's learn identity poetry.",
+     "who": "mei"
+    },
+    {
+     "id": "title",
+     "start": 49.728,
+     "end": 53.675,
+     "cap": "**Narrator:** All the School's a Stage. Episode eight: Home Is Where the Kopi Is.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "Identity, dialect & code-switching",
+   "short": "Tongues & dialect",
+   "card": true,
+   "start": 55.675,
+   "end": 134.503,
+   "lines": [
+    {
+     "id": "defs",
+     "start": 57.475,
+     "end": 67.971,
+     "cap": "**Mr H:** Three foundations. **Identity** is your sense of who you are; **culture** is a group's shared way of life; **heritage** is what earlier generations hand down.",
+     "who": "mrh"
+    },
+    {
+     "id": "place",
+     "start": 68.591,
+     "end": 74.137,
+     "cap": "**Mr H:** Scan any poem through **PLACE**: **P**lace, **L**anguage, **A**ncestors, **C**ommunity, **E**xpression.",
+     "who": "mrh"
+    },
+    {
+     "id": "switch",
+     "start": 74.737,
+     "end": 83.527,
+     "cap": "**Lexi:** You already **code-switch** every day: **Standard English** in Room 8H, **Singlish** at the hawker stall, family words at home! That's fluency, not confusion!",
+     "who": "lexi"
+    },
+    {
+     "id": "spell",
+     "start": 84.167,
+     "end": 92.679,
+     "cap": "**Nib:** And when **John Agard** writes Caribbean **Creole** phonetic spelling — 'Explain yuself' and 'wha yu mean' — he isn't misspelling!",
+     "who": "nib"
+    },
+    {
+     "id": "voice",
+     "start": 93.299,
+     "end": 99.699,
+     "cap": "**Lexi:** He forces the reader to hear his real accent, refusing to have his voice 'corrected' into Standard English!",
+     "who": "lexi"
+    },
+    {
+     "id": "bhatt",
+     "start": 100.319,
+     "end": 110.687,
+     "cap": "**Lexi:** In *Search For My Tongue*, **Sujata Bhatt** builds an **extended metaphor**: fearing her **mother tongue** will 'rot and die', she prints **Gujarati script** right on the page.",
+     "who": "lexi"
+    },
+    {
+     "id": "out",
+     "start": 111.327,
+     "end": 118.687,
+     "cap": "**Mei:** Wait — if an English-only reader can't read the Gujarati lines, *they* feel like the outsider for once!",
+     "who": "mei"
+    },
+    {
+     "id": "bloom",
+     "start": 119.307,
+     "end": 124.597,
+     "cap": "**Lexi:** Exactly! Then overnight, 'a stump of a shoot' regrows until 'it blossoms out of my mouth'!",
+     "who": "lexi"
+    },
+    {
+     "id": "mend",
+     "start": 125.217,
+     "end": 133.153,
+     "cap": "**Mei:** Just like *Hawker Centre, 7 p.m.*: 'This is not broken. / This is mended:' — stitched from Hokkien, Malay, Tamil, and English!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "heritage",
+   "title": "Heritage, symbolic objects & Ah Ma",
+   "short": "Heritage & roots",
+   "card": true,
+   "start": 134.503,
+   "end": 217.687,
+   "lines": [
+    {
+     "id": "flat",
+     "start": 136.303,
+     "end": 142.426,
+     "cap": "**Narrator:** Eight p.m. Mei's HDB flat in Queenstown. Mug count irrelevant; Ah Ma is making tea.",
+     "who": "narr"
+    },
+    {
+     "id": "sym",
+     "start": 143.026,
+     "end": 151.069,
+     "cap": "**Nib:** Heritage poems turn concrete **objects** — clothes, bangles, recipes — into **symbols** of an abstract past.",
+     "who": "nib"
+    },
+    {
+     "id": "alvi",
+     "start": 151.669,
+     "end": 162.229,
+     "cap": "**Lexi:** In *Presents from my Aunts in Pakistan*, **Moniza Alvi** admires a 'peacock-blue' outfit and 'candy-striped glass bangles', yet feels 'alien in the sitting-room'.",
+     "who": "lexi"
+    },
+    {
+     "id": "unres",
+     "start": 162.869,
+     "end": 170.037,
+     "cap": "**Mr H:** She ends 'of no fixed nationality'. Notice that: identity poems don't always end neatly resolved.",
+     "who": "mrh"
+    },
+    {
+     "id": "naidu",
+     "start": 170.637,
+     "end": 180.087,
+     "cap": "**Lexi:** Contrast **Sarojini Naidu's** *In the Bazaars of Hyderabad* from **1912**, under British rule: 'What do you sell, O ye merchants? / Richly your wares are displayed.'",
+     "who": "lexi"
+    },
+    {
+     "id": "cycle",
+     "start": 180.727,
+     "end": 190.669,
+     "cap": "**Nib:** Rich sensory lists celebrate Indian craft, moving from wedding crowns to 'the sleep of the dead' — a whole human life inside one market.",
+     "who": "nib"
+    },
+    {
+     "id": "ahma",
+     "start": 191.289,
+     "end": 194.403,
+     "cap": "**Ah Ma:** Mei! Come and taste the soup, tell me enough salt or not!",
+     "who": "ahma"
+    },
+    {
+     "id": "paati",
+     "start": 195.023,
+     "end": 205.306,
+     "cap": "**Mei:** Like *In Paati's Language*! Even when English and Tamil feel like 'two rivers running side by side', trying one clumsy sentence feels like putting on a grandmother's **bangle**!",
+     "who": "mei"
+    },
+    {
+     "id": "ahma2",
+     "start": 205.946,
+     "end": 210.447,
+     "cap": "**Ah Ma:** Your Hokkien still clumsy, Mei, but better than the noisy ghost in the hall.",
+     "who": "ahma"
+    },
+    {
+     "id": "bow",
+     "start": 211.067,
+     "end": 216.337,
+     "cap": "**Will:** She knows I'm here?! Extraordinary woman. **Two and a half stars**? Make it **three**!",
+     "who": "will"
+    }
+   ]
+  },
+  {
+   "id": "belonging",
+   "title": "Migration, place & two worlds",
+   "short": "Place & migration",
+   "card": true,
+   "start": 217.687,
+   "end": 293.397,
+   "lines": [
+    {
+     "id": "lib",
+     "start": 219.487,
+     "end": 223.028,
+     "cap": "**Narrator:** Thursday. The library. Suitcase is unpacking two worlds.",
+     "who": "narr"
+    },
+    {
+     "id": "disp",
+     "start": 223.598,
+     "end": 229.358,
+     "cap": "**Suitcase:** **Migration** poems live between **displacement** — feeling uprooted and out of place — and **belonging**.",
+     "who": "suitcase"
+    },
+    {
+     "id": "island",
+     "start": 229.958,
+     "end": 241.499,
+     "cap": "**Suitcase:** In **Grace Nichols's** *Island Man*, a Caribbean man in London wakes to 'the sound of the sea' on his 'emerald island' before traffic drags him to 'Another London day'.",
+     "who": "suitcase"
+    },
+    {
+     "id": "drift",
+     "start": 242.139,
+     "end": 251.462,
+     "cap": "**Nib:** Warm blue-green nature clashes with 'grey metallic' city noise, and unpunctuated lines drift across the page like waves.",
+     "who": "nib"
+    },
+    {
+     "id": "hurr",
+     "start": 252.062,
+     "end": 261.299,
+     "cap": "**Lexi:** Yet in *Hurricane Hits England*, a storm from home teaches the speaker that 'the earth is the earth is the earth' — belonging in both places!",
+     "who": "lexi"
+    },
+    {
+     "id": "laz",
+     "start": 261.919,
+     "end": 269.962,
+     "cap": "**Suitcase:** Now flip to the welcoming shore! **Emma Lazarus** wrote *The New Colossus* in **1883** for the Statue of Liberty's pedestal:",
+     "who": "suitcase"
+    },
+    {
+     "id": "give",
+     "start": 270.562,
+     "end": 275.831,
+     "cap": "**Lexi:** 'Mother of Exiles... Give me your tired, your poor, / Your huddled masses yearning to breathe free.'",
+     "who": "lexi"
+    },
+    {
+     "id": "tck",
+     "start": 276.471,
+     "end": 281.698,
+     "cap": "**Mei:** And what if you've moved countries three times, like half of Banyan Hill? A **third culture kid**!",
+     "who": "mei"
+    },
+    {
+     "id": "gapm",
+     "start": 282.298,
+     "end": 292.047,
+     "cap": "**Mei:** In *Where Are You From?*, the Singapore MRT says 'please mind the platform gap', and the speaker thinks: 'Maybe I am the gap' — where doors open **both ways**!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "masks",
+   "title": "Masks, form & zooming in",
+   "short": "Masks & zoom-in",
+   "card": true,
+   "start": 293.397,
+   "end": 403.468,
+   "lines": [
+    {
+     "id": "hall",
+     "start": 295.197,
+     "end": 299.08,
+     "cap": "**Narrator:** School hall. How poets answer **prejudice** through **form** and single words.",
+     "who": "narr"
+    },
+    {
+     "id": "dun",
+     "start": 299.65,
+     "end": 312.087,
+     "cap": "**Mr H:** **Paul Laurence Dunbar**, son of formerly enslaved parents, wrote *We Wear the Mask* in **1895**: 'We wear the mask that grins and lies' and 'With torn and bleeding hearts we smile.'",
+     "who": "mrh"
+    },
+    {
+     "id": "rond",
+     "start": 312.727,
+     "end": 323.714,
+     "cap": "**Nib:** Dunbar chooses a strict **rondeau**: only two rhyme sounds plus the returning **refrain** 'We wear the mask' — trapping the collective '**We**' just like the mask itself!",
+     "who": "nib"
+    },
+    {
+     "id": "agard",
+     "start": 324.354,
+     "end": 336.279,
+     "cap": "**Lexi:** Whereas **John Agard** uses **free verse**! In *Half-Caste*, he mocks the label with Picasso and Tchaikovsky's black-and-white keys, telling the listener to return with 'de whole of yu eye'!",
+     "who": "lexi"
+    },
+    {
+     "id": "hist",
+     "start": 336.919,
+     "end": 346.733,
+     "cap": "**Lexi:** And in *Checking Out Me History*, the refrain 'Dem tell me' exposes Eurocentric schooling before turning to pride: 'I carving out me identity'!",
+     "who": "lexi"
+    },
+    {
+     "id": "dick",
+     "start": 347.373,
+     "end": 357.143,
+     "cap": "**Kevin:** And look at **Emily Dickinson's** dashes in 'I'm Nobody! Who are you? / Are you – Nobody – too?'! Every dash is a **caesura** — a conspiratorial whisper with me!",
+     "who": "kevin"
+    },
+    {
+     "id": "tag",
+     "start": 357.783,
+     "end": 369.666,
+     "cap": "**Mr H:** In **1912**, **Rabindranath Tagore** — first non-European Nobel laureate in **1913** — built one prayer-sentence of **anaphora**, repeating 'Where...' seven times!",
+     "who": "mrh"
+    },
+    {
+     "id": "dcel",
+     "start": 370.286,
+     "end": 378.329,
+     "cap": "**Nib:** To zoom in on one word, use **D-C-E-L** — 'Dogs Chase Every Lizard': **Denotation, Connotations, Effect, Link**!",
+     "who": "nib"
+    },
+    {
+     "id": "hudd",
+     "start": 378.949,
+     "end": 389.594,
+     "cap": "**Suitcase:** Compare Lazarus writing '**huddled** masses' instead of 'crowded': *huddled* connotes cold, fear, and pressing together for warmth, building instant sympathy!",
+     "who": "suitcase"
+    },
+    {
+     "id": "walls",
+     "start": 390.214,
+     "end": 402.118,
+     "cap": "**Mei:** In Tagore's 'narrow domestic walls', *walls* denotes barriers, but **connotes** petty prejudices splitting humanity into 'fragments' before 'let my country awake'! **Four stars**!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "compare",
+   "title": "Comparing two poems & PEEL",
+   "short": "Comparing poems",
+   "card": true,
+   "start": 403.468,
+   "end": 483.43,
+   "lines": [
+    {
+     "id": "room",
+     "start": 405.268,
+     "end": 413.311,
+     "cap": "**Mr H:** Exam time: **comparing two poems**. Remember **Many Musicians Compose** — compare **Message**, **Methods**, and **Context**.",
+     "who": "mrh"
+    },
+    {
+     "id": "block",
+     "start": 413.931,
+     "end": 420.971,
+     "cap": "**Mr H:** Never write all about Poem A and then all about Poem B. That's a **block comparison**, and it drops marks.",
+     "who": "mrh"
+    },
+    {
+     "id": "integ",
+     "start": 421.571,
+     "end": 433.709,
+     "cap": "**Nib:** Write an **integrated comparison**! Put **both poems in every paragraph**, joined by **comparative connectives**: *similarly, both, whereas, in contrast*.",
+     "who": "nib"
+    },
+    {
+     "id": "venn",
+     "start": 434.329,
+     "end": 444.185,
+     "cap": "**Lexi:** Compare responses to prejudice: **while** Dunbar's speakers hide pain behind a collective '**we**' in a strict **rondeau**, Agard's speaker confronts '**yu**' directly in **free verse**!",
+     "who": "lexi"
+    },
+    {
+     "id": "p1",
+     "start": 444.825,
+     "end": 452.911,
+     "cap": "**Mei:** Now our **PEEL** ladder on Dunbar! **Point**: Dunbar shows prejudice forcing a whole community to hide suffering behind a false smile.",
+     "who": "mei"
+    },
+    {
+     "id": "p2",
+     "start": 453.491,
+     "end": 463.24,
+     "cap": "**Mei:** **Evidence** & **Explain**: the personified mask '**grins and lies**' over '**torn and bleeding hearts**'; 'grins' connotes a frozen, painful grimace rather than joy.",
+     "who": "mei"
+    },
+    {
+     "id": "p3",
+     "start": 463.86,
+     "end": 471.476,
+     "cap": "**Mei:** **Link**: speaking as '**we**' in 1890s America, the inescapable **refrain** turns the smile into collective survival armour.",
+     "who": "mei"
+    },
+    {
+     "id": "own",
+     "start": 472.096,
+     "end": 482.08,
+     "cap": "**Mr H:** And when you write **your own identity poem** or spoken analysis: signpost clearly, avoid **stereotypes**, and pick one concrete family detail.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 483.43,
+   "end": 554.874,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 485.23,
+     "end": 489.027,
+     "cap": "**Narrator:** Back at the hawker table. Six identity-poetry exam traps.",
+     "who": "narr"
+    },
+    {
+     "id": "mnem",
+     "start": 489.597,
+     "end": 496.445,
+     "cap": "**Mei:** Hooks! **PLACE** for themes; **D-C-E-L** — Dogs Chase Every Lizard; **Many Musicians Compose**; and **PEEL**!",
+     "who": "mei"
+    },
+    {
+     "id": "t1",
+     "start": 497.065,
+     "end": 502.783,
+     "cap": "**Lexi:** One. Never call **dialect** or **Creole spelling** 'bad grammar' — analyse why the poet chose that voice!",
+     "who": "lexi"
+    },
+    {
+     "id": "t2",
+     "start": 503.383,
+     "end": 509.868,
+     "cap": "**Nib:** Two. Don't bolt on biography! Use **context** only to explain a choice inside the poem.",
+     "who": "nib"
+    },
+    {
+     "id": "t3",
+     "start": 510.468,
+     "end": 514.82,
+     "cap": "**Kevin:** Three. Say '**the speaker**', not automatically 'the poet', and embed **short** quotations!",
+     "who": "kevin"
+    },
+    {
+     "id": "t4",
+     "start": 515.42,
+     "end": 525.639,
+     "cap": "**Mr H:** Four. Never write a block comparison: **integrate** both poems in every paragraph with *whereas* and *similarly*.",
+     "who": "mrh"
+    },
+    {
+     "id": "t5",
+     "start": 526.239,
+     "end": 532.468,
+     "cap": "**Suitcase:** Five. Watch the **ending**: some speakers claim pride, while others remain 'of no fixed nationality'.",
+     "who": "suitcase"
+    },
+    {
+     "id": "t6",
+     "start": 533.068,
+     "end": 541.537,
+     "cap": "**Will:** Six. Avoid sweeping cultural **stereotypes** — discuss *this* speaker and *this* concrete symbol!",
+     "who": "will"
+    },
+    {
+     "id": "rev",
+     "start": 542.157,
+     "end": 547.725,
+     "cap": "**Mei:** Identity & Culture Poetry: **four and a half stars**. Though Ah Ma's kopi gets five, lah.",
+     "who": "mei"
+    },
+    {
+     "id": "kopi",
+     "start": 548.395,
+     "end": 553.174,
+     "cap": "**Will:** Tapster! Might a ghost humbly request... one kopi-O kosong?",
+     "who": "will"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 554.874,
+   "end": 659.313,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 556.674,
+     "end": 560.813,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 561.433,
+     "end": 566.745,
+     "cap": "**Mr H:** What do we call moving between two languages or dialects depending on who we are talking to?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 571.065,
+     "end": 574.883,
+     "cap": "**Lexi:** **Code-switching** — a marker of fluency and belonging, not confusion!",
+     "who": "lexi"
+    },
+    {
+     "id": "q2",
+     "start": 575.203,
+     "end": 581.689,
+     "cap": "**Mr H:** Why does **Sujata Bhatt** print **Gujarati script** in the middle of *Search For My Tongue*?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 586.009,
+     "end": 591.513,
+     "cap": "**Mei:** To show her **mother tongue** alive on the page — and let an English-only reader feel like an **outsider**!",
+     "who": "mei"
+    },
+    {
+     "id": "q3",
+     "start": 591.833,
+     "end": 598.105,
+     "cap": "**Mr H:** In **Paul Laurence Dunbar's** *We Wear the Mask*, how does the **rondeau** form reinforce the meaning?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 602.425,
+     "end": 609.891,
+     "cap": "**Nib:** Its tight two-rhyme pattern and returning **refrain** trap the speakers, mirroring the mask they cannot remove.",
+     "who": "nib"
+    },
+    {
+     "id": "q4",
+     "start": 610.211,
+     "end": 615.865,
+     "cap": "**Mr H:** What do the four steps of **D-C-E-L** stand for when zooming in on one word?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 620.185,
+     "end": 624.43,
+     "cap": "**Kevin:** **Denotation, Connotations, Effect, and Link**! Dogs Chase Every Lizard!",
+     "who": "kevin"
+    },
+    {
+     "id": "q5",
+     "start": 624.75,
+     "end": 630.382,
+     "cap": "**Mr H:** When comparing two poems, why does an **integrated comparison** beat a block comparison?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 634.702,
+     "end": 644.302,
+     "cap": "**Suitcase:** Because every paragraph links **both poems** by **Message and Method** using connectives like *whereas* and *similarly*!",
+     "who": "suitcase"
+    },
+    {
+     "id": "outro",
+     "start": 644.622,
+     "end": 650.638,
+     "cap": "**Mr H:** Brilliant work. Now try the **Poems of Identity & Culture** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "st1",
+     "start": 651.358,
+     "end": 654.387,
+     "cap": "**Will:** Uncle! He understood me! I belong!",
+     "who": "will"
+    },
+    {
+     "id": "st2",
+     "start": 655.007,
+     "end": 657.013,
+     "cap": "**Mei:** You still owe him a dollar forty, Will.",
+     "who": "mei"
+    }
+   ]
+  }
+ ],
+ "total": 659.313
+}

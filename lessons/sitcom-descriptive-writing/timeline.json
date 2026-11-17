@@ -1,0 +1,717 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 63.602,
+   "lines": [
+    {
+     "id": "fourpm",
+     "start": 0.6,
+     "end": 6.531,
+     "cap": "**Narrator:** Four p.m. Room 8H. Outside, Singapore's daily monsoon has arrived right on schedule.",
+     "who": "narr"
+    },
+    {
+     "id": "mugs",
+     "start": 7.131,
+     "end": 11.376,
+     "cap": "**Narrator:** Mr Hargreaves has reached mug twenty-one. Mei has written one sentence.",
+     "who": "narr"
+    },
+    {
+     "id": "draft",
+     "start": 11.996,
+     "end": 16.817,
+     "cap": "**Mei:** 'It was a **dark and stormy** night, and the hawker centre was **very, very** busy and nice!!!'",
+     "who": "mei"
+    },
+    {
+     "id": "ink",
+     "start": 17.457,
+     "end": 24.625,
+     "cap": "**Nib:** Three exclamation marks and Edward Bulwer-Lytton's **1830** cliché! I have leaked through the desk!",
+     "who": "nib"
+    },
+    {
+     "id": "addie",
+     "start": 25.265,
+     "end": 31.644,
+     "cap": "**Addie:** Addie! Adjective enthusiast! Needs more adjectives! Make it a **big, loud, hot, crowded, amazing** hawker centre!",
+     "who": "adj"
+    },
+    {
+     "id": "cam",
+     "start": 32.284,
+     "end": 37.383,
+     "cap": "**Cam:** Cut, cut, CUT! Cam. Cinema zoom lens. I can't film 'busy' or 'nice'! What am I actually **looking** at?!",
+     "who": "cam"
+    },
+    {
+     "id": "will",
+     "start": 38.023,
+     "end": 46.641,
+     "cap": "**Will:** In **1599** I wrecked an entire ship on a bare wooden stage using nothing but **words**. Today Mei gives description **one star**.",
+     "who": "will"
+    },
+    {
+     "id": "hard",
+     "start": 47.311,
+     "end": 50.789,
+     "cap": "**Mei:** Because nothing **happens** in a description! You just stare at a picture!",
+     "who": "mei"
+    },
+    {
+     "id": "mrh",
+     "start": 51.389,
+     "end": 55.997,
+     "cap": "**Mr H:** Put the exclamation marks down, 8H. Let's step into the rain.",
+     "who": "mrh"
+    },
+    {
+     "id": "title",
+     "start": 56.717,
+     "end": 61.602,
+     "cap": "**Narrator:** All the School's a Stage. Episode fourteen: It Was a Dark and Stormy Period Three.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "show",
+   "title": "Show, don't tell — and use all five senses",
+   "short": "Show & senses",
+   "card": true,
+   "start": 63.602,
+   "end": 146.269,
+   "lines": [
+    {
+     "id": "street",
+     "start": 65.402,
+     "end": 68.517,
+     "cap": "**Narrator:** The hawker centre at dusk. Cam is framing the shot.",
+     "who": "narr"
+    },
+    {
+     "id": "tell",
+     "start": 69.117,
+     "end": 75.346,
+     "cap": "**Mr H:** **Telling** names a quality or feeling directly: 'The hawker centre was busy. Mei was nervous.'",
+     "who": "mrh"
+    },
+    {
+     "id": "show",
+     "start": 75.946,
+     "end": 80.746,
+     "cap": "**Cam:** **Showing** gives the camera and microphone **evidence** so the reader infers the feeling themselves!",
+     "who": "cam"
+    },
+    {
+     "id": "stools",
+     "start": 81.366,
+     "end": 86.593,
+     "cap": "**Mei:** Like: 'Every plastic stool was taken, and the chicken-rice queue coiled past the drinks stall'?",
+     "who": "mei"
+    },
+    {
+     "id": "coins",
+     "start": 87.213,
+     "end": 94.487,
+     "cap": "**Mr H:** Spot on. Don't write 'the old man was poor'. Write: 'he counted his coins twice, then put the smallest one back.'",
+     "who": "mrh"
+    },
+    {
+     "id": "plain",
+     "start": 95.127,
+     "end": 102.999,
+     "cap": "**Nib:** Once you've **shown** the evidence, one short plain statement afterwards — 'It was the loudest place on earth' — lands hard.",
+     "who": "nib"
+    },
+    {
+     "id": "senses",
+     "start": 103.619,
+     "end": 109.507,
+     "cap": "**Cam:** Now switch on **all five senses**! Remember: **S**ome **H**ungry **S**harks **T**aste **T**oes — Sight, Hearing, Smell, Taste, Touch.",
+     "who": "cam"
+    },
+    {
+     "id": "check",
+     "start": 110.147,
+     "end": 114.307,
+     "cap": "**Mei:** Got it! 'I could see smoke. I could hear a wok. I could smell garlic—'",
+     "who": "mei"
+    },
+    {
+     "id": "cut",
+     "start": 114.877,
+     "end": 121.192,
+     "cap": "**Nib:** Stop! '**I could see, I could hear**' turns your paragraph into a shopping list and shoves **you** in the way!",
+     "who": "nib"
+    },
+    {
+     "id": "onom",
+     "start": 121.832,
+     "end": 130.216,
+     "cap": "**Mr H:** Cut 'I could hear' and let **onomatopoeia** strike directly: the bright **clang** of the wok; bean sprouts **hissing** in hot oil.",
+     "who": "mrh"
+    },
+    {
+     "id": "smell",
+     "start": 130.836,
+     "end": 136.788,
+     "cap": "**Will:** **Smell** goes straight to memory: charcoal smoke, wet earth after rain, kaya toast at dawn.",
+     "who": "will"
+    },
+    {
+     "id": "syn",
+     "start": 137.388,
+     "end": 144.919,
+     "cap": "**Nib:** And for top marks, try **synaesthesia** — blending two senses: jasmine so fragrant '**the air tastes sweet**'.",
+     "who": "nib"
+    }
+   ]
+  },
+  {
+   "id": "imagery",
+   "title": "Fresh imagery and pathetic fallacy",
+   "short": "Fresh imagery",
+   "card": true,
+   "start": 146.269,
+   "end": 229.089,
+   "lines": [
+    {
+     "id": "ice",
+     "start": 148.069,
+     "end": 153.509,
+     "cap": "**Addie:** Ooh, metaphor time! 'The rain fell like cats and dogs, and the MRT was as **cold as ice**!'",
+     "who": "adj"
+    },
+    {
+     "id": "cliche",
+     "start": 154.129,
+     "end": 162.022,
+     "cap": "**Nib:** **Clichés**, darling! Dead comparisons examiners have read ten thousand times! Reject your first idea.",
+     "who": "nib"
+    },
+    {
+     "id": "ladder",
+     "start": 162.642,
+     "end": 171.261,
+     "cap": "**Mr H:** Climb the **cliché ladder** using the world of your scene: not 'cold as ice', but '**cold as the MRT air-con at seven a.m.**'",
+     "who": "mrh"
+    },
+    {
+     "id": "rods",
+     "start": 171.901,
+     "end": 179.218,
+     "cap": "**Mei:** And tropical rain isn't 'cats and dogs' — it falls in '**straight silver rods**', or dusk turns the colour of **teh tarik**!",
+     "who": "mei"
+    },
+    {
+     "id": "pers",
+     "start": 179.838,
+     "end": 185.065,
+     "cap": "**Cam:** Use **personification**: 'At Raffles Place the doors **sighed** open, and the carriage **breathed out** a crowd.'",
+     "who": "cam"
+    },
+    {
+     "id": "pf",
+     "start": 185.685,
+     "end": 194.047,
+     "cap": "**Nib:** When weather or setting mirrors human emotion, call it **pathetic fallacy** — coined by **John Ruskin** in **1856**.",
+     "who": "nib"
+    },
+    {
+     "id": "pathos",
+     "start": 194.667,
+     "end": 197.227,
+     "cap": "**Mei:** Wait — doesn't 'pathetic' mean sad and useless?",
+     "who": "mei"
+    },
+    {
+     "id": "greek",
+     "start": 197.797,
+     "end": 205.563,
+     "cap": "**Nib:** Greek **pathos**, meaning **feeling**! Sunshine at a joyful wedding is pathetic fallacy too, not only storms.",
+     "who": "nib"
+    },
+    {
+     "id": "miranda",
+     "start": 206.183,
+     "end": 213.372,
+     "cap": "**Will:** Hear Miranda's storm in **The Tempest**: 'the sea, mounting to th' welkin's cheek, / Dashes the fire out.'",
+     "who": "will"
+    },
+    {
+     "id": "purple",
+     "start": 214.012,
+     "end": 222.204,
+     "cap": "**Mr H:** One warning: don't cram five similes into one sentence. **Purple prose** Tangled in mixed metaphors blurs the picture.",
+     "who": "mrh"
+    },
+    {
+     "id": "two",
+     "start": 222.824,
+     "end": 227.709,
+     "cap": "**Mei:** Two stars. Mainly because 'the carriage breathed out a crowd' is painfully accurate.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "verbs",
+   "title": "Sack the adjectives, hire a verb",
+   "short": "Precise verbs",
+   "card": true,
+   "start": 229.089,
+   "end": 304.25,
+   "lines": [
+    {
+     "id": "pile",
+     "start": 230.889,
+     "end": 236.82,
+     "cap": "**Addie:** Look at my masterpiece! 'The **very big, dark, old, scary, creepy** shophouse!' Five adjectives! Beat that!",
+     "who": "adj"
+    },
+    {
+     "id": "dilute",
+     "start": 237.46,
+     "end": 243.967,
+     "cap": "**Mr H:** That's an **adjective pile**, Addie. Each vague adjective dilutes the last, and most of them are tells.",
+     "who": "mrh"
+    },
+    {
+     "id": "work",
+     "start": 244.587,
+     "end": 250.027,
+     "cap": "**Nib:** In strong description, **precise nouns** and **vivid verbs** do the heavy lifting.",
+     "who": "nib"
+    },
+    {
+     "id": "nouns",
+     "start": 250.627,
+     "end": 256.024,
+     "cap": "**Mei:** So not 'a bird in a tree eating food' — a **mynah** in a **rain tree** eyeing my **char kway teow**!",
+     "who": "mei"
+    },
+    {
+     "id": "adverb",
+     "start": 256.644,
+     "end": 264.068,
+     "cap": "**Mr H:** And cut weak **verb plus adverb**. Don't write 'the jogger **ran quickly**'. Use one verb: '**sprinted**' or '**pounded**'.",
+     "who": "mrh"
+    },
+    {
+     "id": "walk",
+     "start": 264.688,
+     "end": 269.616,
+     "cap": "**Cam:** Watch how one verb changes the whole character: he **trudged**, he **stormed**, he **slunk** down the road.",
+     "who": "cam"
+    },
+    {
+     "id": "eagle",
+     "start": 270.236,
+     "end": 276.401,
+     "cap": "**Will:** Lord Tennyson needed one verb for an ocean seen from a cliff: '**The wrinkled sea beneath him crawls.**'",
+     "who": "will"
+    },
+    {
+     "id": "crawls",
+     "start": 277.041,
+     "end": 282.332,
+     "cap": "**Mei:** '**Crawls**'! That makes the giant sea look tiny, slow and insect-like from the eagle's height!",
+     "who": "mei"
+    },
+    {
+     "id": "conn",
+     "start": 282.952,
+     "end": 290.376,
+     "cap": "**Nib:** Check **connotations** too: **slim**, **skinny** and **scrawny** all denote thin, yet move from admiring to frail.",
+     "who": "nib"
+    },
+    {
+     "id": "thes",
+     "start": 290.996,
+     "end": 295.817,
+     "cap": "**Addie:** Fine! I bought a thesaurus! 'The **effulgent** sun irradiated the **crepuscular** firmament!'",
+     "who": "adj"
+    },
+    {
+     "id": "trap",
+     "start": 296.457,
+     "end": 302.9,
+     "cap": "**Mr H:** The **thesaurus trap**. Never swallow a dictionary to sound clever; pick words the reader can **picture**.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "camera",
+   "title": "Move the camera — don't start a car chase",
+   "short": "Camera & tense",
+   "card": true,
+   "start": 304.25,
+   "end": 375.252,
+   "lines": [
+    {
+     "id": "chase",
+     "start": 306.05,
+     "end": 311.554,
+     "cap": "**Mei:** Paragraph two! Suddenly ninjas rob the drink stall, Uncle Lim jumps a motorbike, and—",
+     "who": "mei"
+    },
+    {
+     "id": "freeze",
+     "start": 312.154,
+     "end": 316.613,
+     "cap": "**Cam:** FREEZE FRAME! That's a **story**, Mei! In a description, the **place and atmosphere** are the star!",
+     "who": "cam"
+    },
+    {
+     "id": "zoom",
+     "start": 317.253,
+     "end": 322.287,
+     "cap": "**Cam:** Structure your piece by **moving the camera**: start with a wide **drone shot**, then zoom in step by step.",
+     "who": "cam"
+    },
+    {
+     "id": "p1",
+     "start": 322.907,
+     "end": 330.822,
+     "cap": "**Mr H:** Paragraph one, **background**: from the bus, the hawker roof glows amber like a **lantern** among dark HDB blocks.",
+     "who": "mrh"
+    },
+    {
+     "id": "p2",
+     "start": 331.442,
+     "end": 337.501,
+     "cap": "**Cam:** Paragraph two, **midground**: inside the heat, ceiling fans churning, the char kway teow uncle inside a cloud of smoke.",
+     "who": "cam"
+    },
+    {
+     "id": "p3",
+     "start": 338.121,
+     "end": 344.947,
+     "cap": "**Cam:** Paragraph three, **close-up detail**: table thirty-four — a grandmother's patient fingers peeling prawns beside a **packet of tissues**.",
+     "who": "cam"
+    },
+    {
+     "id": "shift",
+     "start": 345.587,
+     "end": 353.139,
+     "cap": "**Mr H:** Paragraph four: a **shift in mood or weather**, signalled by a **one-line paragraph**: '**Then the sky split open.**'",
+     "who": "mrh"
+    },
+    {
+     "id": "cyc",
+     "start": 353.759,
+     "end": 361.482,
+     "cap": "**Nib:** End with a **cyclical structure**: return to the opening **lantern** roof from the bus stop — still glowing in the rain.",
+     "who": "nib"
+    },
+    {
+     "id": "tiptop",
+     "start": 362.102,
+     "end": 366.433,
+     "cap": "**Kevin:** Start a new paragraph with **TiPToP**: change of **Time, Place, Topic or Person**!",
+     "who": "kevin"
+    },
+    {
+     "id": "tense",
+     "start": 367.033,
+     "end": 373.902,
+     "cap": "**Mr H:** And pick **one tense** and **one viewpoint**. 'The rain **hammers** the roof; a cyclist **skidded**' breaks the spell.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "rhythm",
+   "title": "Sentence skylines, timing and ARMS",
+   "short": "Rhythm & ARMS",
+   "card": true,
+   "start": 375.252,
+   "end": 463.161,
+   "lines": [
+    {
+     "id": "flat",
+     "start": 377.052,
+     "end": 383.793,
+     "cap": "**Mr H:** Listen to your rhythm. If every sentence is twelve words starting with 'The', your paragraph flatlines.",
+     "who": "mrh"
+    },
+    {
+     "id": "sky",
+     "start": 384.393,
+     "end": 390.047,
+     "cap": "**Cam:** Build a **city skyline**: long flowing sentences for panorama, then a sudden **short sentence** for impact!",
+     "who": "cam"
+    },
+    {
+     "id": "cats",
+     "start": 390.667,
+     "end": 398.112,
+     "cap": "**Nib:** Five shapes — **S**ome **L**azy **C**ats **F**ear **M**ice: **Short**, **List**, **Complex**, **Fronted adverbial**, and **Minor sentence**.",
+     "who": "nib"
+    },
+    {
+     "id": "fog",
+     "start": 398.752,
+     "end": 406.496,
+     "cap": "**Will:** Dickens opens **Bleak House** with a two-word minor sentence: '**Fog everywhere.**' No main verb — the fog simply sits there.",
+     "who": "will"
+    },
+    {
+     "id": "punct",
+     "start": 407.136,
+     "end": 415.669,
+     "cap": "**Nib:** Punctuation controls **timing**. A **colon** holds your breath before a reveal: 'There was only one sound**:** the drip of the tap.'",
+     "who": "nib"
+    },
+    {
+     "id": "semi",
+     "start": 416.289,
+     "end": 422.625,
+     "cap": "**Mr H:** A **semicolon** balances two linked sentences; a **dash** jolts: 'The sea was calm **—** too calm.'",
+     "who": "mrh"
+    },
+    {
+     "id": "splice",
+     "start": 423.225,
+     "end": 432.591,
+     "cap": "**Kevin:** Never stick me between two full sentences! 'The rain stopped, the steam rose' is a **comma splice**! Put me after a **fronted adverbial**: 'Beneath the awning, steam rose!'",
+     "who": "kevin"
+    },
+    {
+     "id": "arms",
+     "start": 433.261,
+     "end": 440.407,
+     "cap": "**Mr H:** Finally, plan your picture in **three layers** — background, midground, foreground — and redraft with **ARMS**.",
+     "who": "mrh"
+    },
+    {
+     "id": "r1",
+     "start": 441.007,
+     "end": 448.261,
+     "cap": "**Mei:** **Remove** & **Substitute**: cut 'very busy and nice'; swap 'ran quickly' for 'sprinted' and 'food' for 'char kway teow'.",
+     "who": "mei"
+    },
+    {
+     "id": "r2",
+     "start": 448.861,
+     "end": 456.37,
+     "cap": "**Mei:** **Add** & **Move**: add charcoal smoke and a short minor sentence — 'Nobody spoke.' — saving the strongest image for last!",
+     "who": "mei"
+    },
+    {
+     "id": "addie2",
+     "start": 456.99,
+     "end": 461.811,
+     "cap": "**Addie:** Okay... one single precise verb **did** look cooler than five 'verys'. Don't tell anyone.",
+     "who": "adj"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 463.161,
+   "end": 533.451,
+   "lines": [
+    {
+     "id": "bell",
+     "start": 464.961,
+     "end": 468.716,
+     "cap": "**Narrator:** The rain eases. Room 8H packs its descriptive toolkit.",
+     "who": "narr"
+    },
+    {
+     "id": "hooks",
+     "start": 469.316,
+     "end": 478.809,
+     "cap": "**Mei:** Memory hooks! Senses: **Some Hungry Sharks Taste Toes**. Sentences: **Some Lazy Cats Fear Mice**. Paragraphs: **TiPToP**. Redrafting: **ARMS**!",
+     "who": "mei"
+    },
+    {
+     "id": "t1",
+     "start": 479.479,
+     "end": 485.346,
+     "cap": "**Cam:** One. Don't turn a description into an action **story**! Move the camera — wide shot to close-up to cyclical echo.",
+     "who": "cam"
+    },
+    {
+     "id": "t2",
+     "start": 485.966,
+     "end": 490.958,
+     "cap": "**Addie:** Two. Ditch **adjective piles** and 'very'. Let **specific nouns** and **vivid verbs** do the work.",
+     "who": "adj"
+    },
+    {
+     "id": "t3",
+     "start": 491.558,
+     "end": 499.153,
+     "cap": "**Nib:** Three. Ban the mechanical checklist '**I could see, I could hear**', and swap dead **clichés** for fresh local images.",
+     "who": "nib"
+    },
+    {
+     "id": "t4",
+     "start": 499.773,
+     "end": 504.807,
+     "cap": "**Mr H:** Four. Never drift between **past and present tense** without a deliberate reason.",
+     "who": "mrh"
+    },
+    {
+     "id": "t5",
+     "start": 505.407,
+     "end": 512.149,
+     "cap": "**Kevin:** Five. No **comma splices** and no triple exclamation marks! Use a colon, semicolon and dash deliberately.",
+     "who": "kevin"
+    },
+    {
+     "id": "t6",
+     "start": 512.769,
+     "end": 518.934,
+     "cap": "**Will:** Six. Avoid the **thesaurus trap** and five-simile purple prose. Control beats showing off.",
+     "who": "will"
+    },
+    {
+     "id": "rev",
+     "start": 519.574,
+     "end": 524.545,
+     "cap": "**Mei:** Descriptive Writing: **four stars**. I can actually smell the char kway teow now.",
+     "who": "mei"
+    },
+    {
+     "id": "four",
+     "start": 525.185,
+     "end": 528.406,
+     "cap": "**Will:** Four stars?! After Miranda's tempest?!",
+     "who": "will"
+    },
+    {
+     "id": "wet",
+     "start": 529.006,
+     "end": 531.651,
+     "cap": "**Mei:** My shoes got soaked during location filming.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 533.451,
+   "end": 618.1,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 535.251,
+     "end": 539.39,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 540.01,
+     "end": 542.89,
+     "cap": "**Mr H:** What is the difference between **telling** and **showing**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 547.21,
+     "end": 553.205,
+     "cap": "**Mei:** **Telling** names a feeling directly; **showing** gives sensory details and actions so the reader infers it.",
+     "who": "mei"
+    },
+    {
+     "id": "q2",
+     "start": 553.525,
+     "end": 558.773,
+     "cap": "**Mr H:** When stormy weather mirrors a character's inner turmoil, what is that technique called?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 563.093,
+     "end": 567.21,
+     "cap": "**Nib:** **Pathetic fallacy** — from the Greek **pathos**, meaning feeling.",
+     "who": "nib"
+    },
+    {
+     "id": "q3",
+     "start": 567.53,
+     "end": 573.311,
+     "cap": "**Mr H:** Why is 'The eagle watched as the wrinkled sea **crawls**' better than piling up five adjectives?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 577.631,
+     "end": 582.453,
+     "cap": "**Will:** One **precise verb** carries movement, scale and mood without clutter.",
+     "who": "will"
+    },
+    {
+     "id": "q4",
+     "start": 582.773,
+     "end": 586.485,
+     "cap": "**Mr H:** What is a **minor sentence**, and why must you use it sparingly?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 590.805,
+     "end": 596.479,
+     "cap": "**Cam:** A deliberate fragment with **no main verb**, like '**Fog everywhere.**' Rare ones create impact; too many lose force.",
+     "who": "cam"
+    },
+    {
+     "id": "q5",
+     "start": 596.799,
+     "end": 600.447,
+     "cap": "**Mr H:** What do the four letters of **ARMS** stand for when redrafting?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 604.767,
+     "end": 606.389,
+     "cap": "**Kevin:** **Add**, **Remove**, **Move**, **Substitute**!",
+     "who": "kevin"
+    },
+    {
+     "id": "outro",
+     "start": 606.709,
+     "end": 611.829,
+     "cap": "**Mr H:** Brilliant work. Now try the **Descriptive Writing** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "st1",
+     "start": 612.549,
+     "end": 614.298,
+     "cap": "**Addie:** Can I keep just **one** tiny 'very'?",
+     "who": "adj"
+    },
+    {
+     "id": "st2",
+     "start": 614.868,
+     "end": 615.7,
+     "cap": "**Nib:** No.",
+     "who": "nib"
+    }
+   ]
+  }
+ ],
+ "total": 618.1
+}

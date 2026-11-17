@@ -1,0 +1,689 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 49.533,
+   "lines": [
+    {
+     "id": "sign",
+     "start": 0.6,
+     "end": 7.576,
+     "cap": "**Narrator:** Thursday, dusk. The Banyan Hill library has updated its sign. Will is ignoring it, because another ghost has moved in.",
+     "who": "narr"
+    },
+    {
+     "id": "spirit",
+     "start": 8.176,
+     "end": 12.784,
+     "cap": "**The Ghost:** I am thy father's spirit, doom'd for a certain term to walk the night—",
+     "who": "ghost"
+    },
+    {
+     "id": "played",
+     "start": 13.354,
+     "end": 19.967,
+     "cap": "**Will:** Excuse me! ONE ghost per air-conditioned library! Besides, I **played** you at the Globe in **1600**!",
+     "who": "will"
+    },
+    {
+     "id": "kopi",
+     "start": 20.587,
+     "end": 25.814,
+     "cap": "**Hamlet:** To kopi, or not to kopi: that is the question. Whether 'tis nobler to drink iced Milo...",
+     "who": "hamlet"
+    },
+    {
+     "id": "queue",
+     "start": 26.434,
+     "end": 31.938,
+     "cap": "**Mei:** Bro, the canteen Auntie has been waiting twenty minutes. Pick a drink! **One star** for speed.",
+     "who": "mei"
+    },
+    {
+     "id": "curtain",
+     "start": 32.538,
+     "end": 37.146,
+     "cap": "**Polonius:** Aha! Behind this curtain, I deduce the prince is mad with love — or caffeine!",
+     "who": "polonius"
+    },
+    {
+     "id": "mug",
+     "start": 37.746,
+     "end": 42.866,
+     "cap": "**Mr H:** Step away from the curtains, Polonius. That ends badly for you in **Act 3**.",
+     "who": "mrh"
+    },
+    {
+     "id": "title",
+     "start": 43.486,
+     "end": 47.433,
+     "cap": "**Narrator:** All the School's a Stage. Episode three: To Be or Not to Be (Late).",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "elsinore",
+   "title": "Revenge tragedy & a rotten state",
+   "short": "Elsinore & Ghost",
+   "card": true,
+   "start": 49.533,
+   "end": 138.954,
+   "lines": [
+    {
+     "id": "genre",
+     "start": 51.333,
+     "end": 58.629,
+     "cap": "**Mr H:** **Hamlet**, written around **1600**, is a **revenge tragedy** set at **Elsinore**, the royal castle of Denmark.",
+     "who": "mrh"
+    },
+    {
+     "id": "recipe",
+     "start": 59.199,
+     "end": 68.457,
+     "cap": "**Nib:** The Elizabethan revenge recipe: a **ghost**, a hero who **delays**, **feigned madness**, a **play-within-a-play**, and a bloodbath at the end.",
+     "who": "nib"
+    },
+    {
+     "id": "family",
+     "start": 69.057,
+     "end": 75.607,
+     "cap": "**Hamlet:** My father died suddenly. Within **two months**, my mother **Gertrude** married his brother **Claudius** — my uncle AND new stepfather!",
+     "who": "hamlet"
+    },
+    {
+     "id": "garden",
+     "start": 76.207,
+     "end": 81.988,
+     "cap": "**Hamlet:** Denmark feels like '**an unweeded garden / That grows to seed**'. 'Frailty, thy name is woman!'",
+     "who": "hamlet"
+    },
+    {
+     "id": "marcellus",
+     "start": 82.608,
+     "end": 90.523,
+     "cap": "**Mr H:** Midnight on the battlements. As Hamlet follows the Ghost, the guard **Marcellus** — **not** Hamlet! — speaks a famous line:",
+     "who": "mrh"
+    },
+    {
+     "id": "rotten",
+     "start": 91.063,
+     "end": 94.497,
+     "cap": "**Will:** 'Something is rotten in the state of Denmark.'",
+     "who": "will"
+    },
+    {
+     "id": "pun",
+     "start": 95.117,
+     "end": 104.547,
+     "cap": "**Nib:** Zoom in! '**Rotten**' starts an image pattern of **decay, disease and poison**. And '**state**' puns on both the nation and its condition.",
+     "who": "nib"
+    },
+    {
+     "id": "serpent",
+     "start": 105.147,
+     "end": 112.549,
+     "cap": "**The Ghost:** Claudius poured **poison** in my sleeping ear! 'The serpent that did sting thy father's life / Now wears his crown.'",
+     "who": "ghost"
+    },
+    {
+     "id": "devil",
+     "start": 113.189,
+     "end": 118.843,
+     "cap": "**Mei:** Okay, if a glowing armoured dad tells you who murdered him, why not arrest Claudius on Monday morning?",
+     "who": "mei"
+    },
+    {
+     "id": "purgatory",
+     "start": 119.413,
+     "end": 128.842,
+     "cap": "**Mr H:** **Context**. The Ghost describes **purgatory**, a Catholic belief. Protestant audiences feared a ghost '**May be the devil**' luring Hamlet to hell.",
+     "who": "mrh"
+    },
+    {
+     "id": "regicide",
+     "start": 129.442,
+     "end": 137.634,
+     "cap": "**Nib:** Plus the **divine right of kings**: killing an anointed monarch is **regicide**, a sin against God. Hamlet needs **proof**.",
+     "who": "nib"
+    }
+   ]
+  },
+  {
+   "id": "seems",
+   "title": "I know not 'seems'",
+   "short": "Seems & Mousetrap",
+   "card": true,
+   "start": 138.954,
+   "end": 218.562,
+   "lines": [
+    {
+     "id": "theme",
+     "start": 140.754,
+     "end": 146.749,
+     "cap": "**Mr H:** At Elsinore, nobody is what they appear. That's the theme of **appearance versus reality**.",
+     "who": "mrh"
+    },
+    {
+     "id": "nay",
+     "start": 147.319,
+     "end": 152.801,
+     "cap": "**Hamlet:** Everyone wears wedding silks; I stay in mourning black. 'Seems, madam! nay it is; I know not \"seems.\"'",
+     "who": "hamlet"
+    },
+    {
+     "id": "smile",
+     "start": 153.401,
+     "end": 160.015,
+     "cap": "**Hamlet:** Claudius beams like a kindly uncle, yet 'one may smile, and smile, and be a villain'. So I put an '**antic disposition**' on.",
+     "who": "hamlet"
+    },
+    {
+     "id": "antic",
+     "start": 160.635,
+     "end": 167.525,
+     "cap": "**Mei:** '**Antic disposition**' — pretending to act mad so nobody suspects what you know! Wait... is he ONLY pretending?",
+     "who": "mei"
+    },
+    {
+     "id": "advice",
+     "start": 168.095,
+     "end": 174.41,
+     "cap": "**Polonius:** Before my son **Laertes** sails for Paris, I give wise counsel: 'This above all: to thine own self be true.'",
+     "who": "polonius"
+    },
+    {
+     "id": "ironyP",
+     "start": 175.01,
+     "end": 181.986,
+     "cap": "**Nib:** Deeply **ironic**, darling: the man preaching honesty spies on his own children and everyone else!",
+     "who": "nib"
+    },
+    {
+     "id": "method",
+     "start": 182.556,
+     "end": 188.807,
+     "cap": "**Polonius:** Even I notice Hamlet's 'mad' insults are suspiciously sharp: 'Though this be madness, yet there is method in't.'",
+     "who": "polonius"
+    },
+    {
+     "id": "spies",
+     "start": 189.407,
+     "end": 197.62,
+     "cap": "**Mr H:** Claudius recruits Hamlet's school friends **Rosencrantz and Guildenstern** as spies. Only **Horatio** stays truly loyal.",
+     "who": "mrh"
+    },
+    {
+     "id": "trap",
+     "start": 198.19,
+     "end": 206.681,
+     "cap": "**Will:** Then travelling actors arrive! Hamlet stages **The Mousetrap**, a play copying the ear-poisoning — **metatheatre**, fiction exposing truth!",
+     "who": "will"
+    },
+    {
+     "id": "couplet",
+     "start": 207.281,
+     "end": 213.126,
+     "cap": "**Hamlet:** 'The play's the thing / Wherein I'll catch the conscience of the king.' Claudius panics and storms out. Proof!",
+     "who": "hamlet"
+    },
+    {
+     "id": "two",
+     "start": 213.726,
+     "end": 217.182,
+     "cap": "**Mei:** Using a school play as a lie detector? Okay, **two stars**.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "tobe",
+   "title": "To be, or not to be — and why wait?",
+   "short": "To be & delay",
+   "card": true,
+   "start": 218.562,
+   "end": 311.266,
+   "lines": [
+    {
+     "id": "noskull",
+     "start": 220.362,
+     "end": 228.277,
+     "cap": "**Mr H:** **Act 3 Scene 1**. First, put that skull down, Hamlet — there is **NO skull** in 'To be, or not to be'! That's **Act 5**.",
+     "who": "mrh"
+    },
+    {
+     "id": "oops",
+     "start": 228.877,
+     "end": 232.802,
+     "cap": "**Hamlet:** Sorry. Poster habit. Ahem: 'To be, or not to be: that is the question:'",
+     "who": "hamlet"
+    },
+    {
+     "id": "anti",
+     "start": 233.442,
+     "end": 240.887,
+     "cap": "**Nib:** **Antithesis**: setting opposites side by side — **to be** versus **not to be**; **suffer** versus **take arms**.",
+     "who": "nib"
+    },
+    {
+     "id": "slings",
+     "start": 241.457,
+     "end": 249.607,
+     "cap": "**Hamlet:** 'Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles'",
+     "who": "hamlet"
+    },
+    {
+     "id": "kevin",
+     "start": 250.227,
+     "end": 257.672,
+     "cap": "**Kevin:** Look at all those colons and mid-line pauses! Every **caesura** slows him down as his thoughts turn back on themselves!",
+     "who": "kevin"
+    },
+    {
+     "id": "dread",
+     "start": 258.272,
+     "end": 267.019,
+     "cap": "**Mr H:** What stops us ending our suffering? Fear of '**The undiscover'd country**' after death. Notice Hamlet never says 'I' — only '**we**' and '**us**'.",
+     "who": "mrh"
+    },
+    {
+     "id": "cowards",
+     "start": 267.619,
+     "end": 273.123,
+     "cap": "**Hamlet:** 'Thus conscience does make cowards of us all'... resolution is 'sicklied o'er with the pale cast of thought'.",
+     "who": "hamlet"
+    },
+    {
+     "id": "prayer",
+     "start": 273.743,
+     "end": 278.671,
+     "cap": "**Mei:** Then in **Act 3 Scene 3**, you catch Claudius kneeling alone! Why don't you strike?!",
+     "who": "mei"
+    },
+    {
+     "id": "heaven",
+     "start": 279.241,
+     "end": 283.827,
+     "cap": "**Hamlet:** If I kill him while he's praying, his soul goes straight to **heaven**! How is that revenge?",
+     "who": "hamlet"
+    },
+    {
+     "id": "wordsfly",
+     "start": 284.397,
+     "end": 293.165,
+     "cap": "**Nib:** Peak **dramatic irony**! Once Hamlet leaves, Claudius admits he couldn't repent: 'My words fly up, my thoughts remain below'.",
+     "who": "nib"
+    },
+    {
+     "id": "foils",
+     "start": 293.785,
+     "end": 303.3,
+     "cap": "**Mr H:** Compare Hamlet's two **foils**, fellow grieving sons: **Laertes** rages instantly and gets manipulated; **Fortinbras** marches steadily.",
+     "who": "mrh"
+    },
+    {
+     "id": "arras",
+     "start": 303.9,
+     "end": 309.916,
+     "cap": "**Polonius:** And when Hamlet DOES act on impulse in Gertrude's closet, he stabs ME behind the tapestry! Not ideal!",
+     "who": "polonius"
+    }
+   ]
+  },
+  {
+   "id": "ophelia",
+   "title": "Rosemary, Yorick and the poisoned cup",
+   "short": "Madness & skull",
+   "card": true,
+   "start": 311.266,
+   "end": 390.533,
+   "lines": [
+    {
+     "id": "obey",
+     "start": 313.066,
+     "end": 321.023,
+     "cap": "**Ophelia:** Let's talk about **women and power**. My father Polonius and brother Laertes order me to reject Hamlet. I say: 'I shall obey, my lord.'",
+     "who": "ophelia"
+    },
+    {
+     "id": "prose",
+     "start": 321.643,
+     "end": 331.243,
+     "cap": "**Nib:** They use her as bait to spy on Hamlet. Then Hamlet kills her father, and in **Act 4** Ophelia's **real madness** shatters into **prose** and song.",
+     "who": "nib"
+    },
+    {
+     "id": "rosemary",
+     "start": 331.843,
+     "end": 338.883,
+     "cap": "**Ophelia:** 'There's rosemary, that's for remembrance.' My helplessness is a tragic **foil** to Hamlet's chosen act — before I drown.",
+     "who": "ophelia"
+    },
+    {
+     "id": "grave",
+     "start": 339.523,
+     "end": 343.257,
+     "cap": "**Narrator:** **Act 5 Scene 1**. A graveyard. NOW Hamlet may hold the skull.",
+     "who": "narr"
+    },
+    {
+     "id": "yorick",
+     "start": 343.827,
+     "end": 349.907,
+     "cap": "**Hamlet:** 'Alas, poor Yorick! I knew him, Horatio' — NOT 'I knew him well'! Yorick was the court jester who carried me as a child.",
+     "who": "hamlet"
+    },
+    {
+     "id": "dust",
+     "start": 350.547,
+     "end": 358.653,
+     "cap": "**Mr H:** **Mortality**: death is the **great leveller**. Jester and emperor — even Alexander the Great — return to the same **dust**.",
+     "who": "mrh"
+    },
+    {
+     "id": "ready",
+     "start": 359.253,
+     "end": 366.869,
+     "cap": "**Hamlet:** Returning from sea, I'm calmer. '**The readiness is all.**' Claudius rigs a fencing match with **Laertes**: a **poisoned sword** and a **poisoned cup**.",
+     "who": "hamlet"
+    },
+    {
+     "id": "duel",
+     "start": 367.489,
+     "end": 375.681,
+     "cap": "**Will:** Gertrude defies Claudius and drinks the cup! The poisoned rapier wounds **both** Laertes and Hamlet! Hamlet finally kills Claudius!",
+     "who": "will"
+    },
+    {
+     "id": "silence",
+     "start": 376.301,
+     "end": 384.429,
+     "cap": "**Hamlet:** Horatio lives to tell my story; **Fortinbras** of Norway takes the crown. My last words end four hours of talk: '**The rest is silence.**'",
+     "who": "hamlet"
+    },
+    {
+     "id": "three",
+     "start": 385.099,
+     "end": 389.153,
+     "cap": "**Mei:** Three stars! Tragic, poetic, and Claudius got poisoned twice.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "peel",
+   "title": "Climbing the Hamlet PEEL ladder",
+   "short": "PEEL & zoom",
+   "card": true,
+   "start": 390.533,
+   "end": 474.297,
+   "lines": [
+    {
+     "id": "tea10",
+     "start": 392.333,
+     "end": 398.199,
+     "cap": "**Narrator:** Friday. Mr Hargreaves has reached Mug Ten. It says 'TO TEA OR NOT TO TEA', and today it is topical.",
+     "who": "narr"
+    },
+    {
+     "id": "sol5",
+     "start": 398.799,
+     "end": 409.125,
+     "cap": "**Nib:** First, Hamlet's five great soliloquies in order: **S**ome **R**eal **T**hinkers **N**ever **A**ct — **Solid flesh, Rogue, To be, Now might I, All occasions**.",
+     "who": "nib"
+    },
+    {
+     "id": "warm",
+     "start": 409.745,
+     "end": 419.153,
+     "cap": "**Mei:** And the seven themes: **W A R M, C A M**. **Women, Action vs thought, Revenge, Madness, Corruption, Appearance vs reality, Mortality**!",
+     "who": "mei"
+    },
+    {
+     "id": "task",
+     "start": 419.773,
+     "end": 426.685,
+     "cap": "**Mr H:** Exam question: **How does Shakespeare present Hamlet's mind in 'To be, or not to be'?** Mei — climb the ladder.",
+     "who": "mrh"
+    },
+    {
+     "id": "p1",
+     "start": 427.255,
+     "end": 433.057,
+     "cap": "**Mei:** **Point**: Shakespeare presents Hamlet as a mind **paralysed by over-thinking**, not simply a coward.",
+     "who": "mei"
+    },
+    {
+     "id": "p2",
+     "start": 433.597,
+     "end": 441.789,
+     "cap": "**Mei:** **Evidence**: he weighs whether to suffer '**The slings and arrows**' or fight '**a sea of troubles**', concluding '**conscience does make cowards of us all**'.",
+     "who": "mei"
+    },
+    {
+     "id": "p3",
+     "start": 442.359,
+     "end": 452.301,
+     "cap": "**Mei:** **Explain**: the military metaphor feels relentless, '**sea**' makes life's problems impossibly vast, and using '**us**' instead of 'I' turns delay into a universal law.",
+     "who": "mei"
+    },
+    {
+     "id": "p4",
+     "start": 452.901,
+     "end": 460.346,
+     "cap": "**Mei:** **Link**: the speech itself dramatises **thought versus action**, showing resolution '**sicklied o'er with the pale cast of thought**'.",
+     "who": "mei"
+    },
+    {
+     "id": "bravo",
+     "start": 460.946,
+     "end": 468.605,
+     "cap": "**Mr H:** Not one plot retelling. Embedded quotes, pronoun analysis, linked to theme. Will, stop crying on the books.",
+     "who": "mrh"
+    },
+    {
+     "id": "proud",
+     "start": 469.205,
+     "end": 472.917,
+     "cap": "**Will:** I'm not crying. The library aircon is in my eye.",
+     "who": "will"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 474.297,
+   "end": 548.543,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 476.097,
+     "end": 481.771,
+     "cap": "**Narrator:** Before Fortinbras marches into Room 8H, here are your memory hooks and six Hamlet exam traps.",
+     "who": "narr"
+    },
+    {
+     "id": "hooks",
+     "start": 482.371,
+     "end": 491.502,
+     "cap": "**Mei:** Soliloquies: **Some Real Thinkers Never Act**. Themes: **W A R M, C A M**. Deaths in order: **Please Only Get Charlie's Lunch, Hamlet!**",
+     "who": "mei"
+    },
+    {
+     "id": "t1",
+     "start": 492.122,
+     "end": 499.759,
+     "cap": "**The Ghost:** One! '**Something is rotten in the state of Denmark**' is spoken by the guard **Marcellus** in **Act 1 Scene 4**, NOT Hamlet!",
+     "who": "ghost"
+    },
+    {
+     "id": "t2",
+     "start": 500.359,
+     "end": 505.885,
+     "cap": "**Hamlet:** Two! **No skull** in 'To be, or not to be'! That's **Act 3 Scene 1**; Yorick's skull is **Act 5 Scene 1**.",
+     "who": "hamlet"
+    },
+    {
+     "id": "t3",
+     "start": 506.485,
+     "end": 512.351,
+     "cap": "**Will:** Three! Quote accurately: '**Alas, poor Yorick! I knew him, Horatio**' — never 'I knew him well'!",
+     "who": "will"
+    },
+    {
+     "id": "t4",
+     "start": 512.951,
+     "end": 520.034,
+     "cap": "**Polonius:** Four! Don't call Hamlet's madness simply fake OR simply real. Argue that his **antic disposition** blurs into real grief!",
+     "who": "polonius"
+    },
+    {
+     "id": "t5",
+     "start": 520.634,
+     "end": 528.421,
+     "cap": "**Nib:** Five! Not every speech is a **soliloquy**! 'What a piece of work is a man' is spoken to Rosencrantz and Guildenstern.",
+     "who": "nib"
+    },
+    {
+     "id": "t6",
+     "start": 529.021,
+     "end": 535.015,
+     "cap": "**Ophelia:** Six! The play **never** proves Gertrude knew about the murder. Leave her guilt open, just as the text does.",
+     "who": "ophelia"
+    },
+    {
+     "id": "four",
+     "start": 535.655,
+     "end": 544.402,
+     "cap": "**Mei:** Final rating for Hamlet: **four stars**. Masterpiece, iconic speeches, minus one star because you stabbed the curtain guy by mistake.",
+     "who": "mei"
+    },
+    {
+     "id": "fair",
+     "start": 545.072,
+     "end": 546.843,
+     "cap": "**Polonius:** Honestly, very fair.",
+     "who": "polonius"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 548.543,
+   "end": 640.196,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 550.343,
+     "end": 554.481,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 555.101,
+     "end": 559.304,
+     "cap": "**Mr H:** Who actually says '**Something is rotten in the state of Denmark**'?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 563.624,
+     "end": 568.531,
+     "cap": "**The Ghost:** **Marcellus**, a guard on the battlements in **Act 1 Scene 4** — not Hamlet!",
+     "who": "ghost"
+    },
+    {
+     "id": "q2",
+     "start": 568.851,
+     "end": 572.392,
+     "cap": "**Mr H:** Why does Hamlet stage **The Mousetrap** play in **Act 3**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 576.712,
+     "end": 580.339,
+     "cap": "**Hamlet:** To test **Claudius's guilt** — in case the Ghost '**May be the devil**'.",
+     "who": "hamlet"
+    },
+    {
+     "id": "q3",
+     "start": 580.659,
+     "end": 587.933,
+     "cap": "**Mr H:** Why does Hamlet spare Claudius in the **prayer scene** (**Act 3 Scene 3**), and why is it **dramatic irony**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 592.253,
+     "end": 599.251,
+     "cap": "**Nib:** Hamlet fears sending Claudius's soul to **heaven** — yet **we** hear Claudius admit his prayer fails!",
+     "who": "nib"
+    },
+    {
+     "id": "q4",
+     "start": 599.571,
+     "end": 603.389,
+     "cap": "**Mr H:** Which two grieving sons act as **foils** to Hamlet's delay?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 607.709,
+     "end": 609.715,
+     "cap": "**Ophelia:** **Laertes** and **Fortinbras**.",
+     "who": "ophelia"
+    },
+    {
+     "id": "q5",
+     "start": 610.035,
+     "end": 616.755,
+     "cap": "**Mr H:** Complete Hamlet's famous graveyard line in **Act 5 Scene 1**: '**Alas, poor Yorick!** I knew him...'",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 621.075,
+     "end": 623.443,
+     "cap": "**Will:** '...**Horatio**!' Never 'well'.",
+     "who": "will"
+    },
+    {
+     "id": "outro",
+     "start": 623.763,
+     "end": 627.965,
+     "cap": "**Mr H:** Brilliant work. Now try the **Hamlet** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "stay",
+     "start": 628.685,
+     "end": 633.4,
+     "cap": "**The Ghost:** This library air-conditioning is glorious. I shall haunt Shelf B.",
+     "who": "ghost"
+    },
+    {
+     "id": "mine",
+     "start": 634.02,
+     "end": 637.796,
+     "cap": "**Will:** Shelf B is SONNETS! Get your own school, Dad-Ghost!",
+     "who": "will"
+    }
+   ]
+  }
+ ],
+ "total": 640.196
+}

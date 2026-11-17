@@ -1,0 +1,808 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 64.817,
+   "lines": [
+    {
+     "id": "tues",
+     "start": 0.6,
+     "end": 4.547,
+     "cap": "**Narrator:** Tuesday. Room 8H. Mock reading papers have just come back.",
+     "who": "narr"
+    },
+    {
+     "id": "mugs",
+     "start": 5.117,
+     "end": 9.106,
+     "cap": "**Narrator:** Mr Hargreaves is on mug twenty. Something on his desk is crying.",
+     "who": "narr"
+    },
+    {
+     "id": "sob",
+     "start": 9.776,
+     "end": 14.853,
+     "cap": "**Question 4:** Nobody reads me! They read my first four words, panic, and start copying paragraph six!",
+     "who": "qmark"
+    },
+    {
+     "id": "who",
+     "start": 15.523,
+     "end": 19.065,
+     "cap": "**Mei:** Sir... why is **Question 4** sobbing on my curry puff napkin?",
+     "who": "mei"
+    },
+    {
+     "id": "mrh",
+     "start": 19.665,
+     "end": 27.601,
+     "cap": "**Mr H:** Because I wrote '**From lines 10 to 18, explain in your own words**', and half the class quoted line thirty-two.",
+     "who": "mrh"
+    },
+    {
+     "id": "good",
+     "start": 28.241,
+     "end": 30.353,
+     "cap": "**Mei:** Line thirty-two was a really good quote!",
+     "who": "mei"
+    },
+    {
+     "id": "zero",
+     "start": 30.923,
+     "end": 36.555,
+     "cap": "**Question 4:** Wrong lines score **zero**! And you copied the text word for word! Look at my bold print: **OWN. WORDS.**",
+     "who": "qmark"
+    },
+    {
+     "id": "will",
+     "start": 37.225,
+     "end": 44.201,
+     "cap": "**Will:** Worse! The unseen extract was an article about Singapore **otters**. Where were the kings? Where were the **iambs**?",
+     "who": "will"
+    },
+    {
+     "id": "nib",
+     "start": 44.871,
+     "end": 51.612,
+     "cap": "**Nib:** Unseen **comprehension**, Will. Reading closely under pressure. Currently, Mei gives it **one star**.",
+     "who": "nib"
+    },
+    {
+     "id": "star",
+     "start": 52.232,
+     "end": 55.496,
+     "cap": "**Mei:** Unfair! How am I supposed to know what the examiner wants?",
+     "who": "mei"
+    },
+    {
+     "id": "tell",
+     "start": 56.116,
+     "end": 58.356,
+     "cap": "**Question 4:** I LITERALLY TELL YOU IN THE QUESTION!",
+     "who": "qmark"
+    },
+    {
+     "id": "title",
+     "start": 59.126,
+     "end": 62.817,
+     "cap": "**Narrator:** All the School's a Stage. Episode thirteen: Read the Question.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "decode",
+   "title": "Decode the question and beat the clock",
+   "short": "Decode & time",
+   "card": true,
+   "start": 64.817,
+   "end": 153.951,
+   "lines": [
+    {
+     "id": "anat",
+     "start": 66.617,
+     "end": 71.374,
+     "cap": "**Question 4:** Right. Look at me properly. Every question gives you **three clues** before you write a word.",
+     "who": "qmark"
+    },
+    {
+     "id": "three",
+     "start": 71.944,
+     "end": 79.048,
+     "cap": "**Mr H:** Clue one: **where to look**, like lines 10 to 18. Clue two: the **command word**. Clue three: the **marks**.",
+     "who": "mrh"
+    },
+    {
+     "id": "seven",
+     "start": 79.668,
+     "end": 88.82,
+     "cap": "**Nib:** Every paper is built from **seven question types**. Learn the mnemonic: **R**eally **I**nquisitive **V**ictors **L**ove **S**olving **S**neaky **E**xams.",
+     "who": "nib"
+    },
+    {
+     "id": "list1",
+     "start": 89.46,
+     "end": 96.521,
+     "cap": "**Question 4:** **Retrieval**: find facts on the surface. **Inference**: read between the lines. **Vocabulary**: explain a word in context.",
+     "who": "qmark"
+    },
+    {
+     "id": "list2",
+     "start": 97.121,
+     "end": 105.74,
+     "cap": "**Question 4:** **Language**: how words create effects. **Structure**: how the text is ordered. **Summary**: condense in your own words. **Evaluation**: judge how far you agree.",
+     "who": "qmark"
+    },
+    {
+     "id": "marks",
+     "start": 106.38,
+     "end": 114.081,
+     "cap": "**Mr H:** And **marks map to points**. Two marks? Give two brief points. Six marks for language? About **three developed points**.",
+     "who": "mrh"
+    },
+    {
+     "id": "slow",
+     "start": 114.701,
+     "end": 118.605,
+     "cap": "**Mei:** Okay, so I read every single word of the passage three times first?",
+     "who": "mei"
+    },
+    {
+     "id": "skim",
+     "start": 119.205,
+     "end": 127.12,
+     "cap": "**Mr H:** No! Change gears. First, **skim** for the **gist**: title, opening, ending and first lines, to see what it's about.",
+     "who": "mrh"
+    },
+    {
+     "id": "scan",
+     "start": 127.72,
+     "end": 135.336,
+     "cap": "**Nib:** Second, **scan** for a target: sweep your eyes in tiny leaps called **saccades** to spot a date, name or number.",
+     "who": "nib"
+    },
+    {
+     "id": "close",
+     "start": 135.956,
+     "end": 140.905,
+     "cap": "**Mr H:** Third, **close-read** the named lines slowly for analysis, pencil in hand.",
+     "who": "mrh"
+    },
+    {
+     "id": "clock",
+     "start": 141.505,
+     "end": 145.601,
+     "cap": "**Kevin:** Watch the clock! Spend ten minutes reading, then **a mark a minute, a point per mark**!",
+     "who": "kevin"
+    },
+    {
+     "id": "trap",
+     "start": 146.201,
+     "end": 152.601,
+     "cap": "**Question 4:** Spend ten minutes polishing a two-mark question and you'll run out of time on Question eight. Don't break my heart.",
+     "who": "qmark"
+    }
+   ]
+  },
+  {
+   "id": "clues",
+   "title": "On the lines and between them",
+   "short": "Retrieve & infer",
+   "card": true,
+   "start": 153.951,
+   "end": 260.09,
+   "lines": [
+    {
+     "id": "lib",
+     "start": 155.751,
+     "end": 159.549,
+     "cap": "**Narrator:** Wednesday, the library. Question 4 has called in a specialist.",
+     "who": "narr"
+    },
+    {
+     "id": "enter",
+     "start": 160.169,
+     "end": 165.843,
+     "cap": "**Sherlock:** Sherlock. Magnifying glass. **Retrieval** finds what is **explicit** — written plainly on the lines.",
+     "who": "sherlock"
+    },
+    {
+     "id": "trap5",
+     "start": 166.443,
+     "end": 173.185,
+     "cap": "**Sherlock:** Watch out for nearby traps. In **Monsoon**, Mei's mother told her to be home by **five**. 'Ten past' is the time **now**.",
+     "who": "sherlock"
+    },
+    {
+     "id": "own",
+     "start": 173.805,
+     "end": 179.053,
+     "cap": "**Question 4:** And if I say **in your own words**, you must **paraphrase**. Never copy the writer's key phrase!",
+     "who": "qmark"
+    },
+    {
+     "id": "sewer",
+     "start": 179.653,
+     "end": 185.349,
+     "cap": "**Mei:** The otter article says the Singapore River was 'an open sewer'. Can I write 'an uncovered sewer'?",
+     "who": "mei"
+    },
+    {
+     "id": "stamp",
+     "start": 185.969,
+     "end": 191.302,
+     "cap": "**Question 4:** BANNED! Reword the whole idea: **so polluted with waste that almost nothing could live in it**.",
+     "who": "qmark"
+    },
+    {
+     "id": "infer",
+     "start": 191.942,
+     "end": 196.358,
+     "cap": "**Sherlock:** Now **inference**: working out what is **implicit** — suggested between the lines.",
+     "who": "sherlock"
+    },
+    {
+     "id": "guess",
+     "start": 196.928,
+     "end": 201.621,
+     "cap": "**Mei:** Oh, so guessing! Maybe Mei's brother Wei Jie was kidnapped by space pirates!",
+     "who": "mei"
+    },
+    {
+     "id": "leak",
+     "start": 202.261,
+     "end": 209.259,
+     "cap": "**Nib:** Space pirates?! Inference is **deduction from textual clues**, darling, never wild invention.",
+     "who": "nib"
+    },
+    {
+     "id": "scrooge",
+     "start": 209.879,
+     "end": 215.788,
+     "cap": "**Sherlock:** Look at Dickens on **Scrooge**: even **blind men's dogs** tugged their owners into doorways when he approached.",
+     "who": "sherlock"
+    },
+    {
+     "id": "deduce",
+     "start": 216.388,
+     "end": 224.836,
+     "cap": "**Mr H:** **Point**: everyone dreads Scrooge. **Evidence**: 'tug their owners into doorways'. **Explain**: even animals sense his cruelty.",
+     "who": "mrh"
+    },
+    {
+     "id": "oates",
+     "start": 225.456,
+     "end": 232.965,
+     "cap": "**Will:** Or Captain Oates in Scott's **1912** journal, walking into a blizzard: 'I am just going outside and may be some time.'",
+     "who": "will"
+    },
+    {
+     "id": "under",
+     "start": 233.585,
+     "end": 241.479,
+     "cap": "**Nib:** **Understatement**. Casual words hide deliberate self-sacrifice. We infer his courage from what he leaves unsaid.",
+     "who": "nib"
+    },
+    {
+     "id": "vocab",
+     "start": 242.099,
+     "end": 249.395,
+     "cap": "**Sherlock:** Same trick for **vocabulary in context**. Jack London writes: 'an intangible **pall** over the face of things, a subtle gloom'.",
+     "who": "sherlock"
+    },
+    {
+     "id": "pall",
+     "start": 250.015,
+     "end": 258.74,
+     "cap": "**Mr H:** The phrase next door explains the **denotation**: a dark covering. Its **connotation** — a cloth over a coffin — hints at **death**.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "What, How, Why: analysing language",
+   "short": "Language",
+   "card": true,
+   "start": 260.09,
+   "end": 354.497,
+   "lines": [
+    {
+     "id": "thurs",
+     "start": 261.89,
+     "end": 265.559,
+     "cap": "**Narrator:** Thursday. Mei is tackling a six-mark language question on Scrooge.",
+     "who": "narr"
+    },
+    {
+     "id": "bad",
+     "start": 266.159,
+     "end": 273.413,
+     "cap": "**Mei:** 'Dickens uses a simile, solitary as an oyster, to create a vivid image and make the reader want to read on.' Done!",
+     "who": "mei"
+    },
+    {
+     "id": "ink",
+     "start": 274.053,
+     "end": 280.922,
+     "cap": "**Nib:** My nib! I am leaking! '**Makes the reader want to read on**' says NOTHING! Every writer wants you to read on!",
+     "who": "nib"
+    },
+    {
+     "id": "whw",
+     "start": 281.592,
+     "end": 289.869,
+     "cap": "**Mr H:** Use **What, How, Why**. **What**: a short embedded quote. **How**: the technique or word class. **Why**: the precise **effect**.",
+     "who": "mrh"
+    },
+    {
+     "id": "why",
+     "start": 290.489,
+     "end": 296.527,
+     "cap": "**Question 4:** The **Why** is where my marks live! Spotting 'simile' without explaining its effect is just **feature-spotting**.",
+     "who": "qmark"
+    },
+    {
+     "id": "oyster",
+     "start": 297.147,
+     "end": 302.885,
+     "cap": "**Will:** Unpack Dickens's simile: '**solitary as an oyster**'. What is an oyster like, child?",
+     "who": "will"
+    },
+    {
+     "id": "shell",
+     "start": 303.485,
+     "end": 309.075,
+     "cap": "**Mei:** Hard, rough shell... clamped tightly shut! So Scrooge locks himself away from human warmth.",
+     "who": "mei"
+    },
+    {
+     "id": "pearl",
+     "start": 309.675,
+     "end": 317.483,
+     "cap": "**Will:** Aye! And **alternatively**, what hides inside an oyster? A **pearl** — hinting something precious still lies buried within him.",
+     "who": "will"
+    },
+    {
+     "id": "zoom",
+     "start": 318.123,
+     "end": 324.885,
+     "cap": "**Nib:** **Zoom in** on single words. Dickens writes that Scrooge's inner cold '**nipped** his pointed nose'.",
+     "who": "nib"
+    },
+    {
+     "id": "nip",
+     "start": 325.485,
+     "end": 331.032,
+     "cap": "**Mei:** The verb '**nipped**' means pinched or bitten — like frostbite, and like a miser **pinching** every penny!",
+     "who": "mei"
+    },
+    {
+     "id": "list",
+     "start": 331.652,
+     "end": 340.527,
+     "cap": "**Nib:** Then **zoom out** to patterns: the **present participles** 'squeezing, wrenching, grasping, scraping, clutching' pile up relentlessly.",
+     "who": "nib"
+    },
+    {
+     "id": "ext",
+     "start": 341.147,
+     "end": 348.613,
+     "cap": "**Mr H:** And across the whole paragraph, frost, ice and winter form an **extended metaphor** of emotional coldness.",
+     "who": "mrh"
+    },
+    {
+     "id": "stars",
+     "start": 349.213,
+     "end": 353.117,
+     "cap": "**Mei:** Two stars. The pearl inside the oyster actually blew my mind.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "structure",
+   "title": "Structure: follow the writer's camera",
+   "short": "Structure",
+   "card": true,
+   "start": 354.497,
+   "end": 447.217,
+   "lines": [
+    {
+     "id": "trap",
+     "start": 356.297,
+     "end": 361.503,
+     "cap": "**Question 4:** Warning! Question five says: **How has the writer structured the text to interest the reader?**",
+     "who": "qmark"
+    },
+    {
+     "id": "para",
+     "start": 362.103,
+     "end": 367.628,
+     "cap": "**Mei:** Easy! 'The writer uses paragraphs and punctuation, and also the metaphor silver curtain—'",
+     "who": "mei"
+    },
+    {
+     "id": "buzz",
+     "start": 368.198,
+     "end": 373.915,
+     "cap": "**Question 4:** STOP! 'Silver curtain' is **language**! Analysing metaphors in a **structure** question scores zero!",
+     "who": "qmark"
+    },
+    {
+     "id": "arch",
+     "start": 374.555,
+     "end": 381.574,
+     "cap": "**Mr H:** Language is the **words**. Structure is the **architecture**: order, focus, pace, openings and endings.",
+     "who": "mrh"
+    },
+    {
+     "id": "marley",
+     "start": 382.194,
+     "end": 389.49,
+     "cap": "**Will:** Look at how Dickens opens: '**Marley was dead: to begin with.**' A blunt shock — then 'to begin with' **foreshadows** a ghost!",
+     "who": "will"
+    },
+    {
+     "id": "cam",
+     "start": 390.13,
+     "end": 395.037,
+     "cap": "**Sherlock:** Track the text like a **camera** from start to middle to end. Watch the passage **Monsoon**.",
+     "who": "sherlock"
+    },
+    {
+     "id": "wide",
+     "start": 395.637,
+     "end": 402.506,
+     "cap": "**Mr H:** **At the start**, a **wide shot**: the whole sky over Toa Payoh holding its breath, establishing tension.",
+     "who": "mrh"
+    },
+    {
+     "id": "mid",
+     "start": 403.106,
+     "end": 410.978,
+     "cap": "**Nib:** **In the middle**, the focus narrows to Mei waiting, with **foreshadowing**: Wei Jie never broke a promise — 'not until today'.",
+     "who": "nib"
+    },
+    {
+     "id": "drop",
+     "start": 411.598,
+     "end": 418.318,
+     "cap": "**Mr H:** Then a **close-up**: one fat raindrop landing on her wrist. Followed by a tiny **one-line paragraph**.",
+     "who": "mrh"
+    },
+    {
+     "id": "minor",
+     "start": 418.918,
+     "end": 424.891,
+     "cap": "**Mei:** '**Then another. Then a thousand.**' Two short **minor sentences** speed up the **pace** as the storm explodes!",
+     "who": "mei"
+    },
+    {
+     "id": "kevin",
+     "start": 425.511,
+     "end": 430.439,
+     "cap": "**Kevin:** And nobody put me between them! Thank goodness! Two separate punches, not a comma splice!",
+     "who": "kevin"
+    },
+    {
+     "id": "cliff",
+     "start": 431.039,
+     "end": 437.439,
+     "cap": "**Sherlock:** **By the end**, one isolated line: '**It was not Wei Jie.**' A **cliffhanger** shifting tension from storm to stranger.",
+     "who": "sherlock"
+    },
+    {
+     "id": "cyc",
+     "start": 438.059,
+     "end": 445.867,
+     "cap": "**Nib:** And if an ending echoes the opening — like the stubborn key in **Number 47** — call it a **cyclical structure**.",
+     "who": "nib"
+    }
+   ]
+  },
+  {
+   "id": "judge",
+   "title": "Non-fiction, summary and evaluation",
+   "short": "Summary & judge",
+   "card": true,
+   "start": 447.217,
+   "end": 539.127,
+   "lines": [
+    {
+     "id": "fri",
+     "start": 449.017,
+     "end": 453.348,
+     "cap": "**Narrator:** Friday. Non-fiction, summary and the big ten-mark evaluation question.",
+     "who": "narr"
+    },
+    {
+     "id": "nonfic",
+     "start": 453.948,
+     "end": 461.223,
+     "cap": "**Mr H:** For **non-fiction** — articles, journals, speeches, travel writing — spot **form**, **audience**, **purpose** and **viewpoint**.",
+     "who": "mrh"
+    },
+    {
+     "id": "check",
+     "start": 461.843,
+     "end": 468.755,
+     "cap": "**Sherlock:** Separate **fact** from **opinion**: **Check it or Challenge it**. 'In **1977** the clean-up began' — you can **check** it. Fact!",
+     "who": "sherlock"
+    },
+    {
+     "id": "chal",
+     "start": 469.375,
+     "end": 475.817,
+     "cap": "**Mei:** 'Otters are the **best news** our city has had in years' — someone with a koi pond could **challenge** 'best'. Opinion!",
+     "who": "mei"
+    },
+    {
+     "id": "scott",
+     "start": 476.437,
+     "end": 484.501,
+     "cap": "**Nib:** Even if everyone agrees with Scott calling the South Pole 'an **awful** place', 'awful' is still a **judgement**, so it's an **opinion**.",
+     "who": "nib"
+    },
+    {
+     "id": "sum",
+     "start": 485.121,
+     "end": 492.417,
+     "cap": "**Question 4:** For a **summary**: select relevant points, condense them **in your own words**, one point per mark. **No quotes, no language analysis!**",
+     "who": "qmark"
+    },
+    {
+     "id": "eval",
+     "start": 493.057,
+     "end": 499.628,
+     "cap": "**Mr H:** Finally, **evaluation**: '**How far do you agree?**' Those words '**how far**' are a gift — weigh **both** sides.",
+     "who": "mrh"
+    },
+    {
+     "id": "task",
+     "start": 500.248,
+     "end": 505.645,
+     "cap": "**Question 4:** Statement: 'Scott's journal is as much a **public message** as a **private diary**.' Climb the ladder, Mei!",
+     "who": "qmark"
+    },
+    {
+     "id": "p1",
+     "start": 506.245,
+     "end": 512.219,
+     "cap": "**Mei:** **Verdict**: I **largely agree** — it begins as a private log, yet is shaped for the nation to read.",
+     "who": "mei"
+    },
+    {
+     "id": "p2",
+     "start": 512.789,
+     "end": 518.911,
+     "cap": "**Mei:** **Counter-view**: dated entries about gale winds and '**two cups of tea**' feel like practical survival notes.",
+     "who": "mei"
+    },
+    {
+     "id": "p3",
+     "start": 519.481,
+     "end": 525.967,
+     "cap": "**Mei:** **Evidence for**: **However**, 'Should this be found' and praising Oates as 'an **English gentleman**' address future readers.",
+     "who": "mei"
+    },
+    {
+     "id": "p4",
+     "start": 526.567,
+     "end": 532.775,
+     "cap": "**Mei:** **Link**: knowing '**our dead bodies must tell the tale**', Scott turns a tent diary into public testimony.",
+     "who": "mei"
+    },
+    {
+     "id": "tears",
+     "start": 533.395,
+     "end": 537.747,
+     "cap": "**Question 4:** She read the question! She weighed both sides! These are **happy** tears! Full marks!",
+     "who": "qmark"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 539.127,
+   "end": 613.159,
+   "lines": [
+    {
+     "id": "bell",
+     "start": 540.927,
+     "end": 544.02,
+     "cap": "**Narrator:** Before the bell, Room 8H's mark-saving checklist.",
+     "who": "narr"
+    },
+    {
+     "id": "hooks",
+     "start": 544.62,
+     "end": 556.14,
+     "cap": "**Mei:** Memory hooks! Seven types: **Really Inquisitive Victors Love Solving Sneaky Exams**. Analysis: **What, How, Why**. Timing: **a mark a minute**. Facts: **Check it or Challenge it**.",
+     "who": "mei"
+    },
+    {
+     "id": "t1",
+     "start": 556.81,
+     "end": 561.61,
+     "cap": "**Question 4:** One. Stay inside the **line numbers**! Evidence from the wrong paragraph scores **nothing**.",
+     "who": "qmark"
+    },
+    {
+     "id": "t2",
+     "start": 562.21,
+     "end": 569.207,
+     "cap": "**Nib:** Two. Never **feature-spot** or write 'makes the reader want to read on'. Marks come from the **specific effect**.",
+     "who": "nib"
+    },
+    {
+     "id": "t3",
+     "start": 569.807,
+     "end": 576.805,
+     "cap": "**Sherlock:** Three. '**In your own words**' means genuine paraphrase — never recycle the writer's key words, and never guess without clues.",
+     "who": "sherlock"
+    },
+    {
+     "id": "t4",
+     "start": 577.425,
+     "end": 585.425,
+     "cap": "**Mr H:** Four. In a **structure** question, track shifts in focus, zoom and pace — don't analyse metaphors or retell the plot.",
+     "who": "mrh"
+    },
+    {
+     "id": "t5",
+     "start": 586.045,
+     "end": 592.295,
+     "cap": "**Kevin:** Five. In a **summary**, no quotations and no language analysis! And watch the clock on one-mark questions!",
+     "who": "kevin"
+    },
+    {
+     "id": "t6",
+     "start": 592.915,
+     "end": 599.678,
+     "cap": "**Will:** Six. On '**How far do you agree?**', give a clear verdict like '**I largely agree, although...**' and include a counter-view.",
+     "who": "will"
+    },
+    {
+     "id": "rev",
+     "start": 600.348,
+     "end": 605.575,
+     "cap": "**Mei:** Reading Comprehension: **four stars**. Way easier once you actually read the question.",
+     "who": "mei"
+    },
+    {
+     "id": "four",
+     "start": 606.215,
+     "end": 608.924,
+     "cap": "**Question 4:** Four stars out of five?! Show your evidence!",
+     "who": "qmark"
+    },
+    {
+     "id": "long",
+     "start": 609.524,
+     "end": 611.359,
+     "cap": "**Mei:** The passages are a bit long, lah.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 613.159,
+   "end": 704.685,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 614.959,
+     "end": 619.097,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 619.717,
+     "end": 622.704,
+     "cap": "**Mr H:** What is the difference between **skimming** and **scanning**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 627.024,
+     "end": 632.187,
+     "cap": "**Mei:** **Skimming** reads quickly for the overall **gist**; **scanning** hunts for one **specific detail**.",
+     "who": "mei"
+    },
+    {
+     "id": "q2",
+     "start": 632.507,
+     "end": 637.84,
+     "cap": "**Mr H:** A question asks what a character's behaviour **suggests**. Which question type is that?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 642.16,
+     "end": 645.637,
+     "cap": "**Sherlock:** **Inference** — reading between the lines using **clues** from the text.",
+     "who": "sherlock"
+    },
+    {
+     "id": "q3",
+     "start": 645.957,
+     "end": 651.824,
+     "cap": "**Mr H:** In Jack London's phrase 'an intangible **pall**', what does **pall** connote beyond darkness?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 656.144,
+     "end": 661.989,
+     "cap": "**Nib:** **Death and funerals** — a pall is the cloth laid over a coffin, foreshadowing danger.",
+     "who": "nib"
+    },
+    {
+     "id": "q4",
+     "start": 662.309,
+     "end": 667.216,
+     "cap": "**Mr H:** Why does a **one-line paragraph** like 'It was not Wei Jie.' count as **structure**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 671.536,
+     "end": 676.741,
+     "cap": "**Question 4:** Because isolating a short sentence controls **pace** and **focus**, ending on a **cliffhanger**.",
+     "who": "qmark"
+    },
+    {
+     "id": "q5",
+     "start": 677.061,
+     "end": 680.389,
+     "cap": "**Mr H:** Is 'This is an **awful** place' a **fact** or an **opinion**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 684.709,
+     "end": 689.765,
+     "cap": "**Kevin:** An **opinion**! Even if everyone agrees, '**awful**' is a judgement you can challenge, not check.",
+     "who": "kevin"
+    },
+    {
+     "id": "outro",
+     "start": 690.085,
+     "end": 695.333,
+     "cap": "**Mr H:** Brilliant work. Now try the **Reading Comprehension** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "st1",
+     "start": 696.053,
+     "end": 699.061,
+     "cap": "**Question 4:** And read every word of the question before you click!",
+     "who": "qmark"
+    },
+    {
+     "id": "st2",
+     "start": 699.661,
+     "end": 702.285,
+     "cap": "**Will:** Especially if it's about me.",
+     "who": "will"
+    }
+   ]
+  }
+ ],
+ "total": 704.685
+}

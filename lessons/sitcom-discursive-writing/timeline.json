@@ -1,0 +1,731 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 56.034,
+   "lines": [
+    {
+     "id": "open",
+     "start": 0.6,
+     "end": 6.253,
+     "cap": "**Narrator:** Monday. Room 8H. Mr Hargreaves is on mug number seventeen, and Mei is clutching her phone.",
+     "who": "narr"
+    },
+    {
+     "id": "task",
+     "start": 6.823,
+     "end": 11.261,
+     "cap": "**Mr H:** Timed essay: '**Mobile phones should be banned in schools.**' **Discuss**.",
+     "who": "mrh"
+    },
+    {
+     "id": "rant",
+     "start": 11.881,
+     "end": 17.854,
+     "cap": "**Mei:** Line one: 'I THINK BANNING PHONES IS STUPID AND ANYONE WHO AGREES IS CLUELESS, EXCLAMATION MARK!'",
+     "who": "mei"
+    },
+    {
+     "id": "ink",
+     "start": 18.524,
+     "end": 23.601,
+     "cap": "**Nib:** ALL CAPS?! Five exclamation marks?! I have leaked straight through the desk!",
+     "who": "nib"
+    },
+    {
+     "id": "one",
+     "start": 24.201,
+     "end": 29.3,
+     "cap": "**One Hand:** Steady now. On the **one hand**, phones distract pupils and can fuel lunchtime cyberbullying.",
+     "who": "onehand"
+    },
+    {
+     "id": "other",
+     "start": 29.92,
+     "end": 35.147,
+     "cap": "**Other Hand:** **On the other hand**, phones are pocket dictionaries and keep parents in touch on the MRT!",
+     "who": "otherhand"
+    },
+    {
+     "id": "gloves",
+     "start": 35.767,
+     "end": 39.479,
+     "cap": "**Mei:** Why are two giant velvet gloves sitting on Mr H's desk?!",
+     "who": "mei"
+    },
+    {
+     "id": "will",
+     "start": 40.049,
+     "end": 45.766,
+     "cap": "**Will:** In my plays, two sides settle an argument with rapiers! Though brass scales are shinier.",
+     "who": "will"
+    },
+    {
+     "id": "rev",
+     "start": 46.366,
+     "end": 49.737,
+     "cap": "**Mei:** Arguing fairly with people who want my phone: **one star**.",
+     "who": "mei"
+    },
+    {
+     "id": "title",
+     "start": 50.457,
+     "end": 53.934,
+     "cap": "**Narrator:** All the School's a Stage. Episode twelve: On the Other Hand.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "spectrum",
+   "title": "Think before you shout",
+   "short": "What & CID intro",
+   "card": true,
+   "start": 56.034,
+   "end": 137.106,
+   "lines": [
+    {
+     "id": "tue",
+     "start": 57.834,
+     "end": 60.586,
+     "cap": "**Narrator:** Tuesday. The brass scales have claimed the front desk.",
+     "who": "narr"
+    },
+    {
+     "id": "latin",
+     "start": 61.156,
+     "end": 71.652,
+     "cap": "**Nib:** **Discursive** comes from Latin *discurrere*, '**to run to and fro**' — like Montaigne's *essayer*, 'to try' an idea.",
+     "who": "nib"
+    },
+    {
+     "id": "pers",
+     "start": 72.272,
+     "end": 79.525,
+     "cap": "**Mr H:** Know the spectrum. **Persuasive** writing pushes **one** view using emotive language and rhetorical questions.",
+     "who": "mrh"
+    },
+    {
+     "id": "arg",
+     "start": 80.125,
+     "end": 86.333,
+     "cap": "**Mr H:** **Argumentative** writing also picks **one** side from paragraph one, defending it with logic.",
+     "who": "mrh"
+    },
+    {
+     "id": "disc",
+     "start": 86.903,
+     "end": 92.685,
+     "cap": "**One Hand:** **Discursive** writing explores **both sides fairly** in a calm tone, holding your verdict until the **conclusion**.",
+     "who": "onehand"
+    },
+    {
+     "id": "words",
+     "start": 93.305,
+     "end": 98.019,
+     "cap": "**Other Hand:** Spot the task command words: '**Discuss**', '**Consider both sides**', or '**To what extent**'!",
+     "who": "otherhand"
+    },
+    {
+     "id": "test",
+     "start": 98.619,
+     "end": 106.683,
+     "cap": "**Mr H:** Fairness test: if a reader who **disagrees** with you finishes your essay and thinks, 'that was fair to my side', you've nailed it.",
+     "who": "mrh"
+    },
+    {
+     "id": "cid",
+     "start": 107.303,
+     "end": 115.431,
+     "cap": "**Mr H:** Open with **CID**: **Context** why it matters now, **Issue** naming both sides, **Direction** signposting the weighing.",
+     "who": "mrh"
+    },
+    {
+     "id": "secret",
+     "start": 116.051,
+     "end": 122.281,
+     "cap": "**Nib:** And like a detective in the CID, keep your **final verdict secret** in the introduction!",
+     "who": "nib"
+    },
+    {
+     "id": "bad",
+     "start": 122.881,
+     "end": 128.427,
+     "cap": "**Mei:** So I cut 'In this essay I will talk about', dictionary definitions, and 'Since the dawn of time'?",
+     "who": "mei"
+    },
+    {
+     "id": "zoos",
+     "start": 129.027,
+     "end": 135.726,
+     "cap": "**Other Hand:** Instead, contrast both views vividly: some see zoos as modern **arks**, others as **prisons** with a gift shop!",
+     "who": "otherhand"
+    }
+   ]
+  },
+  {
+   "id": "structure",
+   "title": "Block versus point-counterpoint",
+   "short": "Plan & structure",
+   "card": true,
+   "start": 137.106,
+   "end": 208.859,
+   "lines": [
+    {
+     "id": "lib",
+     "start": 138.906,
+     "end": 142.81,
+     "cap": "**Narrator:** Wednesday. The library. Mei has forty-five minutes and zero plan.",
+     "who": "narr"
+    },
+    {
+     "id": "tchart",
+     "start": 143.38,
+     "end": 149.951,
+     "cap": "**Mr H:** Never start writing at minute zero. Spend **five to eight minutes** on a **T-chart** plan: For and Against.",
+     "who": "mrh"
+    },
+    {
+     "id": "pick",
+     "start": 150.571,
+     "end": 155.733,
+     "cap": "**One Hand:** Star the **best three** points on each side, and decide your **final judgement** before you write line one.",
+     "who": "onehand"
+    },
+    {
+     "id": "block",
+     "start": 156.333,
+     "end": 164.376,
+     "cap": "**Mr H:** Way one: **block structure**. All arguments **for**, a turning-point sentence, then all arguments **against**. Safe and clear.",
+     "who": "mrh"
+    },
+    {
+     "id": "alt",
+     "start": 164.996,
+     "end": 172.463,
+     "cap": "**Other Hand:** Way two: **alternating structure** — point and counterpoint clash **inside each paragraph** by aspect, like cost or wellbeing!",
+     "who": "otherhand"
+    },
+    {
+     "id": "fourday",
+     "start": 173.083,
+     "end": 181.851,
+     "cap": "**Mei:** Like on a four-day school week: paragraph one weighs rested pupils against tired eight-year-olds; paragraph two weighs school bills against childcare!",
+     "who": "mei"
+    },
+    {
+     "id": "mythbal",
+     "start": 182.491,
+     "end": 187.845,
+     "cap": "**One Hand:** And remember: **balance** means treating both sides **fairly**, not counting out the exact same number of words!",
+     "who": "onehand"
+    },
+    {
+     "id": "second",
+     "start": 188.445,
+     "end": 194.824,
+     "cap": "**Nib:** Top-band secret: whichever structure you choose, put the side you finally **agree with second**.",
+     "who": "nib"
+    },
+    {
+     "id": "fresh",
+     "start": 195.424,
+     "end": 201.013,
+     "cap": "**Mei:** Aha! Because the side the reader hears **last** leads straight into my conclusion! Two stars!",
+     "who": "mei"
+    },
+    {
+     "id": "check",
+     "start": 201.633,
+     "end": 207.479,
+     "cap": "**Mr H:** Write for thirty minutes, and save **five minutes** at the end to check markers and punctuation.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "tone",
+   "title": "Keep your claims light",
+   "short": "Tone & markers",
+   "card": true,
+   "start": 208.859,
+   "end": 292.889,
+   "lines": [
+    {
+     "id": "thu",
+     "start": 210.659,
+     "end": 215.651,
+     "cap": "**Narrator:** Thursday. Room 8H. Nib is patrolling Mei's essay with a magnifying glass.",
+     "who": "narr"
+    },
+    {
+     "id": "reg",
+     "start": 216.221,
+     "end": 226.141,
+     "cap": "**Nib:** Discursive essays demand a **formal register**: no slang like 'loads of kids', no contractions, no loaded insults like '**ridiculous**'!",
+     "who": "nib"
+    },
+    {
+     "id": "imp",
+     "start": 226.761,
+     "end": 233.438,
+     "cap": "**One Hand:** Use **impersonal constructions** and the **passive voice** to stay objective: '**It could be argued that**...', '**It has been suggested that**...'",
+     "who": "onehand"
+    },
+    {
+     "id": "verbs",
+     "start": 234.058,
+     "end": 239.626,
+     "cap": "**Other Hand:** And pick exact **reporting verbs**: critics **suggest**, campaigners **insist**, supporters **concede**!",
+     "who": "otherhand"
+    },
+    {
+     "id": "hedge",
+     "start": 240.226,
+     "end": 246.967,
+     "cap": "**Mr H:** Climb only as high up the certainty ladder as your proof allows. **Could, may, might: keep your claims light**.",
+     "who": "mrh"
+    },
+    {
+     "id": "qual",
+     "start": 247.587,
+     "end": 255.097,
+     "cap": "**Mei:** Not 'All teenagers are addicted to phones' — '**Many** teenagers report they **may** find it hard to switch off'! Though don't over-hedge into mush!",
+     "who": "mei"
+    },
+    {
+     "id": "mark",
+     "start": 255.717,
+     "end": 266.597,
+     "cap": "**Nib:** Signpost every turn with **discourse markers**: **furthermore** to add, **conversely** for the opposite side, **nevertheless** for 'despite that', **consequently** for a result!",
+     "who": "nib"
+    },
+    {
+     "id": "splice",
+     "start": 267.237,
+     "end": 271.418,
+     "cap": "**Mei:** Look! 'Phones can distract pupils, **however**, they help with research.' Done!",
+     "who": "mei"
+    },
+    {
+     "id": "panic",
+     "start": 271.988,
+     "end": 279.156,
+     "cap": "**Kevin:** COMMA SPLICE! You joined two complete sentences with just ME before 'however'! I can't hold two whole clauses! Get the bag!",
+     "who": "kevin"
+    },
+    {
+     "id": "semi",
+     "start": 279.796,
+     "end": 285.833,
+     "cap": "**Mr H:** When '**however**' joins two full sentences, put a **semicolon before** it and a **comma after** it.",
+     "who": "mrh"
+    },
+    {
+     "id": "saved",
+     "start": 286.433,
+     "end": 291.489,
+     "cap": "**Kevin:** Semicolon in front, Kevin right after 'however,'! Oh, look at us! Punctuation teamwork!",
+     "who": "kevin"
+    }
+   ]
+  },
+  {
+   "id": "rebuttal",
+   "title": "Steelman, don't straw-man",
+   "short": "Evidence & PEER",
+   "card": true,
+   "start": 292.889,
+   "end": 387.164,
+   "lines": [
+    {
+     "id": "hall",
+     "start": 294.689,
+     "end": 297.889,
+     "cap": "**Narrator:** Thursday afternoon. Debate stage in the school hall.",
+     "who": "narr"
+    },
+    {
+     "id": "evid",
+     "start": 298.459,
+     "end": 307.035,
+     "cap": "**Mr H:** Four kinds of **evidence**, strongest to weakest: **large studies**, **expert opinion**, **real-world examples**, and a lone **anecdote**.",
+     "who": "mrh"
+    },
+    {
+     "id": "oryx",
+     "start": 307.655,
+     "end": 312.647,
+     "cap": "**One Hand:** Real example: captive breeding saved the **Arabian oryx** after it went extinct in the wild!",
+     "who": "onehand"
+    },
+    {
+     "id": "honest",
+     "start": 313.247,
+     "end": 323.018,
+     "cap": "**Mr H:** Never invent fake statistics and pin them on a real organisation. In practice essays, label them '**hypothetical**' — 'Imagine a survey...'",
+     "who": "mrh"
+    },
+    {
+     "id": "testev",
+     "start": 323.658,
+     "end": 330.378,
+     "cap": "**Other Hand:** And interrogate the other side's evidence! Who funded that uniform survey — a company that **sells school uniforms**?!",
+     "who": "otherhand"
+    },
+    {
+     "id": "straw",
+     "start": 330.978,
+     "end": 337.762,
+     "cap": "**Will:** To crush my opponents, I shall claim homework-haters despise all human knowledge! Behold my scarecrow!",
+     "who": "will"
+    },
+    {
+     "id": "steel",
+     "start": 338.382,
+     "end": 345.145,
+     "cap": "**Other Hand:** That's a **straw man**, Will — exaggerating the other side so it's easy to knock over! Present their **strongest** case: **steelmanning**!",
+     "who": "otherhand"
+    },
+    {
+     "id": "engine",
+     "start": 345.785,
+     "end": 352.505,
+     "cap": "**Nib:** Then answer with a **rebuttal** using the concede-then-counter engine: '**Admittedly... However... Therefore...**'",
+     "who": "nib"
+    },
+    {
+     "id": "p",
+     "start": 353.125,
+     "end": 361.402,
+     "cap": "**Mei:** Let's build a **PEER** paragraph — PEEL with a **Reply**! **Point**: Supporters of a phone ban argue notifications fracture concentration.",
+     "who": "mei"
+    },
+    {
+     "id": "e",
+     "start": 362.002,
+     "end": 367.421,
+     "cap": "**Mei:** **Evidence**: Teachers report pupils can take several minutes to refocus after a single buzz.",
+     "who": "mei"
+    },
+    {
+     "id": "ex",
+     "start": 367.991,
+     "end": 374.028,
+     "cap": "**Mei:** **Explain**: **This suggests that** phones quietly erode lesson time, even when nobody is texting.",
+     "who": "mei"
+    },
+    {
+     "id": "r",
+     "start": 374.628,
+     "end": 382.436,
+     "cap": "**Mei:** **Reply**: **Admittedly**, phones aid quick research; **however**, school laptops provide that benefit without personal group chats.",
+     "who": "mei"
+    },
+    {
+     "id": "tip",
+     "start": 383.076,
+     "end": 385.764,
+     "cap": "**One Hand:** The scales just tipped! Three and a half stars!",
+     "who": "onehand"
+    }
+   ]
+  },
+  {
+   "id": "verdict",
+   "title": "Weigh it, judge it, finish it",
+   "short": "Conclusions & novel",
+   "card": true,
+   "start": 387.164,
+   "end": 461.987,
+   "lines": [
+    {
+     "id": "fri",
+     "start": 388.964,
+     "end": 391.503,
+     "cap": "**Narrator:** Friday. Mei reaches her final paragraph.",
+     "who": "narr"
+    },
+    {
+     "id": "fence",
+     "start": 392.073,
+     "end": 396.681,
+     "cap": "**Mei:** Conclusion: 'There are good points on both sides, so it's up to the reader to decide!'",
+     "who": "mei"
+    },
+    {
+     "id": "nofence",
+     "start": 397.281,
+     "end": 404.726,
+     "cap": "**Mr H:** Off the fence, Mei. '**Discuss**' still requires a reasoned verdict. Use **WJF**: **Weigh, Judge, Finish**.",
+     "who": "mrh"
+    },
+    {
+     "id": "wjf",
+     "start": 405.346,
+     "end": 411.789,
+     "cap": "**One Hand:** **Weigh** the strongest point on each side, **Judge** starting with '**On balance...**', and **Finish** with a final thought — **zero new arguments**!",
+     "who": "onehand"
+    },
+    {
+     "id": "qual",
+     "start": 412.429,
+     "end": 419.277,
+     "cap": "**Other Hand:** Even smarter is a **qualified judgement** — 'yes, **provided that**...': lock phones away in lessons, allow them on the journey home!",
+     "who": "otherhand"
+    },
+    {
+     "id": "equal",
+     "start": 419.897,
+     "end": 426.126,
+     "cap": "**Nib:** Or on school uniform: 'A uniform should make pupils **equal, not identical**.' Crisp!",
+     "who": "nib"
+    },
+    {
+     "id": "novel",
+     "start": 426.726,
+     "end": 434.619,
+     "cap": "**Mr H:** In Term 3, you'll also write discursive essays on the **novel**: 'Is Scrooge's change in A Christmas Carol **believable**?'",
+     "who": "mrh"
+    },
+    {
+     "id": "unbel",
+     "start": 435.239,
+     "end": 440.039,
+     "cap": "**Other Hand:** Against: nobody reverses a lifetime of greed in **one night** just from a fright!",
+     "who": "otherhand"
+    },
+    {
+     "id": "bel",
+     "start": 440.639,
+     "end": 447.722,
+     "cap": "**One Hand:** For: Dickens plants the lonely schoolboy in Stave Two and that '**solitary as an oyster**' pearl — plus it's a **moral fable**, not realism!",
+     "who": "onehand"
+    },
+    {
+     "id": "earned",
+     "start": 448.362,
+     "end": 455.082,
+     "cap": "**Mei:** **On balance**, the speed strains realism, yet within Dickens's ghostly fable the transformation feels earned!",
+     "who": "mei"
+    },
+    {
+     "id": "sigh",
+     "start": 455.702,
+     "end": 460.587,
+     "cap": "**Mr H:** Balanced, hedged, and judged. I might even let you keep your phone at break.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 461.987,
+   "end": 536.411,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 463.787,
+     "end": 467.947,
+     "cap": "**Narrator:** Before pens down, the scales of Room 8H would like to save you some marks.",
+     "who": "narr"
+    },
+    {
+     "id": "h1",
+     "start": 468.547,
+     "end": 475.139,
+     "cap": "**Mei:** Memory hooks! **CID** for the intro — keep the verdict secret; **PEER** to add a Reply in body paragraphs!",
+     "who": "mei"
+    },
+    {
+     "id": "h2",
+     "start": 475.759,
+     "end": 480.709,
+     "cap": "**One Hand:** **Could, may, might: keep your claims light**; and **WJF** — **Weigh, Judge, Finish** — in the conclusion!",
+     "who": "onehand"
+    },
+    {
+     "id": "t1",
+     "start": 481.329,
+     "end": 486.769,
+     "cap": "**Mr H:** One. Never blurt your **final opinion** in the introduction — save it for the conclusion.",
+     "who": "mrh"
+    },
+    {
+     "id": "t2",
+     "start": 487.369,
+     "end": 494.323,
+     "cap": "**Nib:** Two. Don't write a one-sided **persuasive rant** or use slang and loaded words like 'stupid' or 'clueless'.",
+     "who": "nib"
+    },
+    {
+     "id": "t3",
+     "start": 494.923,
+     "end": 500.47,
+     "cap": "**Other Hand:** Three. Don't **sit on the fence** at the end, and never drop a **brand-new argument** into the conclusion!",
+     "who": "otherhand"
+    },
+    {
+     "id": "t4",
+     "start": 501.07,
+     "end": 508.302,
+     "cap": "**Will:** Four. Never set up a weak **straw man**, and never fake real statistics — label practice ones **hypothetical**!",
+     "who": "will"
+    },
+    {
+     "id": "t5",
+     "start": 508.902,
+     "end": 514.598,
+     "cap": "**Mr H:** Five. Always **explain** your evidence with 'This suggests that...' — never drop and run.",
+     "who": "mrh"
+    },
+    {
+     "id": "t6",
+     "start": 515.198,
+     "end": 521.086,
+     "cap": "**Kevin:** Six. Joining two full sentences with '**however**'? **Semicolon before, comma after**! Save a comma's life!",
+     "who": "kevin"
+    },
+    {
+     "id": "rev",
+     "start": 521.726,
+     "end": 528.617,
+     "cap": "**Mei:** **On balance**, discursive writing gets **four and a half stars** — provided nobody takes my phone on the MRT.",
+     "who": "mei"
+    },
+    {
+     "id": "will2",
+     "start": 529.257,
+     "end": 534.611,
+     "cap": "**Will:** Admittedly, she withheld half a star; nevertheless, her hedging was impeccable.",
+     "who": "will"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 536.411,
+   "end": 624.617,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 538.211,
+     "end": 542.35,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 542.97,
+     "end": 547.855,
+     "cap": "**Mr H:** What do the three letters of **CID** stand for in a discursive introduction?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 552.175,
+     "end": 556.122,
+     "cap": "**Mei:** **Context, Issue, and Direction** — keeping your final verdict secret!",
+     "who": "mei"
+    },
+    {
+     "id": "q2",
+     "start": 556.442,
+     "end": 560.645,
+     "cap": "**Mr H:** How do you punctuate '**however**' when it joins two complete sentences?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 564.965,
+     "end": 567.674,
+     "cap": "**Kevin:** A **semicolon before** 'however' and a **comma after** it!",
+     "who": "kevin"
+    },
+    {
+     "id": "q3",
+     "start": 567.994,
+     "end": 574.245,
+     "cap": "**Mr H:** What do we call a weak, exaggerated version of the opposing view set up just to knock down?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 578.565,
+     "end": 582.447,
+     "cap": "**Other Hand:** A **straw man** argument! Present their strongest case instead.",
+     "who": "otherhand"
+    },
+    {
+     "id": "q4",
+     "start": 582.767,
+     "end": 587.866,
+     "cap": "**Mr H:** Which three discourse markers power the **concede-then-counter** rebuttal pattern?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 592.186,
+     "end": 594.789,
+     "cap": "**Nib:** '**Admittedly... However... Therefore...**'",
+     "who": "nib"
+    },
+    {
+     "id": "q5",
+     "start": 595.109,
+     "end": 599.567,
+     "cap": "**Mr H:** What three things must a discursive conclusion do: **WJF**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 603.887,
+     "end": 607.898,
+     "cap": "**One Hand:** **Weigh** the strongest points, **Judge** with a reason, and **Finish** with a final thought!",
+     "who": "onehand"
+    },
+    {
+     "id": "outro",
+     "start": 608.218,
+     "end": 613.295,
+     "cap": "**Mr H:** Brilliant work. Now try the **Discursive Writing** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "st1",
+     "start": 614.015,
+     "end": 615.765,
+     "cap": "**One Hand:** After you, Other Hand.",
+     "who": "onehand"
+    },
+    {
+     "id": "st2",
+     "start": 616.335,
+     "end": 618.809,
+     "cap": "**Other Hand:** Conversely, after YOU, One Hand!",
+     "who": "otherhand"
+    },
+    {
+     "id": "st3",
+     "start": 619.379,
+     "end": 622.217,
+     "cap": "**Mr H:** You're going to be in that doorway until June.",
+     "who": "mrh"
+    }
+   ]
+  }
+ ],
+ "total": 624.617
+}

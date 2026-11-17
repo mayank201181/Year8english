@@ -1,0 +1,696 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 64.246,
+   "lines": [
+    {
+     "id": "tues",
+     "start": 0.6,
+     "end": 5.997,
+     "cap": "**Narrator:** Tuesday. Room 8H. Mr Hargreaves has reached mug twenty-two. Essay drafts are due.",
+     "who": "narr"
+    },
+    {
+     "id": "read",
+     "start": 6.597,
+     "end": 15.451,
+     "cap": "**Mei:** 'Romeo climbs the wall. \"But, soft! what light through yonder window breaks? It is the east, and Juliet is the sun.\" This shows he loves her.'",
+     "who": "mei"
+    },
+    {
+     "id": "crash",
+     "start": 16.121,
+     "end": 20.217,
+     "cap": "**Quotey:** OW! My serifs! You just **dropped** me onto the floor with no sentence holding me up!",
+     "who": "quotey"
+    },
+    {
+     "id": "who",
+     "start": 20.887,
+     "end": 23.745,
+     "cap": "**Mei:** Did... did my quotation marks just yell at me?",
+     "who": "mei"
+    },
+    {
+     "id": "iam",
+     "start": 24.315,
+     "end": 31.398,
+     "cap": "**Quotey:** Quotey! Golden quotation marks! I am meant to be **woven into grammar**, not dumped between full stops like abandoned luggage!",
+     "who": "quotey"
+    },
+    {
+     "id": "loupe",
+     "start": 32.038,
+     "end": 38.758,
+     "cap": "**Zoom:** Zoom. Jeweller's loupe. Worse: you copied sixteen words of Will's poetry and explained **none** of them.",
+     "who": "zoom"
+    },
+    {
+     "id": "mrh",
+     "start": 39.378,
+     "end": 44.285,
+     "cap": "**Mr H:** Retelling the plot, a **dropped quotation**, and 'this shows'. Level one, Mei.",
+     "who": "mrh"
+    },
+    {
+     "id": "will",
+     "start": 44.905,
+     "end": 50.323,
+     "cap": "**Will:** I wrote the greatest metaphor in Christendom, and she gave essay writing **one star**.",
+     "who": "will"
+    },
+    {
+     "id": "conf",
+     "start": 50.963,
+     "end": 53.673,
+     "cap": "**Mei:** I proved he loved her! What else do they want from me?!",
+     "who": "mei"
+    },
+    {
+     "id": "climb",
+     "start": 54.273,
+     "end": 57.537,
+     "cap": "**Mr H:** Not **what** happens. **How** and **why**. Fetch the ladder.",
+     "who": "mrh"
+    },
+    {
+     "id": "title",
+     "start": 58.257,
+     "end": 62.246,
+     "cap": "**Narrator:** All the School's a Stage. Episode fifteen: Climbing the PEEL Ladder.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "levels",
+   "title": "Analysis, not retelling — and your thesis",
+   "short": "Levels & thesis",
+   "card": true,
+   "start": 64.246,
+   "end": 149.718,
+   "lines": [
+    {
+     "id": "greek",
+     "start": 66.046,
+     "end": 74.451,
+     "cap": "**Nib:** **Analysis** comes from Greek **analusis** — untying a knot — and **essay** from French **essayer**, meaning **to try** an argument.",
+     "who": "nib"
+    },
+    {
+     "id": "pundit",
+     "start": 75.071,
+     "end": 83.093,
+     "cap": "**Mr H:** A fan says 'we scored' — that's **retelling**. A pundit explains **how** the winger dragged the defender wide — that's **analysis**.",
+     "who": "mrh"
+    },
+    {
+     "id": "cal",
+     "start": 83.733,
+     "end": 89.813,
+     "cap": "**Will:** Take three words from **The Tempest**, Act 1 Scene 2: Caliban cries, '**This island's mine**'.",
+     "who": "will"
+    },
+    {
+     "id": "l12",
+     "start": 90.433,
+     "end": 98.966,
+     "cap": "**Mr H:** **Level one** retells: 'Caliban says it's his.' **Level two** explains meaning: 'He thinks Prospero stole it.' Still no methods.",
+     "who": "mrh"
+    },
+    {
+     "id": "l3",
+     "start": 99.586,
+     "end": 107.991,
+     "cap": "**Zoom:** **Level three** analyses method: the blunt possessive pronoun '**mine**' sounds fierce and defiant, rejecting Prospero's rule.",
+     "who": "zoom"
+    },
+    {
+     "id": "l4",
+     "start": 108.611,
+     "end": 119.257,
+     "cap": "**Nib:** **Level four** is perceptive: in **1611**, as English ships claimed land in the Americas, '**mine**' challenges whether newcomers own what they take.",
+     "who": "nib"
+    },
+    {
+     "id": "announce",
+     "start": 119.927,
+     "end": 124.684,
+     "cap": "**Mei:** Okay! So I start my essay: 'In this essay I am going to write about Caliban'?",
+     "who": "mei"
+    },
+    {
+     "id": "no",
+     "start": 125.284,
+     "end": 132.345,
+     "cap": "**Nib:** Never **announce**! Open with an arguable **thesis** — the one-sentence argument your whole essay proves.",
+     "who": "nib"
+    },
+    {
+     "id": "form",
+     "start": 132.965,
+     "end": 140.901,
+     "cap": "**Mr H:** Use the formula: **Shakespeare presents** Caliban as both monster and victim, **in order to** make the audience question power.",
+     "who": "mrh"
+    },
+    {
+     "id": "although",
+     "start": 141.541,
+     "end": 148.368,
+     "cap": "**Mei:** Or use **although** for nuance: '**Although** Prospero seems wise, Shakespeare **exposes** his cruelty towards Caliban'!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "embed",
+   "title": "PEEL, PETAL and embedding short quotes",
+   "short": "Embedding quotes",
+   "card": true,
+   "start": 149.718,
+   "end": 235.731,
+   "lines": [
+    {
+     "id": "peel",
+     "start": 151.518,
+     "end": 159.625,
+     "cap": "**Mr H:** Each body paragraph climbs **PEEL**: **Point**, **Evidence**, **Explain**, **Link** — or **PETAL**, splitting Technique and Analysis.",
+     "who": "mrh"
+    },
+    {
+     "id": "jmb",
+     "start": 160.265,
+     "end": 171.315,
+     "cap": "**Will:** When Juliet cries '**My only love sprung from my only hate!**', your **Point** claims love is dangerous, **Evidence** quotes it, **Explain** unpacks the **antithesis**, and **Link** steps back to fate!",
+     "who": "will"
+    },
+    {
+     "id": "longest",
+     "start": 171.985,
+     "end": 179.601,
+     "cap": "**Zoom:** Golden rule: **Explain** is the **longest** part! Milk one tiny quote for three sentences of **What, How, Why**.",
+     "who": "zoom"
+    },
+    {
+     "id": "snip",
+     "start": 180.221,
+     "end": 184.147,
+     "cap": "**Quotey:** Which brings us to me! Remember my motto: **Snip it, slip it, unzip it!**",
+     "who": "quotey"
+    },
+    {
+     "id": "how",
+     "start": 184.767,
+     "end": 189.503,
+     "cap": "**Quotey:** **Snip** the quote down to **one to eight words** — only the words you will actually **unzip**!",
+     "who": "quotey"
+    },
+    {
+     "id": "weave",
+     "start": 190.103,
+     "end": 197.676,
+     "cap": "**Mei:** Then **slip** it into my own sentence: 'Romeo's metaphor of Juliet as \"**the sun**\" suggests his world revolves around her'!",
+     "who": "mei"
+    },
+    {
+     "id": "happy",
+     "start": 198.316,
+     "end": 203.905,
+     "cap": "**Quotey:** Ooh, feel that grammar! Read it aloud without my quote marks — it flows as one smooth English sentence!",
+     "who": "quotey"
+    },
+    {
+     "id": "colon",
+     "start": 204.525,
+     "end": 213.08,
+     "cap": "**Kevin:** Two more ways! Put a **colon** after a full clause: 'Hamlet's disgust is clear**:** Denmark is \"an unweeded garden\".' Or use a comma after 'he cries,'!",
+     "who": "kevin"
+    },
+    {
+     "id": "tools",
+     "start": 213.75,
+     "end": 223.457,
+     "cap": "**Nib:** Keep quotations exact, like '**star-cross'd**'. Use a **slash** for a verse line break, **ellipsis** for cuts, and **square brackets** to adjust grammar.",
+     "who": "nib"
+    },
+    {
+     "id": "brack",
+     "start": 224.097,
+     "end": 230.177,
+     "cap": "**Quotey:** Like: Caliban says Prospero taught '**[him]** language'! Stylish, accurate, and zero bruised quotation marks!",
+     "who": "quotey"
+    },
+    {
+     "id": "stars",
+     "start": 230.797,
+     "end": 234.381,
+     "cap": "**Mei:** Two stars. Snip it, slip it, unzip it is weirdly catchy.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "zoom",
+   "title": "Word-level zoom and analytical verbs",
+   "short": "Word-level zoom",
+   "card": true,
+   "start": 235.731,
+   "end": 316.667,
+   "lines": [
+    {
+     "id": "lib",
+     "start": 237.531,
+     "end": 242.587,
+     "cap": "**Narrator:** Thursday, the library. Zoom is inspecting Percy Bysshe Shelley's sonnet **Ozymandias**.",
+     "who": "narr"
+    },
+    {
+     "id": "ozy",
+     "start": 243.207,
+     "end": 249.308,
+     "cap": "**Will:** A shattered statue in the sand wears a '**sneer of cold command**'. Good line. Wish I'd written it.",
+     "who": "will"
+    },
+    {
+     "id": "den",
+     "start": 249.928,
+     "end": 258.013,
+     "cap": "**Zoom:** **Zoom in** on one word! '**Sneer**': its **denotation** is a curling lip. Swap it for 'smile' and the tyrant vanishes!",
+     "who": "zoom"
+    },
+    {
+     "id": "conn",
+     "start": 258.633,
+     "end": 265.801,
+     "cap": "**Mei:** Because '**sneer**' **connotes** contempt, mockery and cruelty — and the hard 'c' **alliteration** in '**cold command**' sounds barked!",
+     "who": "mei"
+    },
+    {
+     "id": "sem",
+     "start": 266.441,
+     "end": 277.215,
+     "cap": "**Nib:** Name the **word class** and **semantic field**: Dickens's frost, rime and ice build a semantic field of cold, while the verb '**clutching**' shows desperate greed.",
+     "who": "nib"
+    },
+    {
+     "id": "shows",
+     "start": 277.885,
+     "end": 282.301,
+     "cap": "**Mei:** So I write: 'This metaphor **shows** imagery and **makes the reader want to read on**'?",
+     "who": "mei"
+    },
+    {
+     "id": "leak",
+     "start": 282.901,
+     "end": 290.389,
+     "cap": "**Nib:** Ink emergency! Ban '**makes the reader want to read on**', '**creates imagery**' and '**paints a picture in the reader's head**'!",
+     "who": "nib"
+    },
+    {
+     "id": "spot",
+     "start": 291.029,
+     "end": 296.682,
+     "cap": "**Mr H:** And never **feature-spot** — 'there is alliteration here' with no effect earns almost nothing.",
+     "who": "mrh"
+    },
+    {
+     "id": "verbs",
+     "start": 297.282,
+     "end": 308.247,
+     "cap": "**Zoom:** Retire 'shows' after one use! Upgrade to **analytical verbs**: **suggests**, **implies**, **conveys**, **evokes**, **emphasises**, **exposes**, **challenges**, **foreshadows**.",
+     "who": "zoom"
+    },
+    {
+     "id": "suggest",
+     "start": 308.917,
+     "end": 315.317,
+     "cap": "**Mr H:** Notice we say '**suggests**', rarely 'proves' — because great literature invites interpretation.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "alt",
+   "title": "Alternative readings and integrated context",
+   "short": "Deeper readings",
+   "card": true,
+   "start": 316.667,
+   "end": 397.879,
+   "lines": [
+    {
+     "id": "ambig",
+     "start": 318.467,
+     "end": 325.593,
+     "cap": "**Will:** My best lines mean **two** things at once. Hamlet calls the world '**an unweeded garden / That grows to seed**'.",
+     "who": "will"
+    },
+    {
+     "id": "tent",
+     "start": 326.233,
+     "end": 335.022,
+     "cap": "**Nib:** Top-band essays explore **alternative interpretations** using **tentative language**: **perhaps**, **might**, **could**, **arguably**.",
+     "who": "nib"
+    },
+    {
+     "id": "r1",
+     "start": 335.642,
+     "end": 342.106,
+     "cap": "**Mei:** 'The adjective \"**unweeded**\" **perhaps** blames Hamlet's mother for neglecting Denmark through her hasty marriage...'",
+     "who": "mei"
+    },
+    {
+     "id": "r2",
+     "start": 342.706,
+     "end": 351.538,
+     "cap": "**Zoom:** '**Alternatively**, it **may** point to King Claudius, suggesting corruption is choking the whole state.' Then judge which reading is stronger!",
+     "who": "zoom"
+    },
+    {
+     "id": "mir",
+     "start": 352.178,
+     "end": 360.242,
+     "cap": "**Will:** Or when Miranda cries '**O brave new world**', she sounds hopeful — yet Prospero's dry reply, '**'Tis new to thee**', makes it ironic!",
+     "who": "will"
+    },
+    {
+     "id": "ctx",
+     "start": 360.882,
+     "end": 365.874,
+     "cap": "**Mr H:** Now the **L** in PEEL: link to the writer's **purpose**, **audience** and **context**.",
+     "who": "mrh"
+    },
+    {
+     "id": "bolt",
+     "start": 366.474,
+     "end": 373.045,
+     "cap": "**Mei:** Easy! 'William Shakespeare was born in **1564** in Stratford-upon-Avon and married Anne Hathaway.'",
+     "who": "mei"
+    },
+    {
+     "id": "cross",
+     "start": 373.665,
+     "end": 381.089,
+     "cap": "**Mr H:** Cross it out. That's **bolted-on biography** — you could paste it into any essay and it explains zero words.",
+     "who": "mrh"
+    },
+    {
+     "id": "hurt",
+     "start": 381.709,
+     "end": 385.143,
+     "cap": "**Will:** Stratford is a very relevant market town!",
+     "who": "will"
+    },
+    {
+     "id": "stars2",
+     "start": 385.713,
+     "end": 396.529,
+     "cap": "**Nib:** **Integrate** context into the word: for an Elizabethan audience who feared astrology, '**star-cross'd**' marked the lovers as doomed by fate from line six.",
+     "who": "nib"
+    }
+   ]
+  },
+  {
+   "id": "compare",
+   "title": "Comparing two texts and the PEEL showpiece",
+   "short": "Compare & PEEL",
+   "card": true,
+   "start": 397.879,
+   "end": 479.484,
+   "lines": [
+    {
+     "id": "skel",
+     "start": 399.679,
+     "end": 408.255,
+     "cap": "**Mr H:** Whole-essay architecture: **introduction** with your thesis, **logical** body paragraphs, and a deeper **conclusion** with no new quotes.",
+     "who": "mrh"
+    },
+    {
+     "id": "comp",
+     "start": 408.875,
+     "end": 418.219,
+     "cap": "**Nib:** When **comparing two texts**, avoid writing all of Poem A then all of Poem B. Write **integrated** paragraphs comparing **methods**!",
+     "who": "nib"
+    },
+    {
+     "id": "conn",
+     "start": 418.839,
+     "end": 425.495,
+     "cap": "**Kevin:** Use comparative connectives! Similarity: **similarly, likewise, both**. Difference: **whereas, in contrast, while**!",
+     "who": "kevin"
+    },
+    {
+     "id": "blake",
+     "start": 426.115,
+     "end": 438.083,
+     "cap": "**Zoom:** **Both** poets attack tyranny, **whereas** Shelley's '**sneer of cold command**' mocks one broken statue, William Blake's '**mind-forg'd manacles**' condemn mental chains across all London!",
+     "who": "zoom"
+    },
+    {
+     "id": "ready",
+     "start": 438.753,
+     "end": 445.921,
+     "cap": "**Mr H:** Right, Mei. Final test: how does Shakespeare present Romeo's feelings in Act 2 Scene 2? Climb the ladder.",
+     "who": "mrh"
+    },
+    {
+     "id": "p1",
+     "start": 446.541,
+     "end": 451.832,
+     "cap": "**Mei:** **Point**: Shakespeare **presents** Romeo's love as worshipful and dangerously all-consuming.",
+     "who": "mei"
+    },
+    {
+     "id": "p2",
+     "start": 452.402,
+     "end": 456.946,
+     "cap": "**Mei:** **Evidence**: seeing her at the window, Romeo declares that 'Juliet is **the sun**'.",
+     "who": "mei"
+    },
+    {
+     "id": "p3",
+     "start": 457.516,
+     "end": 466.54,
+     "cap": "**Mei:** **Explain**: the metaphor places her at the centre of his universe; '**sun**' connotes light and life, yet **perhaps** hints at sudden obsession after Rosaline.",
+     "who": "mei"
+    },
+    {
+     "id": "p4",
+     "start": 467.18,
+     "end": 473.772,
+     "cap": "**Mei:** **Link**: because the sun also **burns**, the image subtly **foreshadows** a blazing passion that destroys them both.",
+     "who": "mei"
+    },
+    {
+     "id": "sigh",
+     "start": 474.392,
+     "end": 478.104,
+     "cap": "**Mr H:** Sigh... Level four, Mei. Quotey didn't even hit the floor.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 479.484,
+   "end": 557.302,
+   "lines": [
+    {
+     "id": "bell",
+     "start": 481.284,
+     "end": 485.529,
+     "cap": "**Narrator:** Friday afternoon. Room 8H's analytical survival guide.",
+     "who": "narr"
+    },
+    {
+     "id": "hooks",
+     "start": 486.129,
+     "end": 493.767,
+     "cap": "**Mei:** Memory hooks! Paragraph shape: **PEEL** or **PETAL**. Explanation: **What, How, Why**. Quotes: **Snip it, slip it, unzip it**!",
+     "who": "mei"
+    },
+    {
+     "id": "t1",
+     "start": 494.437,
+     "end": 501.925,
+     "cap": "**Mr H:** One. Never **retell the plot** or open with 'In this essay I will...'. Answer straight away with an arguable **thesis**.",
+     "who": "mrh"
+    },
+    {
+     "id": "t2",
+     "start": 502.545,
+     "end": 509.222,
+     "cap": "**Quotey:** Two. Never leave **dropped quotations** or copy four-line chunks! Weave **one to eight words** smoothly into your sentence.",
+     "who": "quotey"
+    },
+    {
+     "id": "t3",
+     "start": 509.842,
+     "end": 518.397,
+     "cap": "**Nib:** Three. Don't **feature-spot** or write 'makes the reader want to read on'. Name the method accurately and explain its **specific effect**.",
+     "who": "nib"
+    },
+    {
+     "id": "t4",
+     "start": 519.017,
+     "end": 528.275,
+     "cap": "**Zoom:** Four. Swap tired 'shows' for precise **analytical verbs** — **suggests, implies, conveys, exposes** — and zoom in on **connotations**.",
+     "who": "zoom"
+    },
+    {
+     "id": "t5",
+     "start": 528.895,
+     "end": 536.81,
+     "cap": "**Will:** Five. Use '**perhaps**' and '**alternatively**' for second readings, and **integrate** context into the words — don't bolt on my birthday.",
+     "who": "will"
+    },
+    {
+     "id": "t6",
+     "start": 537.45,
+     "end": 543.061,
+     "cap": "**Kevin:** Six. Compare two texts **together** in each paragraph using **whereas**, **in contrast** and **similarly**!",
+     "who": "kevin"
+    },
+    {
+     "id": "rev",
+     "start": 543.681,
+     "end": 549.654,
+     "cap": "**Mei:** Analytical Writing: **four stars**. Unpacking one word is way faster than copying sixteen.",
+     "who": "mei"
+    },
+    {
+     "id": "four",
+     "start": 550.294,
+     "end": 552.769,
+     "cap": "**Quotey:** Four stars?! After I taught you square brackets?!",
+     "who": "quotey"
+    },
+    {
+     "id": "hand",
+     "start": 553.369,
+     "end": 555.502,
+     "cap": "**Mei:** My hand still hurts from PEEL rung three.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 557.302,
+   "end": 647.284,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 559.102,
+     "end": 563.241,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 563.861,
+     "end": 567.466,
+     "cap": "**Mr H:** Which part of a **PEEL** paragraph should always be the **longest**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 571.786,
+     "end": 576.074,
+     "cap": "**Zoom:** The **Explain** section — unpacking methods, connotations and effects.",
+     "who": "zoom"
+    },
+    {
+     "id": "q2",
+     "start": 576.394,
+     "end": 578.783,
+     "cap": "**Mr H:** What does it mean to **embed** a quotation?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 583.103,
+     "end": 587.114,
+     "cap": "**Quotey:** Weaving a **short quotation** smoothly inside your own **grammatical sentence**!",
+     "who": "quotey"
+    },
+    {
+     "id": "q3",
+     "start": 587.434,
+     "end": 591.786,
+     "cap": "**Mr H:** What is the difference between a word's **denotation** and its **connotations**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 596.106,
+     "end": 602.911,
+     "cap": "**Nib:** **Denotation** is its dictionary meaning; **connotations** are the feelings and ideas it suggests.",
+     "who": "nib"
+    },
+    {
+     "id": "q4",
+     "start": 603.231,
+     "end": 606.815,
+     "cap": "**Mr H:** Which words signal an **alternative interpretation**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 611.135,
+     "end": 616.49,
+     "cap": "**Mei:** Tentative words like **perhaps**, **might** or **could**, paired with **alternatively** or **on the other hand**.",
+     "who": "mei"
+    },
+    {
+     "id": "q5",
+     "start": 616.81,
+     "end": 623.274,
+     "cap": "**Mr H:** Why does writing 'Shakespeare was born in 1564' earn no context marks on its own?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 627.594,
+     "end": 633.738,
+     "cap": "**Will:** Because context must be **integrated** to explain how the **words** work on the audience, not bolted on!",
+     "who": "will"
+    },
+    {
+     "id": "outro",
+     "start": 634.058,
+     "end": 639.221,
+     "cap": "**Mr H:** Brilliant work. Now try the **Analytical Writing** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "st1",
+     "start": 639.941,
+     "end": 642.117,
+     "cap": "**Quotey:** Promise you'll never drop me on the floor again?",
+     "who": "quotey"
+    },
+    {
+     "id": "st2",
+     "start": 642.687,
+     "end": 644.884,
+     "cap": "**Mei:** Snipped, slipped and unzipped. Promise.",
+     "who": "mei"
+    }
+   ]
+  }
+ ],
+ "total": 647.284
+}

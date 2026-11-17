@@ -1,0 +1,633 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 60.782,
+   "lines": [
+    {
+     "id": "term2",
+     "start": 0.6,
+     "end": 5.485,
+     "cap": "**Narrator:** Term 2. Room 8H. Mug number nine. Today, Year 8 begins **Poetry**.",
+     "who": "narr"
+    },
+    {
+     "id": "154",
+     "start": 6.055,
+     "end": 13.245,
+     "cap": "**Will:** Finally! **154** sonnets, published in **1609** — every single one a masterpiece by me!",
+     "who": "will"
+    },
+    {
+     "id": "others",
+     "start": 13.865,
+     "end": 19.283,
+     "cap": "**Mr H:** And Blake, Dickinson, Wordsworth, Rossetti, Tennyson, Keats, and Wilfred Owen.",
+     "who": "mrh"
+    },
+    {
+     "id": "cloud",
+     "start": 19.903,
+     "end": 24.789,
+     "cap": "**Will:** **Wordsworth**?! The man wandered lonely as a cloud! Where are the sword fights?!",
+     "who": "will"
+    },
+    {
+     "id": "spot",
+     "start": 25.459,
+     "end": 31.645,
+     "cap": "**Mei:** Poetry's easy! 'Tennyson uses a metaphor, \"like a thunderbolt\", which makes the reader want to read on.'",
+     "who": "mei"
+    },
+    {
+     "id": "ink",
+     "start": 32.315,
+     "end": 37.755,
+     "cap": "**Nib:** She wrote 'makes the reader want to read on'! Fetch a blotter, I am haemorrhaging ink!",
+     "who": "nib"
+    },
+    {
+     "id": "not",
+     "start": 38.375,
+     "end": 42.535,
+     "cap": "**Simile:** Excuse me?! 'Like a thunderbolt' has **LIKE** right in front of it! That's **me** — **Simile**!",
+     "who": "simile"
+    },
+    {
+     "id": "lion",
+     "start": 43.155,
+     "end": 49.15,
+     "cap": "**Metaphor:** And I am **Metaphor**! Simile says he is *like* a lion; **I AM a lion**! We are NOT twins!",
+     "who": "metaphor"
+    },
+    {
+     "id": "rev",
+     "start": 49.82,
+     "end": 53.404,
+     "cap": "**Mei:** Term 2 Poetry: **one star**. Too many loud relatives.",
+     "who": "mei"
+    },
+    {
+     "id": "title",
+     "start": 54.174,
+     "end": 58.782,
+     "cap": "**Narrator:** All the School's a Stage. Episode seven: Simile Is Not Like a Metaphor.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "golden",
+   "title": "Effect, speaker & tone",
+   "short": "Effect & speaker",
+   "card": true,
+   "start": 60.782,
+   "end": 143.264,
+   "lines": [
+    {
+     "id": "gear",
+     "start": 62.582,
+     "end": 69.558,
+     "cap": "**Mr H:** A poem is a machine for making meaning. Just naming a gear is **feature spotting** — it earns almost nothing.",
+     "who": "mrh"
+    },
+    {
+     "id": "chain",
+     "start": 70.158,
+     "end": 77.155,
+     "cap": "**Nib:** Travel the whole chain — **WHAT? HOW? WHY?**: **Technique + short embedded Evidence + Effect + Meaning**!",
+     "who": "nib"
+    },
+    {
+     "id": "zoom",
+     "start": 77.775,
+     "end": 84.602,
+     "cap": "**Mr H:** Zoom in on one word's **connotations** — its associations beyond the dictionary — and link to the **theme**.",
+     "who": "mrh"
+    },
+    {
+     "id": "poet",
+     "start": 85.202,
+     "end": 89.149,
+     "cap": "**Mei:** So when the poet says 'I', I write what the poet was feeling that Tuesday?",
+     "who": "mei"
+    },
+    {
+     "id": "persona",
+     "start": 89.749,
+     "end": 98.069,
+     "cap": "**Nib:** Trap! The '**I**' is the **speaker** or **persona**, not automatically the poet! Remember: **the poet chooses, the speaker says**.",
+     "who": "nib"
+    },
+    {
+     "id": "duke",
+     "start": 98.689,
+     "end": 108.566,
+     "cap": "**Mr H:** In Browning's **dramatic monologue** *My Last Duchess*, a jealous Duke speaks to a silent listener — Browning wasn't a murderer.",
+     "who": "mrh"
+    },
+    {
+     "id": "tone",
+     "start": 109.186,
+     "end": 121.687,
+     "cap": "**Nib:** Distinguish **tone** — the speaker's attitude, like *wistful*, *awed*, or *bitter* — from **mood**, the atmosphere the reader feels.",
+     "who": "nib"
+    },
+    {
+     "id": "shift",
+     "start": 122.287,
+     "end": 132.911,
+     "cap": "**Mei:** Like that Singapore poem *Monsoon, Four O'Clock*! Over Toa Payoh the sky 'clenches like a fist', then under the HDB void deck the storm becomes 'an old friend'!",
+     "who": "mei"
+    },
+    {
+     "id": "smile",
+     "start": 133.551,
+     "end": 141.914,
+     "cap": "**Mr H:** Checklist any unseen poem with **SMILE**: **Structure, Meaning, Imagery, Language, Effect** — with **Effect** in every sentence.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "imagery",
+   "title": "Imagery: pictures made of words",
+   "short": "Imagery",
+   "card": true,
+   "start": 143.264,
+   "end": 226.713,
+   "lines": [
+    {
+     "id": "lib",
+     "start": 145.064,
+     "end": 148.776,
+     "cap": "**Narrator:** Library. Metaphor and Simile are still refusing to share a chair.",
+     "who": "narr"
+    },
+    {
+     "id": "sim",
+     "start": 149.346,
+     "end": 156.941,
+     "cap": "**Simile:** Watch the badge! A **simile** compares two things using '**like**' or '**as**', keeping them separate: Tennyson's eagle 'like a thunderbolt he falls'!",
+     "who": "simile"
+    },
+    {
+     "id": "met",
+     "start": 157.561,
+     "end": 163.619,
+     "cap": "**Metaphor:** A **metaphor** is bolder — it fuses them! Blake's 'Tyger Tyger, **burning bright**' turns stripes straight into fire!",
+     "who": "metaphor"
+    },
+    {
+     "id": "ext",
+     "start": 164.239,
+     "end": 172.41,
+     "cap": "**Metaphor:** Stretch me across a whole poem and I'm an **extended metaphor**! Emily Dickinson wrote nearly **1,800** poems — and turned hope into a bird!",
+     "who": "metaphor"
+    },
+    {
+     "id": "feath",
+     "start": 173.03,
+     "end": 181.606,
+     "cap": "**Mei:** '\"Hope\" is the thing with **feathers** - / That **perches** in the soul -'. 'Feathers' connotes softness and flight, yet this tiny bird survives the gale!",
+     "who": "mei"
+    },
+    {
+     "id": "pers",
+     "start": 182.246,
+     "end": 195.622,
+     "cap": "**Nib:** **Personification** gives human actions to the non-human: in Tennyson's *The Eagle*, 'The **wrinkled** sea beneath him **crawls**', shrinking the ocean into something old and weak.",
+     "who": "nib"
+    },
+    {
+     "id": "pathf",
+     "start": 196.262,
+     "end": 207.014,
+     "cap": "**Nib:** **Pathetic fallacy** is weather or nature mirroring human emotion: Keats's 'The sedge has withered from the lake, / And no birds sing' mirrors despair.",
+     "who": "nib"
+    },
+    {
+     "id": "sem",
+     "start": 207.634,
+     "end": 220.37,
+     "cap": "**Mr H:** Add **symbolism** — Blake's Lamb for innocence — and a **semantic field**: words from one area, like *hammer, chain, furnace, anvil* in *The Tyger*.",
+     "who": "mrh"
+    },
+    {
+     "id": "two",
+     "start": 220.99,
+     "end": 225.363,
+     "cap": "**Mei:** Okay, zooming in on 'feathers' actually made sense. **Two and a half stars**!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "sound",
+   "title": "Sound: poems are made to be heard",
+   "short": "Sound",
+   "card": true,
+   "start": 226.713,
+   "end": 296.913,
+   "lines": [
+    {
+     "id": "aloud",
+     "start": 228.513,
+     "end": 235.361,
+     "cap": "**Mr H:** Poems began as song. Always mouth a poem silently in an exam so you **hear** what the sounds do.",
+     "who": "mrh"
+    },
+    {
+     "id": "allit",
+     "start": 235.961,
+     "end": 238.884,
+     "cap": "**Mei:** Any repeated letter anywhere is **alliteration**, right?",
+     "who": "mei"
+    },
+    {
+     "id": "start",
+     "start": 239.454,
+     "end": 250.59,
+     "cap": "**Nib:** No, darling! **Alliteration** is repeated consonant sounds at the **start** of nearby words: 'He **c**lasps the **c**rag with **c**rooked hands' — hard talons gripping rock!",
+     "who": "nib"
+    },
+    {
+     "id": "asscon",
+     "start": 251.23,
+     "end": 262.259,
+     "cap": "**Nib:** Repeated **vowel** sounds inside words are **assonance** — Poe's 'm**e**llow w**e**dding b**e**lls' — while inner or final consonants are **consonance**, like 'bla**ck**, cra**ck**ed ro**ck**s'.",
+     "who": "nib"
+    },
+    {
+     "id": "sib",
+     "start": 262.899,
+     "end": 274.227,
+     "cap": "**Simile:** **Sibilance** repeats *s* or *sh* sounds! It can be a gentle sea whisper **or** sinister — Owen's '**s**hrill, demented choirs of wailing **sh**ells'! Always say which!",
+     "who": "simile"
+    },
+    {
+     "id": "plos",
+     "start": 274.867,
+     "end": 282.441,
+     "cap": "**Metaphor:** **Plosives** — *p, b, t, d, k, g* — explode off the lips! And **onomatopoeia** imitates the sound itself!",
+     "who": "metaphor"
+    },
+    {
+     "id": "owen",
+     "start": 283.041,
+     "end": 295.563,
+     "cap": "**Mr H:** Hear Wilfred Owen stack them all: 'Only the s**t**u**tt**ering **r**ifles' **r**apid **r**a**tt**le' — alliteration, onomatopoeia, and harsh *t* plosives firing like a machine gun.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "rhythm",
+   "title": "Rhythm, metre & rhyme",
+   "short": "Rhythm & rhyme",
+   "card": true,
+   "start": 296.913,
+   "end": 372.626,
+   "lines": [
+    {
+     "id": "beat",
+     "start": 298.713,
+     "end": 305.455,
+     "cap": "**Mr H:** **Rhythm** is the pattern of stressed and unstressed syllables; regular rhythm is **metre**, measured in **feet**.",
+     "who": "mrh"
+    },
+    {
+     "id": "trick",
+     "start": 306.055,
+     "end": 312.007,
+     "cap": "**Mei:** Memory trick! **An iamb runs a-WAY** — da-DUM! **A trochee is a TI-ger** — DUM-da!",
+     "who": "mei"
+    },
+    {
+     "id": "son18",
+     "start": 312.627,
+     "end": 319.795,
+     "cap": "**Will:** My turn! Five iambs make **iambic pentameter**: 'Shall I com-PARE thee TO a SUM-mer's DAY?' Steady as a heartbeat!",
+     "who": "will"
+    },
+    {
+     "id": "tetra",
+     "start": 320.435,
+     "end": 331.379,
+     "cap": "**Mr H:** Four feet make **tetrameter** — Wordsworth's gentle 'I WAN-dered LONE-ly AS a CLOUD' — while Blake's trochaic 'TY-ger TY-ger' hammers like a forge, and **anapaests** gallop!",
+     "who": "mrh"
+    },
+    {
+     "id": "rhyme",
+     "start": 332.019,
+     "end": 346.973,
+     "cap": "**Nib:** Now **rhyme**: **full rhyme** matches cleanly (*trees / breeze*); **half** or **slant rhyme** (*soul / all*) feels uneasy and unfinished; **internal rhyme** chimes mid-line.",
+     "who": "nib"
+    },
+    {
+     "id": "eye",
+     "start": 347.593,
+     "end": 358.089,
+     "cap": "**Will:** And mind historical pronunciation! Blake's *eye* and *symmetry* looks like an **eye rhyme** today, though Georgian Londoners often rhymed it!",
+     "who": "will"
+    },
+    {
+     "id": "scheme",
+     "start": 358.709,
+     "end": 365.963,
+     "cap": "**Simile:** Label a **rhyme scheme** with letters! Wordsworth's *Daffodils* goes **ABABCC** — closing each stanza on a neat **rhyming couplet**!",
+     "who": "simile"
+    },
+    {
+     "id": "three5",
+     "start": 366.583,
+     "end": 371.276,
+     "cap": "**Mei:** Three and a half stars. Don't tell Will, his head won't fit through the library door.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "form",
+   "title": "Form, structure & the Volta",
+   "short": "Form & structure",
+   "card": true,
+   "start": 372.626,
+   "end": 486.595,
+   "lines": [
+    {
+     "id": "rooms",
+     "start": 374.426,
+     "end": 387.439,
+     "cap": "**Mr H:** *Stanza* is Italian for 'room'. Count lines from two to eight: **Cool Tigers Quietly Creep, Silently Stalking Owls** — couplet, tercet, quatrain, cinquain, sestet, septet, octave.",
+     "who": "mrh"
+    },
+    {
+     "id": "ends",
+     "start": 388.079,
+     "end": 397.231,
+     "cap": "**Nib:** **End-stopped** lines pause with punctuation at the end; **enjambment** spills the sentence straight over the line break without pausing!",
+     "who": "nib"
+    },
+    {
+     "id": "caes",
+     "start": 397.831,
+     "end": 407.495,
+     "cap": "**Kevin:** And a pause right **inside** a line is a **caesura**! Edward Thomas writes 'Yes. I remember Adlestrop—' and Wordsworth's dashes make you stop and gaze with me!",
+     "who": "kevin"
+    },
+    {
+     "id": "volta",
+     "start": 408.135,
+     "end": 414.557,
+     "cap": "**Volta:** Stand back — **VOLTA** incoming! Italian for **turn**! Whenever a poem flips mood or argument on '**Yet**' or '**But**', that's me!",
+     "who": "volta"
+    },
+    {
+     "id": "sonnets",
+     "start": 415.177,
+     "end": 421.598,
+     "cap": "**Volta:** A **Petrarchan sonnet** has an eight-line **octave** (ABBAABBA) and six-line **sestet**, turning at **line 9** — like Rossetti's *Remember*!",
+     "who": "volta"
+    },
+    {
+     "id": "ross",
+     "start": 422.218,
+     "end": 432.949,
+     "cap": "**Nib:** Rossetti begs 'Remember me', turns on '**Yet**', and closes tenderly: 'Better by far you should forget and smile / Than that you should remember and be sad.'",
+     "who": "nib"
+    },
+    {
+     "id": "wson",
+     "start": 433.569,
+     "end": 444.534,
+     "cap": "**Will:** Whereas my **Shakespearean sonnet** has **three quatrains** and a final **rhyming couplet** — ABAB CDCD EFEF GG — saving the knockout turn for **line 13**!",
+     "who": "will"
+    },
+    {
+     "id": "free",
+     "start": 445.174,
+     "end": 457.782,
+     "cap": "**Mr H:** Know **ballad**, **elegy**, **ode**, **haiku**, **villanelle**, **cyclical structure** — Blake changing 'Could frame' to '**Dare** frame' — and **free verse**: no fixed rhyme or metre, yet **deliberate** line breaks!",
+     "who": "mrh"
+    },
+    {
+     "id": "p1",
+     "start": 458.422,
+     "end": 468.107,
+     "cap": "**Mei:** Let's climb **PEEL** on *The Tyger*! **Point**: Blake presents the creator as terrifyingly powerful through a **semantic field** of blacksmithing.",
+     "who": "mei"
+    },
+    {
+     "id": "p2",
+     "start": 468.687,
+     "end": 477.263,
+     "cap": "**Mei:** **Evidence** & **Explain**: in 'In what **furnace** was thy brain?', 'furnace' connotes blinding heat, while trochaic hammer-blows enact the forging.",
+     "who": "mei"
+    },
+    {
+     "id": "p3",
+     "start": 477.863,
+     "end": 485.245,
+     "cap": "**Mei:** **Link**: this fills the reader with awe — or **perhaps** fear at a maker who *dares* create something so deadly!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 486.595,
+   "end": 558.135,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 488.395,
+     "end": 492.704,
+     "cap": "**Narrator:** End of lesson. Six poetry traps that cost Year 8 marks every year.",
+     "who": "narr"
+    },
+    {
+     "id": "mnem",
+     "start": 493.274,
+     "end": 502.917,
+     "cap": "**Mei:** Hooks! **SMILE**; **WHAT? HOW? WHY?**; **An iamb runs a-WAY, a trochee is a TI-ger**; and **Cool Tigers Quietly Creep, Silently Stalking Owls**!",
+     "who": "mei"
+    },
+    {
+     "id": "t1",
+     "start": 503.557,
+     "end": 510.725,
+     "cap": "**Nib:** One. Never stop at feature spotting, and ban 'makes the reader want to read on' — explain the exact **effect**!",
+     "who": "nib"
+    },
+    {
+     "id": "t2",
+     "start": 511.325,
+     "end": 516.189,
+     "cap": "**Mr H:** Two. Say '**the speaker**', not 'the poet'. The 'I' may be an invented persona.",
+     "who": "mrh"
+    },
+    {
+     "id": "t3",
+     "start": 516.789,
+     "end": 522.079,
+     "cap": "**Kevin:** Three. Don't copy out whole stanzas! Embed **two to six** precise words inside your sentence.",
+     "who": "kevin"
+    },
+    {
+     "id": "t4",
+     "start": 522.679,
+     "end": 527.394,
+     "cap": "**Volta:** Four. Never ignore **form and structure** — track line breaks, caesuras, and the **volta**!",
+     "who": "volta"
+    },
+    {
+     "id": "t5",
+     "start": 527.994,
+     "end": 537.146,
+     "cap": "**Simile:** Five. **Simile** uses *like* or *as*; **Metaphor** says it *is*; and **alliteration** is **starting** sounds only!",
+     "who": "simile"
+    },
+    {
+     "id": "t6",
+     "start": 537.746,
+     "end": 542.781,
+     "cap": "**Metaphor:** Six. **Free verse** is not 'anything goes' — its line breaks and pauses are still deliberate!",
+     "who": "metaphor"
+    },
+    {
+     "id": "rev",
+     "start": 543.401,
+     "end": 549.417,
+     "cap": "**Mei:** How Poems Work: **four and a half stars**! Adding 'perhaps' for an alternative reading felt very smart.",
+     "who": "mei"
+    },
+    {
+     "id": "half",
+     "start": 550.057,
+     "end": 556.435,
+     "cap": "**Will:** FOUR AND A HALF?! You gave *me* four in Episode One! Wordsworth wrote about **flowers**!",
+     "who": "will"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 558.135,
+   "end": 651.459,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 559.935,
+     "end": 564.074,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 564.694,
+     "end": 568.726,
+     "cap": "**Mr H:** Is 'And **like** a thunderbolt he falls' a **simile** or a **metaphor**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 573.046,
+     "end": 577.334,
+     "cap": "**Simile:** A **simile**! It compares using '**like**', keeping the eagle and the thunderbolt separate.",
+     "who": "simile"
+    },
+    {
+     "id": "q2",
+     "start": 577.654,
+     "end": 583.158,
+     "cap": "**Mr H:** What do we call weather or nature mirroring human emotion, as in 'The sedge has withered'?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 587.478,
+     "end": 591.446,
+     "cap": "**Nib:** **Pathetic fallacy** — a special type of personification.",
+     "who": "nib"
+    },
+    {
+     "id": "q3",
+     "start": 591.766,
+     "end": 597.633,
+     "cap": "**Mr H:** Does Blake's 'TY-ger TY-ger, BURN-ing BRIGHT' use **iambic** or **trochaic** rhythm?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 601.953,
+     "end": 606.433,
+     "cap": "**Metaphor:** **Trochaic** — stressed then unstressed, **DUM-da**, hammering like a blacksmith's forge!",
+     "who": "metaphor"
+    },
+    {
+     "id": "q4",
+     "start": 606.753,
+     "end": 610.55,
+     "cap": "**Mr H:** What is the difference between **enjambment** and a **caesura**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 614.87,
+     "end": 621.035,
+     "cap": "**Kevin:** **Enjambment** runs over the end of a line without punctuation; a **caesura** is a pause **mid-line**!",
+     "who": "kevin"
+    },
+    {
+     "id": "q5",
+     "start": 621.355,
+     "end": 627.798,
+     "cap": "**Mr H:** What is a **volta**, and where does it usually fall in a **Petrarchan** versus a **Shakespearean** sonnet?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 632.118,
+     "end": 638.966,
+     "cap": "**Volta:** The **turn** in mood or argument: at **line 9** in a Petrarchan sonnet, and usually **line 13** in a Shakespearean sonnet!",
+     "who": "volta"
+    },
+    {
+     "id": "outro",
+     "start": 639.286,
+     "end": 644.107,
+     "cap": "**Mr H:** Brilliant work. Now try the **How Poems Work** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "st1",
+     "start": 644.827,
+     "end": 646.875,
+     "cap": "**Simile:** You were **like** a star today, Metaphor!",
+     "who": "simile"
+    },
+    {
+     "id": "st2",
+     "start": 647.495,
+     "end": 649.159,
+     "cap": "**Metaphor:** Darling, I **AM** a star.",
+     "who": "metaphor"
+    }
+   ]
+  }
+ ],
+ "total": 651.459
+}
