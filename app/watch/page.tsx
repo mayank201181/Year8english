@@ -3,8 +3,10 @@
 import Link from "next/link";
 import { useState } from "react";
 import { SITCOMS } from "@/lib/sitcoms";
-import { TOPIC_META, ACCENT, SUBJECT_LABEL, type Subject } from "@/lib/topics/_meta";
+import { TOPIC_META, ACCENT, SUBJECT_LABEL, type TopicMeta } from "@/lib/topics/_meta";
 import { useStore } from "@/lib/store";
+
+type Subject = TopicMeta["subject"];
 
 const SUBJECTS: ("All" | Subject)[] = ["All", "Shakespeare", "Poetry", "Novel", "Skills"];
 

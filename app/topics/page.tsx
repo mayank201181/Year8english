@@ -2,8 +2,10 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
-import { TOPIC_META, ACCENT, SUBJECT_LABEL, type Subject } from "@/lib/topics/_meta";
+import { TOPIC_META, ACCENT, SUBJECT_LABEL, type TopicMeta } from "@/lib/topics/_meta";
 import { useStore } from "@/lib/store";
+
+type Subject = TopicMeta["subject"];
 
 const SUBJECTS: ("All" | Subject)[] = ["All", "Shakespeare", "Poetry", "Novel", "Skills"];
 const SUBJECT_ICON: Record<Subject, string> = {
