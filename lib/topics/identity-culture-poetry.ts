@@ -1357,6 +1357,8 @@ export const identityCulturePoetry: Topic = {
           },
           {
             id: "idc-mcq-p2-q17",
+            extract:
+              "From ‘Hawker Centre, 7 p.m.’: Uncle’s wok roars up in orange flame, / auntie calls ‘Kopitiam—come, sit, sit!’ ... Tamil, Hokkien, Malay, Mandarin, / Singlish stitching every table in.",
             question: "Which is the best SIMILARITY between ‘In the Bazaars of Hyderabad’ and the original poem ‘Hawker Centre, 7 p.m.’?",
             options: [
               "Both are written entirely in Singlish.",
@@ -2389,7 +2391,7 @@ export const identityCulturePoetry: Topic = {
               { point: "Writes in the first person as the poet (I chose…)", keywords: ["i chose", "i used", "i decided", "i wanted", "i placed", "i repeated"] },
               { point: "Explains a first choice with a named technique", keywords: ["metaphor", "simile", "repetition", "rivers", "door", "bangle"] },
               { point: "Explains a second choice with a named technique or structural feature", keywords: ["stanza", "structure", "turning point", "short sentence", "ending", "stanza break"] },
-              { point: "Explains intended effect on the reader", keywords: ["so that the reader", "reader", "in order to", "effect", "feel", "realise"] },
+              { point: "Explains intended effect on the reader", keywords: ["so that the reader", "shares", "in order to", "effect", "feel", "realise"] },
               { point: "Links choices to the poem’s theme (language, heritage, connection)", keywords: ["heritage", "language", "connection", "grandmother", "identity", "belong"] },
             ],
             commonError: "Retelling what happens in the poem instead of explaining WHY the writer made choices.",
@@ -2671,7 +2673,7 @@ export const identityCulturePoetry: Topic = {
               "Dickinson capitalises ‘Nobody’, turning it into a proud title. The direct question ‘Who are you?’ and the delighted ‘Then there’s a pair of us!’ make being Nobody feel like belonging to a secret club with the reader. ‘Don’t tell!’ adds playful conspiracy, so anonymity becomes exciting, private and shared — while being ‘Somebody’ is called ‘dreary’.",
             markScheme: [
               { point: "Capital ‘Nobody’ as a proud title / identity", keywords: ["capital", "capitalised", "title", "proud", "name"] },
-              { point: "Creates friendship or a secret club with the reader (pair of us)", keywords: ["pair of us", "friend", "club", "together", "belong", "reader"] },
+              { point: "Creates friendship or a secret club with the reader (pair of us)", keywords: ["pair of us", "friend", "club", "together", "belong", "shared"] },
               { point: "Playful secrecy (Don’t tell) and contrast with ‘dreary’ Somebody", keywords: ["don't tell", "secret", "playful", "dreary", "contrast", "fun"] },
             ],
             commonError: "Assuming the poem is about low self-esteem rather than a proud choice of privacy.",

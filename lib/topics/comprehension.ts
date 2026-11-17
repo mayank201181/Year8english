@@ -342,7 +342,7 @@ const mcqP1: Paper<MCQ> = {
       id: "cmp-mcq-p1-q19",
       question: "Which is the best summary of the extract, written in your own words?",
       options: [
-        "A girl waits for her brother at her block as a violent tropical storm breaks, and a stranger runs towards her through the rain.",
+        "A girl waits for her brother at her block as a violent tropical storm breaks, and someone who is not her brother runs towards her through the rain.",
         "Uncle Lim takes his bird for a walk before the rain.",
         "The sky over Toa Payoh had been holding its breath all afternoon.",
         "Mei is angry with her mother for making her come home.",
@@ -350,7 +350,7 @@ const mcqP1: Paper<MCQ> = {
       answerIndex: 0,
       hint: "A good summary covers beginning, middle and end, in your own words.",
       explanation:
-        "The option ‘A girl waits for her brother at her block as a violent tropical…’ covers the whole extract in fresh wording. The third simply copies the first line, and the second focuses on a minor detail.",
+        "The option ‘A girl waits for her brother at her block as a violent tropical…’ covers the whole extract in fresh wording. ‘The sky over Toa Payoh…’ simply copies the opening line, and ‘Uncle Lim takes his bird…’ focuses on a minor detail.",
       guideRef: "summary-evaluation",
     },
     {
@@ -378,7 +378,11 @@ const mcqP1: Paper<MCQ> = {
 const mcqP2: Paper<MCQ> = {
   id: "cmp-mcq-p2",
   title: "MCQ Paper 2",
-  passage: fireP,
+  passage: {
+    ...fireP,
+    note:
+      "Context: the Yukon is a region of north-west Canada, famous for the Klondike gold rush of the 1890s. Glossary: intangible = cannot be touched; orb = sphere, here the sun; chechaquo = a newcomer (Yukon slang word); fifty degrees below zero is in Fahrenheit, which is about −46 °C.",
+  },
   questions: [
     {
       id: "cmp-mcq-p2-q01",
@@ -934,7 +938,7 @@ const mcqP3: Paper<MCQ> = {
       answerIndex: 1,
       hint: "Own words, and the cause-and-effect chain.",
       explanation:
-        "The option ‘Because a long clean-up made the river clean enough for fish to…’ explains the chain (clean-up → clean water → fish → otters) in fresh words. The first is a direct copy from the text, which does not count as a summary in your own words.",
+        "The option ‘Because a long clean-up made the river clean enough for fish to…’ explains the chain (clean-up → clean water → fish → otters) in fresh words. Quoting ‘the fish returned — and in the late 1990s…’ directly from the text does not count as a summary in your own words.",
       guideRef: "summary-evaluation",
     },
     {
@@ -962,7 +966,11 @@ const mcqP3: Paper<MCQ> = {
 const mcqP4: Paper<MCQ> = {
   id: "cmp-mcq-p4",
   title: "MCQ Paper 4",
-  passage: scottPassage,
+  passage: {
+    ...scottPassage,
+    note:
+      "Context: Scott's five-man team reached the South Pole on 17 January 1912, only to find that Roald Amundsen's Norwegian team had got there first, on 14 December 1911. All five men died on the return journey. Captain Lawrence Oates, suffering from severe frostbite, walked out of the tent into a blizzard so as not to slow his companions down. A search party found the tent, the bodies and this journal in November 1912. Glossary: depot = a store of food and fuel left on the route; dissuade = persuade not to; drift = blown snow; hardihood = toughness.",
+  },
   questions: [
     {
       id: "cmp-mcq-p4-q01",
@@ -1968,7 +1976,7 @@ const qaP4: Paper<QA> = {
       markScheme: [
         { point: "Prefers nature / Ubin over the city", keywords: ["prefer", "nature", "crab", "rather", "peace", "quiet", "ubin"] },
         { point: "Refers to the contrast city hum vs crab", keywords: ["contrast", "hum", "six million", "city", "noise", "waving"] },
-        { point: "Effect of understated / one-line / humorous ending", keywords: ["one-line", "short", "humour", "humor", "indirect", "understated", "reader"] },
+        { point: "Effect of understated / one-line / humorous ending", keywords: ["one-line", "short", "humour", "humor", "indirect", "understated", "finish the thought"] },
       ],
       commonError: "Saying the writer hates Singapore. The tone is gentle, not hostile.",
       guideRef: "non-fiction-viewpoint",
@@ -2623,7 +2631,7 @@ export const comprehension: Topic = {
           "One technique is a one-line paragraph, such as 'It was not Wei Jie.' at the end of 'Monsoon'. Isolating a short sentence creates emphasis and suspense, here leaving a cliffhanger. Another is a cyclical structure, where the ending echoes the opening; for example, in 'Number 47' the stubborn key appears at the start and the end. This gives a sense of completion while showing how the character has changed.",
         markScheme: [
           { point: "Names a valid structural technique", keywords: ["one-line paragraph", "flashback", "cyclical", "cliffhanger", "zoom", "shift in focus", "foreshadowing"] },
-          { point: "Explains the effect of the first technique", keywords: ["suspense", "emphasis", "tension", "curiosity", "read on", "shock"] },
+          { point: "Explains the effect of the first technique", keywords: ["suspense", "emphasis", "tension", "curiosity", "intrigue", "shock"] },
           { point: "Names and explains a second technique (completion, contrast, change)", keywords: ["completion", "contrast", "changed", "circle", "backstory", "echo", "full circle"] },
           { point: "Gives an example from a text", keywords: ["for example", "for instance", "such as", "monsoon", "number 47", "scrooge", "extract"] },
         ],

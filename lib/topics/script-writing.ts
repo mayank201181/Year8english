@@ -321,7 +321,7 @@ export const scriptWriting: Topic = {
       quote: "If all else fail, myself have power to die.",
       source: "Juliet, final line of Act 3 Scene 5, Romeo and Juliet",
       analysis:
-        "A chilling scene-ending line that works like a cliffhanger: it leaves the audience fearing what Juliet will do. The monosyllables and the final word 'die' give it a heavy, decisive close, and the line foreshadows the tragedy we were promised in the Prologue.",
+        "A chilling scene-ending line that works like a cliffhanger: it leaves the audience fearing what Juliet will do. The short, mostly single-syllable words and the final word 'die' give it a heavy, decisive close, and the line foreshadows the tragedy we were promised in the Prologue.",
       themes: ["cliffhanger", "fate", "foreshadowing"],
     },
     {
@@ -1403,13 +1403,13 @@ export const scriptWriting: Topic = {
             options: [
               "He taught me how to read the clock on his phone.",
               "He gave me a job raking sand.",
-              "He taught me the names of the stars: the big light, the little light.",
+              "He taught me to name the lights in the sky: the big light, the little light.",
               "He told me the island was beautiful.",
             ],
             answerIndex: 2,
             hint: "The bigger light and the less are the sun and the moon.",
             explanation:
-              "The option ‘He taught me the names of the stars: the big light, the little light.’ directly adapts the image of naming the lights, so a reader recognises the source. The option ‘He taught me how to read the clock on his phone.’ modernises the idea of teaching, but loses the link to the sun and moon.",
+              "The option ‘He taught me to name the lights in the sky: the big light, the little light.’ directly adapts the image of naming the sun and moon, so a reader recognises the source. The option ‘He taught me how to read the clock on his phone.’ modernises the idea of teaching, but loses the link to the sun and moon.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1689,13 +1689,13 @@ export const scriptWriting: Topic = {
             options: [
               "Shakespeare is a very famous writer and my script is like his.",
               "My scene is set in the olden days, like Shakespeare's.",
-              "Caliban's final line, 'This island's mine', deliberately repeats his first words to Prospero in Act 1 Scene 2, so the audience recognises his claim has never changed.",
+              "Caliban's final line, 'This island's mine', deliberately echoes his famous claim against Prospero in Act 1 Scene 2, so the audience recognises his claim has never changed.",
               "I read the whole play before writing my scene.",
             ],
             answerIndex: 2,
             hint: "A good link quotes the original and explains why it was echoed.",
             explanation:
-              "The option ‘Caliban's final line, 'This island's mine', deliberately repeats…’ quotes the original precisely, locates it and explains the effect of the echo. The option ‘My scene is set in the olden days, like Shakespeare's.’ makes a vague link that could apply to any scene.",
+              "The option ‘Caliban's final line, 'This island's mine', deliberately echoes…’ quotes the original precisely, locates it and explains the effect of the echo. The option ‘My scene is set in the olden days, like Shakespeare's.’ makes a vague link that could apply to any scene.",
             guideRef: "writing-commentary",
           },
           {
@@ -1944,6 +1944,8 @@ export const scriptWriting: Topic = {
           },
           {
             id: "scr-mcq-p4-q20",
+            extract:
+              "(He puts the rucksack down. Picks it up again. Pushes it behind the door.)\nNIA: Exams finished, then?\nSAM: Something like that.\nNIA: (not looking up) She's told everyone, you know. The whole street. 'My son, the engineer.' ... Made a banner for the shop window and everything. It's in the cupboard.",
             question: "In Saturday Shift, Sam never says he has left university. Why is this more effective than a line such as 'I've dropped out of my course'?",
             options: [
               "Because the audience does not need to know",
@@ -2050,7 +2052,7 @@ export const scriptWriting: Topic = {
             markScheme: [
               { point: "Identifies it as a cliffhanger / ends on tension or a threat", keywords: ["cliffhanger", "tension", "threat", "suspense", "fear", "worried"] },
               { point: "Links to foreshadowing / the Prologue / tragic ending", keywords: ["foreshadow", "prologue", "star-cross", "tragic", "fate", "death", "suicide"] },
-              { point: "Comments on sound/structure (monosyllables, final word 'die')", keywords: ["monosyllab", "short words", "blunt", "final word", "single-syllable", "decisive", "rhythm"] },
+              { point: "Comments on sound/structure (mostly monosyllables, final word 'die')", keywords: ["monosyllab", "short words", "blunt", "final word", "single-syllable", "decisive", "rhythm"] },
               { point: "Links to Juliet's isolation/independence ('myself')", keywords: ["myself", "independen", "alone", "isolated", "relies on herself", "no one else"] },
             ],
             commonError: "Saying it is 'a good ending' without explaining the effect on the audience.",

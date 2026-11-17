@@ -322,7 +322,7 @@ export const poetryWriting: Topic = {
       quote: "And like a thunderbolt he falls.",
       source: "Alfred, Lord Tennyson, 'The Eagle' (1851), final line",
       analysis:
-        "An ending that enacts its meaning: the poem stops at the exact moment the eagle drops. The simile adds speed and violence, and the short monosyllables make the line land like an impact.",
+        "An ending that enacts its meaning: the poem stops at the exact moment the eagle drops. The simile adds speed and violence, and the crisp surrounding monosyllables ('And like a … he falls') make the line land like an impact.",
       themes: ["endings", "simile"],
     },
     {
@@ -625,7 +625,7 @@ export const poetryWriting: Topic = {
         answerIndex: 2,
         hint: "Which line gives you something you could actually photograph?",
         explanation:
-          "The house key on a string is a concrete object, and the detail that the lock has been changed shows the speaker clinging to a home that no longer exists — the feeling is shown, not told. The first two options name the feeling with abstract words ('hurts', 'homesickness', 'sorrow'), and the last is built on a cliché ('home is where the heart is').",
+          "The house key on a string is a concrete object, and the detail that the lock has been changed shows the speaker clinging to a home that no longer exists — the feeling is shown, not told. Two distractors name the feeling directly with abstract words ('hurts', 'homesickness', 'sorrow'), and ‘Home is where the heart is…’ is built on a cliché.",
         guideRef: "concrete-imagery",
       },
       {
@@ -1835,9 +1835,9 @@ export const poetryWriting: Topic = {
             modelAnswer:
               "Rewrite: 'Every Sunday I wind my grandmother's wool / while she counts the stitches out loud in Cantonese.'\nExplanation: The word 'love' has gone; instead a shared, patient routine (winding wool, counting stitches) shows closeness, and the detail of Cantonese adds a link to heritage. The reader infers the love from the time they spend together.",
             markScheme: [
-              { point: "Removes the abstract word 'love' / the told emotion", keywords: ["removed", "no longer says", "instead of", "without saying", "not tell", "doesn't say"] },
+              { point: "Removes the abstract word 'love' / the told emotion", keywords: ["removed", "has gone", "gone", "no longer says", "instead", "without saying", "not tell", "doesn't say"] },
               { point: "Rewrite contains a specific concrete action, object or sensory detail", keywords: ["wool", "hands", "kitchen", "sunday", "cooking", "routine", "hair", "tea"] },
-              { point: "Explains that the reader infers the feeling from the image", keywords: ["shows", "infer", "reader", "picture", "imagine", "implies", "suggests"] },
+              { point: "Explains that the reader infers the feeling from the image", keywords: ["shows", "infer", "closeness", "picture", "imagine", "implies", "suggests"] },
             ],
             commonError: "Swapping 'love' for another abstract or clichéd phrase ('she means the world to me', 'my heart is full').",
             guideRef: "concrete-imagery",
@@ -2316,7 +2316,7 @@ export const poetryWriting: Topic = {
             markScheme: [
               { point: "First alternative title with explanation of what it adds", keywords: ["really from", "title 1", "first title", "question", "frame", "phrase from"] },
               { point: "Second alternative title with explanation of what it adds", keywords: ["title 2", "second title", "customs", "declaration", "passport", "airport", "adds"] },
-              { point: "Comment on the effect on the reader's reading of the poem", keywords: ["reader", "reads", "frames", "suggests", "expectation", "layer", "meaning"] },
+              { point: "Comment on the effect on the reader's reading of the poem", keywords: ["reads as", "frames", "suggests", "expectation", "layer", "meaning", "charged"] },
             ],
             commonError: "Suggesting titles that just label the topic ('Identity Poem') without explaining what they add.",
             guideRef: "titles-endings",
@@ -2328,7 +2328,7 @@ export const poetryWriting: Topic = {
             marks: 3,
             hint: "What happens to the eagle — and to the poem — at the same moment?",
             modelAnswer:
-              "The final line is effective because the ending enacts the action: the poem stops at the very moment the eagle dives, so the form 'falls' silent with it. The simile 'like a thunderbolt' adds speed, power and violence, contrasting with the slow, crawling sea of the first line of the stanza. The short monosyllabic words and the final full rhyme on 'falls' make the line land with a sense of impact and finality.",
+              "The final line is effective because the ending enacts the action: the poem stops at the very moment the eagle dives, so the form 'falls' silent with it. The simile 'like a thunderbolt' adds speed, power and violence, contrasting with the slow, crawling sea of the first line of the stanza. Surrounding 'thunderbolt' with short monosyllables ('he falls') and ending on the full rhyme makes the line land with a sense of impact and finality.",
             markScheme: [
               { point: "The poem ends as the eagle falls — form enacts meaning", keywords: ["ends as", "enacts", "stops", "mirrors", "same moment", "falls"] },
               { point: "Analyses the simile 'like a thunderbolt' (speed/power)", keywords: ["simile", "thunderbolt", "speed", "power", "sudden", "violent"] },

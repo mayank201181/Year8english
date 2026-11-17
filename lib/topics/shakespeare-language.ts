@@ -1981,7 +1981,7 @@ export const shakespeareLanguage: Topic = {
             modelAnswer:
               "The speaker claims that his poem ('this') will keep the beloved alive for as long as humans exist to read it. The repetition of 'So long' stresses endurance, and the repetition of 'this' points proudly to the poem itself. The rhyming couplet ('see'/'thee') gives the ending a confident, final click, like a promise being sealed. The poem therefore argues that art can defeat time and Death, a claim proved true every time someone reads it today.",
             markScheme: [
-              { point: "Claim: the poem will make the beloved live for ever / immortal", keywords: ["immortal", "for ever", "forever", "live on", "eternal", "survive", "outlast"] },
+              { point: "Claim: the poem will make the beloved live for ever / immortal", keywords: ["immortal", "for ever", "forever", "live on", "eternal", "survive", "outlast", "keep the beloved alive", "never die"] },
               { point: "Identifies 'this' as the poem itself", keywords: ["the poem", "this poem", "poetry", "the sonnet", "verse", "lines"] },
               { point: "Comments on repetition of 'So long' / 'this'", keywords: ["repetition", "repeat", "so long", "anaphora"] },
               { point: "Comments on the rhyming couplet's confident/final effect, or art defeating time", keywords: ["couplet", "rhyme", "confident", "final", "conclusion", "defeat time", "art"] },
@@ -2245,7 +2245,7 @@ export const shakespeareLanguage: Topic = {
             modelAnswer:
               "The real question is whether to go on living or not. Is it braver to put up quietly with all the cruel blows that bad luck throws at us, or to fight back against our endless problems and, by fighting, bring them to an end?",
             markScheme: [
-              { point: "Whether to live or die / exist or not", keywords: ["live or die", "to live", "exist", "alive", "die", "life or death"] },
+              { point: "Whether to live or die / exist or not", keywords: ["live or die", "to live", "living", "exist", "alive", "die", "life or death"] },
               { point: "Option 1: endure/suffer the blows of bad luck patiently", keywords: ["put up with", "endure", "suffer", "accept", "tolerate", "bad luck", "misfortune"] },
               { point: "Option 2: fight back against troubles and end them", keywords: ["fight", "fight back", "resist", "take action", "oppose", "end them", "end the problems"] },
             ],

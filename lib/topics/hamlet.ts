@@ -2022,7 +2022,7 @@ export const hamlet: Topic = {
               { point: "Attitude to women (Gertrude / Ophelia)", keywords: ["frailty", "women", "gertrude", "ophelia", "mother", "misogyn"] },
               { point: "Suspicion of Claudius / appearance vs reality", keywords: ["satyr", "claudius", "suspicio", "appearance", "villain", "seems"] },
               { point: "Foreshadowing / tragic ending", keywords: ["foreshadow", "cannot come to good", "tragic", "tragedy", "disaster", "ending"] },
-              { point: "Supports points with embedded quotations and explanation", keywords: ["suggests", "shows", "implies", "connot", "this means", "highlights"] },
+              { point: "Supports points with embedded quotations and explanation", keywords: ["suggests", "shows", "implies", "connot", "this means", "highlights", "introduces", "reveals", "sets up", "makes us"] },
             ],
             commonError: "Discussing only the extract and not connecting it to later events. 'The rest of the play' requires links forward.",
             guideRef: "soliloquies",
@@ -2505,7 +2505,7 @@ export const hamlet: Topic = {
             modelAnswer:
               "First, it is a short, plain sentence from a character who has spoken more than anyone else in the play, so its simplicity is striking. Second, 'rest' has a double meaning: 'everything else' and 'peaceful sleep', so death brings both an ending and release from his suffering. Third, for a man who has spent the play thinking and talking instead of acting, silence is the final end of thought: the mind that delayed him is finally still.",
             markScheme: [
-              { point: "Short / simple contrasting with his many words", keywords: ["short", "simple", "plain", "brief", "words", "talkative", "many speeches", "contrast"] },
+              { point: "Short / simple contrasting with his many words", keywords: ["short", "simple", "plain", "brief", "many words", "talkative", "many speeches", "contrast"] },
               { point: "Double meaning of 'rest'", keywords: ["double meaning", "rest", "remainder", "everything else", "sleep", "peace", "pun"] },
               { point: "End of thought / delay / mystery of death", keywords: ["thought", "thinking", "delay", "still", "mind", "undiscover", "mystery", "unknown"] },
             ],
@@ -2601,7 +2601,7 @@ export const hamlet: Topic = {
               { point: "Explains the advice: be honest to yourself, then to others", keywords: ["honest", "true to yourself", "yourself", "others", "any man", "be yourself"] },
               { point: "Analyses the simile 'as the night the day'", keywords: ["simile", "night the day", "natural", "certain", "inevitable", "cycle"] },
               { point: "Irony: Polonius spies, schemes, uses Ophelia", keywords: ["irony", "ironic", "spies", "spying", "bait", "scheme", "arras", "tapestry"] },
-              { point: "Link to appearance vs reality / Shakespeare's purpose", keywords: ["appearance", "reality", "hypocri", "words", "wise", "purpose", "seems"] },
+              { point: "Link to appearance vs reality / Shakespeare's purpose", keywords: ["appearance", "reality", "hypocri", "wise words", "wise-sounding", "purpose", "seems"] },
             ],
             commonError: "Treating the speech as pure wisdom without spotting the irony.",
             guideRef: "appearance-reality",

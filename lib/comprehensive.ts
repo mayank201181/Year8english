@@ -334,7 +334,7 @@ const mcqP1: Paper<MCQ> = {
       answerIndex: 1,
       hint: "Count the syllables first, then tap the beat.",
       explanation:
-        "'but SOFT what LIGHT through YON-der WIN-dow BREAKS' has ten syllables in five iambs. 'To be, or not to be' is the tempting choice, but it has eleven syllables (an extra unstressed 'feminine ending'), and 'Double, double toil and trouble' is trochaic with only seven syllables.",
+        "'but SOFT what LIGHT through YON-der WIN-dow BREAKS' has ten syllables in five iambs. 'To be, or not to be' is the tempting choice, but it has eleven syllables (an extra unstressed 'feminine ending'), and 'Double, double toil and trouble' is trochaic tetrameter with eight syllables (four DUM-da beats), not ten.",
     },
     {
       id: "exam-mcq-p1-q23",
@@ -1151,7 +1151,7 @@ const mcqP4: Paper<MCQ> = {
       answerIndex: 3,
       hint: "A comma splice joins two complete sentences with only a comma.",
       explanation:
-        "'The bell rang' and 'everyone rushed out' are both main clauses joined by a bare comma: a comma splice. The option ‘The bell rang, and everyone rushed out.’ is fine because the conjunction 'and' joins the clauses, and the third uses a semicolon correctly.",
+        "'The bell rang' and 'everyone rushed out' are both main clauses joined by a bare comma: a comma splice. The option ‘The bell rang, and everyone rushed out.’ is fine because the conjunction 'and' joins the clauses, and ‘The bell rang; everyone rushed out.’ uses a semicolon correctly.",
     },
     {
       id: "exam-mcq-p4-q05",
@@ -1774,7 +1774,7 @@ const qaP2: Paper<QA> = {
         },
         {
           point: "Explains the effect on the reader (sympathy, sense of injustice)",
-          keywords: ["reader", "sympath", "pity", "cruel", "injustice", "uncomfortable"],
+          keywords: ["sympath", "pity", "cruel", "injustice", "uncomfortable", "compassion"],
         },
       ],
       commonError:
@@ -2351,7 +2351,7 @@ const qaP4: Paper<QA> = {
         },
         {
           point: "Explains the intended effect / meaning for the reader",
-          keywords: ["i wanted", "to show", "suggest", "so that", "captures", "intended", "the reader"],
+          keywords: ["i wanted", "to show", "suggest", "so that", "captures", "intended", "convey"],
         },
         {
           point: "Links the choice to identity / heritage / belonging / migration",

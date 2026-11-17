@@ -184,7 +184,7 @@ export const romeoAndJuliet: Topic = {
       passage: {
         title: "Juliet's potion soliloquy (opening)",
         source: "William Shakespeare, Romeo and Juliet, Act 4 Scene 3",
-        text: "Farewell! God knows when we shall meet again.\nI have a faint cold fear thrills through my veins\nThat almost freezes up the heat of life.\nI'll call them back again to comfort me.\nNurse! What should she do here?\nMy dismal scene I needs must act alone.\nCome, vial.\nWhat if this mixture do not work at all?\nShall I be married then tomorrow morning?\nNo, no, this shall forbid it. Lie thou there.\nWhat if it be a poison which the Friar\nSubtly hath ministered to have me dead,\nLest in this marriage he should be dishonoured\nBecause he married me before to Romeo?\nI fear it is. And yet methinks it should not,\nFor he hath still been tried a holy man.\nHow if, when I am laid into the tomb,\nI wake before the time that Romeo\nCome to redeem me? There's a fearful point!",
+        text: "Farewell! God knows when we shall meet again.\nI have a faint cold fear thrills through my veins\nThat almost freezes up the heat of life.\nI'll call them back again to comfort me.\nNurse! What should she do here?\nMy dismal scene I needs must act alone.\nCome, vial.\nWhat if this mixture do not work at all?\nShall I be married then tomorrow morning?\nNo, no, this shall forbid it. Lie thou there. [She lays down a knife]\nWhat if it be a poison which the Friar\nSubtly hath ministered to have me dead,\nLest in this marriage he should be dishonoured\nBecause he married me before to Romeo?\nI fear it is. And yet methinks it should not,\nFor he hath still been tried a holy man.\nHow if, when I am laid into the tomb,\nI wake before the time that Romeo\nCome to redeem me? There's a fearful point!",
         note: "'Lie thou there' refers to a dagger she lays beside her, ready if the potion fails. vial = small bottle; tried = proved; redeem = rescue.",
       },
       keyPoints: [
@@ -257,7 +257,7 @@ export const romeoAndJuliet: Topic = {
       id: "potion",
       title: "Juliet's potion soliloquy",
       source: "William Shakespeare, Romeo and Juliet, Act 4 Scene 3",
-      text: "Farewell! God knows when we shall meet again.\nI have a faint cold fear thrills through my veins\nThat almost freezes up the heat of life.\nI'll call them back again to comfort me.\nNurse! What should she do here?\nMy dismal scene I needs must act alone.\nCome, vial.\nWhat if this mixture do not work at all?\nShall I be married then tomorrow morning?\nNo, no, this shall forbid it. Lie thou there.\nWhat if it be a poison which the Friar\nSubtly hath ministered to have me dead,\nLest in this marriage he should be dishonoured\nBecause he married me before to Romeo?\nI fear it is. And yet methinks it should not,\nFor he hath still been tried a holy man.\nHow if, when I am laid into the tomb,\nI wake before the time that Romeo\nCome to redeem me? There's a fearful point!",
+      text: "Farewell! God knows when we shall meet again.\nI have a faint cold fear thrills through my veins\nThat almost freezes up the heat of life.\nI'll call them back again to comfort me.\nNurse! What should she do here?\nMy dismal scene I needs must act alone.\nCome, vial.\nWhat if this mixture do not work at all?\nShall I be married then tomorrow morning?\nNo, no, this shall forbid it. Lie thou there. [She lays down a knife]\nWhat if it be a poison which the Friar\nSubtly hath ministered to have me dead,\nLest in this marriage he should be dishonoured\nBecause he married me before to Romeo?\nI fear it is. And yet methinks it should not,\nFor he hath still been tried a holy man.\nHow if, when I am laid into the tomb,\nI wake before the time that Romeo\nCome to redeem me? There's a fearful point!",
       note: "Juliet is alone on stage. 'Lie thou there' refers to the dagger she places beside her bed.",
     },
   ],
@@ -758,10 +758,10 @@ export const romeoAndJuliet: Topic = {
           {
             id: "rj-mcq-p1-q06",
             question: "Which technique is used in 'Where civil blood makes civil hands unclean'?",
-            options: ["Oxymoron", "Rhetorical question", "Onomatopoeia", "Repetition"],
+            options: ["Simile", "Rhetorical question", "Onomatopoeia", "Repetition"],
             answerIndex: 3,
             hint: "Look for a word that appears twice.",
-            explanation: "'Civil' is repeated to stress that citizens are killing fellow citizens (with irony, since 'civil' also means polite). It is not an oxymoron: there are no two opposite words placed side by side.",
+            explanation: "'Civil' is repeated to stress that citizens are killing fellow citizens (with irony, since 'civil' also means polite). It is not a simile: there is no comparison using 'like' or 'as'.",
             guideRef: "prologue-sonnet",
           },
           {
@@ -807,7 +807,7 @@ export const romeoAndJuliet: Topic = {
           },
           {
             id: "rj-mcq-p1-q11",
-            question: "Which character belongs to neither the Montague nor the Capulet family?",
+            question: "Which character belongs to neither the Montague nor the Capulet household?",
             options: ["Tybalt", "Mercutio", "Benvolio", "The Nurse"],
             answerIndex: 1,
             hint: "He is a kinsman of the Prince and a friend of Romeo.",
@@ -1474,7 +1474,7 @@ export const romeoAndJuliet: Topic = {
         passage: {
           title: "Juliet's potion soliloquy",
           source: "William Shakespeare, Romeo and Juliet, Act 4 Scene 3",
-          text: "Farewell! God knows when we shall meet again.\nI have a faint cold fear thrills through my veins\nThat almost freezes up the heat of life.\nI'll call them back again to comfort me.\nNurse! What should she do here?\nMy dismal scene I needs must act alone.\nCome, vial.\nWhat if this mixture do not work at all?\nShall I be married then tomorrow morning?\nNo, no, this shall forbid it. Lie thou there.\nWhat if it be a poison which the Friar\nSubtly hath ministered to have me dead,\nLest in this marriage he should be dishonoured\nBecause he married me before to Romeo?\nI fear it is. And yet methinks it should not,\nFor he hath still been tried a holy man.\nHow if, when I am laid into the tomb,\nI wake before the time that Romeo\nCome to redeem me? There's a fearful point!",
+          text: "Farewell! God knows when we shall meet again.\nI have a faint cold fear thrills through my veins\nThat almost freezes up the heat of life.\nI'll call them back again to comfort me.\nNurse! What should she do here?\nMy dismal scene I needs must act alone.\nCome, vial.\nWhat if this mixture do not work at all?\nShall I be married then tomorrow morning?\nNo, no, this shall forbid it. Lie thou there. [She lays down a knife]\nWhat if it be a poison which the Friar\nSubtly hath ministered to have me dead,\nLest in this marriage he should be dishonoured\nBecause he married me before to Romeo?\nI fear it is. And yet methinks it should not,\nFor he hath still been tried a holy man.\nHow if, when I am laid into the tomb,\nI wake before the time that Romeo\nCome to redeem me? There's a fearful point!",
           note: "This paper covers family, patriarchy, the potion soliloquy, the ending, context and analytical writing.",
         },
         questions: [
@@ -1705,13 +1705,13 @@ export const romeoAndJuliet: Topic = {
             question: "Which sentence embeds a quotation most effectively?",
             options: [
               "Capulet is angry. Quote: 'Hang thee, young baggage, disobedient wretch!' This shows he is angry.",
-              "Capulet calls Juliet a 'disobedient wretch', a harsh noun suggesting he now sees his daughter as worthless.",
+              "Capulet calls Juliet a 'disobedient wretch', a harsh noun phrase suggesting he now sees his daughter as worthless.",
               "'Hang thee, young baggage, disobedient wretch! I tell thee what: get thee to church o' Thursday' is what Capulet says.",
               "Capulet says a quote which shows he is angry with Juliet.",
             ],
             answerIndex: 1,
             hint: "Look for a short quotation woven into the writer's own sentence, with analysis.",
-            explanation: "The option ‘Capulet calls Juliet a 'disobedient wretch', a harsh noun…’ blends a short quotation into the sentence and immediately analyses a single word. The option ‘Capulet is angry. Quote: 'Hang thee, young baggage, disobedient…’ drops a quotation in with 'Quote:' and repeats 'angry' without analysis.",
+            explanation: "The option ‘Capulet calls Juliet a 'disobedient wretch', a harsh noun phrase…’ blends a short quotation into the sentence and immediately analyses the wording. The option ‘Capulet is angry. Quote: 'Hang thee, young baggage, disobedient…’ drops a quotation in with 'Quote:' and repeats 'angry' without analysis.",
             guideRef: "family-patriarchy",
           },
           {
@@ -2040,7 +2040,7 @@ export const romeoAndJuliet: Topic = {
             markScheme: [
               { point: "Romeo: extravagant / poetic imagery (with evidence)", keywords: ["poetic", "imagery", "sun", "moon", "extravagant", "romantic"] },
               { point: "Juliet: practical / cautious / direct (with evidence)", keywords: ["practical", "cautious", "too rash", "direct", "plan", "sensible", "realistic"] },
-              { point: "Clear comparison", keywords: ["whereas", "however", "contrast", "while", "more than", "unlike"] },
+              { point: "Clear comparison", keywords: ["whereas", "however", "contrast", "while", "more than", "unlike", "more direct", "more sensible", "more practical"] },
               { point: "Explains Shakespeare's purpose", keywords: ["challenge", "strong heroine", "decisive", "expectation", "passive", "courage", "purpose"] },
             ],
             commonError: "Assuming Romeo, as the man, must be the one in control.",
@@ -2351,7 +2351,7 @@ export const romeoAndJuliet: Topic = {
         passage: {
           title: "Juliet's potion soliloquy",
           source: "William Shakespeare, Romeo and Juliet, Act 4 Scene 3",
-          text: "Farewell! God knows when we shall meet again.\nI have a faint cold fear thrills through my veins\nThat almost freezes up the heat of life.\nI'll call them back again to comfort me.\nNurse! What should she do here?\nMy dismal scene I needs must act alone.\nCome, vial.\nWhat if this mixture do not work at all?\nShall I be married then tomorrow morning?\nNo, no, this shall forbid it. Lie thou there.\nWhat if it be a poison which the Friar\nSubtly hath ministered to have me dead,\nLest in this marriage he should be dishonoured\nBecause he married me before to Romeo?\nI fear it is. And yet methinks it should not,\nFor he hath still been tried a holy man.\nHow if, when I am laid into the tomb,\nI wake before the time that Romeo\nCome to redeem me? There's a fearful point!",
+          text: "Farewell! God knows when we shall meet again.\nI have a faint cold fear thrills through my veins\nThat almost freezes up the heat of life.\nI'll call them back again to comfort me.\nNurse! What should she do here?\nMy dismal scene I needs must act alone.\nCome, vial.\nWhat if this mixture do not work at all?\nShall I be married then tomorrow morning?\nNo, no, this shall forbid it. Lie thou there. [She lays down a knife]\nWhat if it be a poison which the Friar\nSubtly hath ministered to have me dead,\nLest in this marriage he should be dishonoured\nBecause he married me before to Romeo?\nI fear it is. And yet methinks it should not,\nFor he hath still been tried a holy man.\nHow if, when I am laid into the tomb,\nI wake before the time that Romeo\nCome to redeem me? There's a fearful point!",
           note: "This paper covers family, patriarchy, the potion soliloquy, the ending and context.",
         },
         questions: [

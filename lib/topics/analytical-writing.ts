@@ -1009,7 +1009,7 @@ export const analyticalWriting: Topic = {
           text:
             "I met a traveller from an antique land,\nWho said—“Two vast and trunkless legs of stone\nStand in the desert. . . . Near them, on the sand,\nHalf sunk a shattered visage lies, whose frown,\nAnd wrinkled lip, and sneer of cold command,\nTell that its sculptor well those passions read\nWhich yet survive, stamped on these lifeless things,\nThe hand that mocked them, and the heart that fed;\nAnd on the pedestal, these words appear:\nMy name is Ozymandias, King of Kings;\nLook on my Works, ye Mighty, and despair!\nNothing beside remains. Round the decay\nOf that colossal Wreck, boundless and bare\nThe lone and level sands stretch far away.”",
           note:
-            "antique = ancient; trunkless = without a body; visage = face; mocked = imitated (and also ridiculed); fed = nourished (the king's passions).",
+            "antique = ancient; trunkless = without a body; mocked = imitated (and also ridiculed); fed = nourished (the king's passions).",
         },
         questions: [
           {
@@ -1304,7 +1304,7 @@ export const analyticalWriting: Topic = {
           text:
             "Two households, both alike in dignity,\nIn fair Verona, where we lay our scene,\nFrom ancient grudge break to new mutiny,\nWhere civil blood makes civil hands unclean.\nFrom forth the fatal loins of these two foes\nA pair of star-cross'd lovers take their life;\nWhose misadventured piteous overthrows\nDo with their death bury their parents' strife.\nThe fearful passage of their death-mark'd love,\nAnd the continuance of their parents' rage,\nWhich, but their children's end, nought could remove,\nIs now the two hours' traffic of our stage;\nThe which if you with patient ears attend,\nWhat here shall miss, our toil shall strive to mend.",
           note:
-            "dignity = high social status; mutiny = violent quarrel; civil = belonging to citizens; loins = the body as the source of children; star-cross'd = thwarted by the stars; but = except; traffic = business.",
+            "dignity = high social status; mutiny = violent quarrel; civil = belonging to citizens; loins = the body as the source of children; but = except; traffic = business.",
         },
         questions: [
           {
@@ -1314,7 +1314,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Count the lines and look at the final two.",
             explanation:
-              "It has 14 lines and ends with a rhyming couplet, so it is a sonnet, a form associated with love poetry. A soliloquy ‘A soliloquy’ is tempting because one actor speaks it, but the Chorus addresses the audience rather than revealing private thoughts.",
+              "It has 14 lines and ends with a rhyming couplet, so it is a sonnet, a form associated with love poetry. The option ‘A soliloquy’ is tempting because one actor speaks it, but the Chorus addresses the audience rather than revealing private thoughts.",
             guideRef: "terminology-and-verbs",
           },
           {

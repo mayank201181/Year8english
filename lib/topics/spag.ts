@@ -807,7 +807,7 @@ export const spag: Topic = {
             hint: "One of them must contain a subject and a verb.",
             modelAnswer: "A phrase is a group of words that works as a unit but does not contain a subject doing a verb, for example 'across the frozen lake'. A clause does contain a subject and a verb, for example 'the lake froze', where 'the lake' is the subject and 'froze' is the verb. A main clause can stand alone as a sentence, but a phrase cannot.",
             markScheme: [
-              { point: "A phrase has no subject + verb", keywords: ["no verb", "without a verb", "no subject", "does not contain a verb", "doesn't have a verb"] },
+              { point: "A phrase has no subject + verb", keywords: ["no verb", "without a verb", "no subject", "does not contain a verb", "does not contain a subject", "doesn't have a verb"] },
               { point: "A clause has a subject and a verb", keywords: ["subject and a verb", "subject and verb", "has a verb", "contains a verb", "subject + verb"] },
               { point: "Gives a correct example of each", keywords: ["for example", "e.g.", "such as", "for instance", "example"] },
             ],
@@ -837,7 +837,7 @@ export const spag: Topic = {
             markScheme: [
               { point: "Writes a compound sentence correctly using 'yet' between two main clauses", keywords: ["yet she", "yet he", "yet i", "yet it", "yet they", "yet we"] },
               { point: "Explains that 'yet' shows contrast or surprise", keywords: ["contrast", "surprise", "unexpected", "despite", "opposite", "however"] },
-              { point: "Explains that 'and' simply adds without contrast", keywords: ["and just adds", "adds", "simply joins", "no contrast", "addition", "continues"] },
+              { point: "Explains that 'and' simply adds without contrast", keywords: ["and just adds", "adds", "added together", "simply joins", "no contrast", "no sense", "addition", "continues"] },
             ],
             commonError: "Writing a sentence where 'yet' means 'so far' ('He hasn't arrived yet'), which is an adverb, not a conjunction.",
             guideRef: "sentence-types",
@@ -1103,7 +1103,7 @@ export const spag: Topic = {
             modelAnswer: "The finalists came from Ipoh, Malaysia; Chennai, India; and Leeds, England. Semicolons are needed because each item already contains a comma, so using commas alone between the items would make it impossible to see where one item ends and the next begins.",
             markScheme: [
               { point: "Correct sentence with semicolons between items containing commas", keywords: ["; and", "semicolon", "semi-colon", ";"] },
-              { point: "Explains the items already contain commas", keywords: ["already contain commas", "contain commas", "commas inside", "have commas", "confusing", "unclear"] },
+              { point: "Explains the items already contain commas", keywords: ["already contain commas", "already contains a comma", "contain commas", "contains a comma", "commas inside", "have commas", "confusing", "unclear"] },
             ],
             commonError: "Using semicolons in a simple list of single words, where commas are correct.",
             guideRef: "semicolons-colons-dashes",
@@ -1162,7 +1162,7 @@ export const spag: Topic = {
             modelAnswer: "'realise' should be 'realised'; 'is' (my phone is gone) should be 'was'; 'check' should be 'checked'; and 'walks' (my mum walks in) should be 'walked'. Keeping the whole narrative in the past tense stops the reader being jolted between time frames.",
             markScheme: [
               { point: "realise → realised", keywords: ["realised", "realized", "realise should be", "realise to realised"] },
-              { point: "is → was", keywords: ["was gone", "is should be was", "is to was", "phone was"] },
+              { point: "is → was", keywords: ["was gone", "should be was", "is to was", "phone was"] },
               { point: "check → checked", keywords: ["checked", "i checked", "checked every", "check should be"] },
               { point: "walks → walked", keywords: ["walked", "mum walked", "walked in", "walks should be"] },
             ],
@@ -1507,7 +1507,7 @@ export const spag: Topic = {
               { point: "'Slashes' has violent / dramatic / negative connotations", keywords: ["violent", "knife", "brutal", "dramatic", "sudden", "aggressive"] },
               { point: "'Reduces' is neutral / factual", keywords: ["neutral", "factual", "objective", "unbiased", "plain"] },
               { point: "The verb reveals the writer's attitude or bias", keywords: ["bias", "biased", "attitude", "opinion", "critical", "viewpoint"] },
-              { point: "Explains the effect on the reader", keywords: ["reader", "angry", "alarmed", "persuade", "influence", "feel"] },
+              { point: "Explains the effect on the reader", keywords: ["angry", "alarmed", "persuade", "influence", "encourages readers", "feel"] },
             ],
             commonError: "Saying both mean the same thing without exploring connotation and effect.",
             guideRef: "vocabulary-register",

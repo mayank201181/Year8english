@@ -59,7 +59,7 @@ test('correct answers are spread evenly across displayed positions', () => {
 
 test('explanations and hints do not refer to options by letter or position', () => {
   // Displayed order no longer matches authored order, so quote option text instead.
-  const byPosition = /\b(?:[Oo]ptions?|[Aa]nswer|[Cc]hoice) [A-D]\b|\b(?:first|second|third|fourth|last|top|bottom) (?:option|choice)s?\b|\bIn [A-D],|\b[B-D] (?:is|are|has|uses|names|gives|shows|quotes|states|describes|makes|takes|weighs|judges|compares|zooms)\b/;
+  const byPosition = /\b(?:[Oo]ptions?|[Aa]nswer|[Cc]hoice) [A-D]\b|\b(?:first|second|third|fourth|last|top|bottom)(?: two| three)? (?:option|choice)s?\b|\bIn [A-D],|\b[B-D] (?:is|are|has|uses|names|gives|shows|quotes|states|describes|makes|takes|weighs|judges|compares|zooms)\b|\b[Tt]he (?:first|second|third|fourth) (?:simply|focuses|copies|uses a semicolon|is a direct copy)\b/;
   const offenders = allMcqs.filter(q => byPosition.test(`${q.explanation} ${q.hint}`));
   assert.deepEqual(offenders.map(q => q.id), []);
 });

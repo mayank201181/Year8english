@@ -657,7 +657,7 @@ export const theNovel: Topic = {
           "Foreshadowing is when a writer drops a hint or warning about something that will happen later in the story. Writers use it to build suspense and tension, because readers sense trouble ahead and want to read on to find out what happens; it also makes the ending feel planned rather than random. For example, ‘Later, much later, I would wish I had put the letter in the fire’ warns that opening the letter will lead to something bad.",
         markScheme: [
           { point: "Defines foreshadowing as a hint or warning of a later event", keywords: ["hint", "clue", "warning", "later", "future", "what will happen", "suggests what"] },
-          { point: "Explains a purpose: suspense, tension, makes reader read on, makes events feel planned", keywords: ["suspense", "tension", "read on", "curious", "anticipation", "dread", "planned"] },
+          { point: "Explains a purpose: suspense, tension, anticipation, makes events feel planned", keywords: ["suspense", "tension", "curious", "anticipation", "dread", "planned", "inevitable"] },
           { point: "Gives a valid example", keywords: ["for example", "such as", "later, much later", "hints that", "letter", "e.g.", "warns"] },
         ],
         commonError: "Confusing foreshadowing with flashback: a flashback goes back in time; foreshadowing hints forward.",
@@ -1867,7 +1867,7 @@ export const theNovel: Topic = {
               { point: "Analyses ‘trampled’: animal-like, crushing, brutal", keywords: ["trampled", "animal", "crush", "stampede", "brutal", "beast", "violent"] },
               { point: "Analyses ‘calmly’: no emotion, guilt or shock", keywords: ["calmly", "calm", "no emotion", "no guilt", "doesn't care", "does not care", "indifferent", "cold"] },
               { point: "Notes the contrast between the violent act and the calm manner", keywords: ["contrast", "juxtaposition", "opposite", "however", "despite", "even though"] },
-              { point: "Explains effect on the reader / vulnerability of the child", keywords: ["reader", "horrified", "shocked", "child", "vulnerable", "innocent", "screaming"] },
+              { point: "Explains effect on the reader / vulnerability of the child", keywords: ["horrified", "shocked", "child", "vulnerable", "innocent", "screaming", "disturb"] },
             ],
             commonError: "Only analysing ‘trampled’ and missing that ‘calmly’ is the most shocking word.",
             guideRef: "characterisation",
@@ -1900,7 +1900,7 @@ export const theNovel: Topic = {
               { point: "Hyde seen from outside / no access to his thoughts, so he is mysterious", keywords: ["outside", "mystery", "mysterious", "thoughts", "don't know", "do not know", "unknown"] },
               { point: "Enfield’s reactions colour the account / reliability", keywords: ["enfield", "witness", "opinion", "reliable", "biased", "his view", "perspective"] },
               { point: "Links to gossip, reputation, secrecy among gentlemen", keywords: ["gossip", "reputation", "secret", "respectable", "gentlemen", "story within"] },
-              { point: "Builds suspense / reader wants to meet Hyde", keywords: ["suspense", "curious", "want to know", "read on", "tension", "intrigue"] },
+              { point: "Builds suspense / reader wants to meet Hyde", keywords: ["suspense", "curious", "meet hyde", "judge him", "tension", "intrigue"] },
             ],
             commonError: "Calling it ‘first person’ without explaining that it is a story inside a third-person narrative, or not explaining any effect.",
             guideRef: "narrative-perspective",
@@ -1930,7 +1930,7 @@ export const theNovel: Topic = {
             modelAnswer:
               "Enfield admits that his words cannot capture how horrifying the scene was: something about seeing it was ‘hellish’ in a way that cannot be explained. This makes the reader imagine something even worse than what is described, so Hyde becomes more frightening because the true horror is left unspoken.",
             markScheme: [
-              { point: "Words cannot capture the horror / seeing was worse than telling", keywords: ["cannot describe", "can't describe", "words", "worse to see", "indescribable", "can't explain", "cannot explain"] },
+              { point: "Words cannot capture the horror / seeing was worse than telling", keywords: ["cannot describe", "can't describe", "cannot capture", "worse to see", "indescribable", "can't explain", "cannot explain"] },
               { point: "Reader imagines something worse / horror left unspoken", keywords: ["imagine", "imagination", "unspoken", "worse", "more frightening", "mystery"] },
             ],
             commonError: "Paraphrasing the line without explaining why leaving horror undescribed can make it scarier.",
@@ -2098,7 +2098,7 @@ export const theNovel: Topic = {
             modelAnswer:
               "Starting with an unlikeable heroine is surprising, which hooks the reader. It also gives Mary somewhere to travel: if she begins sour and ‘disagreeable’, her change later in the novel will feel greater and more satisfying. Finally, it lets Burnett explore her message that people are shaped by how they are treated, since a neglected child has never been taught to be kind.",
             markScheme: [
-              { point: "Surprising opening hooks the reader", keywords: ["hook", "surprising", "unusual", "curious", "intrigue", "read on"] },
+              { point: "Surprising opening hooks the reader", keywords: ["hook", "surprising", "unusual", "curious", "intrigue", "unexpected"] },
               { point: "Creates room for a character arc / change", keywords: ["change", "arc", "develop", "transform", "grow", "later"] },
               { point: "Links to message: neglect shapes behaviour", keywords: ["neglect", "treated", "upbringing", "message", "never loved", "how she was raised", "shaped"] },
             ],
@@ -2213,7 +2213,7 @@ export const theNovel: Topic = {
               { point: "Analyses repetition of ‘thin’/‘little’", keywords: ["thin", "little", "repetition", "repeats", "small", "starved"] },
               { point: "Analyses ‘sour’ or ‘yellow’", keywords: ["sour", "yellow", "ill", "bitter", "gone off", "sickly"] },
               { point: "Explains sympathy/pity alongside dislike", keywords: ["pity", "sympathy", "neglected", "sorry", "not her fault", "lonely"] },
-              { point: "Links to structure/arc: space for change, reader wants to read on", keywords: ["arc", "change", "grow", "read on", "transform", "later"] },
+              { point: "Links to structure/arc: space for change and growth", keywords: ["arc", "change", "grow", "far to travel", "transform", "healing", "later"] },
             ],
             commonError: "Only proving Mary is unpleasant and forgetting the ‘intriguing’ half of the question.",
             guideRef: "characterisation",
@@ -2569,7 +2569,7 @@ export const theNovel: Topic = {
               { point: "Identifies B as weakest", keywords: ["b is", "sentence b", "option b", "b,", "b because"] },
               { point: "Explains why: summary, no evidence or analysis", keywords: ["summary", "retells", "plot", "no quotation", "no analysis", "no evidence", "describes"] },
               { point: "Rewrite includes embedded evidence", keywords: ["prisons", "workhouses", "humbug", "quotation", "such as", "for example"] },
-              { point: "Rewrite explains an effect or method", keywords: ["suggests", "makes", "shows", "heartless", "effect", "reader"] },
+              { point: "Rewrite explains an effect or method", keywords: ["suggests", "implies", "shows", "heartless", "effect", "cruel", "reject"] },
             ],
             commonError: "Choosing D because it is short; it is brief but it does make an analytical point.",
             guideRef: "reading-like-a-writer",

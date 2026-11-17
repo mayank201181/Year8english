@@ -625,7 +625,7 @@ export const publicSpeaking: Topic = {
           "Hook: 'Who here could cook a proper meal for their family tonight, without a packet, a microwave or a phone call to a takeaway?' This works because the rhetorical question makes every listener silently test themselves, and most will realise the answer is 'not me', so they want to hear what comes next.",
         markScheme: [
           { point: "Writes an engaging hook containing a rhetorical question", keywords: ["?", "who here", "how many", "have you", "could you", "what if"] },
-          { point: "Explains the effect on the audience (curiosity, self-reflection, engagement)", keywords: ["makes the audience", "makes listeners", "curious", "think about", "engage", "attention", "reflect"] },
+          { point: "Explains the effect on the audience (curiosity, self-reflection, engagement)", keywords: ["makes the audience", "makes listeners", "every listener", "test themselves", "curious", "think about", "engage", "attention", "reflect"] },
         ],
         commonError: "Writing 'Today I am going to talk about cooking' (an announcement, not a hook) or forgetting to explain the effect.",
         guideRef: "speech-structure",
@@ -913,7 +913,7 @@ export const publicSpeaking: Topic = {
           },
           {
             id: "spk-mcq-p1-q19",
-            question: "Your heart is racing just before you speak. Which strategy is best supported by the guide?",
+            question: "Your heart is racing just before you speak. Which strategy is most effective for managing those nerves?",
             options: [
               "Tell yourself to calm down and stop feeling nervous",
               "Breathe out slowly and tell yourself you are excited",
@@ -1382,12 +1382,12 @@ export const publicSpeaking: Topic = {
           },
           {
             id: "spk-mcq-p3-q11",
-            question: "Which appeal dominates paragraph [3]?",
+            question: "Which appeal drives the calculation in paragraph [3] (from 200 cups a day to 38,000 a year)?",
             options: ["Ethos", "Kairos", "Logos", "Pathos only"],
             answerIndex: 2,
             hint: "What is the speaker doing with the numbers?",
             explanation:
-              "The speaker calculates from 200 a day to a thousand a week to thirty-eight thousand a year: step-by-step reasoning with numbers, which is logos. The end of the paragraph adds some pathos, but 'pathos only' ignores the calculation that dominates it.",
+              "The speaker calculates from 200 a day to a thousand a week to thirty-eight thousand a year: step-by-step reasoning with numbers, which is logos. The end of the paragraph adds pathos too, so 'Pathos only' ignores the numerical argument.",
             guideRef: "ethos-pathos-logos",
           },
           {
@@ -1802,6 +1802,8 @@ export const publicSpeaking: Topic = {
           },
           {
             id: "spk-mcq-p4-q20",
+            extract:
+              "HENRY V: Stiffen the sinews, summon up the blood ... Follow your spirit ...\nELIZABETH I: I myself will take up arms ... to live and die amongst you all ...",
             question: "Which statement best captures a key DIFFERENCE between Henry V's and Elizabeth I's rallying speeches?",
             options: [
               "Henry relies on imperatives telling his men how to fight; Elizabeth stresses her personal promise to live and die among her troops",
@@ -2280,7 +2282,7 @@ export const publicSpeaking: Topic = {
             modelAnswer:
               "The sentence balances opposites: 'what we say' against 'what they did', words against actions and the living speakers against the dead soldiers, and 'little note' against 'never forget'. This antithesis raises the soldiers' deeds far above the speeches being made, showing deep respect and humility. It suggests Lincoln believes action and sacrifice matter more than words, which honours the dead and makes the living audience feel their duty is to act, not just to talk.",
             markScheme: [
-              { point: "Identifies the opposites (say/did, we/they, little note/never forget)", keywords: ["what we say", "what they did", "words", "actions", "deeds", "little note", "never forget"] },
+              { point: "Identifies the opposites (say/did, we/they, little note/never forget)", keywords: ["what we say", "what they did", "words against", "words and actions", "actions", "deeds", "little note", "never forget"] },
               { point: "Names antithesis/balance and explains how it elevates the soldiers", keywords: ["antithesis", "contrast", "balance", "elevat", "above", "more important"] },
               { point: "Explains Lincoln's attitude (respect, humility, action over words)", keywords: ["respect", "humble", "humility", "honour", "honor", "admir", "action over words"] },
             ],
