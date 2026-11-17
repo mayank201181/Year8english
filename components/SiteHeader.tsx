@@ -25,7 +25,7 @@ export function SiteHeader() {
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3">
         <Link href="/" className="flex items-center gap-2 font-bold text-slate-900">
           <span className="text-2xl" aria-hidden>
-            🔬
+            🎭
           </span>
           <span className="leading-tight">
             Year 8 <span className="text-indigo-600">English Lab</span>
@@ -51,24 +51,21 @@ export function SiteHeader() {
             My Progress
           </Link>
           <a
-            href="/season1/index.html"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="ml-1 inline-flex items-center gap-1.5 rounded-full bg-gradient-to-r from-rose-500 to-amber-500 px-3 py-1.5 text-xs font-extrabold text-white shadow-sm hover:opacity-95"
-          >
-            🍿 Gemini Sitcoms
-          </a>
-          <a
             href="/lessons/claude-sitcom.html"
-            target="_blank"
-            rel="noopener noreferrer"
             className="ml-1 inline-flex items-center gap-1.5 rounded-full bg-gradient-to-r from-violet-600 to-sky-500 px-3 py-1.5 text-xs font-extrabold text-white shadow-sm hover:opacity-95"
           >
-            🎬 Claude Sitcoms
+            📺 Sitcoms
           </a>
         </nav>
 
         <div className="flex items-center gap-2">
+          <a
+            href="/lessons/claude-sitcom.html"
+            className="inline-flex items-center gap-1 rounded-full bg-gradient-to-r from-violet-600 to-sky-500 px-3 py-1.5 text-xs font-extrabold text-white shadow-sm hover:opacity-95 sm:hidden"
+            title="All 16 Sitcom Episodes"
+          >
+            📺 Sitcoms
+          </a>
           {streak.count > 0 && (
             <span
               className="flex items-center gap-1 rounded-full border border-orange-200 bg-orange-50 px-2.5 py-1.5 text-sm font-bold text-orange-600"
@@ -103,8 +100,7 @@ export function SiteHeader() {
               </button>
               {menu && (
                 <div className="absolute right-0 mt-2 w-48 overflow-hidden rounded-xl border border-slate-200 bg-white py-1 shadow-lg">
-                  <a href="/season1/index.html" target="_blank" rel="noopener noreferrer" onClick={() => setMenu(false)} className="block px-4 py-2 text-sm font-bold text-rose-600 hover:bg-rose-50 sm:hidden">🍿 Gemini Sitcoms</a>
-                  <a href="/lessons/claude-sitcom.html" target="_blank" rel="noopener noreferrer" onClick={() => setMenu(false)} className="block px-4 py-2 text-sm font-bold text-violet-700 hover:bg-violet-50 sm:hidden">🎬 Claude Sitcoms</a>
+                  <a href="/lessons/claude-sitcom.html" onClick={() => setMenu(false)} className="block px-4 py-2 text-sm font-bold text-violet-700 hover:bg-violet-50">📺 All 16 Sitcom Episodes</a>
                   <Link href="/progress" onClick={() => setMenu(false)} className="block px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 sm:hidden">My Progress</Link>
                   {!guest && (
                     <>

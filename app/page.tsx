@@ -70,6 +70,12 @@ export default function Home() {
               >
                 🏁 The Big Exam
               </Link>
+              <a
+                href="/lessons/claude-sitcom.html"
+                className="rounded-xl border border-violet-200 bg-violet-50 px-5 py-2.5 font-semibold text-violet-700 hover:bg-violet-100"
+              >
+                📺 All 16 Sitcoms
+              </a>
             </div>
           </div>
 
