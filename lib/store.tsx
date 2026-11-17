@@ -205,14 +205,11 @@ export function ProgressProvider({ children }: { children: React.ReactNode }) {
             return;
           }
           setStatus("no-profile");
-        } else if (guestWanted()) {
-          enterGuest();
         } else {
-          setStatus("anon");
+          enterGuest();
         }
       } catch {
-        if (guestWanted()) enterGuest();
-        else setStatus("anon");
+        enterGuest();
       }
     })();
     // eslint-disable-next-line react-hooks/exhaustive-deps
