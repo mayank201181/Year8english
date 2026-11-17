@@ -8,131 +8,124 @@
    "short": "Cold open",
    "card": false,
    "start": 0.0,
-   "end": 69.811,
+   "end": 62.369,
    "lines": [
     {
      "id": "school",
      "start": 0.6,
-     "end": 5.315,
-     "cap": "**Narrator:** Banyan Hill International School, Singapore. Year 8. Tuesday, Period 3.",
+     "end": 4.397,
+     "cap": "**Narrator:** Banyan Hill International School, Singapore. Year 8. Tuesday.",
      "who": "narr"
     },
     {
      "id": "plan",
-     "start": 5.835,
-     "end": 10.123,
+     "start": 4.917,
+     "end": 9.12,
      "cap": "**Narrator:** This documentary is about how children learn English. That was the plan.",
      "who": "narr"
     },
     {
      "id": "term",
-     "start": 10.943,
-     "end": 13.673,
+     "start": 9.79,
+     "end": 12.329,
      "cap": "**Mr H:** Right, 8H. This term: **Shakespeare**.",
      "who": "mrh"
     },
     {
      "id": "boring",
-     "start": 14.593,
-     "end": 18.753,
+     "start": 13.069,
+     "end": 17.186,
      "cap": "**Mei:** Sir, he's four hundred years old, it's boring, and nobody talks like that.",
      "who": "mei"
     },
     {
      "id": "mei",
-     "start": 19.473,
-     "end": 22.247,
+     "start": 17.786,
+     "end": 20.495,
      "cap": "**Narrator:** This is Mei. She is twelve. She reviews everything.",
      "who": "narr"
     },
     {
      "id": "review",
-     "start": 22.767,
-     "end": 26.372,
+     "start": 21.015,
+     "end": 24.557,
      "cap": "**Mei:** Canteen curry puff: four stars. Shakespeare: **one star**.",
      "who": "mei"
     },
     {
      "id": "library",
-     "start": 27.492,
-     "end": 29.455,
+     "start": 25.437,
+     "end": 27.357,
      "cap": "**Narrator:** Four p.m. The school library.",
      "who": "narr"
     },
     {
      "id": "onestar",
-     "start": 30.375,
-     "end": 32.017,
+     "start": 28.277,
+     "end": 29.685,
      "cap": "**Will:** ONE. STAR?",
      "who": "will"
     },
     {
      "id": "who",
-     "start": 32.837,
-     "end": 33.605,
+     "start": 30.505,
+     "end": 31.273,
      "cap": "**Mei:** Who said that?",
      "who": "mei"
     },
     {
      "id": "iam",
-     "start": 34.325,
-     "end": 40.939,
+     "start": 31.873,
+     "end": 38.059,
      "cap": "**Will:** I am **William Shakespeare**. I wrote Romeo and Juliet. I wrote Hamlet. I have never had ONE STAR.",
      "who": "will"
     },
     {
      "id": "ghost",
-     "start": 41.559,
-     "end": 42.327,
+     "start": 38.679,
+     "end": 39.447,
      "cap": "**Mei:** You're a ghost.",
      "who": "mei"
     },
     {
      "id": "feelings",
-     "start": 42.847,
-     "end": 45.492,
+     "start": 39.967,
+     "end": 42.399,
      "cap": "**Will:** I am a ghost with feelings.",
      "who": "will"
     },
     {
-     "id": "aircon",
-     "start": 46.312,
-     "end": 49.405,
-     "cap": "**Narrator:** Will has haunted this library since it got air-conditioning.",
-     "who": "narr"
-    },
-    {
      "id": "stayed",
-     "start": 49.925,
-     "end": 54.171,
-     "cap": "**Will:** I came to Singapore for the theatre. I stayed for the aircon.",
+     "start": 43.069,
+     "end": 47.464,
+     "cap": "**Will:** I came to Singapore for the theatre. I stayed for the air-conditioning.",
      "who": "will"
     },
     {
      "id": "deal",
-     "start": 54.991,
-     "end": 59.663,
+     "start": 48.134,
+     "end": 52.55,
      "cap": "**Will:** Give me one week, child. By Friday, thou shalt give me **five stars**.",
      "who": "will"
     },
     {
      "id": "thou",
-     "start": 60.283,
-     "end": 61.605,
+     "start": 53.17,
+     "end": 54.493,
      "cap": "**Mei:** Did you just call me **thou**?",
      "who": "mei"
     },
     {
      "id": "later",
-     "start": 62.225,
-     "end": 63.697,
+     "start": 55.113,
+     "end": 56.457,
      "cap": "**Will:** We'll get to that.",
      "who": "will"
     },
     {
      "id": "title",
-     "start": 64.617,
-     "end": 67.711,
+     "start": 57.197,
+     "end": 60.269,
      "cap": "**Narrator:** All the School's a Stage. Episode one: One Star.",
      "who": "narr"
     }
@@ -143,132 +136,118 @@
    "title": "Who's Will?",
    "short": "Life & genres",
    "card": true,
-   "start": 69.811,
-   "end": 176.693,
+   "start": 62.369,
+   "end": 154.933,
    "lines": [
     {
      "id": "begins",
-     "start": 71.611,
-     "end": 75.429,
-     "cap": "**Narrator:** Wednesday. Will begins, as all great men do, by talking about himself.",
+     "start": 64.169,
+     "end": 66.835,
+     "cap": "**Narrator:** Wednesday. Will begins by talking about himself.",
      "who": "narr"
     },
     {
      "id": "born",
-     "start": 76.049,
-     "end": 81.297,
+     "start": 67.455,
+     "end": 72.383,
      "cap": "**Will:** Born in **Stratford-upon-Avon**, in **1564**. Son of a glove-maker.",
      "who": "will"
     },
     {
      "id": "gloves",
-     "start": 81.917,
-     "end": 83.709,
+     "start": 73.003,
+     "end": 74.774,
      "cap": "**Mei:** Gloves. Cool. Moving on.",
      "who": "mei"
     },
     {
      "id": "married",
-     "start": 84.529,
-     "end": 91.399,
-     "cap": "**Will:** Married **Anne Hathaway** at eighteen. Three children. Then, for seven years, there are almost no records of me.",
+     "start": 75.444,
+     "end": 81.311,
+     "cap": "**Will:** Married **Anne Hathaway** at eighteen. Three children. Then seven years with almost no records of me.",
      "who": "will"
     },
     {
      "id": "lost",
-     "start": 91.919,
-     "end": 94.031,
+     "start": 81.831,
+     "end": 83.921,
      "cap": "**Narrator:** Historians call them the **lost years**.",
      "who": "narr"
     },
     {
      "id": "business",
-     "start": 94.551,
-     "end": 97.132,
+     "start": 84.441,
+     "end": 86.809,
      "cap": "**Will:** I call them none of your business.",
      "who": "will"
     },
     {
      "id": "crow",
-     "start": 98.052,
-     "end": 105.753,
-     "cap": "**Will:** By **1592** I was writing plays in **London**. A jealous rival called me an 'upstart crow'. I have not forgotten.",
+     "start": 87.549,
+     "end": 94.547,
+     "cap": "**Will:** By **1592** I was writing plays in **London**. A rival called me an 'upstart crow'. I have not forgotten.",
      "who": "will"
     },
     {
      "id": "nib",
-     "start": 106.573,
-     "end": 115.533,
-     "cap": "**Nib:** Nib. Fountain pen. Technical terms. Every company of actors needed a **patron**: a powerful noble or monarch to protect it.",
+     "start": 95.217,
+     "end": 102.235,
+     "cap": "**Nib:** Nib. Fountain pen. Every company of actors needed a **patron**: a powerful noble or monarch to protect it.",
      "who": "nib"
     },
     {
      "id": "kings",
-     "start": 116.153,
-     "end": 123.641,
+     "start": 102.855,
+     "end": 109.938,
      "cap": "**Will:** We were the **Lord Chamberlain's Men**. Then **Elizabeth I** died, **James I** took us on, and we became the **King's Men**.",
      "who": "will"
     },
     {
      "id": "revels",
-     "start": 124.261,
-     "end": 129.339,
-     "cap": "**Nib:** And every play was licensed by a censor, the **Master of the Revels**.",
+     "start": 110.558,
+     "end": 115.785,
+     "cap": "**Nib:** And every play was checked by a censor, the **Master of the Revels**. He cut things.",
      "who": "nib"
     },
     {
-     "id": "cut",
-     "start": 129.859,
-     "end": 132.845,
-     "cap": "**Will:** He cut my best bits. One star.",
-     "who": "will"
-    },
-    {
      "id": "folio",
-     "start": 133.665,
-     "end": 143.777,
-     "cap": "**Will:** I died in **1616**. Seven years later, my friends printed **36** of my plays in the **First Folio**. Without it, Macbeth and The Tempest might be lost.",
+     "start": 116.305,
+     "end": 125.841,
+     "cap": "**Will:** I died in **1616**. In **1623**, friends printed **36** of my plays in the **First Folio**. Without it, Macbeth and The Tempest might be lost.",
      "who": "will"
-    },
-    {
-     "id": "genres",
-     "start": 144.397,
-     "end": 146.296,
-     "cap": "**Mei:** Okay. So what kinds of plays?",
-     "who": "mei"
     },
     {
      "id": "comedy",
-     "start": 146.816,
-     "end": 152.235,
-     "cap": "**Nib:** **Comedy**: confusion and disguise, ending in harmony, usually a **marriage**.",
+     "start": 126.461,
+     "end": 132.242,
+     "cap": "**Nib:** Four genres. **Comedy**: confusion and disguise, ending in harmony, usually a **marriage**.",
      "who": "nib"
     },
     {
      "id": "tragedy",
-     "start": 152.555,
-     "end": 158.933,
+     "start": 132.562,
+     "end": 138.407,
      "cap": "**Nib:** **Tragedy**: a high-status hero with a **fatal flaw**, called **hamartia**, which destroys them.",
      "who": "nib"
     },
     {
      "id": "history",
-     "start": 159.253,
-     "end": 166.656,
+     "start": 138.727,
+     "end": 145.447,
      "cap": "**Nib:** **History**: English kings. **Romance**: late plays like The Tempest, ending in **forgiveness** and **reunion**.",
      "who": "nib"
     },
     {
      "id": "thcomedy",
-     "start": 167.276,
-     "end": 173.271,
+     "start": 146.067,
+     "end": 151.955,
      "cap": "**Mei:** So comedy doesn't mean funny. It means the mess gets sorted out. Like my bedroom. Eventually.",
      "who": "mei"
     },
     {
      "id": "still",
-     "start": 173.991,
-     "end": 174.993,
+     "start": 152.555,
+     "end": 153.473,
      "cap": "**Mei:** Still one star.",
      "who": "mei"
     }
@@ -279,139 +258,125 @@
    "title": "This wooden O",
    "short": "The Globe",
    "card": true,
-   "start": 176.693,
-   "end": 272.179,
+   "start": 154.933,
+   "end": 234.623,
    "lines": [
     {
      "id": "come",
-     "start": 178.493,
-     "end": 182.077,
-     "cap": "**Will:** Come, child. Fifteen ninety-nine. My Globe.",
+     "start": 156.733,
+     "end": 159.058,
+     "cap": "**Will:** Come. Fifteen ninety-nine.",
      "who": "will"
     },
     {
      "id": "bankside",
-     "start": 182.997,
-     "end": 187.797,
+     "start": 159.798,
+     "end": 164.513,
      "cap": "**Narrator:** The **Globe**: an open-air playhouse on **Bankside**, on the south bank of the River Thames.",
      "who": "narr"
     },
     {
      "id": "woodeno",
-     "start": 188.117,
-     "end": 192.917,
+     "start": 164.833,
+     "end": 169.313,
      "cap": "**Will:** Round. Wooden. Open to the sky. I called a theatre '**this wooden O**'.",
      "who": "will"
     },
     {
      "id": "flag",
-     "start": 193.537,
-     "end": 198.593,
-     "cap": "**Narrator:** Around **3,000** people could squeeze in. A flag on the roof meant: a play today.",
+     "start": 169.933,
+     "end": 174.647,
+     "cap": "**Narrator:** About **3,000** people squeezed in. A flag on the roof meant: a play today.",
      "who": "narr"
     },
     {
      "id": "yard",
-     "start": 199.213,
-     "end": 202.712,
+     "start": 175.267,
+     "end": 178.745,
      "cap": "**Narrator:** In the **yard** stood the **groundlings**. They paid **one penny** to stand.",
      "who": "narr"
     },
     {
      "id": "mrt",
-     "start": 203.232,
-     "end": 208.203,
+     "start": 179.265,
+     "end": 184.193,
      "cap": "**Mei:** A penny to stand for three hours? That's the MRT at rush hour, but with murders.",
      "who": "mei"
     },
     {
-     "id": "galleries",
-     "start": 208.923,
-     "end": 212.784,
-     "cap": "**Will:** The **galleries** cost two pennies. Three, for a cushion.",
-     "who": "will"
-    },
-    {
      "id": "thrust",
-     "start": 213.304,
-     "end": 222.669,
-     "cap": "**Nib:** The **thrust stage** pushes out into the yard: the audience surrounds the actors on **three sides**. Perfect for whispering secrets to the crowd.",
+     "start": 184.793,
+     "end": 192.11,
+     "cap": "**Nib:** The **thrust stage** pushes out into the yard: the audience surrounds the actors on **three sides**. Perfect for secrets.",
      "who": "nib"
     },
     {
      "id": "heckle",
-     "start": 223.189,
-     "end": 227.051,
-     "cap": "**Narrator:** The groundlings ate, drank, wandered about and heckled. Mostly Will.",
+     "start": 192.63,
+     "end": 195.467,
+     "cap": "**Narrator:** The groundlings ate, drank and heckled. Mostly Will.",
      "who": "narr"
     },
     {
      "id": "lights",
-     "start": 227.871,
-     "end": 228.852,
+     "start": 196.137,
+     "end": 197.119,
      "cap": "**Mei:** Where are the lights?",
      "who": "mei"
     },
     {
      "id": "daylight",
-     "start": 229.472,
-     "end": 237.195,
-     "cap": "**Will:** There are none. We played in the afternoon, in **daylight**, with almost no scenery. If it's night, the actors must SAY so.",
+     "start": 197.739,
+     "end": 203.776,
+     "cap": "**Will:** None. We played in **daylight**, with almost no scenery. If it's night, the actors must SAY so.",
      "who": "will"
     },
     {
      "id": "scenery",
-     "start": 237.715,
-     "end": 243.496,
+     "start": 204.296,
+     "end": 209.544,
      "cap": "**Nib:** Critics call it **word scenery**: the language paints the time, the place and the mood.",
      "who": "nib"
     },
     {
-     "id": "juliet",
-     "start": 243.816,
-     "end": 245.16,
-     "cap": "**Mei:** And who's playing Juliet?",
-     "who": "mei"
-    },
-    {
      "id": "robert",
-     "start": 245.68,
-     "end": 248.069,
-     "cap": "**Will:** Robert. He's thirteen.",
+     "start": 209.864,
+     "end": 213.384,
+     "cap": "**Will:** And Juliet is played by Robert. He's thirteen.",
      "who": "will"
     },
     {
      "id": "boys",
-     "start": 248.789,
-     "end": 255.637,
-     "cap": "**Narrator:** Women could not act on the English public stage until **1660**. Every female role was played by a **boy actor**.",
+     "start": 213.984,
+     "end": 219.872,
+     "cap": "**Narrator:** Women could not act on the public stage until **1660**. Every female role was played by a **boy**.",
      "who": "narr"
     },
     {
      "id": "fire",
-     "start": 256.257,
-     "end": 262.188,
-     "cap": "**Narrator:** In **1613**, a cannon fired during a play set the thatched roof alight. The Globe burned down.",
+     "start": 220.492,
+     "end": 225.548,
+     "cap": "**Narrator:** In **1613**, a stage cannon set the thatched roof alight. The Globe burned down.",
      "who": "narr"
     },
     {
      "id": "review",
-     "start": 262.908,
-     "end": 263.825,
+     "start": 226.148,
+     "end": 227.065,
      "cap": "**Mei:** Was that a review?",
      "who": "mei"
     },
     {
      "id": "effect",
-     "start": 264.645,
-     "end": 267.12,
+     "start": 227.735,
+     "end": 229.975,
      "cap": "**Will:** It was a SPECIAL. EFFECT.",
      "who": "will"
     },
     {
      "id": "two",
-     "start": 267.94,
-     "end": 270.479,
+     "start": 230.645,
+     "end": 233.163,
      "cap": "**Mei:** Okay. Two stars. The fire was cool.",
      "who": "mei"
     }
@@ -422,134 +387,127 @@
    "title": "Verse, prose and couplets",
    "short": "Verse & prose",
    "card": true,
-   "start": 272.179,
-   "end": 369.531,
+   "start": 234.623,
+   "end": 315.273,
    "lines": [
     {
      "id": "tea",
-     "start": 273.979,
-     "end": 278.693,
-     "cap": "**Narrator:** Thursday, Period 1. Mr Hargreaves has had one cup of tea. He needs four.",
+     "start": 236.423,
+     "end": 240.028,
+     "cap": "**Narrator:** Thursday. Mr Hargreaves has had one cup of tea. He needs four.",
      "who": "narr"
     },
     {
      "id": "modes",
-     "start": 279.313,
-     "end": 283.217,
+     "start": 240.648,
+     "end": 244.339,
      "cap": "**Mr H:** Shakespeare writes in three modes. Mode one: **blank verse**.",
      "who": "mrh"
     },
     {
      "id": "blank",
-     "start": 283.737,
-     "end": 287.556,
+     "start": 244.859,
+     "end": 248.357,
      "cap": "**Nib:** Blank verse is **unrhymed iambic pentameter**.",
      "who": "nib"
     },
     {
      "id": "posh",
-     "start": 288.076,
-     "end": 293.324,
-     "cap": "**Mr H:** Unrhymed. For **noble** characters, **serious** matters, **love** and **strong emotion**.",
+     "start": 248.877,
+     "end": 252.525,
+     "cap": "**Mr H:** For **nobles**, **serious** matters, **love** and **strong emotion**.",
      "who": "mrh"
     },
     {
      "id": "spot",
-     "start": 293.644,
-     "end": 299.468,
-     "cap": "**Mr H:** On the page, every line of verse starts with a **capital letter** and stops before the margin.",
+     "start": 252.845,
+     "end": 257.795,
+     "cap": "**Mr H:** On the page, each verse line starts with a **capital** and stops before the margin.",
      "who": "mrh"
     },
     {
      "id": "prose",
-     "start": 299.988,
-     "end": 306.303,
-     "cap": "**Mr H:** Mode two: **prose**. Ordinary sentences, **no fixed rhythm**, running right across the page.",
+     "start": 258.315,
+     "end": 263.541,
+     "cap": "**Mr H:** Mode two: **prose**. Ordinary sentences, **no fixed rhythm**, right across the page.",
      "who": "mrh"
     },
     {
      "id": "who",
-     "start": 306.623,
-     "end": 310.612,
+     "start": 263.861,
+     "end": 267.381,
      "cap": "**Nib:** Prose is for **servants**, **comedy**, **letters**... and **madness**.",
      "who": "nib"
     },
     {
      "id": "spot2",
-     "start": 311.232,
-     "end": 316.245,
+     "start": 268.001,
+     "end": 272.588,
      "cap": "**Nib:** Lady Macbeth sleepwalks in prose. Her controlled mind has collapsed.",
      "who": "nib"
     },
     {
      "id": "easy",
-     "start": 316.865,
-     "end": 320.556,
+     "start": 273.208,
+     "end": 276.877,
      "cap": "**Mei:** So posh people speak verse, servants speak prose. Easy.",
      "who": "mei"
     },
     {
      "id": "thumb",
-     "start": 321.276,
-     "end": 324.263,
+     "start": 277.477,
+     "end": 280.165,
      "cap": "**Will:** Ah. A **rule of thumb**. Not a rule.",
      "who": "will"
     },
     {
      "id": "caliban",
-     "start": 324.883,
-     "end": 331.581,
-     "cap": "**Will:** In The Tempest, **Caliban**, a servant they call a monster, speaks some of the most beautiful verse in the play.",
+     "start": 280.785,
+     "end": 285.863,
+     "cap": "**Will:** In The Tempest, **Caliban**, a servant they call a monster, speaks beautiful verse.",
      "who": "will"
     },
     {
      "id": "stephano",
-     "start": 332.201,
-     "end": 337.94,
-     "cap": "**Will:** And the drunken butler, Stephano, answers him in **prose**. Who is the real monster, hmm?",
+     "start": 286.483,
+     "end": 290.813,
+     "cap": "**Will:** The drunken butler answers in **prose**. So who is the real monster?",
      "who": "will"
     },
     {
      "id": "whynow",
-     "start": 338.66,
-     "end": 344.036,
-     "cap": "**Mr H:** So when a character **switches**, ask: why here, and why now? That's where the marks are.",
+     "start": 291.413,
+     "end": 296.149,
+     "cap": "**Mr H:** When a character **switches**, ask: why here, why now? That's where the marks are.",
      "who": "mrh"
     },
     {
      "id": "couplet",
-     "start": 344.756,
-     "end": 352.073,
-     "cap": "**Mr H:** Mode three: **rhyming couplets**. Two lines in a row that rhyme. With no curtain, they **end a scene** with a click.",
+     "start": 296.749,
+     "end": 303.021,
+     "cap": "**Mr H:** Mode three: **rhyming couplets**. Two rhyming lines that **end a scene** with a click. There's no curtain.",
      "who": "mrh"
     },
     {
      "id": "play",
-     "start": 352.593,
-     "end": 356.753,
+     "start": 303.541,
+     "end": 307.445,
      "cap": "**Will:** The play's the thing, wherein I'll catch the conscience of the king!",
      "who": "will"
     },
     {
      "id": "spells",
-     "start": 357.573,
-     "end": 362.672,
-     "cap": "**Mr H:** Couplets also mark the **supernatural**, like spells, and **lovers in harmony**.",
+     "start": 308.115,
+     "end": 311.401,
+     "cap": "**Mr H:** Couplets also mark **spells** and **lovers in harmony**.",
      "who": "mrh"
     },
     {
-     "id": "clap",
-     "start": 363.292,
-     "end": 365.084,
+     "id": "bowed",
+     "start": 312.021,
+     "end": 313.813,
      "cap": "**Mei:** He bowed. At his own couplet.",
      "who": "mei"
-    },
-    {
-     "id": "bowed",
-     "start": 365.804,
-     "end": 367.831,
-     "cap": "**Will:** It deserved a bow.",
-     "who": "will"
     }
    ]
   },
@@ -558,146 +516,139 @@
    "title": "The heartbeat",
    "short": "Iambic pentameter",
    "card": true,
-   "start": 369.531,
-   "end": 471.779,
+   "start": 315.273,
+   "end": 400.537,
    "lines": [
     {
      "id": "lunch",
-     "start": 371.331,
-     "end": 375.64,
-     "cap": "**Narrator:** Lunch. Mei is counting syllables on her fingers. She has run out of fingers.",
+     "start": 317.073,
+     "end": 320.529,
+     "cap": "**Narrator:** Lunch. Mei is counting syllables. She has run out of fingers.",
      "who": "narr"
     },
     {
      "id": "iamb",
-     "start": 376.36,
-     "end": 381.821,
-     "cap": "**Mr H:** Break it down. An **iamb** is two syllables: **unstressed**, then **stressed**. da-DUM.",
+     "start": 321.129,
+     "end": 325.374,
+     "cap": "**Mr H:** An **iamb** is two syllables: **unstressed**, then **stressed**. da-DUM.",
      "who": "mrh"
     },
     {
      "id": "penta",
-     "start": 382.341,
-     "end": 388.827,
-     "cap": "**Nib:** **Penta** means five, as in pentagon. **Five** iambs in a line. So, **ten syllables**.",
+     "start": 325.894,
+     "end": 330.011,
+     "cap": "**Nib:** **Penta** means five. **Five** iambs a line: **ten syllables**.",
      "who": "nib"
     },
     {
      "id": "soft",
-     "start": 389.347,
-     "end": 392.845,
+     "start": 330.531,
+     "end": 333.795,
      "cap": "**Will:** But soft, what light through yonder window breaks?",
      "who": "will"
     },
     {
      "id": "stresses",
-     "start": 393.765,
-     "end": 399.845,
+     "start": 334.535,
+     "end": 340.402,
      "cap": "**Mr H:** Ten syllables, five stresses, landing on the key words: **soft**, **light**, **window**, **breaks**.",
      "who": "mrh"
     },
     {
      "id": "iam",
-     "start": 400.165,
-     "end": 403.579,
+     "start": 340.722,
+     "end": 344.093,
      "cap": "**Mei:** Like the memory trick: i-AM, i-AM, i-AM, i-AM, i-AM.",
      "who": "mei"
     },
     {
      "id": "kaya",
-     "start": 404.199,
-     "end": 406.78,
+     "start": 344.713,
+     "end": 347.209,
      "cap": "**Mei:** Wait. Today I want to eat some kaya toast.",
      "who": "mei"
     },
     {
      "id": "yes",
-     "start": 407.6,
-     "end": 410.565,
+     "start": 347.879,
+     "end": 350.652,
      "cap": "**Will:** That... is iambic pentameter.",
      "who": "will"
     },
     {
      "id": "basically",
-     "start": 411.185,
-     "end": 412.615,
+     "start": 351.272,
+     "end": 352.68,
      "cap": "**Mei:** So I'm basically Shakespeare.",
      "who": "mei"
     },
     {
      "id": "hungry",
-     "start": 413.235,
-     "end": 415.645,
+     "start": 353.3,
+     "end": 355.497,
      "cap": "**Will:** You are basically hungry.",
      "who": "will"
     },
     {
      "id": "skips",
-     "start": 416.465,
-     "end": 419.58,
+     "start": 356.167,
+     "end": 359.047,
      "cap": "**Will:** Now. Listen for when the heartbeat **skips**.",
      "who": "will"
     },
     {
      "id": "tobe",
-     "start": 420.1,
-     "end": 423.385,
+     "start": 359.567,
+     "end": 362.618,
      "cap": "**Will:** To be, or not to be, that is the question.",
      "who": "will"
     },
     {
      "id": "eleven",
-     "start": 424.205,
-     "end": 429.496,
+     "start": 363.288,
+     "end": 368.323,
      "cap": "**Mr H:** **Eleven** syllables. The extra unstressed one at the end is a **feminine ending**.",
      "who": "mrh"
     },
     {
      "id": "trails",
-     "start": 429.816,
-     "end": 434.083,
+     "start": 368.643,
+     "end": 372.525,
      "cap": "**Nib:** The line **trails away**, unresolved. Like Hamlet's mind.",
      "who": "nib"
     },
     {
      "id": "kevin",
-     "start": 434.703,
-     "end": 437.412,
+     "start": 373.145,
+     "end": 375.855,
      "cap": "**Kevin:** Sorry. Hi. Kevin. Comma. That's me, after 'to be'.",
      "who": "kevin"
     },
     {
      "id": "caesura",
-     "start": 437.932,
-     "end": 444.012,
-     "cap": "**Kevin:** A strong pause in the **middle** of a line is a **caesura**. That's me! Today. Usually I'm in the wrong place.",
+     "start": 376.375,
+     "end": 381.452,
+     "cap": "**Kevin:** A strong pause **mid-line** is a **caesura**. That's me! Usually I'm in the wrong place.",
      "who": "kevin"
     },
     {
      "id": "winter",
-     "start": 444.732,
-     "end": 453.18,
-     "cap": "**Mr H:** **Trochaic inversion** flips the first foot: DUM-da. 'Now is the winter of our discontent.' It hits the first word hard.",
+     "start": 382.052,
+     "end": 390.649,
+     "cap": "**Mr H:** **Trochaic inversion** flips the first foot to DUM-da: 'Now is the winter of our discontent.' It hits the first word hard.",
      "who": "mrh"
     },
     {
      "id": "witches",
-     "start": 453.5,
-     "end": 460.988,
-     "cap": "**Will:** And my witches don't use pentameter at all. Double, double, toil and trouble. **Trochees**. Four beats. A **spell**.",
+     "start": 390.969,
+     "end": 396.495,
+     "cap": "**Will:** My witches chant in **trochees**: Double, double, toil and trouble. Four beats. A **spell**.",
      "who": "will"
     },
     {
-     "id": "does",
-     "start": 461.608,
-     "end": 467.475,
-     "cap": "**Mr H:** Never just write 'this is iambic pentameter'. Say what the rhythm **does**, at that moment.",
-     "who": "mrh"
-    },
-    {
      "id": "three",
-     "start": 468.095,
-     "end": 470.079,
+     "start": 397.115,
+     "end": 399.077,
      "cap": "**Mei:** Three stars. For the kaya toast.",
      "who": "mei"
     }
@@ -708,168 +659,168 @@
    "title": "Thou, thee and wherefore",
    "short": "Thou & wherefore",
    "card": true,
-   "start": 471.779,
-   "end": 582.627,
+   "start": 400.537,
+   "end": 497.585,
    "lines": [
     {
      "id": "seven",
-     "start": 473.579,
-     "end": 477.333,
-     "cap": "**Narrator:** Seven p.m. Mei's flat in Queenstown. Will has followed her home.",
+     "start": 402.337,
+     "end": 405.239,
+     "cap": "**Narrator:** Seven p.m. Mei's flat. Will has followed her home.",
      "who": "narr"
     },
     {
      "id": "ahma",
-     "start": 477.953,
-     "end": 480.535,
-     "cap": "**Mei:** You can't be here. My Ah Ma is in the kitchen.",
+     "start": 405.859,
+     "end": 408.099,
+     "cap": "**Mei:** You can't be here. Ah Ma is in the kitchen.",
      "who": "mei"
     },
     {
      "id": "quiet",
-     "start": 481.055,
-     "end": 483.188,
+     "start": 408.619,
+     "end": 410.56,
      "cap": "**Will:** Then I shall be quiet.",
      "who": "will"
     },
     {
      "id": "not",
-     "start": 483.908,
-     "end": 485.273,
+     "start": 411.16,
+     "end": 412.483,
      "cap": "**Narrator:** He was not quiet.",
      "who": "narr"
     },
     {
      "id": "eme",
-     "start": 486.093,
-     "end": 491.213,
+     "start": 413.153,
+     "end": 417.867,
      "cap": "**Will:** First: I wrote in **Early Modern English**. Not Old English. That's Beowulf.",
      "who": "will"
     },
     {
      "id": "posh",
-     "start": 491.833,
-     "end": 494.777,
-     "cap": "**Mei:** So what's **thou**? You called me thou. Is that the posh one?",
+     "start": 418.487,
+     "end": 419.703,
+     "cap": "**Mei:** So is **thou** the posh one?",
      "who": "mei"
     },
     {
      "id": "opposite",
-     "start": 495.397,
-     "end": 501.776,
-     "cap": "**Will:** The opposite! **Thou** is **familiar**: for friends, family, lovers, children, servants... or **insults**.",
+     "start": 420.323,
+     "end": 426.169,
+     "cap": "**Will:** The opposite! **Thou** is **familiar**: friends, family, lovers, children, servants... or **insults**.",
      "who": "will"
     },
     {
      "id": "you",
-     "start": 502.296,
-     "end": 507.928,
-     "cap": "**Nib:** **You** is **polite** and **formal**: for superiors, strangers, or more than one person.",
+     "start": 426.689,
+     "end": 430.251,
+     "cap": "**Nib:** **You** is **polite** and **formal**, or for more than one person.",
      "who": "nib"
     },
     {
      "id": "test",
-     "start": 508.548,
-     "end": 511.151,
+     "start": 430.871,
+     "end": 433.431,
      "cap": "**Mei:** Ah Ma, thou art the best cook in Queenstown!",
      "who": "mei"
     },
     {
      "id": "grandma",
-     "start": 512.071,
-     "end": 518.343,
-     "cap": "**Ah Ma:** Did you just thou me? I was reading Shakespeare before your mother was born. To your grandmother, you say **you**.",
+     "start": 434.171,
+     "end": 440.123,
+     "cap": "**Ah Ma:** Did you just thou me? I read Shakespeare before your mother was born. To your grandmother, you say **you**.",
      "who": "ahma"
     },
     {
      "id": "like",
-     "start": 519.063,
-     "end": 520.364,
+     "start": 440.723,
+     "end": 441.918,
      "cap": "**Will:** I like her.",
      "who": "will"
     },
     {
      "id": "forms",
-     "start": 521.284,
-     "end": 526.98,
+     "start": 442.658,
+     "end": 447.799,
      "cap": "**Nib:** **Thou, thee, thy, thine** work like **I, me, my, mine**. Thou **art**. Thou **hast**. He **hath**.",
      "who": "nib"
     },
     {
      "id": "signal",
-     "start": 527.5,
-     "end": 533.836,
+     "start": 448.319,
+     "end": 454.293,
      "cap": "**Will:** A **switch** is a **signal**. The Queen tells her son: Hamlet, thou hast thy father much offended.",
      "who": "will"
     },
     {
      "id": "throws",
-     "start": 534.456,
-     "end": 538.829,
+     "start": 454.913,
+     "end": 458.923,
      "cap": "**Will:** He throws it back: Mother, you have my father much offended.",
      "who": "will"
     },
     {
      "id": "pronouns",
-     "start": 539.449,
-     "end": 545.743,
+     "start": 459.543,
+     "end": 465.389,
      "cap": "**Nib:** Her warm, parental **thou**. His cold, formal **you**. A whole argument in two pronouns.",
      "who": "nib"
     },
     {
      "id": "romeo",
-     "start": 546.463,
-     "end": 552.479,
-     "cap": "**Will:** Now. The most famous mistake in English. O Romeo, Romeo, wherefore art thou Romeo?",
+     "start": 465.989,
+     "end": 471.386,
+     "cap": "**Will:** The most famous mistake in English: O Romeo, Romeo, wherefore art thou Romeo?",
      "who": "will"
     },
     {
      "id": "where",
-     "start": 553.099,
-     "end": 554.315,
+     "start": 472.006,
+     "end": 473.222,
      "cap": "**Mei:** Where are you, Romeo?",
      "who": "mei"
     },
     {
      "id": "why",
-     "start": 555.035,
-     "end": 560.645,
+     "start": 473.822,
+     "end": 479.07,
      "cap": "**Nib:** **Wherefore** means **WHY**. **Why** must he be Romeo: a Montague, her family's enemy?",
      "who": "nib"
     },
     {
      "id": "words",
-     "start": 561.365,
-     "end": 564.971,
+     "start": 479.67,
+     "end": 482.998,
      "cap": "**Will:** And I invented **lonely**, **eyeball** and **swagger**.",
      "who": "will"
     },
     {
      "id": "recorded",
-     "start": 565.591,
-     "end": 570.903,
-     "cap": "**Nib:** You're the **earliest recorded user**, Will. Some were probably already being spoken.",
+     "start": 483.618,
+     "end": 487.757,
+     "cap": "**Nib:** **Earliest recorded user**, Will. People probably said them first.",
      "who": "nib"
     },
     {
      "id": "same",
-     "start": 571.523,
-     "end": 573.016,
+     "start": 488.377,
+     "end": 489.721,
      "cap": "**Will:** Same thing.",
      "who": "will"
     },
     {
      "id": "notsame",
-     "start": 573.636,
-     "end": 575.599,
+     "start": 490.341,
+     "end": 492.111,
      "cap": "**Nib:** It is not the same thing.",
      "who": "nib"
     },
     {
      "id": "post",
-     "start": 576.319,
-     "end": 580.927,
-     "cap": "**Mei:** So he's not the first person to say it. He's the first person whose post survived.",
+     "start": 492.711,
+     "end": 496.125,
+     "cap": "**Mei:** So he didn't invent it. His was just the first post that survived.",
      "who": "mei"
     }
    ]
@@ -879,174 +830,167 @@
    "title": "Alone on stage",
    "short": "Dramatic devices",
    "card": true,
-   "start": 582.627,
-   "end": 707.241,
+   "start": 497.585,
+   "end": 606.152,
    "lines": [
     {
      "id": "hall",
-     "start": 584.427,
-     "end": 588.949,
-     "cap": "**Narrator:** Friday. The school hall. Will has volunteered to help Drama Club. Nobody asked.",
+     "start": 499.385,
+     "end": 503.225,
+     "cap": "**Narrator:** Friday. The school hall. Will is helping Drama Club. Nobody asked.",
      "who": "narr"
     },
     {
-     "id": "devices",
-     "start": 589.669,
-     "end": 595.984,
-     "cap": "**Nib:** **Dramatic devices**: techniques that only work in a play, because they depend on the **audience**.",
-     "who": "nib"
-    },
-    {
      "id": "soliloquy",
-     "start": 596.304,
-     "end": 602.448,
-     "cap": "**Mr H:** A **soliloquy**: a character who believes they're **alone on stage** speaks their private thoughts aloud.",
+     "start": 503.825,
+     "end": 511.313,
+     "cap": "**Mr H:** **Dramatic devices**. A **soliloquy**: a character who believes they're **alone on stage** speaks their private thoughts aloud.",
      "who": "mrh"
     },
     {
      "id": "honest",
-     "start": 602.968,
-     "end": 608.429,
-     "cap": "**Will:** Like Hamlet's 'To be, or not to be'. Alone. Honest. We become his confidant.",
+     "start": 511.833,
+     "end": 515.523,
+     "cap": "**Will:** Like Hamlet's 'To be, or not to be'. Alone. Honest.",
      "who": "will"
     },
     {
      "id": "camera",
-     "start": 608.749,
-     "end": 611.395,
-     "cap": "**Mei:** Wait. So when I talk to the camera, on my own...",
+     "start": 516.043,
+     "end": 518.283,
+     "cap": "**Mei:** So when I talk to the camera, on my own...",
      "who": "mei"
     },
     {
      "id": "worse",
-     "start": 612.015,
-     "end": 615.044,
+     "start": 518.903,
+     "end": 521.634,
      "cap": "**Will:** That's a soliloquy. With worse lighting.",
      "who": "will"
     },
     {
      "id": "aside",
-     "start": 615.964,
-     "end": 622.108,
+     "start": 522.374,
+     "end": 528.262,
      "cap": "**Mr H:** An **aside** is **short**. Spoken to the audience, and the other characters on stage **don't hear it**.",
      "who": "mrh"
     },
     {
      "id": "kin",
-     "start": 622.628,
-     "end": 628.836,
+     "start": 528.782,
+     "end": 534.713,
      "cap": "**Will:** Hamlet's very first line is an aside about his uncle: A little more than kin, and less than kind!",
      "who": "will"
     },
     {
      "id": "tea",
-     "start": 629.456,
-     "end": 631.803,
+     "start": 535.333,
+     "end": 537.658,
      "cap": "**Mei:** Mr H has had five cups of tea today.",
      "who": "mei"
     },
     {
      "id": "heard",
-     "start": 632.423,
-     "end": 633.489,
+     "start": 538.278,
+     "end": 539.281,
      "cap": "**Mr H:** I heard that.",
      "who": "mrh"
     },
     {
      "id": "rules",
-     "start": 634.109,
-     "end": 635.752,
+     "start": 539.901,
+     "end": 541.501,
      "cap": "**Mei:** You're not supposed to hear an aside!",
      "who": "mei"
     },
     {
      "id": "mono",
-     "start": 636.572,
-     "end": 645.02,
-     "cap": "**Mr H:** A **monologue** is a long speech to **other characters**, who are **listening**. 'All the world's a stage' is a monologue, **not** a soliloquy.",
+     "start": 542.171,
+     "end": 549.851,
+     "cap": "**Mr H:** A **monologue** is a long speech to characters who are **listening**. 'All the world's a stage' is a monologue, **not** a soliloquy.",
      "who": "mrh"
     },
     {
      "id": "irony",
-     "start": 645.64,
-     "end": 649.352,
+     "start": 550.471,
+     "end": 554.119,
      "cap": "**Narrator:** **Dramatic irony**: the **audience knows** something a character **doesn't**.",
      "who": "narr"
     },
     {
      "id": "tomb",
-     "start": 649.672,
-     "end": 655.155,
+     "start": 554.439,
+     "end": 559.473,
      "cap": "**Nib:** Romeo thinks Juliet is dead. We know she has only taken a **sleeping potion**.",
      "who": "nib"
     },
     {
      "id": "asleep",
-     "start": 655.675,
-     "end": 657.296,
+     "start": 559.993,
+     "end": 561.593,
      "cap": "**Mei:** Romeo, NO! She's ASLEEP!",
      "who": "mei"
     },
     {
      "id": "prologue",
-     "start": 658.016,
-     "end": 663.669,
-     "cap": "**Will:** I even told you the ending in the Prologue: a pair of star-cross'd lovers take their life.",
+     "start": 562.193,
+     "end": 567.249,
+     "cap": "**Will:** I told you the ending in the Prologue: a pair of star-cross'd lovers take their life.",
      "who": "will"
     },
     {
      "id": "fore",
-     "start": 664.289,
-     "end": 669.601,
+     "start": 567.869,
+     "end": 572.883,
      "cap": "**Nib:** **Foreshadowing**. Now we watch **how** it happens, not **what**. Every happy moment hurts.",
      "who": "nib"
     },
     {
      "id": "mnemonic",
-     "start": 670.221,
-     "end": 676.216,
-     "cap": "**Nib:** Eight devices to know: **S**ome **A**ctors **M**umble; **S**ome **D**irectors **F**ear **P**un **C**ontests.",
+     "start": 573.503,
+     "end": 577.919,
+     "cap": "**Nib:** All eight: **S**ome **A**ctors **M**umble; **S**ome **D**irectors **F**ear **P**un **C**ontests.",
      "who": "nib"
     },
     {
      "id": "extract",
-     "start": 676.736,
-     "end": 681.387,
+     "start": 578.439,
+     "end": 582.855,
      "cap": "**Mr H:** With an extract: **paraphrase first**, in your own words. **Then** analyse.",
      "who": "mrh"
     },
     {
      "id": "bubble",
-     "start": 681.907,
-     "end": 687.411,
+     "start": 583.375,
+     "end": 588.601,
      "cap": "**Mr H:** Jaques says a soldier goes seeking the bubble reputation, even in the cannon's mouth.",
      "who": "mrh"
     },
     {
      "id": "point",
-     "start": 687.931,
-     "end": 691.835,
+     "start": 589.121,
+     "end": 593.004,
      "cap": "**Mei:** Point: Jaques **mocks** young soldiers who risk their lives for **fame**.",
      "who": "mei"
     },
     {
      "id": "explain",
-     "start": 692.355,
-     "end": 697.731,
-     "cap": "**Mei:** The metaphor '**bubble**' suggests fame is **shiny**, but **fragile** and **empty**, gone in an instant.",
+     "start": 593.524,
+     "end": 597.684,
+     "cap": "**Mei:** The metaphor '**bubble**' suggests fame is **shiny** but **fragile** and **empty**.",
      "who": "mei"
     },
     {
      "id": "link",
-     "start": 698.251,
-     "end": 702.603,
-     "cap": "**Mei:** So ambition looks **hollow**. Not 'Shakespeare uses a metaphor'. What it **does**.",
+     "start": 598.204,
+     "end": 602.044,
+     "cap": "**Mei:** So ambition looks **hollow**. Not 'he uses a metaphor'. What it **does**.",
      "who": "mei"
     },
     {
      "id": "sigh",
-     "start": 703.323,
-     "end": 705.541,
+     "start": 602.644,
+     "end": 604.692,
      "cap": "**Mr H:** That... is a very good paragraph.",
      "who": "mrh"
     }
@@ -1057,104 +1001,104 @@
    "title": "Save yourself some marks",
    "short": "Exam traps",
    "card": true,
-   "start": 707.241,
-   "end": 770.716,
+   "start": 606.152,
+   "end": 666.203,
    "lines": [
     {
      "id": "intro",
-     "start": 709.041,
-     "end": 712.497,
+     "start": 607.952,
+     "end": 611.365,
      "cap": "**Narrator:** Before the bell, the English department would like to save you some marks.",
      "who": "narr"
     },
     {
      "id": "hooks",
-     "start": 713.117,
-     "end": 720.243,
+     "start": 611.985,
+     "end": 619.025,
      "cap": "**Mei:** Memory hooks. i-AM, five times: iambic pentameter. Thou, thee, thy, thine: like I, me, my, mine.",
      "who": "mei"
     },
     {
      "id": "t1",
-     "start": 720.863,
-     "end": 723.721,
+     "start": 619.645,
+     "end": 622.504,
      "cap": "**Kevin:** One. **Wherefore** means **why**. Not where. Please. I'm begging.",
      "who": "kevin"
     },
     {
      "id": "t2",
-     "start": 724.341,
-     "end": 728.523,
+     "start": 623.124,
+     "end": 626.964,
      "cap": "**Nib:** Two. Shakespeare wrote **Early Modern English**. Not Old English.",
      "who": "nib"
     },
     {
      "id": "t3",
-     "start": 729.143,
-     "end": 735.905,
-     "cap": "**Mr H:** Three. Don't feature-spot. Explain what the technique **does**, and use **short, embedded** quotations.",
+     "start": 627.584,
+     "end": 633.451,
+     "cap": "**Mr H:** Three. Don't feature-spot. Say what the technique **does**. And use **short, embedded** quotations.",
      "who": "mrh"
     },
     {
      "id": "t4",
-     "start": 736.525,
-     "end": 741.88,
+     "start": 634.071,
+     "end": 639.041,
      "cap": "**Will:** Four. Long speech to listeners: **monologue**. Alone on stage: **soliloquy**.",
      "who": "will"
     },
     {
      "id": "t5",
-     "start": 742.5,
-     "end": 747.684,
+     "start": 639.661,
+     "end": 644.376,
      "cap": "**Nib:** Five. **Thou** is not the posh one. It's **familiar**, or rude. **You** is polite.",
      "who": "nib"
     },
     {
      "id": "t6",
-     "start": 748.304,
-     "end": 754.725,
+     "start": 644.996,
+     "end": 650.948,
      "cap": "**Will:** Six. I am the **earliest recorded user** of 'lonely'. Not, technically, its inventor. That hurt.",
      "who": "will"
     },
     {
      "id": "submit",
-     "start": 755.645,
-     "end": 758.568,
+     "start": 651.688,
+     "end": 654.547,
      "cap": "**Narrator:** Friday, 4 p.m. Mei submits her review.",
      "who": "narr"
     },
     {
      "id": "four",
-     "start": 759.288,
-     "end": 760.909,
+     "start": 655.267,
+     "end": 656.867,
      "cap": "**Mei:** Shakespeare: **four stars**.",
      "who": "mei"
     },
     {
      "id": "whyfour",
-     "start": 761.729,
-     "end": 762.604,
+     "start": 657.537,
+     "end": 658.326,
      "cap": "**Will:** FOUR?",
      "who": "will"
     },
     {
      "id": "long",
-     "start": 763.224,
-     "end": 764.269,
+     "start": 658.946,
+     "end": 659.97,
      "cap": "**Mei:** It was a bit long.",
      "who": "mei"
     },
     {
      "id": "hours",
-     "start": 764.889,
-     "end": 767.449,
+     "start": 660.59,
+     "end": 662.937,
      "cap": "**Will:** Hamlet is four hours long!",
      "who": "will"
     },
     {
      "id": "exactly",
-     "start": 768.069,
-     "end": 768.816,
+     "start": 663.557,
+     "end": 664.303,
      "cap": "**Mei:** Exactly.",
      "who": "mei"
     }
@@ -1165,116 +1109,116 @@
    "title": "Quick-fire quiz",
    "short": "Quiz",
    "card": true,
-   "start": 770.716,
-   "end": 843.992,
+   "start": 666.203,
+   "end": 736.717,
    "lines": [
     {
      "id": "intro",
-     "start": 772.516,
-     "end": 776.655,
+     "start": 668.003,
+     "end": 671.907,
      "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
      "who": "mrh"
     },
     {
      "id": "q1",
-     "start": 777.275,
-     "end": 781.904,
+     "start": 672.527,
+     "end": 676.773,
      "cap": "**Mr H:** How many syllables are in a regular line of **iambic pentameter**?",
      "who": "mrh"
     },
     {
      "id": "a1",
-     "start": 786.224,
-     "end": 789.083,
+     "start": 681.093,
+     "end": 683.909,
      "cap": "**Mei:** **Ten**: five iambs, da-DUM, five times.",
      "who": "mei"
     },
     {
      "id": "q2",
-     "start": 789.403,
-     "end": 790.917,
+     "start": 684.229,
+     "end": 685.701,
      "cap": "**Mr H:** What does **wherefore** mean?",
      "who": "mrh"
     },
     {
      "id": "a2",
-     "start": 795.237,
-     "end": 796.325,
+     "start": 690.021,
+     "end": 691.109,
      "cap": "**Kevin:** **Why**. Not where. Why.",
      "who": "kevin"
     },
     {
      "id": "q3",
-     "start": 796.645,
-     "end": 798.16,
+     "start": 691.429,
+     "end": 692.879,
      "cap": "**Mr H:** Who were the **groundlings**?",
      "who": "mrh"
     },
     {
      "id": "a3",
-     "start": 802.48,
-     "end": 806.128,
+     "start": 697.199,
+     "end": 700.591,
      "cap": "**Will:** The audience who paid **one penny** to **stand** in the **yard**.",
      "who": "will"
     },
     {
      "id": "q4",
-     "start": 806.448,
-     "end": 812.059,
+     "start": 700.911,
+     "end": 706.351,
      "cap": "**Mr H:** A character **alone on stage** speaks their private thoughts aloud. What is that called?",
      "who": "mrh"
     },
     {
      "id": "a4",
-     "start": 816.379,
-     "end": 817.637,
+     "start": 710.671,
+     "end": 711.845,
      "cap": "**Nib:** A **soliloquy**.",
      "who": "nib"
     },
     {
      "id": "q5",
-     "start": 817.957,
-     "end": 821.093,
+     "start": 712.165,
+     "end": 715.002,
      "cap": "**Mr H:** Is **thou** the **polite** form, or the **familiar** one?",
      "who": "mrh"
     },
     {
      "id": "a5",
-     "start": 825.413,
-     "end": 827.291,
+     "start": 719.322,
+     "end": 721.199,
      "cap": "**Mei:** The **familiar** one. **You** is polite.",
      "who": "mei"
     },
     {
      "id": "outro",
-     "start": 827.611,
-     "end": 833.2,
+     "start": 721.519,
+     "end": 726.767,
      "cap": "**Mr H:** Brilliant work. Now try the **Shakespeare's World & Language** quiz in your English Lab.",
      "who": "mrh"
     },
     {
      "id": "five",
-     "start": 834.12,
-     "end": 836.787,
+     "start": 727.507,
+     "end": 729.982,
      "cap": "**Will:** Before you go. Five stars?",
      "who": "will"
     },
     {
      "id": "kevin",
-     "start": 837.707,
-     "end": 838.688,
+     "start": 730.722,
+     "end": 731.703,
      "cap": "**Kevin:** I'd give him five.",
      "who": "kevin"
     },
     {
      "id": "thanks",
-     "start": 839.408,
-     "end": 841.392,
+     "start": 732.303,
+     "end": 734.117,
      "cap": "**Will:** Thank you, Kevin.",
      "who": "will"
     }
    ]
   }
  ],
- "total": 843.992
+ "total": 736.717
 }

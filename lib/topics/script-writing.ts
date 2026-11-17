@@ -1524,7 +1524,7 @@ export const scriptWriting: Topic = {
             answerIndex: 2,
             hint: "A missing scene shows something that happens offstage in the original.",
             explanation:
-              "Ophelia's night alone is never shown by Shakespeare, so it fills a gap. The option ‘Moving the balcony scene to a block of flats in London’, B and D all change the setting or objects of existing scenes: they are modernisations.",
+              "Ophelia's night alone is never shown by Shakespeare, so it fills a gap. The option ‘Moving the balcony scene to a block of flats in London’, the options ‘Turning the Capulets and Montagues into rival…’ and ‘Replacing the swords in the fight scenes…’ all change the setting or objects of existing scenes: they are modernisations.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1539,7 +1539,7 @@ export const scriptWriting: Topic = {
             answerIndex: 1,
             hint: "Whose voice does the play sideline?",
             explanation:
-              "Ophelia is told what to do and think by Polonius and Laertes, so giving her a voice reveals something new. She is certainly not the main character (the option ‘She is the main character of the play’), and she dies in the play, so D is wrong too.",
+              "Ophelia is told what to do and think by Polonius and Laertes, so giving her a voice reveals something new. She is certainly not the main character (the option ‘She is the main character of the play’), and she dies in the play, so the option ‘She is the only character who survives’ is wrong too.",
             guideRef: "adapting-shakespeare",
           },
           {
@@ -1665,7 +1665,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Check each term against its definition.",
             explanation:
-              "An aside is heard only by the audience while others are on stage, so D is accurate. The option ‘I used a soliloquy when Juliet and the Nurse argue together.’ misuses 'soliloquy', which requires the character to be alone, not arguing with someone; the option ‘I used dramatic irony when Juliet tells her parents and the Nurse…’ is not dramatic irony, because if everyone on stage hears the plan the audience knows nothing the characters do not.",
+              "An aside is heard only by the audience while others are on stage, so the option ‘I used an aside so that only…’ is accurate. The option ‘I used a soliloquy when Juliet and the Nurse argue together.’ misuses 'soliloquy', which requires the character to be alone, not arguing with someone; the option ‘I used dramatic irony when Juliet tells her parents and the Nurse…’ is not dramatic irony, because if everyone on stage hears the plan the audience knows nothing the characters do not.",
             guideRef: "writing-commentary",
           },
           {
@@ -1909,7 +1909,7 @@ export const scriptWriting: Topic = {
             answerIndex: 3,
             hint: "Which one hints instead of announcing?",
             explanation:
-              "The hesitation, avoiding eye contact and hiding behind 'Everyone says so' suggest guilt without stating it. The option ‘NURSE: I feel very guilty about the advice I gave you.’ to C announce the feeling directly, which removes the subtext.",
+              "The hesitation, avoiding eye contact and hiding behind 'Everyone says so' suggest guilt without stating it. The option ‘NURSE: I feel very guilty about the advice I gave you.’ to the option ‘NURSE: I think I made a mistake…’ announce the feeling directly, which removes the subtext.",
             guideRef: "dramatic-devices",
           },
           {

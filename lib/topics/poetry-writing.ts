@@ -661,7 +661,7 @@ export const poetryWriting: Topic = {
         answerIndex: 2,
         hint: "Look for a quotation, a technique AND an effect.",
         explanation:
-          "The option ‘The onomatopoeic 'click of the rice cooker' in my first line…’ names a technique (onomatopoeia), quotes the poem and explains a precise effect linked to the poem's purpose (home). The option ‘I used lots of techniques like similes, metaphors and alliteration…’ lists techniques with no quotation or effect; B merely summarises; D makes an overconfident claim about the reader with no analysis.",
+          "The option ‘The onomatopoeic 'click of the rice cooker' in my first line…’ names a technique (onomatopoeia), quotes the poem and explains a precise effect linked to the poem's purpose (home). The option ‘I used lots of techniques like similes, metaphors and alliteration…’ lists techniques with no quotation or effect; the option ‘My poem is about my grandmother and…’ merely summarises; the option ‘I think the reader will definitely cry…’ makes an overconfident claim about the reader with no analysis.",
         guideRef: "writing-commentary",
       },
     ],
@@ -967,7 +967,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 2,
             hint: "Which line makes you want to read the next one?",
-            explanation: "The name line is specific, intriguing and raises a question (how does it sound in each language?). The option ‘Identity is a very important thing to all of us.’ is an abstract statement, B announces the topic instead of beginning the poem, and D is a familiar, clichéd metaphor.",
+            explanation: "The name line is specific, intriguing and raises a question (how does it sound in each language?). The option ‘Identity is a very important thing to all of us.’ is an abstract statement, the option ‘This poem is about where I come…’ announces the topic instead of beginning the poem, and the option ‘Culture is like a tree with many…’ is a familiar, clichéd metaphor.",
             guideRef: "titles-endings",
           },
           {
@@ -1650,7 +1650,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 2,
             hint: "Look for a judgement, a reason, a weakness AND a specific fix.",
-            explanation: "The option ‘The ending works because the drawer image returns from stanza two,…’ makes a balanced judgement with evidence, identifies a specific weakness and proposes a concrete improvement. Claiming perfection ‘I think my poem is perfect and I would not change anything.’ shows no critical awareness, and D is too vague to earn credit.",
+            explanation: "The option ‘The ending works because the drawer image returns from stanza two,…’ makes a balanced judgement with evidence, identifies a specific weakness and proposes a concrete improvement. Claiming perfection ‘I think my poem is perfect and I would not change anything.’ shows no critical awareness, and the option ‘Some parts are good and some parts…’ is too vague to earn credit.",
             guideRef: "writing-commentary",
           },
           {
@@ -1734,7 +1734,7 @@ export const poetryWriting: Topic = {
             ],
             answerIndex: 2,
             hint: "Can you guarantee how every reader responds?",
-            explanation: "Tentative language ('I hoped… would sense') acknowledges that readers respond differently, and pointing to the specific image makes the claim analytical. The option ‘'Everyone who reads it will cry.'’ and B overclaim; D is vague and abstract.",
+            explanation: "Tentative language ('I hoped… would sense') acknowledges that readers respond differently, and pointing to the specific image makes the claim analytical. The option ‘'Everyone who reads it will cry.'’ and the option ‘The reader must feel sad.’ overclaim; the option ‘Sadness is felt.’ is vague and abstract.",
             guideRef: "writing-commentary",
           },
           {

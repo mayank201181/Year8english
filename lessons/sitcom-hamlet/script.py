@@ -1,0 +1,195 @@
+"""ALL THE SCHOOL'S A STAGE, episode 3 ("To Be or Not to Be (Late)"): Hamlet.
+Teaches Hamlet (lib/topics/hamlet.ts & lib/extras/hamlet.ts).
+
+A second ghost in full Danish armour moves into the Banyan Hill library (making Will furiously jealous),
+Polonius hides behind the hall curtains, Ophelia hands out rosemary, and Prince Hamlet takes five acts just
+to pick a drink at the canteen. With Mei, Mr Hargreaves, Will, Nib and Kevin.
+"""
+
+META = {
+    "name": "To Be or Not to Be (Late)",
+    "kicker": "Claude Sitcom · Ep 3 · Hamlet",
+    "dek": "Two ghosts fight over the school library, Polonius hides behind the hall curtain, and Hamlet takes five acts to make up his mind. {chapters} scenes.",
+    "gap": 0.32,
+    "unit": "Scene",
+    "lab": "hamlet",
+    "kit": ["sitcom", "english"],
+    "title": "Claude Sitcom Ep 3: To Be or Not to Be (Late) (Hamlet)",
+    "h1": "All the School's a Stage: To Be or Not to Be (Late)",
+    "quiz_name": "Hamlet",
+}
+
+CAST = {
+    "narr":     {"voice": "bf_emma",   "speed": 0.96, "name": "Narrator"},
+    "mei":      {"voice": "af_bella",  "speed": 1.04, "name": "Mei"},
+    "mrh":      {"voice": "bm_lewis",  "speed": 0.92, "name": "Mr H"},
+    "will":     {"voice": "bm_fable",  "speed": 0.9,  "name": "Will"},
+    "nib":      {"voice": "bm_george", "speed": 0.9,  "name": "Nib"},
+    "kevin":    {"voice": "am_puck",   "speed": 1.1,  "name": "Kevin"},
+    "hamlet":   {"voice": "am_liam",   "speed": 0.96, "name": "Hamlet"},
+    "ghost":    {"voice": "am_onyx",   "speed": 0.88, "name": "The Ghost"},
+    "polonius": {"voice": "bm_daniel", "speed": 0.95, "name": "Polonius"},
+    "ophelia":  {"voice": "bf_alice",  "speed": 1.0,  "name": "Ophelia"},
+}
+
+
+def L(id, who, text, pause=0.0, say=None):
+    line = {"id": id, "who": who, "cap": f"**{CAST[who]['name']}:** {text}", "pause": pause}
+    line["say"] = say if say else text.replace("**", "")
+    return line
+
+
+CHAPTERS = [
+    {
+        "id": "cold", "title": "Cold open", "short": "Cold open", "card": False,
+        "lines": [
+            L("sign", "narr", "Thursday, dusk. The Banyan Hill library has updated its sign. Will is ignoring it, because another ghost has moved in.", 0.28),
+            L("spirit", "ghost", "I am thy father's spirit, doom'd for a certain term to walk the night—", 0.25,
+              say="I am thy father's spirit, doomed for a certain term to walk the night—"),
+            L("played", "will", "Excuse me! ONE ghost per air-conditioned library! Besides, I **played** you at the Globe in **1600**!", 0.3,
+              say="Excuse me! ONE ghost per air-conditioned library! Besides, I played you at the Globe in sixteen hundred!"),
+            L("kopi", "hamlet", "To kopi, or not to kopi: that is the question. Whether 'tis nobler to drink iced Milo...", 0.3),
+            L("queue", "mei", "Bro, the canteen Auntie has been waiting twenty minutes. Pick a drink! **One star** for speed.", 0.28),
+            L("curtain", "polonius", "Aha! Behind this curtain, I deduce the prince is mad with love — or caffeine!", 0.28),
+            L("mug", "mrh", "Step away from the curtains, Polonius. That ends badly for you in **Act 3**.", 0.3,
+              say="Step away from the curtains, Polonius. That ends badly for you in Act three."),
+            L("title", "narr", "All the School's a Stage. Episode three: To Be or Not to Be (Late).", 1.2),
+        ],
+    },
+    {
+        "id": "elsinore", "title": "Revenge tragedy & a rotten state", "short": "Elsinore & Ghost",
+        "lines": [
+            L("genre", "mrh", "**Hamlet**, written around **1600**, is a **revenge tragedy** set at **Elsinore**, the royal castle of Denmark.", 0.25,
+              say="Hamlet, written around sixteen hundred, is a revenge tragedy set at Elsinore, the royal castle of Denmark."),
+            L("recipe", "nib", "The Elizabethan revenge recipe: a **ghost**, a hero who **delays**, **feigned madness**, a **play-within-a-play**, and a bloodbath at the end.", 0.28),
+            L("family", "hamlet", "My father died suddenly. Within **two months**, my mother **Gertrude** married his brother **Claudius** — my uncle AND new stepfather!", 0.28),
+            L("garden", "hamlet", "Denmark feels like '**an unweeded garden / That grows to seed**'. 'Frailty, thy name is woman!'", 0.3),
+            L("marcellus", "mrh", "Midnight on the battlements. As Hamlet follows the Ghost, the guard **Marcellus** — **not** Hamlet! — speaks a famous line:", 0.22),
+            L("rotten", "will", "'Something is rotten in the state of Denmark.'", 0.3),
+            L("pun", "nib", "Zoom in! '**Rotten**' starts an image pattern of **decay, disease and poison**. And '**state**' puns on both the nation and its condition.", 0.28),
+            L("serpent", "ghost", "Claudius poured **poison** in my sleeping ear! 'The serpent that did sting thy father's life / Now wears his crown.'", 0.32),
+            L("devil", "mei", "Okay, if a glowing armoured dad tells you who murdered him, why not arrest Claudius on Monday morning?", 0.25),
+            L("purgatory", "mrh", "**Context**. The Ghost describes **purgatory**, a Catholic belief. Protestant audiences feared a ghost '**May be the devil**' luring Hamlet to hell.", 0.28),
+            L("regicide", "nib", "Plus the **divine right of kings**: killing an anointed monarch is **regicide**, a sin against God. Hamlet needs **proof**.", 0.42),
+        ],
+    },
+    {
+        "id": "seems", "title": "I know not 'seems'", "short": "Seems & Mousetrap",
+        "lines": [
+            L("theme", "mrh", "At Elsinore, nobody is what they appear. That's the theme of **appearance versus reality**.", 0.25),
+            L("nay", "hamlet", "Everyone wears wedding silks; I stay in mourning black. 'Seems, madam! nay it is; I know not \"seems.\"'", 0.28),
+            L("smile", "hamlet", "Claudius beams like a kindly uncle, yet 'one may smile, and smile, and be a villain'. So I put an '**antic disposition**' on.", 0.3),
+            L("antic", "mei", "'**Antic disposition**' — pretending to act mad so nobody suspects what you know! Wait... is he ONLY pretending?", 0.25),
+            L("advice", "polonius", "Before my son **Laertes** sails for Paris, I give wise counsel: 'This above all: to thine own self be true.'", 0.28,
+              say="Before my son layerteez sails for Paris, I give wise counsel: This above all: to thine own self be true."),
+            L("ironyP", "nib", "Deeply **ironic**, darling: the man preaching honesty spies on his own children and everyone else!", 0.25),
+            L("method", "polonius", "Even I notice Hamlet's 'mad' insults are suspiciously sharp: 'Though this be madness, yet there is method in't.'", 0.28,
+              say="Even I notice Hamlet's mad insults are suspiciously sharp: Though this be madness, yet there is method in it."),
+            L("spies", "mrh", "Claudius recruits Hamlet's school friends **Rosencrantz and Guildenstern** as spies. Only **Horatio** stays truly loyal.", 0.25),
+            L("trap", "will", "Then travelling actors arrive! Hamlet stages **The Mousetrap**, a play copying the ear-poisoning — **metatheatre**, fiction exposing truth!", 0.28),
+            L("couplet", "hamlet", "'The play's the thing / Wherein I'll catch the conscience of the king.' Claudius panics and storms out. Proof!", 0.28),
+            L("two", "mei", "Using a school play as a lie detector? Okay, **two stars**.", 0.48),
+        ],
+    },
+    {
+        "id": "tobe", "title": "To be, or not to be — and why wait?", "short": "To be & delay",
+        "lines": [
+            L("noskull", "mrh", "**Act 3 Scene 1**. First, put that skull down, Hamlet — there is **NO skull** in 'To be, or not to be'! That's **Act 5**.", 0.28,
+              say="Act three, Scene one. First, put that skull down, Hamlet, there is NO skull in To be, or not to be! That's Act five."),
+            L("oops", "hamlet", "Sorry. Poster habit. Ahem: 'To be, or not to be: that is the question:'", 0.32),
+            L("anti", "nib", "**Antithesis**: setting opposites side by side — **to be** versus **not to be**; **suffer** versus **take arms**.", 0.25),
+            L("slings", "hamlet", "'Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles'", 0.3),
+            L("kevin", "kevin", "Look at all those colons and mid-line pauses! Every **caesura** slows him down as his thoughts turn back on themselves!", 0.28,
+              say="Look at all those colons and mid-line pauses! Every si zyoor uh slows him down as his thoughts turn back on themselves!"),
+            L("dread", "mrh", "What stops us ending our suffering? Fear of '**The undiscover'd country**' after death. Notice Hamlet never says 'I' — only '**we**' and '**us**'.", 0.28,
+              say="What stops us ending our suffering? Fear of The undiscovered country after death. Notice Hamlet never says I, only we and us."),
+            L("cowards", "hamlet", "'Thus conscience does make cowards of us all'... resolution is 'sicklied o'er with the pale cast of thought'.", 0.3,
+              say="Thus conscience does make cowards of us all... resolution is sicklied over with the pale cast of thought."),
+            L("prayer", "mei", "Then in **Act 3 Scene 3**, you catch Claudius kneeling alone! Why don't you strike?!", 0.25,
+              say="Then in Act three, Scene three, you catch Claudius kneeling alone! Why don't you strike?!"),
+            L("heaven", "hamlet", "If I kill him while he's praying, his soul goes straight to **heaven**! How is that revenge?", 0.25),
+            L("wordsfly", "nib", "Peak **dramatic irony**! Once Hamlet leaves, Claudius admits he couldn't repent: 'My words fly up, my thoughts remain below'.", 0.3),
+            L("foils", "mrh", "Compare Hamlet's two **foils**, fellow grieving sons: **Laertes** rages instantly and gets manipulated; **Fortinbras** marches steadily.", 0.28,
+              say="Compare Hamlet's two foils, fellow grieving sons: layerteez rages instantly and gets manipulated; Fortinbras marches steadily."),
+            L("arras", "polonius", "And when Hamlet DOES act on impulse in Gertrude's closet, he stabs ME behind the tapestry! Not ideal!", 0.45),
+        ],
+    },
+    {
+        "id": "ophelia", "title": "Rosemary, Yorick and the poisoned cup", "short": "Madness & skull",
+        "lines": [
+            L("obey", "ophelia", "Let's talk about **women and power**. My father Polonius and brother Laertes order me to reject Hamlet. I say: 'I shall obey, my lord.'", 0.3,
+              say="Let's talk about women and power. My father Polonius and brother layerteez order me to reject Hamlet. I say: I shall obey, my lord."),
+            L("prose", "nib", "They use her as bait to spy on Hamlet. Then Hamlet kills her father, and in **Act 4** Ophelia's **real madness** shatters into **prose** and song.", 0.28,
+              say="They use her as bait to spy on Hamlet. Then Hamlet kills her father, and in Act four Ophelia's real madness shatters into prose and song."),
+            L("rosemary", "ophelia", "'There's rosemary, that's for remembrance.' My helplessness is a tragic **foil** to Hamlet's chosen act — before I drown.", 0.32),
+            L("grave", "narr", "**Act 5 Scene 1**. A graveyard. NOW Hamlet may hold the skull.", 0.25,
+              say="Act five, Scene one. A graveyard. NOW Hamlet may hold the skull."),
+            L("yorick", "hamlet", "'Alas, poor Yorick! I knew him, Horatio' — NOT 'I knew him well'! Yorick was the court jester who carried me as a child.", 0.32),
+            L("dust", "mrh", "**Mortality**: death is the **great leveller**. Jester and emperor — even Alexander the Great — return to the same **dust**.", 0.28),
+            L("ready", "hamlet", "Returning from sea, I'm calmer. '**The readiness is all.**' Claudius rigs a fencing match with **Laertes**: a **poisoned sword** and a **poisoned cup**.", 0.3,
+              say="Returning from sea, I'm calmer. The readiness is all. Claudius rigs a fencing match with layerteez: a poisoned sword and a poisoned cup."),
+            L("duel", "will", "Gertrude defies Claudius and drinks the cup! The poisoned rapier wounds **both** Laertes and Hamlet! Hamlet finally kills Claudius!", 0.3,
+              say="Gertrude defies Claudius and drinks the cup! The poisoned rapier wounds both layerteez and Hamlet! Hamlet finally kills Claudius!"),
+            L("silence", "hamlet", "Horatio lives to tell my story; **Fortinbras** of Norway takes the crown. My last words end four hours of talk: '**The rest is silence.**'", 0.35),
+            L("three", "mei", "Three stars! Tragic, poetic, and Claudius got poisoned twice.", 0.48),
+        ],
+    },
+    {
+        "id": "peel", "title": "Climbing the Hamlet PEEL ladder", "short": "PEEL & zoom",
+        "lines": [
+            L("tea10", "narr", "Friday. Mr Hargreaves has reached Mug Ten. It says 'TO TEA OR NOT TO TEA', and today it is topical.", 0.28),
+            L("sol5", "nib", "First, Hamlet's five great soliloquies in order: **S**ome **R**eal **T**hinkers **N**ever **A**ct — **Solid flesh, Rogue, To be, Now might I, All occasions**.", 0.3),
+            L("warm", "mei", "And the seven themes: **W A R M, C A M**. **Women, Action vs thought, Revenge, Madness, Corruption, Appearance vs reality, Mortality**!", 0.3),
+            L("task", "mrh", "Exam question: **How does Shakespeare present Hamlet's mind in 'To be, or not to be'?** Mei — climb the ladder.", 0.25),
+            L("p1", "mei", "**Point**: Shakespeare presents Hamlet as a mind **paralysed by over-thinking**, not simply a coward.", 0.22),
+            L("p2", "mei", "**Evidence**: he weighs whether to suffer '**The slings and arrows**' or fight '**a sea of troubles**', concluding '**conscience does make cowards of us all**'.", 0.25),
+            L("p3", "mei", "**Explain**: the military metaphor feels relentless, '**sea**' makes life's problems impossibly vast, and using '**us**' instead of 'I' turns delay into a universal law.", 0.28),
+            L("p4", "mei", "**Link**: the speech itself dramatises **thought versus action**, showing resolution '**sicklied o'er with the pale cast of thought**'.", 0.28,
+              say="Link: the speech itself dramatises thought versus action, showing resolution sicklied over with the pale cast of thought."),
+            L("bravo", "mrh", "Not one plot retelling. Embedded quotes, pronoun analysis, linked to theme. Will, stop crying on the books.", 0.28),
+            L("proud", "will", "I'm not crying. The library aircon is in my eye.", 0.48),
+        ],
+    },
+    {
+        "id": "recap", "title": "Save yourself some marks", "short": "Exam traps",
+        "lines": [
+            L("intro", "narr", "Before Fortinbras marches into Room 8H, here are your memory hooks and six Hamlet exam traps.", 0.28,
+              say="Before Fortinbras marches into Room eight H, here are your memory hooks and six Hamlet exam traps."),
+            L("hooks", "mei", "Soliloquies: **Some Real Thinkers Never Act**. Themes: **W A R M, C A M**. Deaths in order: **Please Only Get Charlie's Lunch, Hamlet!**", 0.3),
+            L("t1", "ghost", "One! '**Something is rotten in the state of Denmark**' is spoken by the guard **Marcellus** in **Act 1 Scene 4**, NOT Hamlet!", 0.28,
+              say="One! Something is rotten in the state of Denmark is spoken by the guard Marcellus in Act one, Scene four, NOT Hamlet!"),
+            L("t2", "hamlet", "Two! **No skull** in 'To be, or not to be'! That's **Act 3 Scene 1**; Yorick's skull is **Act 5 Scene 1**.", 0.28,
+              say="Two! No skull in To be, or not to be! That's Act three, Scene one; Yorick's skull is Act five, Scene one."),
+            L("t3", "will", "Three! Quote accurately: '**Alas, poor Yorick! I knew him, Horatio**' — never 'I knew him well'!", 0.28),
+            L("t4", "polonius", "Four! Don't call Hamlet's madness simply fake OR simply real. Argue that his **antic disposition** blurs into real grief!", 0.28),
+            L("t5", "nib", "Five! Not every speech is a **soliloquy**! 'What a piece of work is a man' is spoken to Rosencrantz and Guildenstern.", 0.28),
+            L("t6", "ophelia", "Six! The play **never** proves Gertrude knew about the murder. Leave her guilt open, just as the text does.", 0.32),
+            L("four", "mei", "Final rating for Hamlet: **four stars**. Masterpiece, iconic speeches, minus one star because you stabbed the curtain guy by mistake.", 0.35),
+            L("fair", "polonius", "Honestly, very fair.", 0.8),
+        ],
+    },
+    {
+        "id": "quiz", "title": "Quick-fire quiz", "short": "Quiz",
+        "lines": [
+            L("intro", "mrh", "Quick-fire quiz! Say each answer out loud before it appears.", 0.3),
+            L("q1", "mrh", "Who actually says '**Something is rotten in the state of Denmark**'?", 4.0),
+            L("a1", "ghost", "**Marcellus**, a guard on the battlements in **Act 1 Scene 4** — not Hamlet!",
+              say="Marcellus, a guard on the battlements in Act one, Scene four, not Hamlet!"),
+            L("q2", "mrh", "Why does Hamlet stage **The Mousetrap** play in **Act 3**?", 4.0,
+              say="Why does Hamlet stage The Mousetrap play in Act three?"),
+            L("a2", "hamlet", "To test **Claudius's guilt** — in case the Ghost '**May be the devil**'."),
+            L("q3", "mrh", "Why does Hamlet spare Claudius in the **prayer scene** (**Act 3 Scene 3**), and why is it **dramatic irony**?", 4.0,
+              say="Why does Hamlet spare Claudius in the prayer scene, Act three, Scene three, and why is it dramatic irony?"),
+            L("a3", "nib", "Hamlet fears sending Claudius's soul to **heaven** — yet **we** hear Claudius admit his prayer fails!"),
+            L("q4", "mrh", "Which two grieving sons act as **foils** to Hamlet's delay?", 4.0),
+            L("a4", "ophelia", "**Laertes** and **Fortinbras**.",
+              say="layerteez and Fortinbras."),
+            L("q5", "mrh", "Complete Hamlet's famous graveyard line in **Act 5 Scene 1**: '**Alas, poor Yorick!** I knew him...'", 4.0,
+              say="Complete Hamlet's famous graveyard line in Act five, Scene one: Alas, poor Yorick! I knew him..."),
+            L("a5", "will", "'...**Horatio**!' Never 'well'."),
+            L("outro", "mrh", "Brilliant work. Now try the **Hamlet** quiz in your English Lab.", 0.4),
+            L("stay", "ghost", "This library air-conditioning is glorious. I shall haunt Shelf B.", 0.3),
+            L("mine", "will", "Shelf B is SONNETS! Get your own school, Dad-Ghost!", 1.2),
+        ],
+    },
+]

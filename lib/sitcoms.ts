@@ -10,4 +10,133 @@ export interface SitcomInfo {
   chapters: number;
 }
 
-export const SITCOMS: Record<string, SitcomInfo> = {};
+export const SITCOMS: Record<string, SitcomInfo> = {
+  "shakespeare-language": {
+    "href": "/lessons/sitcom-shakespeare-language.html",
+    "episode": 1,
+    "title": "One Star",
+    "dek": "A ghost in the school library gets a one-star review, and takes it very personally. nine scenes.",
+    "minutes": 12,
+    "chapters": 9
+  },
+  "the-tempest": {
+    "href": "/lessons/sitcom-the-tempest.html",
+    "episode": 2,
+    "title": "The Isle Is Full of Noises",
+    "dek": "Prospero stages a tempest in the school hall, Caliban reviews his host, and Ariel just wants five minutes off. eight scenes.",
+    "minutes": 11,
+    "chapters": 8
+  },
+  "hamlet": {
+    "href": "/lessons/sitcom-hamlet.html",
+    "episode": 3,
+    "title": "To Be or Not to Be (Late)",
+    "dek": "Two ghosts fight over the school library, Polonius hides behind the hall curtain, and Hamlet takes five acts to make up his mind. eight scenes.",
+    "minutes": 11,
+    "chapters": 8
+  },
+  "romeo-and-juliet": {
+    "href": "/lessons/sitcom-romeo-and-juliet.html",
+    "episode": 4,
+    "title": "Two Households, One Group Chat",
+    "dek": "The Montagues and Capulets start a WhatsApp war, Romeo discovers oxymorons, and Friar Laurence forgets how couriers work. eight scenes.",
+    "minutes": 10,
+    "chapters": 8
+  },
+  "script-writing": {
+    "href": "/lessons/sitcom-script-writing.html",
+    "episode": 5,
+    "title": "Exit, Pursued by a Deadline",
+    "dek": "Mei has until Period 5 to write a playscript and commentary, and a talking Stage Direction refuses to be read aloud. eight scenes.",
+    "minutes": 11,
+    "chapters": 8
+  },
+  "public-speaking": {
+    "href": "/lessons/sitcom-public-speaking.html",
+    "episode": 6,
+    "title": "Friends, Romans, Year 8",
+    "dek": "Mei enters the school Public Speaking Competition to save the canteen curry puff, backed by Aristotle's loud three-piece band. eight scenes.",
+    "minutes": 11,
+    "chapters": 8
+  },
+  "poetry-toolkit": {
+    "href": "/lessons/sitcom-poetry-toolkit.html",
+    "episode": 7,
+    "title": "Simile Is Not Like a Metaphor",
+    "dek": "Term 2 Poetry begins, Will is furious that other poets exist, and Metaphor and Simile refuse to be called twins. eight scenes.",
+    "minutes": 11,
+    "chapters": 8
+  },
+  "identity-culture-poetry": {
+    "href": "/lessons/sitcom-identity-culture-poetry.html",
+    "episode": 8,
+    "title": "Home Is Where the Kopi Is",
+    "dek": "Over kopi and tissue packets at a Queenstown hawker centre, Mei discovers how language, migration, masks and heritage shape poetry. eight scenes.",
+    "minutes": 11,
+    "chapters": 8
+  },
+  "poetry-writing": {
+    "href": "/lessons/sitcom-poetry-writing.html",
+    "episode": 9,
+    "title": "Show, Don't Haiku",
+    "dek": "Mei tries to rhyme 'sad' with 'bad', a pompous Thesaurus swallows her draft, and Ah Ma's kitchen saves the poem. eight scenes.",
+    "minutes": 12,
+    "chapters": 8
+  },
+  "spoken-poem-analysis": {
+    "href": "/lessons/sitcom-spoken-poem-analysis.html",
+    "episode": 10,
+    "title": "Unseen, Unheard Of",
+    "dek": "Mei faces a poem she has never met, a terrified stage microphone, and a brisk stopwatch referee. eight scenes.",
+    "minutes": 11,
+    "chapters": 8
+  },
+  "the-novel": {
+    "href": "/lessons/sitcom-the-novel.html",
+    "episode": 11,
+    "title": "Unreliable",
+    "dek": "Term 3 brings three hundred pages of prose, Will is outraged by the lack of iambs, and a narrator in a trenchcoat lies to the camera. eight scenes.",
+    "minutes": 11,
+    "chapters": 8
+  },
+  "discursive-writing": {
+    "href": "/lessons/sitcom-discursive-writing.html",
+    "episode": 12,
+    "title": "On the Other Hand",
+    "dek": "Mei writes an ALL-CAPS rant to save her phone, two giant scale-gloves hijack Room 8H, and Kevin survives a comma splice. eight scenes.",
+    "minutes": 10,
+    "chapters": 8
+  },
+  "comprehension": {
+    "href": "/lessons/sitcom-comprehension.html",
+    "episode": 13,
+    "title": "Read the Question",
+    "dek": "An exam Question turns up in Room 8H in tears because nobody ever reads as far as 'in your own words'. eight scenes.",
+    "minutes": 12,
+    "chapters": 8
+  },
+  "descriptive-writing": {
+    "href": "/lessons/sitcom-descriptive-writing.html",
+    "episode": 14,
+    "title": "It Was a Dark and Stormy Period 3",
+    "dek": "A 4 p.m. monsoon traps Room 8H inside a flat paragraph, with an over-caffeinated Adjective Addict and a bossy cinema zoom lens. eight scenes.",
+    "minutes": 10,
+    "chapters": 8
+  },
+  "analytical-writing": {
+    "href": "/lessons/sitcom-analytical-writing.html",
+    "episode": 15,
+    "title": "Climbing the PEEL Ladder",
+    "dek": "A pair of golden quotation marks refuses to be dropped onto the floor on her own, and Room 8H learns how to turn retelling into top-band analysis. eight scenes.",
+    "minutes": 11,
+    "chapters": 8
+  },
+  "spag": {
+    "href": "/lessons/sitcom-spag.html",
+    "episode": 16,
+    "title": "Let's Eat, Grandma",
+    "dek": "Mei texts her family group chat 'Let's eat Grandma!' without a comma, Ah Ma locks the kitchen door, and Kevin the Comma finally gets his hero moment in the series finale. eight scenes.",
+    "minutes": 10,
+    "chapters": 8
+  }
+};

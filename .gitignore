@@ -42,3 +42,7 @@ next-env.d.ts
 
 # git worktrees made for helper agents
 /.claude/worktrees/
+
+# python bytecode
+__pycache__/
+*.py[cod]

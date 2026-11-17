@@ -2,7 +2,8 @@ import type { TopicExtras } from "../types";
 
 // Engagement extras for Descriptive Writing.
 export const descriptiveWritingExtras: TopicExtras = {
-  interactive: "sentence-mixer",
+  interactive: "show-dont-tell",
+  interactives: ["show-dont-tell", "sentence-mixer"],
   hook: "Charles Dickens once described a whole city using sentences with almost no main verbs — and readers have been able to smell his London fog for more than 170 years. What is it about the right words, in the right order, that lets a reader feel a place they have never visited?",
   didYouKnow: [
     "The term 'pathetic fallacy' was coined by the art critic John Ruskin in 1856, in the third volume of Modern Painters — and he meant it as a criticism of poets who gave nature false feelings. Today writers use it deliberately and proudly.",

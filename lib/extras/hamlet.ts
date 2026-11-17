@@ -2,7 +2,8 @@ import type { TopicExtras } from "../types";
 
 // Engagement extras for Hamlet.
 export const hamletExtras: TopicExtras = {
-  interactive: "connotation-zoom",
+  interactive: "hamlet-mind",
+  interactives: ["hamlet-mind", "connotation-zoom"],
   hook:
     "A prince is told by his father's ghost exactly who murdered him, and then waits almost the entire play before acting. Why would anyone hesitate when they know the truth, and could hesitating actually be the wise choice?",
   didYouKnow: [

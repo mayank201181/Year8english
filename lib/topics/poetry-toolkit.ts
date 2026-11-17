@@ -616,7 +616,7 @@ export const poetryToolkit: Topic = {
         answerIndex: 3,
         hint: "It comes from Italy and splits 14 lines into 8 + 6.",
         explanation:
-          "A Petrarchan sonnet is divided into an octave (8 lines) and a sestet (6 lines), with the turn at line 9. The option ‘Three quatrains and a rhyming couplet, rhyming ABAB CDCD EFEF GG’ is tempting because it is also a sonnet, but that is the Shakespearean pattern. B describes a villanelle and C a haiku.",
+          "A Petrarchan sonnet is divided into an octave (8 lines) and a sestet (6 lines), with the turn at line 9. The option ‘Three quatrains and a rhyming couplet, rhyming ABAB CDCD EFEF GG’ is tempting because it is also a sonnet, but that is the Shakespearean pattern. The option ‘Nineteen lines with two refrains that repeat…’ describes a villanelle and the option ‘Three lines of 5, 7 and 5…’ a haiku.",
         guideRef: "form",
       },
       {
@@ -893,7 +893,7 @@ export const poetryToolkit: Topic = {
             answerIndex: 2,
             hint: "Are 'b' and 'k' gentle sounds or hard ones?",
             explanation:
-              "'B' and 'k' are plosives: hard, abrupt sounds that make the line feel heavy and exhausting, like the soldiers trudging. A 'soft, soothing' effect would come from sounds like 's', 'm' or 'l'.",
+              "'the option ‘They imitate birdsong’' and 'k' are plosives: hard, abrupt sounds that make the line feel heavy and exhausting, like the soldiers trudging. A 'soft, soothing' effect would come from sounds like 's', 'm' or 'l'.",
             guideRef: "sound",
           },
           {

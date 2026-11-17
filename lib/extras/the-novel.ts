@@ -2,7 +2,8 @@ import type { TopicExtras } from "../types";
 
 // Engagement extras for Reading the Novel.
 export const theNovelExtras: TopicExtras = {
-  interactive: "tension-graph",
+  interactive: "narrator-lens",
+  interactives: ["narrator-lens", "tension-graph"],
   hook:
     "Charles Dickens’s readers sometimes waited a whole week to find out what happened next, because his novels came out one instalment at a time. What tricks did novelists use to make sure people came back, and why do the same tricks still work on you when a series ends on a cliffhanger?",
   didYouKnow: [

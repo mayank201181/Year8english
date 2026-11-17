@@ -622,7 +622,7 @@ export const analyticalWriting: Topic = {
         answerIndex: 3,
         hint: "Read each option aloud. Which flows as one grammatical sentence with analysis attached?",
         explanation:
-          "D weaves the quotation into Hamlet's sentence and immediately analyses the list. A is the tempting one because it uses the right quotation, but it leaves a long quotation hanging between two sentences and analyses nothing.",
+          "The option ‘Hamlet finds life 'weary, stale, flat and…’ weaves the quotation into Hamlet's sentence and immediately analyses the list. The option ‘Hamlet is depressed. 'How weary, stale, flat…’ is the tempting one because it uses the right quotation, but it leaves a long quotation hanging between two sentences and analyses nothing.",
         guideRef: "embedding-quotations",
       },
       {
@@ -637,7 +637,7 @@ export const analyticalWriting: Topic = {
         answerIndex: 0,
         hint: "Feature spotting names techniques but forgets something important.",
         explanation:
-          "A names two techniques without a quotation or any effect, which is feature spotting. The other three each quote the words and explain what they suggest, so they are genuine analysis.",
+          "The option ‘Shakespeare uses alliteration and a metaphor in…’ names two techniques without a quotation or any effect, which is feature spotting. The other three each quote the words and explain what they suggest, so they are genuine analysis.",
         guideRef: "terminology-and-verbs",
       },
     ],
@@ -746,7 +746,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Which option quotes words and explains what they suggest?",
             explanation:
-              "D zooms in on two verbs and explains their effect, which is Level 3. B is tempting because it explains his feelings, but it uses no evidence and names no method, so it stays at Level 2.",
+              "The option ‘The verbs 'melt' and 'thaw' suggest Hamlet…’ zooms in on two verbs and explains their effect, which is Level 3. The option ‘Hamlet wishes he could die because he…’ is tempting because it explains his feelings, but it uses no evidence and names no method, so it stays at Level 2.",
             guideRef: "analysis-not-retelling",
           },
           {
@@ -786,7 +786,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Look for the word 'presents' and an arguable claim.",
             explanation:
-              "B uses the question's key word and makes an arguable claim about how Mercutio is presented. D is tempting because it is accurate, but it is plot, not an argument.",
+              "The option ‘Shakespeare presents Mercutio as witty but reckless,…’ uses the question's key word and makes an arguable claim about how Mercutio is presented. The option ‘Mercutio is Romeo's friend and he dies.’ is tempting because it is accurate, but it is plot, not an argument.",
             guideRef: "peel-petal",
           },
           {
@@ -822,7 +822,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "'Solo' is hidden in the word.",
             explanation:
-              "A soliloquy is a speech by a character alone on stage revealing their inner thoughts, like Hamlet's 'To be, or not to be'. B describes an aside, which is short and spoken while others are present.",
+              "A soliloquy is a speech by a character alone on stage revealing their inner thoughts, like Hamlet's 'To be, or not to be'. The option ‘A short remark to the audience that…’ describes an aside, which is short and spoken while others are present.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -847,7 +847,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Good context changes how we read particular words.",
             explanation:
-              "B links a belief of the time directly to the words 'star-cross'd' and their effect. A is accurate but bolted on: it tells us nothing about the text.",
+              "The option ‘For an audience who believed the stars…’ links a belief of the time directly to the words 'star-cross'd' and their effect. The option ‘Shakespeare was born in Stratford-upon-Avon in 1564.’ is accurate but bolted on: it tells us nothing about the text.",
             guideRef: "purpose-audience-context",
           },
           {
@@ -872,7 +872,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "It looks clever but stops too early.",
             explanation:
-              "Feature spotting is naming a technique ('there is alliteration') without explaining its effect. B is a different problem: too many quotations crowd out analysis, but that isn't feature spotting.",
+              "Feature spotting is naming a technique ('there is alliteration') without explaining its effect. The option ‘Using too many quotations in a paragraph’ is a different problem: too many quotations crowd out analysis, but that isn't feature spotting.",
             guideRef: "analysis-not-retelling",
           },
           {
@@ -887,7 +887,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Could you write this about every book in the library?",
             explanation:
-              "It is generic: it could apply to any text, so it shows no understanding of these particular words. A is tempting, but a short comment can be excellent if it is precise.",
+              "It is generic: it could apply to any text, so it shows no understanding of these particular words. The option ‘It is too short.’ is tempting, but a short comment can be excellent if it is precise.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -918,7 +918,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Look at the word 'both'.",
             explanation:
-              "'Both your houses' means both families, so he blames the Montagues as well as the Capulets. A is tempting because Tybalt, a Capulet, stabbed him, but 'both' shows his anger is directed at the whole feud.",
+              "'Both your houses' means both families, so he blames the Montagues as well as the Capulets. The option ‘Mercutio blames only the Capulets for his…’ is tempting because Tybalt, a Capulet, stabbed him, but 'both' shows his anger is directed at the whole feud.",
             guideRef: "zooming-in",
           },
           {
@@ -933,7 +933,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "A link connects to the bigger picture: question, theme or purpose.",
             explanation:
-              "C links the analysis to the theme of tragedy and the audience. B is tempting as a signpost, but it links to nothing in the argument.",
+              "The option ‘This tension between love and hate foreshadows…’ links the analysis to the theme of tragedy and the audience. The option ‘Next I will look at Act 2.’ is tempting as a signpost, but it links to nothing in the argument.",
             guideRef: "peel-petal",
           },
           {
@@ -948,7 +948,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Which one says WHAT kind of imagery and WHAT it suggests?",
             explanation:
-              "D names the kind of imagery (weeds and rot) and its effect. B is tempting because it sounds vivid, but it never says what picture or why it matters.",
+              "The option ‘The imagery of weeds and rot suggests…’ names the kind of imagery (weeds and rot) and its effect. The option ‘It paints a picture in the reader's…’ is tempting because it sounds vivid, but it never says what picture or why it matters.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -979,7 +979,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Count the 'then's.",
             explanation:
-              "The paragraph is pure retelling: no quotations, no methods, no effects. C is tempting, but the order is actually correct; the problem is that the student is narrating, not analysing.",
+              "The paragraph is pure retelling: no quotations, no methods, no effects. The option ‘It gets the order of events wrong.’ is tempting, but the order is actually correct; the problem is that the student is narrating, not analysing.",
             guideRef: "analysis-not-retelling",
           },
           {
@@ -994,7 +994,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Look for alternatives and a judgement between them.",
             explanation:
-              "C zooms in on 'profit', offers two readings and judges which is more convincing: that is perceptive. B is tempting because it makes a point about language, but its effect ('he is angry') is basic and undeveloped.",
+              "The option ‘Caliban's bitter claim that his only 'profit'…’ zooms in on 'profit', offers two readings and judges which is more convincing: that is perceptive. The option ‘Caliban uses language to curse, which shows…’ is tempting because it makes a point about language, but its effect ('he is angry') is basic and undeveloped.",
             guideRef: "alternative-interpretations",
           },
         ],
@@ -1024,7 +1024,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Look at the first two lines: 'I met a traveller… Who said'.",
             explanation:
-              "The speaker reports what a traveller told him, so the description is second-hand. D is tempting because the poem begins with 'I', but the 'I' only met the traveller; he never saw the statue.",
+              "The speaker reports what a traveller told him, so the description is second-hand. The option ‘The speaker, who has seen it with…’ is tempting because the poem begins with 'I', but the 'I' only met the traveller; he never saw the statue.",
             guideRef: "zooming-in",
           },
           {
@@ -1059,7 +1059,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Say it aloud. Is the 'c' sound soft or hard?",
             explanation:
-              "The repeated hard 'c' sounds clipped and harsh, matching a tyrant barking orders. A is the opposite of the effect: soft sounds come from letters like 's', 'l' and 'm'.",
+              "The repeated hard 'c' sounds clipped and harsh, matching a tyrant barking orders. The option ‘a soft, soothing sound’ is the opposite of the effect: soft sounds come from letters like 's', 'l' and 'm'.",
             guideRef: "zooming-in",
           },
           {
@@ -1074,7 +1074,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Look for short, correctly punctuated words woven into a sentence that also analyses.",
             explanation:
-              "A weaves two words into a grammatical sentence and analyses them. D is tempting because it is short, but it has no quotation marks, so the reader cannot tell which words are Shelley's.",
+              "The option ‘Shelley describes the statue's 'shattered visage', suggesting…’ weaves two words into a grammatical sentence and analyses them. The option ‘Shelley describes the statue's shattered visage on…’ is tempting because it is short, but it has no quotation marks, so the reader cannot tell which words are Shelley's.",
             guideRef: "embedding-quotations",
           },
           {
@@ -1089,7 +1089,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Which punctuation mark shows a new line of verse?",
             explanation:
-              "A forward slash ( / ) marks a line break when you quote verse. D is tempting because both parts are in quotation marks, but splitting them into two quotations hides that they run on.",
+              "A forward slash ( / ) marks a line break when you quote verse. The option ‘My name is Ozymandias, King of Kings'…’ is tempting because both parts are in quotation marks, but splitting them into two quotations hides that they run on.",
             guideRef: "embedding-quotations",
           },
           {
@@ -1104,7 +1104,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Read the line straight after the inscription.",
             explanation:
-              "He meant other rulers to despair at his greatness, but 'Nothing beside remains', so the boast turns against him. A is wrong: the imperatives 'Look' and 'despair' are arrogant, not humble.",
+              "He meant other rulers to despair at his greatness, but 'Nothing beside remains', so the boast turns against him. The option ‘The king is being humble and modest.’ is wrong: the imperatives 'Look' and 'despair' are arrogant, not humble.",
             guideRef: "alternative-interpretations",
           },
           {
@@ -1119,7 +1119,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Think about what comes immediately before it.",
             explanation:
-              "The short, flat statement punctures the grand boast. B is wrong because the sculptor is discussed earlier (lines 6–8), not here.",
+              "The short, flat statement punctures the grand boast. The option ‘It describes the sculptor's skill.’ is wrong because the sculptor is discussed earlier (lines 6–8), not here.",
             guideRef: "zooming-in",
           },
           {
@@ -1134,7 +1134,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "'Colossal' comes from 'colossus', a giant statue.",
             explanation:
-              "'Colossal' means huge, and placing it next to 'Wreck' stresses how great things fall. B is wrong because 'Wreck' and 'decay' show it is ruined.",
+              "'Colossal' means huge, and placing it next to 'Wreck' stresses how great things fall. The option ‘The statue is still standing proudly.’ is wrong because 'Wreck' and 'decay' show it is ruined.",
             guideRef: "zooming-in",
           },
           {
@@ -1169,7 +1169,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Naming the word class is only the start.",
             explanation:
-              "D names the word class AND explores what it suggests, then links it to the king's power. B is tempting because the terminology is correct, but it explains no effect.",
+              "The option ‘The adjective 'shattered' suggests violent, complete destruction,…’ names the word class AND explores what it suggests, then links it to the king's power. The option ‘It is an adjective that describes the…’ is tempting because the terminology is correct, but it explains no effect.",
             guideRef: "zooming-in",
           },
           {
@@ -1184,7 +1184,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Whose hand carved the face?",
             explanation:
-              "The sculptor's hand imitated the king's passions and may also have ridiculed them, quietly exposing his cruelty. B is wrong: 'hand' refers to the sculptor, not the king.",
+              "The sculptor's hand imitated the king's passions and may also have ridiculed them, quietly exposing his cruelty. The option ‘The king laughed at his own statue.’ is wrong: 'hand' refers to the sculptor, not the king.",
             guideRef: "alternative-interpretations",
           },
           {
@@ -1199,7 +1199,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Think 'family of words'.",
             explanation:
-              "A semantic field is a group of words connected by topic, e.g. ruin or cold. D describes denotation, which is about one word, not a group.",
+              "A semantic field is a group of words connected by topic, e.g. ruin or cold. The option ‘The dictionary meaning of one word’ describes denotation, which is about one word, not a group.",
             guideRef: "zooming-in",
           },
           {
@@ -1214,7 +1214,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Which words describe things falling apart?",
             explanation:
-              "'Shattered', 'decay' and 'Wreck' all belong to the topic of ruin. B is a semantic field too, but of power, not ruin.",
+              "'Shattered', 'decay' and 'Wreck' all belong to the topic of ruin. The option ‘name, Kings, Mighty’ is a semantic field too, but of power, not ruin.",
             guideRef: "zooming-in",
           },
           {
@@ -1229,7 +1229,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Look for quotation marks, a precise verb and a developed effect.",
             explanation:
-              "D uses quotation marks, a precise verb ('suggests') and a developed connotation. C is tempting because it adds quotation marks, but 'proves he is evil' overclaims and is no more precise.",
+              "The option ‘The word 'sneer' suggests contempt, as if…’ uses quotation marks, a precise verb ('suggests') and a developed connotation. The option ‘The word 'SNEER' proves he is evil.’ is tempting because it adds quotation marks, but 'proves he is evil' overclaims and is no more precise.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -1244,7 +1244,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Square brackets show a change made INSIDE a quotation.",
             explanation:
-              "In A the capital 'S' of 'Stand' is changed to lower case so the quotation fits the sentence, and the brackets show the change. B is tempting, but it uses brackets instead of quotation marks, so the quotation is not marked at all.",
+              "In A the capital 'S' of 'Stand' is changed to lower case so the quotation fits the sentence, and the brackets show the change. The option ‘The traveller says that the legs [stand…’ is tempting, but it uses brackets instead of quotation marks, so the quotation is not marked at all.",
             guideRef: "embedding-quotations",
           },
           {
@@ -1259,7 +1259,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "A valid reading must be rooted in the words of the poem.",
             explanation:
-              "B is rooted in the text: even the sculptor's work is a 'Wreck' surrounded by 'decay'. C is not supported: the desert is a setting, not the target of Shelley's criticism.",
+              "The option ‘While the poem mocks one tyrant's pride,…’ is rooted in the text: even the sculptor's work is a 'Wreck' surrounded by 'decay'. The option ‘The poem proves that Shelley hated deserts.’ is not supported: the desert is a setting, not the target of Shelley's criticism.",
             guideRef: "alternative-interpretations",
           },
           {
@@ -1274,7 +1274,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Which option connects the context to the poem's meaning?",
             explanation:
-              "C uses context to explain a possible purpose behind the poem. A is accurate but bolted on: his birth year tells us nothing about the statue.",
+              "The option ‘Shelley, who despised tyranny, may have intended…’ uses context to explain a possible purpose behind the poem. The option ‘Shelley was born in 1792.’ is accurate but bolted on: his birth year tells us nothing about the statue.",
             guideRef: "purpose-audience-context",
           },
           {
@@ -1289,7 +1289,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Which comment links sound, image and the poem's big idea?",
             explanation:
-              "D analyses sound and image and links them to the poem's message about power and time. B is accurate terminology, but on its own it is feature spotting.",
+              "The option ‘The long vowels and alliteration make the…’ analyses sound and image and links them to the poem's message about power and time. The option ‘It uses alliteration.’ is accurate terminology, but on its own it is feature spotting.",
             guideRef: "analysis-not-retelling",
           },
         ],
@@ -1329,7 +1329,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "What does the audience know by the end of these 14 lines?",
             explanation:
-              "The Chorus outlines the feud, the love and the deaths. C is wrong: the tone is solemn ('fatal', 'death-mark'd'), not comic.",
+              "The Chorus outlines the feud, the love and the deaths. The option ‘To make the audience laugh before the…’ is wrong: the tone is solemn ('fatal', 'death-mark'd'), not comic.",
             guideRef: "purpose-audience-context",
           },
           {
@@ -1344,7 +1344,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "How does knowing the ending change how you watch a love scene?",
             explanation:
-              "Knowing the outcome creates dramatic irony and makes every happy moment bittersweet. C is the opposite of the effect: the Prologue makes the outcome clear, not confusing.",
+              "Knowing the outcome creates dramatic irony and makes every happy moment bittersweet. The option ‘To confuse the audience about what will…’ is the opposite of the effect: the Prologue makes the outcome clear, not confusing.",
             guideRef: "purpose-audience-context",
           },
           {
@@ -1359,7 +1359,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "The note says 'civil' means 'belonging to citizens'.",
             explanation:
-              "The repetition stresses that citizens are killing citizens: the violence is within one community. A is tempting because 'civil' can mean polite today, but here it means 'of citizens', which creates a bitter irony.",
+              "The repetition stresses that citizens are killing citizens: the violence is within one community. The option ‘That the citizens are polite to one…’ is tempting because 'civil' can mean polite today, but here it means 'of citizens', which creates a bitter irony.",
             guideRef: "zooming-in",
           },
           {
@@ -1374,7 +1374,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "'Cross' here means to block or oppose.",
             explanation:
-              "'Star-cross'd' means the stars (fate) are against them. D is tempting with modern ears, where a 'star' is a celebrity, but that meaning did not exist for Shakespeare's audience.",
+              "'Star-cross'd' means the stars (fate) are against them. The option ‘They are famous, like stars.’ is tempting with modern ears, where a 'star' is a celebrity, but that meaning did not exist for Shakespeare's audience.",
             guideRef: "purpose-audience-context",
           },
           {
@@ -1389,7 +1389,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Which one could someone disagree with?",
             explanation:
-              "D is arguable, specific and nuanced ('yet'). C is tempting because it mentions techniques, but it names none and makes no argument.",
+              "The option ‘Shakespeare presents fate as an inescapable force…’ is arguable, specific and nuanced ('yet'). The option ‘Shakespeare uses lots of techniques to show…’ is tempting because it mentions techniques, but it names none and makes no argument.",
             guideRef: "thesis",
           },
           {
@@ -1414,7 +1414,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Look for a verb that hints rather than states.",
             explanation:
-              "'Implies' is precise, and C also names the word type and explains 'mark'd' as 'branded'. B is tempting because it addresses the meaning, but 'says' is vague and misreads the phrase.",
+              "'Implies' is precise, and the option ‘The compound adjective 'death-mark'd' implies their love…’ also names the word type and explains 'mark'd' as 'branded'. The option ‘The phrase says their love is death.’ is tempting because it addresses the meaning, but 'says' is vague and misreads the phrase.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -1494,7 +1494,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Which one uses context to explain specific words?",
             explanation:
-              "D connects a belief of the time to a specific phrase and its effect on the audience. B is accurate, but on its own it adds nothing to the analysis.",
+              "The option ‘Because many Elizabethans believed in astrology, calling…’ connects a belief of the time to a specific phrase and its effect on the audience. The option ‘Verona is a real city in Italy.’ is accurate, but on its own it adds nothing to the analysis.",
             guideRef: "purpose-audience-context",
           },
           {
@@ -1509,7 +1509,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Who is 'you' in 'if you with patient ears attend'?",
             explanation:
-              "The Chorus addresses 'you', the audience, courteously, asking for their attention and patience. D is wrong because Romeo has not yet appeared; the Prologue is spoken to the audience.",
+              "The Chorus addresses 'you', the audience, courteously, asking for their attention and patience. The option ‘The Chorus is speaking to Romeo.’ is wrong because Romeo has not yet appeared; the Prologue is spoken to the audience.",
             guideRef: "purpose-audience-context",
           },
           {
@@ -1524,7 +1524,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Which one has no quotation and no specific effect?",
             explanation:
-              "C gestures at a semantic field but quotes nothing and explains no effect. A, B and D each zoom in on a word and explain what it suggests.",
+              "The option ‘The Prologue has lots of words about…’ gestures at a semantic field but quotes nothing and explains no effect. The other three options each zoom in on a word and explain what it suggests.",
             guideRef: "zooming-in",
           },
           {
@@ -1539,7 +1539,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Purpose answers 'why did the writer do this?'",
             explanation:
-              "B explains why Shakespeare might have made this choice. A is a true observation about form, but it does not say why it matters.",
+              "The option ‘By revealing the deaths at once, Shakespeare…’ explains why Shakespeare might have made this choice. The option ‘The Prologue is fourteen lines long.’ is a true observation about form, but it does not say why it matters.",
             guideRef: "purpose-audience-context",
           },
           {
@@ -1564,7 +1564,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Which quotation mentions the parents and something negative about them?",
             explanation:
-              "'The continuance of their parents' rage' puts the parents' anger at the centre. C is tempting because it is famous, but 'star-cross'd' blames fate, not the parents.",
+              "'The continuance of their parents' rage' puts the parents' anger at the centre. The option ‘A pair of star-cross'd lovers’ is tempting because it is famous, but 'star-cross'd' blames fate, not the parents.",
             guideRef: "alternative-interpretations",
           },
           {
@@ -1579,7 +1579,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Look for a balanced argument that weighs two causes.",
             explanation:
-              "C weighs fate against human choice and considers Shakespeare's purpose. B is true but says nothing about how fate is presented.",
+              "The option ‘Although 'star-cross'd' blames fate, the play also…’ weighs fate against human choice and considers Shakespeare's purpose. The option ‘Fate is a theme in the play.’ is true but says nothing about how fate is presented.",
             guideRef: "alternative-interpretations",
           },
         ],
@@ -1600,7 +1600,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Get to the point.",
             explanation:
-              "A strong introduction answers the question straight away with a thesis. B is tempting because it seems like 'context', but biography that isn't linked to the question earns nothing.",
+              "A strong introduction answers the question straight away with a thesis. The option ‘Tell the story of the author's life’ is tempting because it seems like 'context', but biography that isn't linked to the question earns nothing.",
             guideRef: "essay-structure-comparison",
           },
           {
@@ -1615,7 +1615,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "A conclusion closes the argument rather than opening a new one.",
             explanation:
-              "New quotations belong in body paragraphs where they can be analysed. D is something a strong conclusion SHOULD do.",
+              "New quotations belong in body paragraphs where they can be analysed. The option ‘Make a final judgement about the writer's…’ is something a strong conclusion SHOULD do.",
             guideRef: "essay-structure-comparison",
           },
           {
@@ -1630,7 +1630,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "To show CHANGE, follow the journey.",
             explanation:
-              "Following the play's order shows the character developing from control to forgiveness. C is the same journey backwards, which makes the change hard to follow.",
+              "Following the play's order shows the character developing from control to forgiveness. The option ‘Act 5 forgiveness → Act 4 doubts…’ is the same journey backwards, which makes the change hard to follow.",
             guideRef: "essay-structure-comparison",
           },
           {
@@ -1665,7 +1665,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "'Integrated' means woven together.",
             explanation:
-              "Integrated comparison weaves both texts into every paragraph. B describes the block method, which often forgets to compare.",
+              "Integrated comparison weaves both texts into every paragraph. The option ‘Writing everything about text A, then everything…’ describes the block method, which often forgets to compare.",
             guideRef: "essay-structure-comparison",
           },
           {
@@ -1680,7 +1680,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "Methods = HOW: symbol, repetition, structure, language.",
             explanation:
-              "D compares two methods (symbol vs repetition). B is tempting because it uses 'whereas', but it compares settings (content), not methods.",
+              "The option ‘Shelley uses a single broken statue as…’ compares two methods (symbol vs repetition). The option ‘Ozymandias' is set in a desert, whereas…’ is tempting because it uses 'whereas', but it compares settings (content), not methods.",
             guideRef: "essay-structure-comparison",
           },
           {
@@ -1695,7 +1695,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "A topic sentence makes an argument about HOW the writer presents something.",
             explanation:
-              "B uses 'presents' and makes an arguable claim. D gives an opinion, but it is vague and not about Shakespeare's methods.",
+              "The option ‘Shakespeare presents Hamlet's grief as so overwhelming…’ uses 'presents' and makes an arguable claim. The option ‘I think Hamlet is quite sad.’ gives an opinion, but it is vague and not about Shakespeare's methods.",
             guideRef: "essay-structure-comparison",
           },
           {
@@ -1726,7 +1726,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "It is spoken 'to the side'.",
             explanation:
-              "An aside is a brief remark the audience hears but other characters do not. A describes a soliloquy, which is longer and spoken alone.",
+              "An aside is a brief remark the audience hears but other characters do not. The option ‘A long speech by a character alone…’ describes a soliloquy, which is longer and spoken alone.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -1742,7 +1742,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "'Method' means order or system.",
             explanation:
-              "'Method' means a logical pattern, so Polonius senses sense behind the madness. D is tempting because Polonius does believe Hamlet is lovesick elsewhere, but this line is about the order he notices in Hamlet's words.",
+              "'Method' means a logical pattern, so Polonius senses sense behind the madness. The option ‘Hamlet is mad with love for Ophelia.’ is tempting because Polonius does believe Hamlet is lovesick elsewhere, but this line is about the order he notices in Hamlet's words.",
             guideRef: "alternative-interpretations",
           },
           {
@@ -1757,7 +1757,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Who knows more: the audience or the character?",
             explanation:
-              "Dramatic irony is when the audience knows something a character does not, as when Romeo thinks Juliet is dead. B describes a soliloquy, not dramatic irony.",
+              "Dramatic irony is when the audience knows something a character does not, as when Romeo thinks Juliet is dead. The option ‘A character speaks alone on stage.’ describes a soliloquy, not dramatic irony.",
             guideRef: "terminology-and-verbs",
           },
           {
@@ -1773,7 +1773,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 1,
             hint: "Which comment zooms in on specific words?",
             explanation:
-              "B zooms in on the repetition and explains its effect. C names a feature but gives no effect, and 'so it is good' is not analysis.",
+              "The option ‘The repeated 'too too' stresses how heavy…’ zooms in on the repetition and explains its effect. The option ‘It is iambic pentameter, so it is…’ names a feature but gives no effect, and 'so it is good' is not analysis.",
             guideRef: "zooming-in",
           },
           {
@@ -1788,7 +1788,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "It names a technique, but how far does it explain?",
             explanation:
-              "It names the metaphor and gives a basic meaning, but does not explore what 'sun' suggests: Level 2. C is tempting, but it does more than retell, because it identifies a technique.",
+              "It names the metaphor and gives a basic meaning, but does not explore what 'sun' suggests: Level 2. The option ‘Level 1: pure retelling with no terminology’ is tempting, but it does more than retell, because it identifies a technique.",
             guideRef: "analysis-not-retelling",
           },
           {
@@ -1803,7 +1803,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "What might be missing if you write about text A, then text B?",
             explanation:
-              "Writing about each text separately often means the two are never actually compared. C is false: the block method is allowed, it is just usually less effective.",
+              "Writing about each text separately often means the two are never actually compared. The option ‘It is not allowed in exams.’ is false: the block method is allowed, it is just usually less effective.",
             guideRef: "essay-structure-comparison",
           },
           {
@@ -1818,7 +1818,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Evaluation makes a judgement and gives a reason.",
             explanation:
-              "C judges which poem is more powerful and justifies it. A is a true comparison, but it only describes; there is no judgement.",
+              "The option ‘Blake's protest is arguably more powerful than…’ judges which poem is more powerful and justifies it. The option ‘Both poems use imagery.’ is a true comparison, but it only describes; there is no judgement.",
             guideRef: "essay-structure-comparison",
           },
           {
@@ -1849,7 +1849,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 3,
             hint: "A conclusion answers the question with a final judgement.",
             explanation:
-              "D makes a final judgement about Shakespeare's purpose. C is tempting because it uses evidence, but it only lists quotations without drawing a conclusion.",
+              "The option ‘Ultimately, Shakespeare refuses to let his audience…’ makes a final judgement about Shakespeare's purpose. The option ‘To conclude, Caliban says 'This island's mine'…’ is tempting because it uses evidence, but it only lists quotations without drawing a conclusion.",
             guideRef: "essay-structure-comparison",
           },
           {
@@ -1864,7 +1864,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 0,
             hint: "Look for a similarity, a difference and an interpretation.",
             explanation:
-              "A finds a similarity (death), a difference (erased vs passed on) and explores meaning through precise words. C may be factually true, but it compares length, not meaning or method.",
+              "A finds a similarity (death), a difference (erased vs passed on) and explores meaning through precise words. The option ‘London' is longer than 'Ozymandias'.’ may be factually true, but it compares length, not meaning or method.",
             guideRef: "essay-structure-comparison",
           },
           {
@@ -1879,7 +1879,7 @@ export const analyticalWriting: Topic = {
             answerIndex: 2,
             hint: "Balanced = considers both sides AND reaches a judgement.",
             explanation:
-              "C weighs both sides and reaches a nuanced judgement about Shakespeare's purpose. B takes a side, but 'mean' is vague and there is no evidence or nuance.",
+              "The option ‘Prospero is presented as wise and finally…’ weighs both sides and reaches a nuanced judgement about Shakespeare's purpose. The option ‘No, because he is mean to people.’ takes a side, but 'mean' is vague and there is no evidence or nuance.",
             guideRef: "alternative-interpretations",
           },
         ],

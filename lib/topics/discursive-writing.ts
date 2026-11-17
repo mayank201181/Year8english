@@ -49,7 +49,7 @@ const quizMcq: MCQ[] = [
     answerIndex: 1,
     hint: "Look for the command word that invites you to consider more than one side.",
     explanation:
-      "'Discuss' asks you to weigh both sides before judging, so B is discursive. D is tempting because it is about argument, but 'Argue that…' tells you which side to take from the start: that is argumentative writing. A and C are persuasive.",
+      "'Discuss' asks you to weigh both sides before judging, so the option ‘School uniform does more good than harm.'…’ is discursive. The option ‘Argue that school uniform should be abolished.’ is tempting because it is about argument, but 'Argue that…' tells you which side to take from the start: that is argumentative writing. The options ‘Write a speech persuading your head teacher…’ and ‘Write a leaflet convincing parents to buy…’ are persuasive.",
     guideRef: "what-is-discursive",
   },
   {
@@ -64,7 +64,7 @@ const quizMcq: MCQ[] = [
     answerIndex: 3,
     hint: "A good introduction shows the disagreement without taking sides.",
     explanation:
-      "D sets out both views in a vivid, balanced contrast, which is the 'Issue' step of CID. B is tempting because it is lively, but it gives a one-sided verdict in the introduction. A and C are the classic weak openings: mechanical and dictionary-based.",
+      "The option ‘Some see zoos as arks that rescue…’ sets out both views in a vivid, balanced contrast, which is the 'Issue' step of CID. The option ‘Zoos are cruel prisons and every single…’ is tempting because it is lively, but it gives a one-sided verdict in the introduction. The options ‘In this essay I will be talking…’ and ‘The dictionary defines a zoo as a…’ are the classic weak openings: mechanical and dictionary-based.",
     guideRef: "introductions",
   },
   {
@@ -79,7 +79,7 @@ const quizMcq: MCQ[] = [
     answerIndex: 0,
     hint: "'However' is joining two complete sentences here. What punctuation does that need?",
     explanation:
-      "When 'however' links two independent clauses, use a semicolon before and a comma after, as in A. B is the most tempting, but the comma before 'however' creates a comma splice, joining two full sentences with only a comma.",
+      "When 'however' links two independent clauses, use a semicolon before and a comma after, as in A. The option ‘Homework can build independence, however, it can…’ is the most tempting, but the comma before 'however' creates a comma splice, joining two full sentences with only a comma.",
     guideRef: "discourse-markers",
   },
   {
@@ -94,7 +94,7 @@ const quizMcq: MCQ[] = [
     answerIndex: 2,
     hint: "A rebuttal is a response to something.",
     explanation:
-      "A rebuttal answers a counter-argument with reasons, as in C. D is tempting because it also 'defeats' the other side, but exaggerating an opposing view is a straw man, which weakens your essay rather than strengthening it.",
+      "A rebuttal answers a counter-argument with reasons, as in C. The option ‘Exaggerating the other side's view so that…’ is tempting because it also 'defeats' the other side, but exaggerating an opposing view is a straw man, which weakens your essay rather than strengthening it.",
     guideRef: "counter-rebuttal",
   },
 ];
@@ -239,7 +239,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 1,
     hint: "Think about how the two sides interact.",
     explanation:
-      "Alternating structure sets point and counterpoint side by side, so they genuinely clash and are weighed. A is wrong: alternating structure actually needs more careful planning than block.",
+      "Alternating structure sets point and counterpoint side by side, so they genuinely clash and are weighed. The option ‘It needs no planning at all.’ is wrong: alternating structure actually needs more careful planning than block.",
     guideRef: "structures",
   },
   {
@@ -254,7 +254,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 2,
     hint: "What does the reader remember best: the first thing or the latest thing?",
     explanation:
-      "The side presented last leads naturally into the judgement. B is tempting but wrong: you must still present the other side's best points fairly.",
+      "The side presented last leads naturally into the judgement. The option ‘It means you can leave out the…’ is tempting but wrong: you must still present the other side's best points fairly.",
     guideRef: "structures",
   },
   {
@@ -284,7 +284,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 3,
     hint: "One of these is both vague and untrue.",
     explanation:
-      "'Since the dawn of time' is a cliché and is plainly untrue. C, a question, is tempting to reject, but a genuine question that the essay will answer can be an effective opening.",
+      "'Since the dawn of time' is a cliché and is plainly untrue. The option ‘Should pupils' evenings belong to the school…’, a question, is tempting to reject, but a genuine question that the essay will answer can be an effective opening.",
     guideRef: "introductions",
   },
   {
@@ -314,7 +314,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 1,
     hint: "Which one keeps the writer and the reader out of the sentence?",
     explanation:
-      "'It is often claimed that…' presents a view without the writer or reader appearing in it. D may look formal because it is a question, but 'we all' and 'don't we' are personal and persuasive.",
+      "'It is often claimed that…' presents a view without the writer or reader appearing in it. The option ‘We all hate uniforms, don't we?’ may look formal because it is a question, but 'we all' and 'don't we' are personal and persuasive.",
     guideRef: "balanced-tone",
   },
   {
@@ -329,7 +329,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 0,
     hint: "Look for cautious words such as 'many', 'can' or 'may'.",
     explanation:
-      "'Many', 'report' and 'can' make the claim cautious and accurate. D sounds positive and calm, but 'always' is an absolute claim that one counter-example would disprove.",
+      "'Many', 'report' and 'can' make the claim cautious and accurate. The option ‘Homework always improves results.’ sounds positive and calm, but 'always' is an absolute claim that one counter-example would disprove.",
     guideRef: "balanced-tone",
   },
   {
@@ -389,7 +389,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 0,
     hint: "Honesty matters even in practice.",
     explanation:
-      "Invented evidence must be clearly labelled as hypothetical. B is the most tempting because it sounds authoritative, but putting words or numbers in a real organisation's mouth is dishonest.",
+      "Invented evidence must be clearly labelled as hypothetical. The option ‘Attach a real organisation's name so it…’ is the most tempting because it sounds authoritative, but putting words or numbers in a real organisation's mouth is dishonest.",
     guideRef: "evidence",
   },
   {
@@ -404,7 +404,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 0,
     hint: "A scarecrow is easy to knock over.",
     explanation:
-      "A straw man misrepresents the opposition so it is easy to defeat. C describes the opposite, steelmanning, which is what you should aim for.",
+      "A straw man misrepresents the opposition so it is easy to defeat. The option ‘The strongest version of the opposing view’ describes the opposite, steelmanning, which is what you should aim for.",
     guideRef: "counter-rebuttal",
   },
   {
@@ -419,7 +419,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 3,
     hint: "Which version would an opponent of homework actually agree with?",
     explanation:
-      "D states a serious, reasoned objection fairly. A is tempting because it names opponents, but it exaggerates their view into a straw man.",
+      "The option ‘Opponents argue that homework widens the gap…’ states a serious, reasoned objection fairly. The option ‘Opponents of homework think pupils should never…’ is tempting because it names opponents, but it exaggerates their view into a straw man.",
     guideRef: "counter-rebuttal",
   },
   {
@@ -434,7 +434,7 @@ const mcqP1: MCQ[] = [
     answerIndex: 2,
     hint: "Look for weighing plus a verdict.",
     explanation:
-      "'On balance, the evidence suggests…' weighs and judges. B is tempting because it mentions both sides, but it sits on the fence and dodges the task.",
+      "'On balance, the evidence suggests…' weighs and judges. The option ‘There are lots of points on both…’ is tempting because it mentions both sides, but it sits on the fence and dodges the task.",
     guideRef: "conclusions",
   },
   {
@@ -486,7 +486,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 3,
     hint: "Which words mean 'and also'?",
     explanation:
-      "Furthermore, moreover and in addition all add a point to the same side. B contains cause-and-effect markers, which show results rather than adding.",
+      "Furthermore, moreover and in addition all add a point to the same side. The option ‘Therefore, thus, hence’ contains cause-and-effect markers, which show results rather than adding.",
     guideRef: "discourse-markers",
   },
   {
@@ -501,7 +501,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 0,
     hint: "Which sentence joins two complete sentences with only a comma?",
     explanation:
-      "A joins two independent clauses with just a comma before 'however', which is a comma splice. C also has a comma between clauses, but 'Although' makes the first clause subordinate, so it is correct.",
+      "The option ‘Zoos protect species, however they also confine…’ joins two independent clauses with just a comma before 'however', which is a comma splice. The option ‘Although zoos protect species, they also confine…’ also has a comma between clauses, but 'Although' makes the first clause subordinate, so it is correct.",
     guideRef: "discourse-markers",
   },
   {
@@ -516,7 +516,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 2,
     hint: "Look for no slang, no contractions and no chatty asides.",
     explanation:
-      "C uses precise, formal vocabulary ('significant number', 'question the value'). D is tempting because it sounds confident, but 'Let's face it' is a chatty aside and 'nobody' is an over-generalisation.",
+      "The option ‘A significant number of pupils question the…’ uses precise, formal vocabulary ('significant number', 'question the value'). The option ‘Let's face it, nobody actually likes homework.’ is tempting because it sounds confident, but 'Let's face it' is a chatty aside and 'nobody' is an over-generalisation.",
     guideRef: "balanced-tone",
   },
   {
@@ -556,7 +556,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 3,
     hint: "Who is doing the suggesting? The sentence does not say.",
     explanation:
-      "'It has been suggested that…' is passive and impersonal: the suggester is not named. B is tempting because it is formal and reports a view, but it is active voice with a named subject.",
+      "'It has been suggested that…' is passive and impersonal: the suggester is not named. The option ‘Teachers say phones damage concentration.’ is tempting because it is formal and reports a view, but it is active voice with a named subject.",
     guideRef: "balanced-tone",
   },
   {
@@ -571,7 +571,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 1,
     hint: "Cautious, but still saying something definite.",
     explanation:
-      "B hedges sensibly ('some research', 'may be linked', 'some teenagers') while still making a clear point. D is over-hedged: it piles up cautious words until the sentence says nothing.",
+      "The option ‘Some research suggests that heavy social media…’ hedges sensibly ('some research', 'may be linked', 'some teenagers') while still making a clear point. The option ‘Social media might possibly perhaps maybe be…’ is over-hedged: it piles up cautious words until the sentence says nothing.",
     guideRef: "balanced-tone",
   },
   {
@@ -616,7 +616,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 3,
     hint: "What does each marker tell the reader to expect?",
     explanation:
-      "'However' signals a contrast and 'furthermore' signals an addition, so together they confuse the logic. B is wrong: the problem is muddled logic, not formality.",
+      "'However' signals a contrast and 'furthermore' signals an addition, so together they confuse the logic. The option ‘It is too formal.’ is wrong: the problem is muddled logic, not formality.",
     guideRef: "discourse-markers",
   },
   {
@@ -631,7 +631,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 0,
     hint: "Fair, formal, hedged.",
     explanation:
-      "A reports the objection fairly ('point out', 'may struggle'). D is calm in tone but over-generalises with 'definitely all', which a single counter-example disproves.",
+      "A reports the objection fairly ('point out', 'may struggle'). The option ‘Parents will definitely all hate a four-day…’ is calm in tone but over-generalises with 'definitely all', which a single counter-example disproves.",
     guideRef: "balanced-tone",
   },
   {
@@ -646,7 +646,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 1,
     hint: "Where does the writer's verdict belong?",
     explanation:
-      "B gives a loaded verdict in the introduction, which breaks the balance. A is acceptable because the judgement belongs in the conclusion and is reasoned.",
+      "The option ‘In the introduction: 'I think zoos are…’ gives a loaded verdict in the introduction, which breaks the balance. The option ‘In the conclusion: 'I believe, on balance,…’ is acceptable because the judgement belongs in the conclusion and is reasoned.",
     guideRef: "balanced-tone",
   },
   {
@@ -671,7 +671,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 2,
     hint: "You need a turning point that looks back and forwards.",
     explanation:
-      "C sums up what came before ('these benefits') and signals the switch. B is tempting because it uses a discourse marker, but 'Furthermore' continues the same side instead of turning.",
+      "The option ‘Despite these benefits, many pupils and parents…’ sums up what came before ('these benefits') and signals the switch. The option ‘Furthermore, uniform is good.’ is tempting because it uses a discourse marker, but 'Furthermore' continues the same side instead of turning.",
     guideRef: "structures",
   },
   {
@@ -686,7 +686,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 0,
     hint: "A semicolon sits between two balanced halves, with no 'and' needed.",
     explanation:
-      "A joins two balanced, complete clauses with a semicolon. C is tempting, but a semicolon should not normally be followed by 'and': that is the job of a comma or nothing.",
+      "The option ‘Some see homework as practice; others see…’ joins two balanced, complete clauses with a semicolon. The option ‘Some see homework as practice; and others…’ is tempting, but a semicolon should not normally be followed by 'and': that is the job of a comma or nothing.",
     guideRef: "discourse-markers",
   },
   {
@@ -701,7 +701,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 3,
     hint: "Do the markers introduce genuinely new ideas?",
     explanation:
-      "Markers only work when they link real ideas; here 'great', 'good' and 'nice' are the same vague point repeated. B is wrong: adding more markers would not fix empty content.",
+      "Markers only work when they link real ideas; here 'great', 'good' and 'nice' are the same vague point repeated. The option ‘It uses too few discourse markers.’ is wrong: adding more markers would not fix empty content.",
     guideRef: "discourse-markers",
   },
   {
@@ -716,7 +716,7 @@ const mcqP2: MCQ[] = [
     answerIndex: 1,
     hint: "'Consequently' must introduce a genuine result of the previous idea.",
     explanation:
-      "In B the stress is a plausible result of the lack of space. C is tempting because it follows the same pattern, but gift shops are not a consequence of zoos being fun.",
+      "In the option ‘Large animals have far less space in…’ the stress is a plausible result of the lack of space. The option ‘Zoos are fun. Consequently, they have gift…’ is tempting because it follows the same pattern, but gift shops are not a consequence of zoos being fun.",
     guideRef: "discourse-markers",
   },
 ];
@@ -753,7 +753,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 1,
     hint: "Which phrase creates a familiar, vivid scene?",
     explanation:
-      "The vivid childhood memory hooks the reader with a familiar experience. A is tempting, but it is the 'Direction' step, signposting the essay's method rather than setting the scene.",
+      "The vivid childhood memory hooks the reader with a familiar experience. The option ‘it is worth weighing both views carefully’ is tempting, but it is the 'Direction' step, signposting the essay's method rather than setting the scene.",
     guideRef: "introductions",
   },
   {
@@ -768,7 +768,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 0,
     hint: "An ark saves; a prison confines.",
     explanation:
-      "The two metaphors capture each side's view of zoos in a single vivid contrast. C is tempting because 'prisons' is negative, but the writer gives 'arks' equal weight and attributes each view to others ('Supporters', 'critics').",
+      "The two metaphors capture each side's view of zoos in a single vivid contrast. The option ‘It shows the writer agrees with the…’ is tempting because 'prisons' is negative, but the writer gives 'arks' equal weight and attributes each view to others ('Supporters', 'critics').",
     guideRef: "introductions",
   },
   {
@@ -783,7 +783,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 2,
     hint: "Look at the last sentence of the paragraph.",
     explanation:
-      "'Before deciding… it is worth weighing both views carefully' keeps the verdict back. D is tempting because 'however well decorated' sounds sharp, but it is part of describing what critics think, not the writer's own verdict.",
+      "'Before deciding… it is worth weighing both views carefully' keeps the verdict back. The option ‘Yes: the phrase 'however well decorated' shows…’ is tempting because 'however well decorated' sounds sharp, but it is part of describing what critics think, not the writer's own verdict.",
     guideRef: "introductions",
   },
   {
@@ -808,7 +808,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 1,
     hint: "It is both an impersonal construction and a hedge.",
     explanation:
-      "'It could be argued' presents a claim cautiously, keeping the writer in the background. C is tempting because the phrase is often used to introduce other views, but here it supports the same 'for' side.",
+      "'It could be argued' presents a claim cautiously, keeping the writer in the background. The option ‘To introduce the opposing side’ is tempting because the phrase is often used to introduce other views, but here it supports the same 'for' side.",
     guideRef: "balanced-tone",
   },
   {
@@ -823,7 +823,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 2,
     hint: "It means 'in addition'.",
     explanation:
-      "'Furthermore' adds a second pro-zoo point (funding research and habitats). A is wrong: the switch to the opposing view comes with 'Conversely' in paragraph [3].",
+      "'Furthermore' adds a second pro-zoo point (funding research and habitats). The option ‘A switch to the opposing view’ is wrong: the switch to the opposing view comes with 'Conversely' in paragraph [3].",
     guideRef: "discourse-markers",
   },
   {
@@ -838,7 +838,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 1,
     hint: "Look at what each of paragraphs [2], [3] and [4] does.",
     explanation:
-      "[2] is for, [3] is against, [4] concedes and rebuts, then [5] concludes: a block structure with a weighing paragraph. A is tempting because [4] mentions both sides, but [2] and [3] each focus on one side.",
+      "[2] is for, [3] is against, [4] concedes and rebuts, then [5] concludes: a block structure with a weighing paragraph. The option ‘Alternating: every paragraph contains both sides equally’ is tempting because [4] mentions both sides, but [2] and [3] each focus on one side.",
     guideRef: "structures",
   },
   {
@@ -853,7 +853,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 0,
     hint: "It is a contrast marker.",
     explanation:
-      "'Conversely' signals a switch to the opposite view (the opponents). B is wrong because 'conversely' contrasts; it does not add support to the same side.",
+      "'Conversely' signals a switch to the opposite view (the opponents). The option ‘The writer is giving another reason to…’ is wrong because 'conversely' contrasts; it does not add support to the same side.",
     guideRef: "discourse-markers",
   },
   {
@@ -868,7 +868,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 3,
     hint: "Look for a modal verb.",
     explanation:
-      "'May' is a modal verb that makes the claim cautious. B is tempting because it gives examples, but examples support a point; they do not hedge it.",
+      "'May' is a modal verb that makes the claim cautious. The option ‘such as elephants and polar bears’ is tempting because it gives examples, but examples support a point; they do not hedge it.",
     guideRef: "balanced-tone",
   },
   {
@@ -908,7 +908,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 3,
     hint: "Look at 'arguments for better zoos rather than no zoos'.",
     explanation:
-      "The writer accepts the concerns but argues they point towards reform, not closure: an alternative-solution rebuttal. A is wrong; the writer never denies that animals suffer and in fact calls the concerns 'serious'.",
+      "The writer accepts the concerns but argues they point towards reform, not closure: an alternative-solution rebuttal. The option ‘Denying that zoo animals ever suffer’ is wrong; the writer never denies that animals suffer and in fact calls the concerns 'serious'.",
     guideRef: "counter-rebuttal",
   },
   {
@@ -923,7 +923,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 0,
     hint: "It is a hedging adverb.",
     explanation:
-      "'Perhaps' softens a bold reframing so it sounds like a reasoned suggestion. B is tempting, but the writer does have a view, which is confirmed in paragraph [5].",
+      "'Perhaps' softens a bold reframing so it sounds like a reasoned suggestion. The option ‘To show the writer has no opinion’ is tempting, but the writer does have a view, which is confirmed in paragraph [5].",
     guideRef: "balanced-tone",
   },
   {
@@ -938,7 +938,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 1,
     hint: "Look at 'well-run' and 'if they protect species'.",
     explanation:
-      "The writer supports zoos only on conditions ('well-run', 'if they… put welfare first'). A is tempting if you skim, but 'On balance… is stronger' is a clear verdict.",
+      "The writer supports zoos only on conditions ('well-run', 'if they… put welfare first'). The option ‘No judgement: it leaves the reader to…’ is tempting if you skim, but 'On balance… is stronger' is a clear verdict.",
     guideRef: "conclusions",
   },
   {
@@ -953,7 +953,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 0,
     hint: "Compare what is said before and after 'whereas'.",
     explanation:
-      "'Whereas' sets the damage of closure against the benefits of raising standards, helping justify the judgement. B is wrong: neither half argues for closing zoos.",
+      "'Whereas' sets the damage of closure against the benefits of raising standards, helping justify the judgement. The option ‘It adds a further reason to close…’ is wrong: neither half argues for closing zoos.",
     guideRef: "discourse-markers",
   },
   {
@@ -968,7 +968,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 3,
     hint: "WJF: what does the 'F' stand for?",
     explanation:
-      "The ending sets a condition ('if they protect species and put welfare first') and finishes with the memorable phrase 'keeping the wild alive'. C is wrong: the essay has already given its judgement and does not hand the decision back.",
+      "The ending sets a condition ('if they protect species and put welfare first') and finishes with the memorable phrase 'keeping the wild alive'. The option ‘It asks the reader to decide for…’ is wrong: the essay has already given its judgement and does not hand the decision back.",
     guideRef: "conclusions",
   },
   {
@@ -983,7 +983,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 0,
     hint: "Which is relevant, specific and checkable?",
     explanation:
-      "A specific, sourced study is strong, checkable evidence that directly supports the welfare point. C is tempting because it is evidence of a kind, but one person's boredom says little about animal welfare.",
+      "A specific, sourced study is strong, checkable evidence that directly supports the welfare point. The option ‘An anecdote about the writer's cousin, who…’ is tempting because it is evidence of a kind, but one person's boredom says little about animal welfare.",
     guideRef: "evidence",
   },
   {
@@ -998,7 +998,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 2,
     hint: "Three of these are simply untrue about the essay.",
     explanation:
-      "Paragraph [2] has a precise real example (the oryx), whereas [3] uses general claims, so the opposing side is a little less well supported. A, B and D are false: the essay judges clearly, is formal and uses many markers.",
+      "Paragraph [2] has a precise real example (the oryx), whereas [3] uses general claims, so the opposing side is a little less well supported. the options ‘It never reaches a judgement.’, ‘It uses informal register and slang throughout.’ and ‘It contains no discourse markers.’ are false: the essay judges clearly, is formal and uses many markers.",
     guideRef: "counter-rebuttal",
   },
   {
@@ -1013,7 +1013,7 @@ const mcqP3: MCQ[] = [
     answerIndex: 1,
     hint: "Evaluating evidence: who, how much, how reliable?",
     explanation:
-      "Good readers test claims by asking for specifics and sources. C is tempting because it concerns the writer, but personal enjoyment says nothing about whether the conservation claim is true.",
+      "Good readers test claims by asking for specifics and sources. The option ‘Whether the writer enjoyed their last zoo…’ is tempting because it concerns the writer, but personal enjoyment says nothing about whether the conservation claim is true.",
     guideRef: "evidence",
   },
 ];
@@ -1035,7 +1035,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 1,
     hint: "In a literature-based discursive essay, the text is your evidence.",
     explanation:
-      "For a question about the novel, evidence means quotations and events from the text. A is tempting because context can help, but statistics about London cannot show whether Scrooge's change is prepared for in the story.",
+      "For a question about the novel, evidence means quotations and events from the text. The option ‘Statistics about Victorian London’ is tempting because context can help, but statistics about London cannot show whether Scrooge's change is prepared for in the story.",
     guideRef: "planning-novel",
   },
   {
@@ -1051,7 +1051,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 3,
     hint: "It is his reply to a request for charity.",
     explanation:
-      "Scrooge says this in Stave One to the gentlemen collecting money for the poor. C is tempting because Fred also visits Scrooge in Stave One, but this line is Scrooge's reply to the charity collectors; it is the Ghost of Christmas Present who throws it back at him in Stave Three.",
+      "Scrooge says this in Stave One to the gentlemen collecting money for the poor. The option ‘To his nephew Fred, Stave Three’ is tempting because Fred also visits Scrooge in Stave One, but this line is Scrooge's reply to the charity collectors; it is the Ghost of Christmas Present who throws it back at him in Stave Three.",
     guideRef: "planning-novel",
   },
   {
@@ -1088,7 +1088,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 0,
     hint: "Three similes in a breathless rush on Christmas morning.",
     explanation:
-      "The piled-up similes show joy so extreme that a sceptic could call the change unrealistic. B is wrong: the quotation shows happiness, not meanness.",
+      "The piled-up similes show joy so extreme that a sceptic could call the change unrealistic. The option ‘That Scrooge is still mean at heart’ is wrong: the quotation shows happiness, not meanness.",
     guideRef: "planning-novel",
   },
   {
@@ -1104,7 +1104,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 3,
     hint: "He is pleading in front of a gravestone.",
     explanation:
-      "Scrooge makes the promise in Stave Four, at his own neglected grave, to the Ghost of Christmas Yet to Come. C is tempting because he keeps the promise in Stave Five, but he makes it the night before.",
+      "Scrooge makes the promise in Stave Four, at his own neglected grave, to the Ghost of Christmas Yet to Come. The option ‘In Stave Five, to Bob Cratchit’ is tempting because he keeps the promise in Stave Five, but he makes it the night before.",
     guideRef: "planning-novel",
   },
   {
@@ -1119,7 +1119,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 2,
     hint: "Which option explains why his coldness is not fixed?",
     explanation:
-      "Showing the causes of his hardness prepares the reader for the change. D is tempting because fear motivates him, but sceptics use that point to argue the change is selfish rather than genuine.",
+      "Showing the causes of his hardness prepares the reader for the change. The option ‘He is frightened by his own grave.’ is tempting because fear motivates him, but sceptics use that point to argue the change is selfish rather than genuine.",
     guideRef: "planning-novel",
   },
   {
@@ -1134,7 +1134,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 1,
     hint: "Find evidence from earlier in the novel than the graveyard.",
     explanation:
-      "Scrooge's anxious question about whether Tiny Tim will live comes in Stave Three, before he sees his grave, so sympathy begins earlier than fear. D is an appeal to fame, not a reasoned reply.",
+      "Scrooge's anxious question about whether Tiny Tim will live comes in Stave Three, before he sees his grave, so sympathy begins earlier than fear. The option ‘The sceptic is wrong because Dickens is…’ is an appeal to fame, not a reasoned reply.",
     guideRef: "counter-rebuttal",
   },
   {
@@ -1164,7 +1164,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 0,
     hint: "What was Dickens trying to make his readers do?",
     explanation:
-      "Dickens wanted readers to act more generously, so a clear, dramatic transformation suits his purpose. D is false: he wrote it over about six weeks in 1843.",
+      "Dickens wanted readers to act more generously, so a clear, dramatic transformation suits his purpose. The option ‘Because Dickens wrote it in one night’ is false: he wrote it over about six weeks in 1843.",
     guideRef: "planning-novel",
   },
   {
@@ -1180,7 +1180,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 3,
     hint: "He reveals two children hidden beneath his robe.",
     explanation:
-      "The Ghost of Christmas Present shows Scrooge the two children in Stave Three. C is tempting because that ghost is the most frightening, but the Ghost of Christmas Yet to Come never speaks.",
+      "The Ghost of Christmas Present shows Scrooge the two children in Stave Three. The option ‘The Ghost of Christmas Yet to Come’ is tempting because that ghost is the most frightening, but the Ghost of Christmas Yet to Come never speaks.",
     guideRef: "planning-novel",
   },
   {
@@ -1195,7 +1195,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 1,
     hint: "Look for an embedded quotation, hedging and interpretation.",
     explanation:
-      "B embeds the quotation, uses hedging ('may hint') and interprets it. D is tempting because it names the technique, but it only labels the simile without explaining its effect.",
+      "The option ‘Although the narrator calls Scrooge 'solitary as…’ embeds the quotation, uses hedging ('may hint') and interprets it. The option ‘In the book it says Scrooge is…’ is tempting because it names the technique, but it only labels the simile without explaining its effect.",
     guideRef: "planning-novel",
   },
   {
@@ -1210,7 +1210,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 3,
     hint: "Look for a qualified judgement with reasons.",
     explanation:
-      "D weighs both sides and reaches a reasoned, qualified verdict that considers genre. C is tempting as 'balanced', but it sits on the fence and avoids the task.",
+      "The option ‘The speed of the change strains realism,…’ weighs both sides and reaches a reasoned, qualified verdict that considers genre. The option ‘It is impossible to say.’ is tempting as 'balanced', but it sits on the fence and avoids the task.",
     guideRef: "conclusions",
   },
   {
@@ -1225,7 +1225,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 0,
     hint: "Your essay needs a destination.",
     explanation:
-      "Knowing your judgement lets you order points and save your stronger side for last. D is tempting because it sounds open-minded, but deciding as you go often produces contradictions and fence-sitting.",
+      "Knowing your judgement lets you order points and save your stronger side for last. The option ‘Nothing: decide as you go’ is tempting because it sounds open-minded, but deciding as you go often produces contradictions and fence-sitting.",
     guideRef: "planning-novel",
   },
   {
@@ -1240,7 +1240,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 1,
     hint: "Two columns, one line down the middle.",
     explanation:
-      "A T-chart separates 'for' and 'against' ideas so you can pick the strongest of each. A is tempting because timing matters, but it is not what a T-chart is for.",
+      "A T-chart separates 'for' and 'against' ideas so you can pick the strongest of each. The option ‘Timing each paragraph to the second’ is tempting because timing matters, but it is not what a T-chart is for.",
     guideRef: "planning-novel",
   },
   {
@@ -1255,7 +1255,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 2,
     hint: "Fairness is not the same as false balance.",
     explanation:
-      "Balance means fair representation, not pretending the evidence is equal. A is tempting because it sounds 'balanced', but this is false balance and misleads the reader.",
+      "Balance means fair representation, not pretending the evidence is equal. The option ‘Pretend both sides are equally supported, to…’ is tempting because it sounds 'balanced', but this is false balance and misleads the reader.",
     guideRef: "conclusions",
   },
   {
@@ -1270,7 +1270,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 3,
     hint: "Which sentence brings in a point not mentioned before?",
     explanation:
-      "D adds a fresh argument that has not been weighed in the essay. B is a summary of common ground, which is appropriate in a conclusion.",
+      "The option ‘Also, uniform helps pupils find their way…’ adds a fresh argument that has not been weighed in the essay. The option ‘Both sides agree that fairness matters most.’ is a summary of common ground, which is appropriate in a conclusion.",
     guideRef: "conclusions",
   },
   {
@@ -1285,7 +1285,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 2,
     hint: "Steelman: the version a thoughtful opponent would actually make.",
     explanation:
-      "C gives a specific, reasoned concern linked to the purpose of homework. B is tempting because it is short and confident, but it is a loaded generalisation that insults rather than reasons.",
+      "The option ‘If AI drafts their work, pupils may…’ gives a specific, reasoned concern linked to the purpose of homework. The option ‘Only cheats would use AI.’ is tempting because it is short and confident, but it is a loaded generalisation that insults rather than reasons.",
     guideRef: "counter-rebuttal",
   },
   {
@@ -1300,7 +1300,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 0,
     hint: "A judgement with conditions.",
     explanation:
-      "A reaches a clear verdict with conditions attached. D is tempting because it sounds thoughtful, but it gives no judgement at all.",
+      "A reaches a clear verdict with conditions attached. The option ‘Phones are a complicated issue.’ is tempting because it sounds thoughtful, but it gives no judgement at all.",
     guideRef: "conclusions",
   },
   {
@@ -1315,7 +1315,7 @@ const mcqP4: MCQ[] = [
     answerIndex: 1,
     hint: "Which one is a settled fact rather than a debate?",
     explanation:
-      "The make-up of water is an established scientific fact, so there are no reasonable 'sides' to weigh. A is tempting because it sounds practical, but sleep, timetables and transport give it genuine arguments on both sides.",
+      "The make-up of water is an established scientific fact, so there are no reasonable 'sides' to weigh. The option ‘Should the school day start later?’ is tempting because it sounds practical, but sleep, timetables and transport give it genuine arguments on both sides.",
     guideRef: "what-is-discursive",
   },
 ];

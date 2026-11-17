@@ -1,0 +1,682 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 58.428,
+   "lines": [
+    {
+     "id": "crisis",
+     "start": 0.6,
+     "end": 7.64,
+     "cap": "**Narrator:** Wednesday. School hall. Emergency: the canteen committee is considering replacing curry puffs with plain rice cakes.",
+     "who": "narr"
+    },
+    {
+     "id": "enter",
+     "start": 8.26,
+     "end": 12.719,
+     "cap": "**Mei:** I've entered the **Public Speaking Competition**. I wrote six pages! Listen:",
+     "who": "mei"
+    },
+    {
+     "id": "bad",
+     "start": 13.289,
+     "end": 17.427,
+     "cap": "**Mei:** Hello, my name is Mei, and today I am going to talk to you about snacks...",
+     "who": "mei"
+    },
+    {
+     "id": "sigh",
+     "start": 18.097,
+     "end": 22.919,
+     "cap": "**Mr H:** You have lost the judges in four seconds, and you are hiding behind A4 paper.",
+     "who": "mrh"
+    },
+    {
+     "id": "chord",
+     "start": 23.539,
+     "end": 27.763,
+     "cap": "**Ethos:** Hold the lectern! Did someone call for **rhetoric** — the ancient art of persuasion?",
+     "who": "ethos"
+    },
+    {
+     "id": "band",
+     "start": 28.383,
+     "end": 33.759,
+     "cap": "**Pathos:** We're **Aristotle's Triad**! Formed in Greece, **4th century BC**, still topping the charts!",
+     "who": "pathos"
+    },
+    {
+     "id": "math",
+     "start": 34.379,
+     "end": 40.992,
+     "cap": "**Logos:** Statistically, eighty-seven per cent of crowds fall asleep during 'today I am going to talk about'.",
+     "who": "logos"
+    },
+    {
+     "id": "jealous",
+     "start": 41.612,
+     "end": 46.881,
+     "cap": "**Will:** Why does a Greek boy band get a spotlight?! My soliloquies get fluorescent tubes!",
+     "who": "will"
+    },
+    {
+     "id": "review",
+     "start": 47.551,
+     "end": 51.455,
+     "cap": "**Mei:** Current speech: **one star**. Curry puff survival odds: grim.",
+     "who": "mei"
+    },
+    {
+     "id": "title",
+     "start": 52.225,
+     "end": 56.428,
+     "cap": "**Narrator:** All the School's a Stage. Episode six: Friends, Romans, Year 8.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "triad",
+   "title": "Writing for the ear & Aristotle's triad",
+   "short": "Ethos, pathos, logos",
+   "card": true,
+   "start": 58.428,
+   "end": 137.155,
+   "lines": [
+    {
+     "id": "ear",
+     "start": 60.228,
+     "end": 67.353,
+     "cap": "**Mr H:** Rule one: a speech is written for the **ear**, not the eye. Listeners hear each sentence **once**, at your speed.",
+     "who": "mrh"
+    },
+    {
+     "id": "gap",
+     "start": 67.953,
+     "end": 76.593,
+     "cap": "**Nib:** Pin down **GAP** before you write: **Genre**, **Audience**, and **Purpose** — to persuade, inform, inspire, or commemorate.",
+     "who": "nib"
+    },
+    {
+     "id": "short",
+     "start": 77.193,
+     "end": 84.127,
+     "cap": "**Mr H:** So mix **short punchy sentences** with longer ones, repeat key ideas, and address the room as '**you**' and '**we**'.",
+     "who": "mrh"
+    },
+    {
+     "id": "eth",
+     "start": 84.727,
+     "end": 92.065,
+     "cap": "**Ethos:** Now meet the **rhetorical triangle**! I am **Ethos**: character and **credibility**. Why should the audience trust *you*?",
+     "who": "ethos"
+    },
+    {
+     "id": "eth2",
+     "start": 92.665,
+     "end": 101.199,
+     "cap": "**Ethos:** Build ethos through experience, fairness, and honesty — like **Malala Yousafzai** arguing at the UN that 'one book and one pen' can change the world.",
+     "who": "ethos"
+    },
+    {
+     "id": "pat",
+     "start": 101.819,
+     "end": 108.624,
+     "cap": "**Pathos:** I am **Pathos**: **emotion**! Pity, pride, outrage, hope — stirred through **emotive language** and vivid personal stories!",
+     "who": "pathos"
+    },
+    {
+     "id": "log",
+     "start": 109.224,
+     "end": 116.989,
+     "cap": "**Logos:** And I am **Logos**: **logic** and **evidence**! Facts, statistics, clear examples, and step-by-step cause and effect.",
+     "who": "logos"
+    },
+    {
+     "id": "kairos",
+     "start": 117.589,
+     "end": 123.157,
+     "cap": "**Nib:** Held together by **Kairos**: choosing the right words for the **right moment** and occasion.",
+     "who": "nib"
+    },
+    {
+     "id": "lie",
+     "start": 123.727,
+     "end": 128.079,
+     "cap": "**Mei:** Wait — isn't rhetoric just a posh word for lying and manipulating people?",
+     "who": "mei"
+    },
+    {
+     "id": "neutral",
+     "start": 128.679,
+     "end": 135.805,
+     "cap": "**Mr H:** No. The tools are neutral. Blend all three appeals honestly, and explain **how** each one moves the listener.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "structure",
+   "title": "Structuring a speech that holds a room",
+   "short": "Speech structure",
+   "card": true,
+   "start": 137.155,
+   "end": 210.654,
+   "lines": [
+    {
+     "id": "hstc",
+     "start": 138.955,
+     "end": 146.208,
+     "cap": "**Logos:** Every winning speech follows one skeleton: **Happy Speakers Thrill Crowds** — **Hook, Signpost, Three points, Close**!",
+     "who": "logos"
+    },
+    {
+     "id": "hook",
+     "start": 146.828,
+     "end": 153.868,
+     "cap": "**Pathos:** First twenty seconds: the **hook**! Open with a **rhetorical question**, a startling **statistic**, a bold claim, or a short **anecdote**.",
+     "who": "pathos"
+    },
+    {
+     "id": "tryhook",
+     "start": 154.468,
+     "end": 161.892,
+     "cap": "**Mei:** Put your hand up if a warm, crispy curry puff has ever saved your Tuesday. Keep it up if a rice cake tastes like cardboard!",
+     "who": "mei"
+    },
+    {
+     "id": "sign",
+     "start": 162.532,
+     "end": 171.556,
+     "cap": "**Logos:** Better! Step two: **signposting** — a roadmap for listeners who can't flip back a page. 'I have three reasons: heritage, price, and joy.'",
+     "who": "logos"
+    },
+    {
+     "id": "three",
+     "start": 172.176,
+     "end": 180.347,
+     "cap": "**Nib:** Step three: **three points** — the **rule of three**, or **tricolon**, guided by **discourse markers** like 'Firstly' and 'Finally'.",
+     "who": "nib"
+    },
+    {
+     "id": "counter",
+     "start": 180.947,
+     "end": 188.477,
+     "cap": "**Ethos:** And include a **counter-argument** and **rebuttal**! Raise their objection — 'Some say fried pastry is unhealthy' — then answer it fairly.",
+     "who": "ethos"
+    },
+    {
+     "id": "close",
+     "start": 189.097,
+     "end": 196.607,
+     "cap": "**Mr H:** Step four: the **close**. Give a specific **call to action** using **imperatives**: 'Sign the petition. Vote tomorrow.'",
+     "who": "mrh"
+    },
+    {
+     "id": "cycle",
+     "start": 197.207,
+     "end": 204.588,
+     "cap": "**Nib:** Then **circle back** to your opening hook — a **cyclical structure** — and land one memorable line before 'Thank you'.",
+     "who": "nib"
+    },
+    {
+     "id": "two",
+     "start": 205.208,
+     "end": 209.304,
+     "cap": "**Mei:** Bye-bye 'Hello my name is'. Speech rating: **two and a half stars**!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "devices",
+   "title": "DAFOREST, Lincoln & power devices",
+   "short": "Rhetorical toolkit",
+   "card": true,
+   "start": 210.654,
+   "end": 299.151,
+   "lines": [
+    {
+     "id": "lib",
+     "start": 212.454,
+     "end": 216.315,
+     "cap": "**Narrator:** Lunchtime. Library. Nib is drilling persuasive devices.",
+     "who": "narr"
+    },
+    {
+     "id": "dafor",
+     "start": 216.885,
+     "end": 226.123,
+     "cap": "**Nib:** Start with **DAFOREST**: **D**irect address, **A**necdote, **F**acts, **O**pinions, **R**hetorical questions, **E**motive language, **S**tatistics, **T**riplets.",
+     "who": "nib"
+    },
+    {
+     "id": "anaph",
+     "start": 226.743,
+     "end": 234.529,
+     "cap": "**Pathos:** Now level up! **Anaphora** repeats words at the **start** of clauses — like Martin Luther King's 'I have a dream' or Greta Thunberg's 'How dare you'!",
+     "who": "pathos"
+    },
+    {
+     "id": "epist",
+     "start": 235.149,
+     "end": 245.539,
+     "cap": "**Nib:** **Epistrophe** repeats at the **end**; **antithesis** balances opposites side by side; **hypophora** asks a question and immediately answers it!",
+     "who": "nib"
+    },
+    {
+     "id": "hyper",
+     "start": 246.159,
+     "end": 253.177,
+     "cap": "**Mei:** So if I say a mountain of rice cakes taller than the Marina Bay Sands, that's **hyperbole** — deliberate exaggeration?",
+     "who": "mei"
+    },
+    {
+     "id": "spotf",
+     "start": 253.777,
+     "end": 261.479,
+     "cap": "**Nib:** Precisely, darling! Never just name a device: write **Device + Quotation + Effect on the listener**.",
+     "who": "nib"
+    },
+    {
+     "id": "linc",
+     "start": 262.079,
+     "end": 274.623,
+     "cap": "**Logos:** Need proof that shorter beats longer? **Gettysburg, 1863**. The main speaker talked for **two hours**. **Abraham Lincoln** spoke for **two minutes** — about 270 words!",
+     "who": "logos"
+    },
+    {
+     "id": "past",
+     "start": 275.263,
+     "end": 282.239,
+     "cap": "**Mr H:** Lincoln moves cleanly from **past** ('Four score and seven years ago') to **present** war to **future** freedom.",
+     "who": "mrh"
+    },
+    {
+     "id": "note",
+     "start": 282.839,
+     "end": 290.113,
+     "cap": "**Ethos:** Listen to his **antithesis**: 'The world will little note, nor long remember what we say here, but it can never forget what they did here.'",
+     "who": "ethos"
+    },
+    {
+     "id": "people",
+     "start": 290.733,
+     "end": 297.901,
+     "cap": "**Nib:** And his closing **tricolon** with **epistrophe**: 'government **of the people, by the people, for the people**'.",
+     "who": "nib"
+    }
+   ]
+  },
+  {
+   "id": "antony",
+   "title": "Mark Antony & rallying the troops",
+   "short": "Antony & monarchs",
+   "card": true,
+   "start": 299.151,
+   "end": 402.486,
+   "lines": [
+    {
+     "id": "globe",
+     "start": 300.951,
+     "end": 308.973,
+     "cap": "**Will:** Enough modern amateurs! To Rome — **Julius Caesar**, Act 3 Scene 2! Brutus has killed Caesar and calmed the crowd in **prose**.",
+     "who": "will"
+    },
+    {
+     "id": "brutus",
+     "start": 309.593,
+     "end": 317.593,
+     "cap": "**Logos:** Brutus uses clean **antithesis** and logos: 'Not that I loved Caesar less, but that I loved Rome more.' Then he leaves!",
+     "who": "logos"
+    },
+    {
+     "id": "ears",
+     "start": 318.213,
+     "end": 327.727,
+     "cap": "**Will:** Fatal mistake! **Mark Antony** steps up in **blank verse**: '**Friends, Romans, countrymen**, lend me your ears; I come to **bury** Caesar, not to **praise** him.'",
+     "who": "will"
+    },
+    {
+     "id": "irony",
+     "start": 328.367,
+     "end": 339.269,
+     "cap": "**Nib:** Antony promised not to blame Brutus, so he uses **verbal irony** — repeating 'For Brutus is an **honourable** man' beside proof that Caesar cared for Rome!",
+     "who": "nib"
+    },
+    {
+     "id": "weep",
+     "start": 339.909,
+     "end": 346.373,
+     "cap": "**Pathos:** Caesar wept for the poor! Refused the crown thrice! By the fifth '**honourable**', praise has curdled into pure **sarcasm**!",
+     "who": "pathos"
+    },
+    {
+     "id": "coffin",
+     "start": 346.993,
+     "end": 355.761,
+     "cap": "**Will:** Then Antony weeps: 'My heart is in the coffin there with Caesar, / And I must pause till it come back to me' — letting the crowd persuade itself!",
+     "who": "will"
+    },
+    {
+     "id": "henry",
+     "start": 356.381,
+     "end": 366.685,
+     "cap": "**Will:** Compare two battle rallies! My **Henry V** uses urgent **imperatives** and animal imagery: 'Once more unto the breach, dear friends, once more' and 'Stiffen the sinews'!",
+     "who": "will"
+    },
+    {
+     "id": "eliz",
+     "start": 367.305,
+     "end": 378.014,
+     "cap": "**Ethos:** While **Elizabeth I** at **Tilbury** in **1588** uses a bold concession and **antithesis**: 'I have the body but of a weak and feeble woman; but I have the heart and stomach of a king'!",
+     "who": "ethos"
+    },
+    {
+     "id": "p1",
+     "start": 378.654,
+     "end": 386.313,
+     "cap": "**Mr H:** On the exam, climb **PEEL**: **Point** — Antony turns the crowd using repetition that becomes **verbal irony**.",
+     "who": "mrh"
+    },
+    {
+     "id": "p2",
+     "start": 386.883,
+     "end": 394.051,
+     "cap": "**Mei:** **Evidence** & **Explain**: placing '**honourable**' beside 'Caesar hath wept' makes the word sound hollow without breaking his promise.",
+     "who": "mei"
+    },
+    {
+     "id": "p3",
+     "start": 394.651,
+     "end": 401.136,
+     "cap": "**Mei:** **Link**: Shakespeare shows rhetoric's dangerous power to steer a crowd while letting them think they chose it themselves!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "delivery",
+   "title": "Voice, body & competition nerves",
+   "short": "Voice & delivery",
+   "card": true,
+   "start": 402.486,
+   "end": 480.947,
+   "lines": [
+    {
+     "id": "hall2",
+     "start": 404.286,
+     "end": 406.825,
+     "cap": "**Narrator:** Period 5. Final rehearsal in the hall.",
+     "who": "narr"
+    },
+    {
+     "id": "stress",
+     "start": 407.395,
+     "end": 415.416,
+     "cap": "**Mr H:** Delivery is half the battle. Change which word you **stress** in 'I never said she stole my money' and you get **seven** different meanings.",
+     "who": "mrh"
+    },
+    {
+     "id": "fourp",
+     "start": 416.036,
+     "end": 426.745,
+     "cap": "**Ethos:** Master the **four Ps** of voice! **Pace**: around 130 to 150 words per minute — about **420 words** for three minutes. Over time? **Cut** lines, don't rush!",
+     "who": "ethos"
+    },
+    {
+     "id": "proj",
+     "start": 427.365,
+     "end": 435.472,
+     "cap": "**Pathos:** **Projection**: breathe from your diaphragm to the back wall without shouting! **Pitch**: vary intonation — no flat **monotone** and no rising **uptalk**!",
+     "who": "pathos"
+    },
+    {
+     "id": "pause",
+     "start": 436.092,
+     "end": 443.729,
+     "cap": "**Kevin:** And the best P: **Pause**! Even Mark Antony paused mid-speech! Stop **before** your key line for suspense, and **after** so it sinks in!",
+     "who": "kevin"
+    },
+    {
+     "id": "kevtry",
+     "start": 444.349,
+     "end": 446.312,
+     "cap": "**Mei:** Two hundred curry puffs... gone.",
+     "who": "mei"
+    },
+    {
+     "id": "kevjoy",
+     "start": 447.532,
+     "end": 451.457,
+     "cap": "**Kevin:** She paused! Two whole seconds! Nobody spliced me! Best day of my life!",
+     "who": "kevin"
+    },
+    {
+     "id": "body",
+     "start": 452.097,
+     "end": 461.74,
+     "cap": "**Mr H:** Body: sweep **eye contact** like a lighthouse, use open **gestures**, stand **grounded**, and hold small **keyword cue cards**, never a full script.",
+     "who": "mrh"
+    },
+    {
+     "id": "nerves",
+     "start": 462.36,
+     "end": 473.24,
+     "cap": "**Logos:** Heart pounding? That's adrenaline! Breathe **four in, six out**, relabel 'scared' as '**excited**', and remember the **illusion of transparency**: you look calmer than you feel!",
+     "who": "logos"
+    },
+    {
+     "id": "four",
+     "start": 473.88,
+     "end": 479.597,
+     "cap": "**Mei:** Judges check content, structure, delivery, engagement, and timing. Ready! **Four stars**!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 480.947,
+   "end": 554.438,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 482.747,
+     "end": 486.353,
+     "cap": "**Narrator:** Before Mei takes the microphone: six public-speaking traps.",
+     "who": "narr"
+    },
+    {
+     "id": "mnem",
+     "start": 486.923,
+     "end": 496.459,
+     "cap": "**Mei:** Hooks! **GAP**; **Ethos, Pathos, Logos, Kairos**; **Happy Speakers Thrill Crowds**; **DAFOREST**; and the **four Ps**: Pace, Pause, Projection, Pitch!",
+     "who": "mei"
+    },
+    {
+     "id": "t1",
+     "start": 497.079,
+     "end": 501.345,
+     "cap": "**Pathos:** One. Never waste your opening on 'Hello, my name is...'. Start with a **hook**!",
+     "who": "pathos"
+    },
+    {
+     "id": "t2",
+     "start": 501.945,
+     "end": 507.855,
+     "cap": "**Nib:** Two. Don't feature-spot! Use **Device + Quotation + Effect on the listener**.",
+     "who": "nib"
+    },
+    {
+     "id": "t3",
+     "start": 508.455,
+     "end": 515.793,
+     "cap": "**Logos:** Three. Don't mix up the appeals: **ethos** is trust, **pathos** is emotion, **logos** is logic and evidence.",
+     "who": "logos"
+    },
+    {
+     "id": "t4",
+     "start": 516.393,
+     "end": 523.647,
+     "cap": "**Will:** Four. '**Friends, Romans, countrymen**' is spoken by **Mark Antony**, not Julius Caesar — Caesar is in the coffin!",
+     "who": "will"
+    },
+    {
+     "id": "t5",
+     "start": 524.267,
+     "end": 531.243,
+     "cap": "**Mr H:** Five. Don't write an essay and call it a speech: use **signposting**, **direct address**, and a **call to action**.",
+     "who": "mrh"
+    },
+    {
+     "id": "t6",
+     "start": 531.843,
+     "end": 537.005,
+     "cap": "**Kevin:** Six. Use **keyword cue cards**, pause around key lines, and never rush over the time limit!",
+     "who": "kevin"
+    },
+    {
+     "id": "win",
+     "start": 537.645,
+     "end": 541.08,
+     "cap": "**Narrator:** 4:15 p.m. The canteen keeps the curry puffs.",
+     "who": "narr"
+    },
+    {
+     "id": "rev",
+     "start": 541.7,
+     "end": 548.228,
+     "cap": "**Mei:** Public speaking: **four and a half stars**. Deducting half because Will tried to speak for two hours like Edward Everett.",
+     "who": "mei"
+    },
+    {
+     "id": "brief",
+     "start": 548.898,
+     "end": 552.738,
+     "cap": "**Will:** Hamlet is four hours, and every syllable is gold!",
+     "who": "will"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 554.438,
+   "end": 640.306,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 556.238,
+     "end": 560.377,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 560.997,
+     "end": 566.117,
+     "cap": "**Mr H:** Which of Aristotle's appeals relies on the speaker's **credibility and character**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 570.437,
+     "end": 573.893,
+     "cap": "**Ethos:** **Ethos** — why the audience should trust *you*!",
+     "who": "ethos"
+    },
+    {
+     "id": "q2",
+     "start": 574.213,
+     "end": 578.543,
+     "cap": "**Mr H:** Repeating a phrase at the **start** of successive clauses is called what?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 582.863,
+     "end": 586.703,
+     "cap": "**Nib:** **Anaphora** — whereas **epistrophe** repeats at the end.",
+     "who": "nib"
+    },
+    {
+     "id": "q3",
+     "start": 587.023,
+     "end": 591.781,
+     "cap": "**Mr H:** Who says '**Friends, Romans, countrymen, lend me your ears**', and in which play?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 596.101,
+     "end": 600.239,
+     "cap": "**Will:** **Mark Antony**, in **Julius Caesar**, Act 3 Scene 2!",
+     "who": "will"
+    },
+    {
+     "id": "q4",
+     "start": 600.559,
+     "end": 604.698,
+     "cap": "**Mr H:** Why does Mark Antony keep calling Brutus '**an honourable man**'?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 609.018,
+     "end": 616.549,
+     "cap": "**Mei:** **Verbal irony**! Placed beside evidence of Caesar's goodness, it sounds more sarcastic each time without breaking his promise.",
+     "who": "mei"
+    },
+    {
+     "id": "q5",
+     "start": 616.869,
+     "end": 619.791,
+     "cap": "**Mr H:** What are the **four Ps** of vocal delivery?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 624.111,
+     "end": 627.077,
+     "cap": "**Kevin:** **Pace, Pause, Projection, and Pitch**! Especially Pause!",
+     "who": "kevin"
+    },
+    {
+     "id": "outro",
+     "start": 627.397,
+     "end": 633.007,
+     "cap": "**Mr H:** Brilliant work. Now try the **Public Speaking & Rhetoric** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "st1",
+     "start": 633.727,
+     "end": 635.882,
+     "cap": "**Kevin:** Wait... everybody hold a dramatic pause...",
+     "who": "kevin"
+    },
+    {
+     "id": "st2",
+     "start": 637.302,
+     "end": 638.006,
+     "cap": "**Kevin:** Nailed it.",
+     "who": "kevin"
+    }
+   ]
+  }
+ ],
+ "total": 640.306
+}

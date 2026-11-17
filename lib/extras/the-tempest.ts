@@ -2,7 +2,8 @@ import type { TopicExtras } from "../types";
 
 // Engagement extras for The Tempest.
 export const theTempestExtras: TopicExtras = {
-  interactive: "connotation-zoom",
+  interactive: "tempest-power",
+  interactives: ["tempest-power", "connotation-zoom"],
   hook:
     "A magician spends twelve years planning revenge, finally traps every one of his enemies on his island — and then lets them all go. Why would anyone do that?",
   didYouKnow: [

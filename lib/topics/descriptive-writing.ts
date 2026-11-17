@@ -734,7 +734,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "Which sentence would you notice with your nose?",
             explanation:
-              "Garlic in hot oil and 'sharp, sweet smoke' are smells. The option ‘The lanterns glowed red against the dusk.’ is sight, B is sound and C is touch. The option ‘The wok clanged against the burner.’ is tempting because a wok suggests cooking smells, but the sentence itself only describes the clanging sound.",
+              "Garlic in hot oil and 'sharp, sweet smoke' are smells. The option ‘The lanterns glowed red against the dusk.’ is sight, the option ‘The wok clanged against the burner.’ is sound and the option ‘The plastic stool stuck to the backs…’ is touch. The option ‘The wok clanged against the burner.’ is tempting because a wok suggests cooking smells, but the sentence itself only describes the clanging sound.",
             guideRef: "five-senses",
           },
           {
@@ -909,7 +909,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Check whether both verbs are in the same time.",
             explanation:
-              "In B, 'hammers' is present but 'overflowed' is past, so the tense drifts. A is consistently present and C consistently past. D is tempting because 'had hammered' looks different, but it is a correct past perfect describing something that happened before.",
+              "In the option ‘The rain hammers the roof and the drains overflowed.’, 'hammers' is present but 'overflowed' is past, so the tense drifts. The option ‘The rain hammers the roof and the drains overflow.’ is consistently present and the option ‘The rain hammered the roof and the…’ consistently past. The option ‘The rain had hammered the roof all…’ is tempting because 'had hammered' looks different, but it is a correct past perfect describing something that happened before.",
             guideRef: "viewpoint-tense-paragraphing",
           },
           {
@@ -939,7 +939,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 0,
             hint: "Both sides of a semicolon must be able to stand alone as sentences.",
             explanation:
-              "In A, 'The street was empty' and 'the lanterns still burned' are both complete sentences, closely linked — perfect for a semicolon. C is tempting, but 'Although the street was empty' is a subordinate clause that cannot stand alone, so it needs a comma instead.",
+              "In the option ‘The street was empty; the lanterns still…’, 'The street was empty' and 'the lanterns still burned' are both complete sentences, closely linked — perfect for a semicolon. The option ‘Although the street was empty; the lanterns…’ is tempting, but 'Although the street was empty' is a subordinate clause that cannot stand alone, so it needs a comma instead.",
             guideRef: "punctuation-for-effect",
           },
           {
@@ -954,7 +954,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "It is an error, not a technique.",
             explanation:
-              "A comma splice wrongly joins two complete sentences with just a comma ('The rain stopped, the steam rose.'). The other options are all correct uses of the comma — A is tempting because it involves joining parts of a sentence, but a comma after a fronted adverbial is required, not an error.",
+              "A comma splice wrongly joins two complete sentences with just a comma ('The rain stopped, the steam rose.'). The other options are all correct uses of the comma — the option ‘Using a comma after a fronted adverbial’ is tempting because it involves joining parts of a sentence, but a comma after a fronted adverbial is required, not an error.",
             guideRef: "punctuation-for-effect",
           },
           {
@@ -1304,7 +1304,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Which one have you never read before?",
             explanation:
-              "The option ‘Rain bounced knee-high off the road and poured from the drains in…’ uses precise, original details — rain bouncing 'knee-high', drains pouring 'brown, muscular ropes'. The others are worn-out phrases; D is tempting because it sounds dramatic, but 'a dark and stormy night' is one of the most famous clichés in English.",
+              "The option ‘Rain bounced knee-high off the road and poured from the drains in…’ uses precise, original details — rain bouncing 'knee-high', drains pouring 'brown, muscular ropes'. The others are worn-out phrases; the option ‘It was a dark and stormy night.’ is tempting because it sounds dramatic, but 'a dark and stormy night' is one of the most famous clichés in English.",
             guideRef: "figurative-language",
           },
           {
@@ -1398,7 +1398,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "The words before a colon must make a complete sentence.",
             explanation:
-              "'Only one stall had no queue' is a complete sentence, and the colon then reveals which stall — with a comic twist. In C, 'Because it was late' cannot stand alone, so a colon cannot follow it; a comma is needed.",
+              "'Only one stall had no queue' is a complete sentence, and the colon then reveals which stall — with a comic twist. In the option ‘Because it was late: the stalls were…’, 'Because it was late' cannot stand alone, so a colon cannot follow it; a comma is needed.",
             guideRef: "punctuation-for-effect",
           },
           {
@@ -1413,7 +1413,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "A single dash can add a twist at the end of a sentence.",
             explanation:
-              "In D, the dash pauses the reader before the unsettling afterthought 'too calm', turning peace into menace. The other dashes break the sentence in meaningless places; B is tempting because it uses two dashes, but they interrupt nothing and 'nice' is a weak tell.",
+              "In the option ‘The sea was calm — too calm.’, the dash pauses the reader before the unsettling afterthought 'too calm', turning peace into menace. The other dashes break the sentence in meaningless places; the option ‘The sea was — calm and blue…’ is tempting because it uses two dashes, but they interrupt nothing and 'nice' is a weak tell.",
             guideRef: "punctuation-for-effect",
           },
           {
@@ -1428,7 +1428,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "Find two complete sentences joined only by a comma.",
             explanation:
-              "In C, 'The rain stopped' and 'the steam rose from the road' are both complete sentences joined by just a comma — a comma splice. The option ‘When the rain stopped, the steam rose.’ is tempting because it also has a comma, but 'When the rain stopped' is a subordinate clause, so the comma there is correct.",
+              "In the option ‘The rain stopped, the steam rose from…’, 'The rain stopped' and 'the steam rose from the road' are both complete sentences joined by just a comma — a comma splice. The option ‘When the rain stopped, the steam rose.’ is tempting because it also has a comma, but 'When the rain stopped' is a subordinate clause, so the comma there is correct.",
             guideRef: "punctuation-for-effect",
           },
           {
@@ -1551,7 +1551,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 1,
             hint: "Check both verbs.",
             explanation:
-              "'Open' and 'surges' are both present tense. Every other option mixes present and past; A is tempting because its first verb is present, but 'surged' slips into the past.",
+              "'Open' and 'surges' are both present tense. Every other option mixes present and past; the option ‘The doors open and the crowd surged…’ is tempting because its first verb is present, but 'surged' slips into the past.",
             guideRef: "viewpoint-tense-paragraphing",
           },
           {
@@ -1566,7 +1566,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 2,
             hint: "An ellipsis works best once, at a moment of suspense.",
             explanation:
-              "In C, a single ellipsis trails off at the moment of greatest suspense, leaving the reader to imagine what comes next. The others scatter ellipses with no purpose; D is tempting because it suggests slow heat, but repeated dots just look hesitant and weaken the writing.",
+              "In the option ‘The footsteps stopped outside the door, and…’, a single ellipsis trails off at the moment of greatest suspense, leaving the reader to imagine what comes next. The others scatter ellipses with no purpose; the option ‘It was… very… hot…’ is tempting because it suggests slow heat, but repeated dots just look hesitant and weaken the writing.",
             guideRef: "punctuation-for-effect",
           },
         ],
@@ -1806,7 +1806,7 @@ export const descriptiveWriting: Topic = {
             answerIndex: 3,
             hint: "If you remove the words between the dashes, the sentence should still make sense.",
             explanation:
-              "In D, the words inside the dashes are an interruption; remove them and 'The old man climbed the stairs without a rail' still works. In A, removing the dashed words leaves 'The old man slowly.', which makes no sense.",
+              "In the option ‘The old man — he must have…’, the words inside the dashes are an interruption; remove them and 'The old man climbed the stairs without a rail' still works. In the option ‘The old man — climbed the stairs…’, removing the dashed words leaves 'The old man slowly.', which makes no sense.",
             guideRef: "punctuation-for-effect",
           },
           {

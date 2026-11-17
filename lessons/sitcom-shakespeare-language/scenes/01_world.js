@@ -73,17 +73,16 @@ scene('world', S => {
     .shot(at('kings') - 0.05, { set: 'lib', cast: { will: { x: 1070, y: 470, s: 0.75, mood: 'happy' } } })
     .shot(at('revels') - 0.05, { set: 'lib', cast: { nib: { x: 220, y: 450, s: 0.95, mood: 'smug' }, will: { x: 1050, y: 470, s: 0.8, mood: 'annoyed' } } })
     .shot(at('folio') - 0.05, { set: 'lib', cast: { will: { x: 220, y: 440, s: 0.95, mood: 'neutral' } } })
-    .shot(at('genres') - 0.05, { set: 'lib', cast: { mei: { x: 180, y: 520, s: 0.95, mood: 'neutral', hand: 1 }, nib: { x: 1060, y: 470, s: 0.85, mood: 'smug' } } })
-    .shot(at('comedy') - 0.05, { set: 'lib', cast: { nib: { x: 150, y: 470, s: 0.85, mood: 'smug' } } })
+    .shot(at('comedy') - 0.05, { set: 'lib', cast: { nib: { x: 150, y: 470, s: 0.85, mood: 'smug' }, mei: { x: 1090, y: 560, s: 0.72, mood: 'neutral' } } })
     .shot(at('thcomedy') - 0.05, { conf: 'mei', cast: { mei: { x: 330, y: 430, s: 1.35, mood: 'smug' } } })
     .shot(at('still') - 0.05, { set: 'lib', cam: [1, 1.1, 300, 420], cast: { mei: { x: 900, y: 520, s: 1.0, mood: 'deadpan' }, will: { x: 300, y: 420, s: 1.0, mood: 'sad' } } });
   d.lower('nib', at('nib') + 0.1, 3.4);
   d.mood('mei', at('gloves'), 'deadpan').mood('will', at('gloves'), 'annoyed').mood('will', at('married'), 'neutral');
   d.mood('will', at('business'), 'annoyed').look('will', at('business'), -1).look('will', at('crow'), null);
-  d.mood('will', mid('crow', 0.55), 'sad').mood('will', at('kings'), 'happy').mood('will', at('revels'), 'annoyed').mood('will', at('cut'), 'sad');
+  d.mood('will', mid('crow', 0.55), 'sad').mood('will', at('kings'), 'happy').mood('will', at('revels'), 'annoyed').mood('will', mid('revels', 0.72), 'sad');
   d.mood('will', at('folio'), 'neutral').mood('will', mid('folio', 0.7), 'smug');
   d.mood('mei', mid('thcomedy', 0.6), 'happy');
-  d.x('will', at('cut'), { glow: 0.6 }).x('will', at('folio'), { glow: 0 });
+  d.x('will', mid('revels', 0.72), { glow: 0.6 }).x('will', at('folio'), { glow: 0 });
 
   d.pop(glove, mid('born', 0.75), end('gloves') + 0.2, 600, 470);
   d.pop(kids, mid('married', 0.3), mid('married', 0.62), 420, 520);
@@ -91,9 +90,9 @@ scene('world', S => {
   d.pop(crow, mid('crow', 0.45), end('crow') + 0.2, 760, 520);
   d.pop(patron, mid('nib', 0.55), end('nib') + 0.3, 700, 300);
   d.pop(kings, at('kings') + 0.05, end('kings') + 0.3, 560, 360);
-  d.pop(revels, mid('revels', 0.6), end('cut') + 0.2, 640, 300, 0.9);
-  d.pop(revC, mid('revels', 0.3), end('revels') + 0.2, 640, 470);
-  d.pop(scis, at('cut') + 0.05, end('cut') + 0.3, 520, 470);
+  d.pop(revels, mid('revels', 0.45), end('revels') + 0.25, 640, 290, 0.9);
+  d.pop(revC, mid('revels', 0.2), mid('revels', 0.68), 640, 470);
+  d.pop(scis, mid('revels', 0.7), end('revels') + 0.25, 520, 490);
   d.pop(folio, mid('folio', 0.55), end('folio') + 0.3, 700, 470);
   d.pop(c36, mid('folio', 0.7), end('folio') + 0.3, 700, 650);
   gcards.forEach((c, i) => d.pop(c, i < 2 ? at(['comedy', 'tragedy'][i]) + 0.1 : mid('history', i === 2 ? 0.02 : 0.35), end('history') + 0.6, 680, 170 + i * 130));

@@ -1526,7 +1526,7 @@ export const theTempest: Topic = {
             ],
             answerIndex: 0,
             hint: "An embedded quotation fits smoothly into your own sentence's grammar.",
-            explanation: "The first sentence weaves a short, accurately punctuated quotation into an analytical point. The third is tempting because it quotes more, but it is overlong, misses the line-break slash and runs straight on into a new sentence without a capital letter.",
+            explanation: "The option ‘Miranda's exclamation 'O brave new world' conveys…’ weaves a short, accurately punctuated quotation into an analytical point. The option ‘Miranda says, 'How beauteous mankind is!…’ is tempting because it quotes more, but it is overlong, misses the line-break slash and runs straight on into a new sentence without a capital letter.",
             guideRef: "writing-analysis",
           },
           {

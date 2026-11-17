@@ -1,0 +1,745 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 63.109,
+   "lines": [
+    {
+     "id": "mon",
+     "start": 0.6,
+     "end": 5.293,
+     "cap": "**Narrator:** Monday, Period 1. Room 8H. Mr Hargreaves is on mug number seven.",
+     "who": "narr"
+    },
+    {
+     "id": "due",
+     "start": 5.863,
+     "end": 10.877,
+     "cap": "**Mr H:** Reminder: your **playscript** and **reflective commentary** are due at **Period 5**.",
+     "who": "mrh"
+    },
+    {
+     "id": "draft",
+     "start": 11.497,
+     "end": 19.497,
+     "cap": "**Mei:** Easy! Listen to my opening: \"I'm not going,\" Mia shouted angrily, thinking about last summer. Bracket, pause, unbracket.",
+     "who": "mei"
+    },
+    {
+     "id": "stop",
+     "start": 20.167,
+     "end": 23.665,
+     "cap": "**Bracket:** STOP! Did you just read a **stage direction** OUT LOUD?!",
+     "who": "brack"
+    },
+    {
+     "id": "who",
+     "start": 24.385,
+     "end": 26.583,
+     "cap": "**Mei:** Why is a pair of square brackets yelling at me?",
+     "who": "mei"
+    },
+    {
+     "id": "iam",
+     "start": 27.153,
+     "end": 32.529,
+     "cap": "**Bracket:** I am **Bracket**, an italicised **stage direction**! Actors **do** me, darling, they never **say** me!",
+     "who": "brack"
+    },
+    {
+     "id": "clap",
+     "start": 33.149,
+     "end": 39.015,
+     "cap": "**Clapper:** And cut! Take one: unstageable! How does an actor perform 'thinking about last summer'? Stare aggressively at a calendar?",
+     "who": "clapper"
+    },
+    {
+     "id": "cues",
+     "start": 39.685,
+     "end": 46.725,
+     "cap": "**Will:** In my theatre, actors weren't even handed the whole play: only **cue scripts** with their own lines and a few cue words!",
+     "who": "will"
+    },
+    {
+     "id": "aircon",
+     "start": 47.345,
+     "end": 51.591,
+     "cap": "**Will:** Though we also had no air-conditioning, so Singapore wins.",
+     "who": "will"
+    },
+    {
+     "id": "review",
+     "start": 52.211,
+     "end": 56.072,
+     "cap": "**Mei:** Current script draft: **one star**. Four periods till deadline.",
+     "who": "mei"
+    },
+    {
+     "id": "title",
+     "start": 56.842,
+     "end": 61.109,
+     "cap": "**Narrator:** All the School's a Stage. Episode five: Exit, Pursued by a Deadline.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "layout",
+   "title": "Page layout & stage directions",
+   "short": "Page & directions",
+   "card": true,
+   "start": 63.109,
+   "end": 154.101,
+   "lines": [
+    {
+     "id": "story",
+     "start": 64.909,
+     "end": 70.583,
+     "cap": "**Mr H:** A **script** has **no narrator**. Everything must be **heard** in dialogue or **seen** in action.",
+     "who": "mrh"
+    },
+    {
+     "id": "scriptm",
+     "start": 71.153,
+     "end": 77.681,
+     "cap": "**Nib:** Follow the layout conventions, mnemonic **SCRIPT**: **S**cene heading first, giving place and time.",
+     "who": "nib"
+    },
+    {
+     "id": "castlist",
+     "start": 78.251,
+     "end": 86.571,
+     "cap": "**Nib:** Optional **character list**, or **dramatis personae**, then character names in **CAPITALS** at the left margin with a colon.",
+     "who": "nib"
+    },
+    {
+     "id": "nomarks",
+     "start": 87.141,
+     "end": 92.176,
+     "cap": "**Mr H:** **Remove speech marks** and 'she shouted'. Start a **new line** for every speaker.",
+     "who": "mrh"
+    },
+    {
+     "id": "pres",
+     "start": 92.746,
+     "end": 98.677,
+     "cap": "**Bracket:** Put stage directions in **italics** when typed, or **brackets** when handwritten, always in the **present tense**!",
+     "who": "brack"
+    },
+    {
+     "id": "exits",
+     "start": 99.247,
+     "end": 105.647,
+     "cap": "**Nib:** Mark *Enter*, *Exit*, or **Exeunt** — Latin for 'they go out' when several characters leave.",
+     "who": "nib"
+    },
+    {
+     "id": "test",
+     "start": 106.217,
+     "end": 113.47,
+     "cap": "**Bracket:** My golden rule: **See it? Hear it? Or cut it.** 'She feels guilty' is novel narration — turn it into '(She hides the broken china.)'.",
+     "who": "brack"
+    },
+    {
+     "id": "basic",
+     "start": 114.09,
+     "end": 118.997,
+     "cap": "**Mei:** So I basically put '(angrily)' before every single line so the actor gets it?",
+     "who": "mei"
+    },
+    {
+     "id": "leak",
+     "start": 119.617,
+     "end": 129.729,
+     "cap": "**Nib:** She said 'basically'. I am leaking. Over-directing strangles actors! Use a short **parenthetical** like '(whispering)' only when tone isn't obvious.",
+     "who": "nib"
+    },
+    {
+     "id": "bear",
+     "start": 130.349,
+     "end": 137.687,
+     "cap": "**Will:** My most famous direction is five words: **Exit, pursued by a bear**, from The Winter's Tale, Act 3 Scene 3.",
+     "who": "will"
+    },
+    {
+     "id": "embed",
+     "start": 138.307,
+     "end": 146.841,
+     "cap": "**Will:** Mostly I used **embedded stage directions** inside the speech: Juliet's 'Wilt thou be gone? it is not yet near day' tells us it is dawn!",
+     "who": "will"
+    },
+    {
+     "id": "onepage",
+     "start": 147.461,
+     "end": 152.751,
+     "cap": "**Clapper:** Screenwriter's rule of thumb: one formatted page equals roughly **one minute** on stage. Keep it crisp!",
+     "who": "clapper"
+    }
+   ]
+  },
+  {
+   "id": "voices",
+   "title": "Distinct voices & speech forms",
+   "short": "Voices & forms",
+   "card": true,
+   "start": 154.101,
+   "end": 249.969,
+   "lines": [
+    {
+     "id": "lib",
+     "start": 155.901,
+     "end": 159.699,
+     "cap": "**Narrator:** Period 2. The library. The SILENCE PLEASE sign has given up.",
+     "who": "narr"
+    },
+    {
+     "id": "same",
+     "start": 160.269,
+     "end": 167.095,
+     "cap": "**Mr H:** Next trap: making every character sound identical. Each needs a distinct **voice**, or **idiolect**.",
+     "who": "mrh"
+    },
+    {
+     "id": "how",
+     "start": 167.665,
+     "end": 174.151,
+     "cap": "**Nib:** Build voice from **vocabulary**, **sentence length**, speech **habits**, and what they refuse to say.",
+     "who": "nib"
+    },
+    {
+     "id": "nurse",
+     "start": 174.721,
+     "end": 182.55,
+     "cap": "**Will:** Cover the names in Romeo and Juliet: my **Nurse** rambles through warm memories, while **Juliet** speaks in quick, sharp thoughts.",
+     "who": "will"
+    },
+    {
+     "id": "punct",
+     "start": 183.17,
+     "end": 190.914,
+     "cap": "**Kevin:** Ooh! Real talk is messy! Use a **dash** for interruptions, an **ellipsis** for trailing off... and me, a comma, for little hesitations!",
+     "who": "kevin"
+    },
+    {
+     "id": "dump",
+     "start": 191.514,
+     "end": 198.063,
+     "cap": "**Clapper:** And ban the **exposition dump**! Nobody says, 'As you know, Mother, Father was banished last Tuesday.' Let facts slip out through conflict!",
+     "who": "clapper"
+    },
+    {
+     "id": "forms",
+     "start": 198.683,
+     "end": 204.123,
+     "cap": "**Mr H:** Know your four speech forms. A **monologue** is a long speech when others are **listening**.",
+     "who": "mrh"
+    },
+    {
+     "id": "solil",
+     "start": 204.643,
+     "end": 214.435,
+     "cap": "**Will:** A **soliloquy** is spoken **alone on stage**, revealing honest private truth — like Juliet's 'Ancient damnation! O most wicked fiend!' after the Nurse exits.",
+     "who": "will"
+    },
+    {
+     "id": "cam",
+     "start": 215.055,
+     "end": 219.322,
+     "cap": "**Mei:** Or like talking to the documentary camera when Mr H isn't looking.",
+     "who": "mei"
+    },
+    {
+     "id": "light",
+     "start": 219.892,
+     "end": 223.028,
+     "cap": "**Will:** Still a soliloquy with worse lighting.",
+     "who": "will"
+    },
+    {
+     "id": "aside",
+     "start": 223.648,
+     "end": 233.248,
+     "cap": "**Nib:** An **aside** is a brief remark to the audience that others on stage do **not** hear, like Hamlet's 'A little more than kin, and less than kind.'",
+     "who": "nib"
+    },
+    {
+     "id": "stich",
+     "start": 233.848,
+     "end": 243.555,
+     "cap": "**Nib:** And **stichomythia**: rapid alternating one-line exchanges, like fencing with words! Hamlet's 'Are you honest?' / 'My lord?' / 'Are you fair?'",
+     "who": "nib"
+    },
+    {
+     "id": "two",
+     "start": 244.225,
+     "end": 248.619,
+     "cap": "**Mei:** Okay, stichomythia is cool. Script writing moves up to **two stars**.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "subtext",
+   "title": "Conflict, subtext & shaping pace",
+   "short": "Subtext & pace",
+   "card": true,
+   "start": 249.969,
+   "end": 331.398,
+   "lines": [
+    {
+     "id": "snack",
+     "start": 251.769,
+     "end": 255.78,
+     "cap": "**Narrator:** Break time. Mei has a curry puff and a scene where everyone agrees politely.",
+     "who": "narr"
+    },
+    {
+     "id": "want",
+     "start": 256.35,
+     "end": 263.411,
+     "cap": "**Clapper:** Boring! **Conflict** is the engine of drama: a **want** plus an **obstacle**, either **external** between characters or **internal** inside one mind!",
+     "who": "clapper"
+    },
+    {
+     "id": "fine",
+     "start": 264.011,
+     "end": 268.086,
+     "cap": "**Mei:** So if a character is hurt, she says, 'I am deeply hurt by your betrayal'?",
+     "who": "mei"
+    },
+    {
+     "id": "ice",
+     "start": 268.686,
+     "end": 274.617,
+     "cap": "**Bracket:** Never! Real people say 'Fine.' What lies underneath is **subtext** — the hidden nine-tenths of the iceberg!",
+     "who": "brack"
+    },
+    {
+     "id": "amen",
+     "start": 275.217,
+     "end": 284.155,
+     "cap": "**Will:** When the Nurse tells Juliet to marry Paris or 'beshrew' her soul, Juliet answers one word: '**Amen!**' Polite on top; a secret curse underneath!",
+     "who": "will"
+    },
+    {
+     "id": "irony",
+     "start": 284.775,
+     "end": 292.669,
+     "cap": "**Nib:** Add **dramatic irony**: when the **audience knows** about Juliet's sleeping potion, 'Your mother will weep' breaks our hearts.",
+     "who": "nib"
+    },
+    {
+     "id": "late",
+     "start": 293.269,
+     "end": 299.007,
+     "cap": "**Clapper:** Now shape the journey: **arrive late, leave early**! Start right near the conflict, and cut out before the tension drains.",
+     "who": "clapper"
+    },
+    {
+     "id": "arc",
+     "start": 299.607,
+     "end": 305.41,
+     "cap": "**Mr H:** Climb from **set-up** to **complication**, **escalation**, and a **turning point** where power shifts.",
+     "who": "mrh"
+    },
+    {
+     "id": "cliff",
+     "start": 305.98,
+     "end": 314.364,
+     "cap": "**Will:** Then end on a **cliffhanger**, like Juliet's chilling final line in Act 3 Scene 5: 'If all else fail, myself have power to die.'",
+     "who": "will"
+    },
+    {
+     "id": "pace",
+     "start": 314.984,
+     "end": 322.152,
+     "cap": "**Bracket:** Control **pace**! Short lines and interruptions speed up; a **(Pause.)** or a tiny **(Beat.)** makes silence the loudest thing in the room!",
+     "who": "brack"
+    },
+    {
+     "id": "jux",
+     "start": 322.752,
+     "end": 330.048,
+     "cap": "**Nib:** And use **juxtaposition**: placing light chatter right before tragedy makes the drop feel twice as steep.",
+     "who": "nib"
+    }
+   ]
+  },
+  {
+   "id": "stage",
+   "title": "Stagecraft & adapting Shakespeare",
+   "short": "Stagecraft & adapt",
+   "card": true,
+   "start": 331.398,
+   "end": 417.171,
+   "lines": [
+    {
+     "id": "hall",
+     "start": 333.198,
+     "end": 336.462,
+     "cap": "**Narrator:** Period 3. The school hall. Clapper has claimed the stage.",
+     "who": "narr"
+    },
+    {
+     "id": "spclsb",
+     "start": 337.032,
+     "end": 343.987,
+     "cap": "**Clapper:** **Stagecraft** tells the story visually! Remember: **S**ome **P**eople **C**an't **L**eave **S**ound **B**ehind — **Set, Props, Costume, Lighting, Sound, Blocking**!",
+     "who": "clapper"
+    },
+    {
+     "id": "space",
+     "start": 344.607,
+     "end": 354.207,
+     "cap": "**Nib:** Plus two spatial tools: **proxemics** — distance between actors showing closeness or rejection — and **levels**, where height signals **status**.",
+     "who": "nib"
+    },
+    {
+     "id": "left",
+     "start": 354.807,
+     "end": 359.308,
+     "cap": "**Mei:** So if Juliet steps left, I write 'stage left' for the left side I'm looking at?",
+     "who": "mei"
+    },
+    {
+     "id": "actor",
+     "start": 359.878,
+     "end": 366.129,
+     "cap": "**Bracket:** Trap! Stage directions use the **actor's view**, facing the audience! **Stage left** is the audience's right.",
+     "who": "brack"
+    },
+    {
+     "id": "dsc",
+     "start": 366.729,
+     "end": 373.726,
+     "cap": "**Clapper:** **Downstage** is nearest the audience, **upstage** furthest away, and **downstage centre** is the power spot for a soliloquy under a spotlight!",
+     "who": "clapper"
+    },
+    {
+     "id": "adapt",
+     "start": 374.326,
+     "end": 383.115,
+     "cap": "**Mr H:** For your **Shakespeare adaptation**, pick one of three routes: **modernise** the setting, write an offstage **missing scene**, or **flip the viewpoint**.",
+     "who": "mrh"
+    },
+    {
+     "id": "caliban",
+     "start": 383.715,
+     "end": 392.355,
+     "cap": "**Will:** Tell the island through **Caliban's** eyes, echoing 'This island's mine, by Sycorax my mother' — or show **Ophelia** alone with Hamlet's letters!",
+     "who": "will"
+    },
+    {
+     "id": "rules",
+     "start": 392.975,
+     "end": 401.85,
+     "cap": "**Mr H:** Keep the **dramatic core**, echo a real quotation, and stay **consistent** with the play's facts: the Nurse never learns about the potion.",
+     "who": "mrh"
+    },
+    {
+     "id": "swag",
+     "start": 402.45,
+     "end": 406.418,
+     "cap": "**Will:** And give Caliban swagger. I invented 'swagger', you know.",
+     "who": "will"
+    },
+    {
+     "id": "stamp",
+     "start": 406.988,
+     "end": 410.679,
+     "cap": "**Nib:** **Earliest recorded user**, Will. Not the same thing.",
+     "who": "nib"
+    },
+    {
+     "id": "three",
+     "start": 411.299,
+     "end": 415.821,
+     "cap": "**Mei:** Missing scene chosen, blackout ending locked. Up to **three and a half stars**!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "commentary",
+   "title": "Writing the reflective commentary",
+   "short": "The commentary",
+   "card": true,
+   "start": 417.171,
+   "end": 495.971,
+   "lines": [
+    {
+     "id": "p4",
+     "start": 418.971,
+     "end": 424.753,
+     "cap": "**Narrator:** Period 4. Mei finishes her script and writes: 'In my scene, Juliet comes home and hides the potion.'",
+     "who": "narr"
+    },
+    {
+     "id": "sigh",
+     "start": 425.353,
+     "end": 430.345,
+     "cap": "**Mr H:** Mei. I have just read your script. Never retell your own plot. Tell me **why**.",
+     "who": "mrh"
+    },
+    {
+     "id": "what",
+     "start": 430.965,
+     "end": 440.863,
+     "cap": "**Nib:** A **commentary** proves every choice was deliberate! Write in the **first person**: cover **purpose**, **audience**, **intended effect**, and **links to Shakespeare**.",
+     "who": "nib"
+    },
+    {
+     "id": "cqtel",
+     "start": 441.483,
+     "end": 450.87,
+     "cap": "**Nib:** Build each paragraph with **CQTEL** — 'Can Quiet Teens Explain Lines?': **Choice, Quote your own script, Term, Effect, Link**!",
+     "who": "nib"
+    },
+    {
+     "id": "p_rung",
+     "start": 451.49,
+     "end": 458.445,
+     "cap": "**Mei:** Right! **Point** and **Choice**: I used **dramatic irony** to show the silent break in trust between Juliet and the Nurse.",
+     "who": "mei"
+    },
+    {
+     "id": "e_rung",
+     "start": 459.015,
+     "end": 465.436,
+     "cap": "**Mei:** **Evidence** — quoting myself! The Nurse says 'Your mother will weep', while Juliet stands 'very still beneath the veil'.",
+     "who": "mei"
+    },
+    {
+     "id": "ex_rung",
+     "start": 466.036,
+     "end": 473.609,
+     "cap": "**Mei:** **Explain**: the audience knows the potion will fake Juliet's death, turning wedding joy into grief and the veil into a shroud.",
+     "who": "mei"
+    },
+    {
+     "id": "l_rung",
+     "start": 474.209,
+     "end": 482.508,
+     "cap": "**Mei:** **Link**: this foreshadows the family mourning Juliet in Act 4 Scene 5, echoing her secret 'Amen!' in Act 3 Scene 5.",
+     "who": "mei"
+    },
+    {
+     "id": "eval",
+     "start": 483.128,
+     "end": 488.611,
+     "cap": "**Mr H:** Finish with one honest sentence of **evaluation** — what you'd sharpen in a redraft.",
+     "who": "mrh"
+    },
+    {
+     "id": "good",
+     "start": 489.181,
+     "end": 494.621,
+     "cap": "**Mr H:** Self-quotation embedded. Terminology exact. That... will score very well.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 495.971,
+   "end": 565.688,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 497.771,
+     "end": 502.059,
+     "cap": "**Narrator:** Five minutes to Period 5. Six exam traps before you hand it in.",
+     "who": "narr"
+    },
+    {
+     "id": "mnem",
+     "start": 502.629,
+     "end": 511.226,
+     "cap": "**Mei:** Hooks first! **SCRIPT** for layout; **See it? Hear it? Or cut it**; **Some People Can't Leave Sound Behind**; and **CQTEL** for commentary!",
+     "who": "mei"
+    },
+    {
+     "id": "t1",
+     "start": 511.846,
+     "end": 517.713,
+     "cap": "**Bracket:** One. Never write invisible thoughts like '(remembering last summer)'. If we can't see or hear it, cut it!",
+     "who": "brack"
+    },
+    {
+     "id": "t2",
+     "start": 518.313,
+     "end": 524.286,
+     "cap": "**Kevin:** Two. **CAPITALS** and a colon in the margin, **no speech marks**, and stage directions in the **present tense**!",
+     "who": "kevin"
+    },
+    {
+     "id": "t3",
+     "start": 524.886,
+     "end": 531.094,
+     "cap": "**Nib:** Three. Don't slap '(angrily)' on every line, and give each character a distinct **idiolect**.",
+     "who": "nib"
+    },
+    {
+     "id": "t4",
+     "start": 531.694,
+     "end": 536.558,
+     "cap": "**Clapper:** Four. **Stage left** is the **actor's left** facing the crowd — **downstage** is closest to the audience!",
+     "who": "clapper"
+    },
+    {
+     "id": "t5",
+     "start": 537.158,
+     "end": 543.771,
+     "cap": "**Will:** Five. In an adaptation, stay **consistent** with my play's events — don't tell the Nurse about the potion!",
+     "who": "will"
+    },
+    {
+     "id": "t6",
+     "start": 544.371,
+     "end": 552.478,
+     "cap": "**Mr H:** Six. Never retell your plot in the **commentary**. Quote your own script, name the device, and explain the **intended effect**.",
+     "who": "mrh"
+    },
+    {
+     "id": "bell",
+     "start": 553.148,
+     "end": 555.004,
+     "cap": "**Narrator:** Period 5. Mei hands it in.",
+     "who": "narr"
+    },
+    {
+     "id": "four",
+     "start": 555.624,
+     "end": 560.616,
+     "cap": "**Mei:** Script writing: **four stars**. Deducting one because I had to analyse myself.",
+     "who": "mei"
+    },
+    {
+     "id": "exit",
+     "start": 561.236,
+     "end": 563.988,
+     "cap": "**Bracket:** Bracket, **Exeunt**, pursued by a school bell!",
+     "who": "brack"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 565.688,
+   "end": 652.997,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 567.488,
+     "end": 571.627,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 572.247,
+     "end": 575.681,
+     "cap": "**Mr H:** Do dialogue lines in a playscript use **speech marks**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 580.001,
+     "end": 586.209,
+     "cap": "**Bracket:** **No**! Character name in **CAPITALS** with a colon, no speech marks, and stage directions in the **present tense**.",
+     "who": "brack"
+    },
+    {
+     "id": "q2",
+     "start": 586.529,
+     "end": 590.604,
+     "cap": "**Mr H:** What do we call the hidden meaning **beneath** what a character says aloud?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 594.924,
+     "end": 598.188,
+     "cap": "**Mei:** **Subtext** — the nine-tenths of the iceberg under the surface.",
+     "who": "mei"
+    },
+    {
+     "id": "q3",
+     "start": 598.508,
+     "end": 604.545,
+     "cap": "**Mr H:** Rapid alternating **one-line exchanges** in an argument — what is the technical term?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 608.865,
+     "end": 610.508,
+     "cap": "**Nib:** **Stichomythia**.",
+     "who": "nib"
+    },
+    {
+     "id": "q4",
+     "start": 610.828,
+     "end": 614.199,
+     "cap": "**Mr H:** Where is **downstage**, and whose left is **stage left**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 618.519,
+     "end": 622.252,
+     "cap": "**Clapper:** **Downstage** is nearest the audience, and **stage left** is the **actor's left**!",
+     "who": "clapper"
+    },
+    {
+     "id": "q5",
+     "start": 622.572,
+     "end": 628.588,
+     "cap": "**Mr H:** In a **reflective commentary**, should you retell your plot or **quote your own script** to explain why?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 632.908,
+     "end": 638.305,
+     "cap": "**Mei:** **Quote your own script**, name the technique, explain the **intended effect**, and link to Shakespeare!",
+     "who": "mei"
+    },
+    {
+     "id": "outro",
+     "start": 638.625,
+     "end": 644.257,
+     "cap": "**Mr H:** Brilliant work. Now try the **Script Writing & Commentary** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "bearq",
+     "start": 644.977,
+     "end": 647.708,
+     "cap": "**Will:** Wait — did nobody use my bear?",
+     "who": "will"
+    },
+    {
+     "id": "roar",
+     "start": 648.378,
+     "end": 650.597,
+     "cap": "**Clapper:** Save the bear for the sequel, Will. Cut!",
+     "who": "clapper"
+    }
+   ]
+  }
+ ],
+ "total": 652.997
+}

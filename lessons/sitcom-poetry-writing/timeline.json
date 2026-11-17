@@ -1,0 +1,829 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 63.057,
+   "lines": [
+    {
+     "id": "open",
+     "start": 0.6,
+     "end": 5.549,
+     "cap": "**Narrator:** Room 8H. Monday. Period 3. Mr Hargreaves is on mug number fourteen.",
+     "who": "narr"
+    },
+    {
+     "id": "task",
+     "start": 6.119,
+     "end": 13.138,
+     "cap": "**Mr H:** Term 2 portfolio. Write an original **identity poem**, plus a **commentary** explaining your craft.",
+     "who": "mrh"
+    },
+    {
+     "id": "easy",
+     "start": 13.758,
+     "end": 19.411,
+     "cap": "**Mei:** Easy! 'My culture is big and sometimes I'm **sad**. Feeling confused is really quite **bad**.'",
+     "who": "mei"
+    },
+    {
+     "id": "leak",
+     "start": 20.081,
+     "end": 25.18,
+     "cap": "**Nib:** I have leaked onto the mark book. 'Sad' and 'bad'? Darling, my nib is weeping.",
+     "who": "nib"
+    },
+    {
+     "id": "cliche",
+     "start": 25.78,
+     "end": 29.791,
+     "cap": "**Cliché:** Ooh, I LOVE it! Add '**tears like rain**' and '**a heart of gold**'! Never fails!",
+     "who": "cliche"
+    },
+    {
+     "id": "who1",
+     "start": 30.411,
+     "end": 32.971,
+     "cap": "**Mei:** Why is a sparkly greeting card talking to me?",
+     "who": "mei"
+    },
+    {
+     "id": "rex",
+     "start": 33.541,
+     "end": 39.557,
+     "cap": "**Rex:** Silence, greeting card! Replace 'rain' with **pluvial precipitation**! Replace 'sad' with **lugubrious**!",
+     "who": "rex"
+    },
+    {
+     "id": "chomp",
+     "start": 40.197,
+     "end": 45.189,
+     "cap": "**Narrator:** Thesaurus Rex has just eaten Mei's notebook. Nobody else in 8H has blinked.",
+     "who": "narr"
+    },
+    {
+     "id": "will",
+     "start": 45.859,
+     "end": 51.683,
+     "cap": "**Will:** Give her back her parchment, thou overgrown dictionary! Writing a poem requires **soul**!",
+     "who": "will"
+    },
+    {
+     "id": "review",
+     "start": 52.303,
+     "end": 56.697,
+     "cap": "**Mei:** Writing poetry: **one star**. My homework is inside a dinosaur.",
+     "who": "mei"
+    },
+    {
+     "id": "title",
+     "start": 57.437,
+     "end": 60.957,
+     "cap": "**Narrator:** All the School's a Stage. Episode nine: Show, Don't Haiku.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "ideas",
+   "title": "Start with things, not themes",
+   "short": "Ideas & imagery",
+   "card": true,
+   "start": 63.057,
+   "end": 150.565,
+   "lines": [
+    {
+     "id": "flat",
+     "start": 64.857,
+     "end": 70.212,
+     "cap": "**Narrator:** Six p.m. Queenstown. Mei is staring at the word 'IDENTITY' in capital letters.",
+     "who": "narr"
+    },
+    {
+     "id": "stuck",
+     "start": 70.812,
+     "end": 74.887,
+     "cap": "**Mei:** I don't have a giant tragic identity! I have curry puffs and homework!",
+     "who": "mei"
+    },
+    {
+     "id": "ahma",
+     "start": 75.457,
+     "end": 80.726,
+     "cap": "**Ah Ma:** Mei-ah! Rice cooker just clicked! Come and fold dumplings before the skin dries out!",
+     "who": "ahma"
+    },
+    {
+     "id": "web",
+     "start": 81.366,
+     "end": 86.998,
+     "cap": "**Mr H:** Stop starting with big **abstract nouns** like 'culture' or 'belonging'. Start with **things**.",
+     "who": "mrh"
+    },
+    {
+     "id": "opms",
+     "start": 87.568,
+     "end": 93.819,
+     "cap": "**Nib:** Remember **Old Photos Make Sounds**: **Objects**, **Places**, **Memories**, and **Sounds** of home.",
+     "who": "nib"
+    },
+    {
+     "id": "lyon",
+     "start": 94.419,
+     "end": 99.133,
+     "cap": "**Mei:** Like George Ella Lyon's '**I am from**' list! 'I am from the click of the rice cooker...'",
+     "who": "mei"
+    },
+    {
+     "id": "narrow",
+     "start": 99.733,
+     "end": 106.091,
+     "cap": "**Mr H:** Generate a whole page, then **narrow your focus** to **one** object, **one** afternoon, **one** kitchen.",
+     "who": "mrh"
+    },
+    {
+     "id": "ladder",
+     "start": 106.691,
+     "end": 112.707,
+     "cap": "**Nib:** Climb down the **ladder of abstraction**! 'Culture' is abstract: you cannot photograph it.",
+     "who": "nib"
+    },
+    {
+     "id": "concrete",
+     "start": 113.247,
+     "end": 119.177,
+     "cap": "**Mei:** Down to **concrete nouns**: Ah Ma's **jade bangle**, her **floury thumb** pinching each dumpling fold!",
+     "who": "mei"
+    },
+    {
+     "id": "show",
+     "start": 119.797,
+     "end": 125.28,
+     "cap": "**Mr H:** Golden rule: **show, don't tell**. Give the reader the **thing** that causes the feeling.",
+     "who": "mrh"
+    },
+    {
+     "id": "hope",
+     "start": 125.85,
+     "end": 132.442,
+     "cap": "**Will:** Emily Dickinson wrote: '\"**Hope**\" is the thing with **feathers**.' Abstract idea, concrete bird. Exquisite.",
+     "who": "will"
+    },
+    {
+     "id": "card",
+     "start": 133.062,
+     "end": 136.945,
+     "cap": "**Cliché:** Or say Ah Ma is **as warm as toast** with a **rich tapestry of cultures**!",
+     "who": "cliche"
+    },
+    {
+     "id": "tests",
+     "start": 137.515,
+     "end": 144.469,
+     "cap": "**Nib:** Shoo! Test every image with **SEE it, OWN it, PIN it**. Sensory, uniquely yours, and **precise**.",
+     "who": "nib"
+    },
+    {
+     "id": "pin",
+     "start": 145.069,
+     "end": 149.165,
+     "cap": "**Mei:** Not 'flower' — **frangipani**. Not 'a language' — **Hokkien**. Two stars!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "forms",
+   "title": "Pick your shape on purpose",
+   "short": "Poetic forms",
+   "card": true,
+   "start": 150.565,
+   "end": 251.784,
+   "lines": [
+    {
+     "id": "lib",
+     "start": 152.365,
+     "end": 156.824,
+     "cap": "**Narrator:** Tuesday. The library. The SILENCE PLEASE sign has grown a new sticky note.",
+     "who": "narr"
+    },
+    {
+     "id": "shape",
+     "start": 157.424,
+     "end": 163.995,
+     "cap": "**Mr H:** **Form** is a poem's overall shape and rules. **Structure** is how ideas develop inside it.",
+     "who": "mrh"
+    },
+    {
+     "id": "free",
+     "start": 164.565,
+     "end": 169.194,
+     "cap": "**Mei:** I'm picking **free verse**! No regular metre, no rhyme scheme, so anything goes!",
+     "who": "mei"
+    },
+    {
+     "id": "notany",
+     "start": 169.794,
+     "end": 176.962,
+     "cap": "**Nib:** Incorrect, darling! Free verse is **not** 'anything goes'. Without rhyme, every **line break** carries the shape.",
+     "who": "nib"
+    },
+    {
+     "id": "list",
+     "start": 177.562,
+     "end": 182.682,
+     "cap": "**Mr H:** You could use a **list poem** with **anaphora**: repeating 'I am from' to build a chant.",
+     "who": "mrh"
+    },
+    {
+     "id": "mono",
+     "start": 183.252,
+     "end": 190.932,
+     "cap": "**Nib:** Or a **dramatic monologue**: one persona speaking to a silent listener, even an object like a suitcase!",
+     "who": "nib"
+    },
+    {
+     "id": "sonnet",
+     "start": 191.532,
+     "end": 198.935,
+     "cap": "**Will:** Or the **sonnet**! **Fourteen lines** of **iambic pentameter**! My Sonnet 18: three quatrains and a rhyming **couplet**!",
+     "who": "will"
+    },
+    {
+     "id": "petrarch",
+     "start": 199.555,
+     "end": 207.917,
+     "cap": "**Nib:** Whereas a **Petrarchan sonnet** splits into an **octave** of eight lines and a **sestet** of six, turning at the **volta** on line nine.",
+     "who": "nib"
+    },
+    {
+     "id": "haiku",
+     "start": 208.517,
+     "end": 212.848,
+     "cap": "**Mei:** What about a **haiku**? Five, seven, five syllables and I'm done by lunch!",
+     "who": "mei"
+    },
+    {
+     "id": "kigo",
+     "start": 213.448,
+     "end": 221.576,
+     "cap": "**Mr H:** A real haiku captures one **present moment**, with a season word, **kigo**, and a cutting dash, **kireji**. No explaining.",
+     "who": "mrh"
+    },
+    {
+     "id": "ghazal",
+     "start": 222.176,
+     "end": 231.179,
+     "cap": "**Nib:** A **ghazal** uses couplets ending in the same **radif** after a rhyming **qafia**, with the poet's name, **takhallus**, at the end.",
+     "who": "nib"
+    },
+    {
+     "id": "pantoum",
+     "start": 231.799,
+     "end": 236.129,
+     "cap": "**Mei:** Wait — the **pantoum** comes from the Malay **pantun**! Right here in our region!",
+     "who": "mei"
+    },
+    {
+     "id": "twofour",
+     "start": 236.729,
+     "end": 244.473,
+     "cap": "**Mr H:** **Two and four go forth**: lines **2 and 4** of each quatrain become lines **1 and 3** of the next, looping like memory.",
+     "who": "mrh"
+    },
+    {
+     "id": "fit",
+     "start": 245.093,
+     "end": 250.384,
+     "cap": "**Mei:** A pantoum for Ah Ma's kitchen — repeating like folding dumplings! Okay, that's cool.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "lines",
+   "title": "Line breaks and rhyme crimes",
+   "short": "Lines & sound",
+   "card": true,
+   "start": 251.784,
+   "end": 341.008,
+   "lines": [
+    {
+     "id": "wed",
+     "start": 253.584,
+     "end": 257.595,
+     "cap": "**Narrator:** Wednesday. Kevin is practising standing at the end of a line without panicking.",
+     "who": "narr"
+    },
+    {
+     "id": "endstop",
+     "start": 258.195,
+     "end": 262.739,
+     "cap": "**Kevin:** When punctuation finishes a line, it's **end-stopped**! Firm! Safe! Nobody falls off!",
+     "who": "kevin"
+    },
+    {
+     "id": "enjamb",
+     "start": 263.339,
+     "end": 269.035,
+     "cap": "**Nib:** When a sentence runs over the line break without punctuation, that is **enjambment**.",
+     "who": "nib"
+    },
+    {
+     "id": "suitcase",
+     "start": 269.605,
+     "end": 276.111,
+     "cap": "**Mr H:** Look: 'a suitcase that is **never** / quite unpacked.' The last word of a line gets the **spotlight**.",
+     "who": "mrh"
+    },
+    {
+     "id": "never",
+     "start": 276.711,
+     "end": 281.746,
+     "cap": "**Mei:** For a split second, '**never**' sounds permanent — until 'quite' softens it on the next line!",
+     "who": "mei"
+    },
+    {
+     "id": "thomas",
+     "start": 282.346,
+     "end": 288.938,
+     "cap": "**Will:** In Edward Thomas's Adlestrop, the train 'drew up there / **Unwontedly**.' The line halts just like the train!",
+     "who": "will"
+    },
+    {
+     "id": "caesura",
+     "start": 289.558,
+     "end": 295.233,
+     "cap": "**Kevin:** And after 'Unwontedly.' is a **caesura** — a pause **mid-line**! I'm creating stillness! I'm helping!",
+     "who": "kevin"
+    },
+    {
+     "id": "stanza",
+     "start": 295.853,
+     "end": 302.914,
+     "cap": "**Nib:** **Stanza** is Italian for '**room**'. Never end a line on weak words like 'the' or 'and' by accident.",
+     "who": "nib"
+    },
+    {
+     "id": "rhyme",
+     "start": 303.484,
+     "end": 308.071,
+     "cap": "**Cliché:** Now add rhyme! 'My grandmother is very **wise**, she always bakes her apple **pies**!'",
+     "who": "cliche"
+    },
+    {
+     "id": "crime",
+     "start": 308.691,
+     "end": 316.243,
+     "cap": "**Nib:** **Forced rhyme**! Twisted word order like 'to market we did go', filler words, and pies Ah Ma has never baked!",
+     "who": "nib"
+    },
+    {
+     "id": "sound",
+     "start": 316.863,
+     "end": 323.903,
+     "cap": "**Mr H:** Read aloud for **sound**, not just rhyme: **alliteration** in Tennyson's 'clasps the crag with crooked hands'.",
+     "who": "mrh"
+    },
+    {
+     "id": "keats",
+     "start": 324.503,
+     "end": 332.887,
+     "cap": "**Will:** **Sibilance** and soft 'm' sounds in Keats's 'Season of mists and mellow fruitfulness'. Plus **assonance**, **plosives** and **onomatopoeia**!",
+     "who": "will"
+    },
+    {
+     "id": "slant",
+     "start": 333.507,
+     "end": 339.608,
+     "cap": "**Mei:** And if full rhyme sounds sing-song, use **half-rhyme** like 'kept' and 'slipped', or none at all. Three stars!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "drafts",
+   "title": "Kill the thesaurus",
+   "short": "Redrafting & endings",
+   "card": true,
+   "start": 341.008,
+   "end": 433.923,
+   "lines": [
+    {
+     "id": "thu",
+     "start": 342.808,
+     "end": 347.181,
+     "cap": "**Narrator:** Thursday. Mei is on Draft Two. Thesaurus Rex has broken into her bedroom.",
+     "who": "narr"
+    },
+    {
+     "id": "rex2",
+     "start": 347.781,
+     "end": 352.837,
+     "cap": "**Rex:** Why write 'Uncle Lim's wok roars' when you can write 'the culinary cauldron **vociferates**'?!",
+     "who": "rex"
+    },
+    {
+     "id": "no",
+     "start": 353.477,
+     "end": 361.563,
+     "cap": "**Mr H:** Out, Rex. Good poets don't stuff big words in — they **redraft** until every plain, concrete word earns its place.",
+     "who": "mrh"
+    },
+    {
+     "id": "myth",
+     "start": 362.163,
+     "end": 366.6,
+     "cap": "**Mei:** Wait, don't real poets write a masterpiece in one flash of pure inspiration?",
+     "who": "mei"
+    },
+    {
+     "id": "loop",
+     "start": 367.17,
+     "end": 374.573,
+     "cap": "**Nib:** Elizabeth Bishop wrote seventeen drafts! Follow the loop: **Generate, Shape, Cut, Sharpen, Listen, Rest**.",
+     "who": "nib"
+    },
+    {
+     "id": "before",
+     "start": 375.193,
+     "end": 381.486,
+     "cap": "**Mei:** Draft One: 'I have two passports, I feel **confused**, / Two different countries, I am **bemused**.' Yikes.",
+     "who": "mei"
+    },
+    {
+     "id": "after",
+     "start": 382.086,
+     "end": 389.787,
+     "cap": "**Mei:** Draft Three: 'two passports in a drawer, / one blue, one red, / the same boy in both / **trying hard not to blink**.'",
+     "who": "mei"
+    },
+    {
+     "id": "why",
+     "start": 390.427,
+     "end": 396.102,
+     "cap": "**Mr H:** You cut the forced rhyme, swapped abstract feelings for concrete colour, and **showed** the pressure.",
+     "who": "mrh"
+    },
+    {
+     "id": "hawker",
+     "start": 396.702,
+     "end": 402.505,
+     "cap": "**Will:** And 'Uncle Lim's wok **roars** like a small jet'! Onomatopoeia! Even I am hungry!",
+     "who": "will"
+    },
+    {
+     "id": "titles",
+     "start": 403.105,
+     "end": 410.294,
+     "cap": "**Nib:** Never call it 'Untitled'. Make your **title** work: name the form, echo a phrase, or add context.",
+     "who": "nib"
+    },
+    {
+     "id": "moral",
+     "start": 410.864,
+     "end": 414.299,
+     "cap": "**Cliché:** And end with: 'And that is why we should all respect every culture!'",
+     "who": "cliche"
+    },
+    {
+     "id": "ending",
+     "start": 414.899,
+     "end": 420.467,
+     "cap": "**Mr H:** Never end with a **moral summary**. End on a **resonant image** or a quiet turn.",
+     "who": "mrh"
+    },
+    {
+     "id": "holds",
+     "start": 421.037,
+     "end": 427.885,
+     "cap": "**Mei:** In my dumpling pantoum, 'It falls apart' changes in the last stanza to: '**I try again. It holds this time.**'",
+     "who": "mei"
+    },
+    {
+     "id": "sigh",
+     "start": 428.555,
+     "end": 432.523,
+     "cap": "**Mr H:** Keep both drafts. Your commentary needs the before and after.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "commentary",
+   "title": "Be your own critic",
+   "short": "The commentary",
+   "card": true,
+   "start": 433.923,
+   "end": 522.191,
+   "lines": [
+    {
+     "id": "fri",
+     "start": 435.723,
+     "end": 440.949,
+     "cap": "**Narrator:** Friday. The poem is finished. Now comes the three-hundred-to-six-hundred-word commentary.",
+     "who": "narr"
+    },
+    {
+     "id": "sum",
+     "start": 441.549,
+     "end": 446.435,
+     "cap": "**Mei:** So I just summarise what my poem is about and say I used enjambment to make it flow?",
+     "who": "mei"
+    },
+    {
+     "id": "ink2",
+     "start": 447.035,
+     "end": 454.587,
+     "cap": "**Nib:** 'Make it flow'?! Summary earns pennies! A commentary analyses **your choices** like a critic, in the **first person**!",
+     "who": "nib"
+    },
+    {
+     "id": "mnem",
+     "start": 455.207,
+     "end": 463.868,
+     "cap": "**Mr H:** Six steps: **I Invent Fresh Tunes, Rewrite, Evaluate**. **Intentions, Influences, Form, Techniques, Rewrite, Evaluate**.",
+     "who": "mrh"
+    },
+    {
+     "id": "inf",
+     "start": 464.488,
+     "end": 472.147,
+     "cap": "**Mei:** For **Influences**, I name the exact poem: like Sujata Bhatt's '**it blossoms out of my mouth**', I left Hokkien untranslated!",
+     "who": "mei"
+    },
+    {
+     "id": "slash",
+     "start": 472.767,
+     "end": 477.183,
+     "cap": "**Kevin:** When you quote your own poem, put a **slash** to show a line break! Don't forget the slash!",
+     "who": "kevin"
+    },
+    {
+     "id": "tent",
+     "start": 477.753,
+     "end": 485.155,
+     "cap": "**Nib:** And use **tentative phrasing** about the reader: 'I **hoped** this **might suggest**', never 'the reader will definitely cry'.",
+     "who": "nib"
+    },
+    {
+     "id": "p",
+     "start": 485.755,
+     "end": 492.07,
+     "cap": "**Mei:** Let's climb PEEL! **Point**: I used sound imagery in stanza one to show unspoken family worry.",
+     "who": "mei"
+    },
+    {
+     "id": "e",
+     "start": 492.61,
+     "end": 499.223,
+     "cap": "**Mei:** **Evidence**: 'my grandmother's jade bangle / **tapping** the table like a **question** / she never quite asks.'",
+     "who": "mei"
+    },
+    {
+     "id": "ex",
+     "start": 499.793,
+     "end": 507.132,
+     "cap": "**Mei:** **Explain**: Onomatopoeia in 'tapping' and enjambment after 'question' let the reader hear her quiet fear I'm losing Hokkien.",
+     "who": "mei"
+    },
+    {
+     "id": "l",
+     "start": 507.732,
+     "end": 513.897,
+     "cap": "**Mei:** **Link**: And **Evaluate** honestly — stanza three is looser, so next time I'd cut the flip-flops line.",
+     "who": "mei"
+    },
+    {
+     "id": "top",
+     "start": 514.497,
+     "end": 520.791,
+     "cap": "**Mr H:** Specific self-quotation, precise effect, and an honest weakness. That... is top band.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 522.191,
+   "end": 603.379,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 523.991,
+     "end": 528.577,
+     "cap": "**Narrator:** Before portfolio hand-in, the English department would like to save you some marks.",
+     "who": "narr"
+    },
+    {
+     "id": "hooks",
+     "start": 529.177,
+     "end": 537.625,
+     "cap": "**Mei:** Memory hooks! **Old Photos Make Sounds** for ideas; **SEE it, OWN it, PIN it** for images; **Two and four go forth** for a pantoum.",
+     "who": "mei"
+    },
+    {
+     "id": "hooks2",
+     "start": 538.245,
+     "end": 542.96,
+     "cap": "**Nib:** And for the commentary: **I Invent Fresh Tunes, Rewrite, Evaluate**.",
+     "who": "nib"
+    },
+    {
+     "id": "t1",
+     "start": 543.56,
+     "end": 550.323,
+     "cap": "**Mr H:** One. Don't **tell** feelings with abstract nouns like 'sadness'. **Show** them with concrete objects and actions.",
+     "who": "mrh"
+    },
+    {
+     "id": "t2",
+     "start": 550.923,
+     "end": 556.597,
+     "cap": "**Cliché:** Two. Avoid **forced rhymes** and worn-out **clichés**. Apparently 'tears like rain' is banned now. Rude.",
+     "who": "cliche"
+    },
+    {
+     "id": "t3",
+     "start": 557.197,
+     "end": 563.085,
+     "cap": "**Kevin:** Three. Don't break lines randomly on 'the' or 'and'. Every **line break** needs a job you can explain!",
+     "who": "kevin"
+    },
+    {
+     "id": "t4",
+     "start": 563.685,
+     "end": 570.043,
+     "cap": "**Rex:** Four. Precise concrete nouns beat **thesaurus stuffing**. Even if 'pluvial precipitation' is magnificent.",
+     "who": "rex"
+    },
+    {
+     "id": "t5",
+     "start": 570.643,
+     "end": 575.933,
+     "cap": "**Will:** Five. Never end your poem with a **moral summary**. End on an **image** that lingers.",
+     "who": "will"
+    },
+    {
+     "id": "t6",
+     "start": 576.533,
+     "end": 584.427,
+     "cap": "**Nib:** Six. In your **commentary**, quote yourself with slashes, explain **effects**, show a **redraft**, and **evaluate** honestly.",
+     "who": "nib"
+    },
+    {
+     "id": "kitchen",
+     "start": 585.097,
+     "end": 589.427,
+     "cap": "**Ah Ma:** Mei! Your dumpling holds its shape today! And the poem is not bad, lah!",
+     "who": "ahma"
+    },
+    {
+     "id": "four",
+     "start": 590.097,
+     "end": 595.324,
+     "cap": "**Mei:** Ah Ma said 'not bad'! That's basically a Nobel Prize! Writing poetry: **four stars**.",
+     "who": "mei"
+    },
+    {
+     "id": "whyfour",
+     "start": 595.944,
+     "end": 598.547,
+     "cap": "**Will:** Four?! You wrote a pantoum!",
+     "who": "will"
+    },
+    {
+     "id": "drafts",
+     "start": 599.147,
+     "end": 601.579,
+     "cap": "**Mei:** Seventeen drafts is a lot of work, Will.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 603.379,
+   "end": 690.705,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 605.179,
+     "end": 609.317,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 609.937,
+     "end": 615.164,
+     "cap": "**Mr H:** Should an identity poem build mainly on **abstract nouns** or **concrete nouns**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 619.484,
+     "end": 623.153,
+     "cap": "**Mei:** **Concrete nouns**: things the reader can see, hear, smell or touch.",
+     "who": "mei"
+    },
+    {
+     "id": "q2",
+     "start": 623.473,
+     "end": 629.191,
+     "cap": "**Mr H:** In a **pantoum**, which two lines of each stanza become lines 1 and 3 of the next?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 633.511,
+     "end": 636.86,
+     "cap": "**Will:** **Lines 2 and 4**. Two and four go forth!",
+     "who": "will"
+    },
+    {
+     "id": "q3",
+     "start": 637.18,
+     "end": 642.343,
+     "cap": "**Mr H:** What do we call it when a sentence runs over a **line break** without punctuation?",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 646.663,
+     "end": 647.857,
+     "cap": "**Nib:** **Enjambment**.",
+     "who": "nib"
+    },
+    {
+     "id": "q4",
+     "start": 648.177,
+     "end": 653.233,
+     "cap": "**Mr H:** How do you mark a **line break** when quoting your own poem inside your commentary?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 657.553,
+     "end": 659.857,
+     "cap": "**Kevin:** With a forward **slash**, surrounded by spaces!",
+     "who": "kevin"
+    },
+    {
+     "id": "q5",
+     "start": 660.177,
+     "end": 665.809,
+     "cap": "**Mr H:** What six parts belong in a commentary: **I Invent Fresh Tunes, Rewrite, Evaluate**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 670.129,
+     "end": 674.716,
+     "cap": "**Mei:** **Intentions, Influences, Form, Techniques, Redrafting, and Evaluation**.",
+     "who": "mei"
+    },
+    {
+     "id": "outro",
+     "start": 675.036,
+     "end": 680.903,
+     "cap": "**Mr H:** Brilliant work. Now try the **Writing Poetry & Commentary** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "st1",
+     "start": 681.623,
+     "end": 683.521,
+     "cap": "**Rex:** May I eat Cliché now?",
+     "who": "rex"
+    },
+    {
+     "id": "st2",
+     "start": 684.121,
+     "end": 686.02,
+     "cap": "**Cliché:** Catch me if you can, greenosaurus!",
+     "who": "cliche"
+    },
+    {
+     "id": "st3",
+     "start": 686.62,
+     "end": 688.305,
+     "cap": "**Mr H:** Not in Room 8H.",
+     "who": "mrh"
+    }
+   ]
+  }
+ ],
+ "total": 690.705
+}

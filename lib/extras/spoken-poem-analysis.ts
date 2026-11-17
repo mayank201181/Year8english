@@ -2,7 +2,8 @@ import type { TopicExtras } from "../types";
 
 // Engagement extras for Unseen Poems & Spoken Analysis.
 export const spokenPoemAnalysisExtras: TopicExtras = {
-  interactive: "connotation-zoom",
+  interactive: "unseen-poem",
+  interactives: ["unseen-poem", "connotation-zoom"],
   hook:
     "In 1914 a train stopped for about a minute at a tiny English station where nothing happened at all — and that minute became one of the most loved poems in the language. How can a poem about nothing be about so much, and how would you explain it out loud in four minutes?",
   didYouKnow: [

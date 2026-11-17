@@ -2,7 +2,8 @@ import type { TopicExtras } from "../types";
 
 // Engagement extras for Reading Comprehension.
 export const comprehensionExtras: TopicExtras = {
-  interactive: "device-spotter",
+  interactive: "comprehension-decoder",
+  interactives: ["comprehension-decoder", "device-spotter"],
   hook:
     "Captain Oates's famous last words, 'I am just going outside and may be some time', survive in only one place on Earth: a pencilled journal found in a frozen tent. Everything we believe about that moment depends on how carefully we read ten words.",
   didYouKnow: [

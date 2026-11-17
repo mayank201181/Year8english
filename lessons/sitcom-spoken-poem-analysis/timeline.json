@@ -1,0 +1,766 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "chapters": [
+  {
+   "id": "cold",
+   "title": "Cold open",
+   "short": "Cold open",
+   "card": false,
+   "start": 0.0,
+   "end": 59.393,
+   "lines": [
+    {
+     "id": "hall",
+     "start": 0.6,
+     "end": 4.44,
+     "cap": "**Narrator:** Wednesday. The school hall. Mr Hargreaves is on mug number fifteen.",
+     "who": "narr"
+    },
+    {
+     "id": "task",
+     "start": 5.01,
+     "end": 11.965,
+     "cap": "**Mr H:** Practice run. One **unseen poem**. Prep with a pen, then a **three-to-five-minute spoken analysis**.",
+     "who": "mrh"
+    },
+    {
+     "id": "timer",
+     "start": 12.585,
+     "end": 16.467,
+     "cap": "**Timer:** Coach Timer! Ten minutes prep on the clock! Move those eyeballs, people!",
+     "who": "timer"
+    },
+    {
+     "id": "panic",
+     "start": 17.067,
+     "end": 21.547,
+     "cap": "**Mei:** Sir, I've never seen this poem before! What if I guess the wrong secret meaning?!",
+     "who": "mei"
+    },
+    {
+     "id": "mike",
+     "start": 22.147,
+     "end": 26.819,
+     "cap": "**Mike:** Please don't panic into me. I'm Mike. I have terrible stage fright, and 'um' gives me hives.",
+     "who": "mike"
+    },
+    {
+     "id": "um",
+     "start": 27.439,
+     "end": 31.386,
+     "cap": "**Mei:** Testing... **Um, this poem is basically about**... lots of techniques?",
+     "who": "mei"
+    },
+    {
+     "id": "squeak",
+     "start": 32.056,
+     "end": 35.384,
+     "cap": "**Mike:** SQUEEEEAK! She said 'um'! AND 'basically'! AND 'lots of techniques'!",
+     "who": "mike"
+    },
+    {
+     "id": "nib",
+     "start": 36.004,
+     "end": 41.743,
+     "cap": "**Nib:** My ink! Right onto the stage floor! Technique-listing is not an argument, darling!",
+     "who": "nib"
+    },
+    {
+     "id": "will",
+     "start": 42.343,
+     "end": 48.06,
+     "cap": "**Will:** In my Globe, groundlings pelted actors with turnips for less! Stand tall, child!",
+     "who": "will"
+    },
+    {
+     "id": "rev",
+     "start": 48.68,
+     "end": 52.669,
+     "cap": "**Mei:** Unseen poetry: **one star**. Even the microphone is sweating.",
+     "who": "mei"
+    },
+    {
+     "id": "title",
+     "start": 53.389,
+     "end": 57.293,
+     "cap": "**Narrator:** All the School's a Stage. Episode ten: Unseen, Unheard Of.",
+     "who": "narr"
+    }
+   ]
+  },
+  {
+   "id": "reads",
+   "title": "Read cold without panicking",
+   "short": "Reading & zooming",
+   "card": true,
+   "start": 59.393,
+   "end": 154.419,
+   "lines": [
+    {
+     "id": "room",
+     "start": 61.193,
+     "end": 65.823,
+     "cap": "**Narrator:** Period 4. Room 8H. Mr Hargreaves confiscates Mei's highlighter.",
+     "who": "narr"
+    },
+    {
+     "id": "myth",
+     "start": 66.393,
+     "end": 72.43,
+     "cap": "**Mr H:** First: there is **no single secret meaning**. An unseen tests your **method**, not your memory.",
+     "who": "mrh"
+    },
+    {
+     "id": "three",
+     "start": 73.03,
+     "end": 79.195,
+     "cap": "**Timer:** Read it **more than once**! Read One: the **literal story**. Read Two: **shifts and structure**. Read Three: **language and sound**!",
+     "who": "timer"
+    },
+    {
+     "id": "tsst",
+     "start": 79.815,
+     "end": 86.663,
+     "cap": "**Mr H:** On your first read, ask **WHAT** is happening with **TSST**: **Title, Speaker, Situation, Tone**.",
+     "who": "mrh"
+    },
+    {
+     "id": "persona",
+     "start": 87.263,
+     "end": 96.117,
+     "cap": "**Nib:** Say '**the speaker**' or '**persona**', never assume it's the poet! Christina Rossetti is not literally ghost-writing from the grave.",
+     "who": "nib"
+    },
+    {
+     "id": "gist",
+     "start": 96.737,
+     "end": 104.118,
+     "cap": "**Mei:** Let's try Edward Thomas's **Adlestrop**. Gist: a train stops at a quiet country station, and a blackbird sings.",
+     "who": "mei"
+    },
+    {
+     "id": "unwont",
+     "start": 104.718,
+     "end": 108.217,
+     "cap": "**Mei:** Wait — what does '**Unwontedly**' mean?! My whole talk is ruined!",
+     "who": "mei"
+    },
+    {
+     "id": "context",
+     "start": 108.787,
+     "end": 117.171,
+     "cap": "**Mr H:** Use context. An express train stopping at a tiny empty village? It means **unusually**. One hard word never sinks you.",
+     "who": "mrh"
+    },
+    {
+     "id": "how",
+     "start": 117.791,
+     "end": 124.511,
+     "cap": "**Nib:** Next read: **HOW** does it work? Annotate **feature plus effect** — never write 'sibilance' without 'so what?'",
+     "who": "nib"
+    },
+    {
+     "id": "zoom",
+     "start": 125.111,
+     "end": 132.023,
+     "cap": "**Mr H:** Don't list ten devices. Pick **two or three rich details** and **zoom in** on single words for **connotations**.",
+     "who": "mrh"
+    },
+    {
+     "id": "cage",
+     "start": 132.643,
+     "end": 139.512,
+     "cap": "**Will:** Take '**cage**': literally bars, yet it connotes **imprisonment**, being **owned**, being **on display** — or even **protection**!",
+     "who": "will"
+    },
+    {
+     "id": "unzip",
+     "start": 140.132,
+     "end": 147.343,
+     "cap": "**Mei:** Or in 'The sky **unzips** at four o'clock' — 'unzips' sounds sudden and cheeky, like Singapore rain flinging open a bag!",
+     "who": "mei"
+    },
+    {
+     "id": "depth",
+     "start": 147.983,
+     "end": 153.039,
+     "cap": "**Mike:** Three moments explored deeply... instead of ten yelled at me? Oh, my grille feels calmer already.",
+     "who": "mike"
+    }
+   ]
+  },
+  {
+   "id": "volta",
+   "title": "Titles, endings and the volta",
+   "short": "Volta & shifts",
+   "card": true,
+   "start": 154.419,
+   "end": 243.713,
+   "lines": [
+    {
+     "id": "lib",
+     "start": 156.219,
+     "end": 160.656,
+     "cap": "**Narrator:** Thursday. The library. Will is pointing dramatically at line nine of everything.",
+     "who": "narr"
+    },
+    {
+     "id": "journey",
+     "start": 161.256,
+     "end": 168.104,
+     "cap": "**Mr H:** Almost every poem **changes**. Spot that shift and your talk has a spine: **before, turn, after**.",
+     "who": "mrh"
+    },
+    {
+     "id": "volta",
+     "start": 168.704,
+     "end": 174.955,
+     "cap": "**Will:** In a sonnet, the turn is the **volta**! Watch Christina Rossetti's Petrarchan sonnet, **Remember**.",
+     "who": "will"
+    },
+    {
+     "id": "octave",
+     "start": 175.555,
+     "end": 181.293,
+     "cap": "**Nib:** Lines one to eight, the **octave**, repeat the plea: 'Remember me when I am gone away.'",
+     "who": "nib"
+    },
+    {
+     "id": "yet",
+     "start": 181.863,
+     "end": 185.874,
+     "cap": "**Mei:** Then line nine starts with '**Yet**'! 'Yet if you should forget me for a while...'",
+     "who": "mei"
+    },
+    {
+     "id": "sestet",
+     "start": 186.474,
+     "end": 193.749,
+     "cap": "**Will:** And the **sestet** releases them: 'Better by far you should **forget and smile** / Than that you should remember and be sad.'",
+     "who": "will"
+    },
+    {
+     "id": "signals",
+     "start": 194.389,
+     "end": 201.429,
+     "cap": "**Mr H:** Look for **turn words** — *but, yet, still, now, however* — or shifts in **tense**, **tone**, or **place**.",
+     "who": "mrh"
+    },
+    {
+     "id": "yeats",
+     "start": 202.029,
+     "end": 208.962,
+     "cap": "**Mei:** Like W. B. Yeats's **The Lake Isle of Innisfree**! Two stanzas of dreamy island peace, 'bee-loud glade'...",
+     "who": "mei"
+    },
+    {
+     "id": "grey",
+     "start": 209.562,
+     "end": 218.821,
+     "cap": "**Nib:** Then stanza three shifts to the city: 'While I stand on the roadway, or on the **pavements grey**.' Innisfree is only in his '**deep heart's core**'!",
+     "who": "nib"
+    },
+    {
+     "id": "open",
+     "start": 219.461,
+     "end": 227.269,
+     "cap": "**Mr H:** Always check the **title**, **opening** and **ending**. Adlestrop opens 'Yes.' — like answering a friend mid-conversation.",
+     "who": "mrh"
+    },
+    {
+     "id": "caesura",
+     "start": 227.869,
+     "end": 234.909,
+     "cap": "**Kevin:** And in 'The steam hissed. Someone cleared his throat.' — full-stop **caesura**! Two tiny sounds in huge silence! That's me!",
+     "who": "kevin"
+    },
+    {
+     "id": "enjamb",
+     "start": 235.529,
+     "end": 242.313,
+     "cap": "**Mei:** Then 'only the name' **enjambs** across the stanza break into wild flowers and birds! Two stars — no, three!",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "thesis",
+   "title": "On the surface, but really",
+   "short": "Thesis & cue card",
+   "card": true,
+   "start": 243.713,
+   "end": 324.392,
+   "lines": [
+    {
+     "id": "prep",
+     "start": 245.513,
+     "end": 249.31,
+     "cap": "**Narrator:** Lunchtime. Coach Timer is drilling Mei's ten-minute prep routine.",
+     "who": "narr"
+    },
+    {
+     "id": "split",
+     "start": 249.88,
+     "end": 257.048,
+     "cap": "**Timer:** Split your prep! Ten percent **gist**, forty percent **annotate**, thirty-five percent **cue card**, fifteen percent **whispered rehearsal**!",
+     "who": "timer"
+    },
+    {
+     "id": "whatth",
+     "start": 257.668,
+     "end": 263.983,
+     "cap": "**Mr H:** Your first thirty seconds need a **thesis**: an arguable big idea that every point proves.",
+     "who": "mrh"
+    },
+    {
+     "id": "badth",
+     "start": 264.553,
+     "end": 269.523,
+     "cap": "**Mei:** Like: 'Paul Laurence Dunbar's **Sympathy** is about a bird in a cage that wants to get out'?",
+     "who": "mei"
+    },
+    {
+     "id": "retell",
+     "start": 270.123,
+     "end": 275.606,
+     "cap": "**Nib:** That merely **retells**, darling! Use the formula: '**On the surface... but really...**'",
+     "who": "nib"
+    },
+    {
+     "id": "dunbar",
+     "start": 276.206,
+     "end": 283.267,
+     "cap": "**Will:** Listen to Dunbar: 'It is not a carol of joy or glee, / But a **prayer** that he sends from his heart's deep core.'",
+     "who": "will"
+    },
+    {
+     "id": "goodth",
+     "start": 283.887,
+     "end": 291.567,
+     "cap": "**Mei:** **On the surface**, Sympathy describes a trapped bird, **but really** its prayer-like song explores human suffering and the ache for freedom!",
+     "who": "mei"
+    },
+    {
+     "id": "mnem",
+     "start": 292.207,
+     "end": 297.797,
+     "cap": "**Mr H:** Now structure your four-minute talk: **Only Lazy Students Forget Proper Conclusions**.",
+     "who": "mrh"
+    },
+    {
+     "id": "olsfpc",
+     "start": 298.397,
+     "end": 305.138,
+     "cap": "**Timer:** **Overview** thesis! **Language** point! **Structure** point! **Form** point! **Personal response**! **Conclusion** returning to your thesis!",
+     "who": "timer"
+    },
+    {
+     "id": "script",
+     "start": 305.758,
+     "end": 309.833,
+     "cap": "**Mei:** I'll write out all five hundred and fifty words and read them super fast!",
+     "who": "mei"
+    },
+    {
+     "id": "no",
+     "start": 310.403,
+     "end": 315.352,
+     "cap": "**Mike:** NO! Reading a full script makes you stare at your shoes in a flat robot voice! Use a **cue card**!",
+     "who": "mike"
+    },
+    {
+     "id": "card",
+     "start": 315.972,
+     "end": 323.012,
+     "cap": "**Mr H:** Three columns on one small card: **Point**, **short Quote**, **Effect word**. Glance down, then talk to us.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "oracy",
+   "title": "Sounding like a critic",
+   "short": "Delivery & PEEL",
+   "card": true,
+   "start": 324.392,
+   "end": 408.369,
+   "lines": [
+    {
+     "id": "stage",
+     "start": 326.192,
+     "end": 330.075,
+     "cap": "**Narrator:** Thursday afternoon. Mei steps back up to Mike on the hall stage.",
+     "who": "narr"
+    },
+    {
+     "id": "peep",
+     "start": 330.645,
+     "end": 337.151,
+     "cap": "**Mike:** Remember **PEEP** up from your notes: **Pace, Eye contact, Emphasis, and Pauses**! Swap 'um' for a calm silent pause!",
+     "who": "mike"
+    },
+    {
+     "id": "sign",
+     "start": 337.771,
+     "end": 344.939,
+     "cap": "**Mr H:** Guide the listener with **signposting**: 'My first point focuses on...', 'Moving on to structure...', 'To conclude...'",
+     "who": "mrh"
+    },
+    {
+     "id": "tent",
+     "start": 345.539,
+     "end": 352.238,
+     "cap": "**Nib:** And use **tentative phrasing**: 'This **could suggest**', '**perhaps**'. It shows poems hold multiple meanings.",
+     "who": "nib"
+    },
+    {
+     "id": "over",
+     "start": 352.838,
+     "end": 356.785,
+     "cap": "**Mei:** So: 'It could maybe perhaps possibly suggest the bird might sort of be sad'?",
+     "who": "mei"
+    },
+    {
+     "id": "hedge",
+     "start": 357.385,
+     "end": 364.489,
+     "cap": "**Mr H:** One hedge is thoughtful; five is soup. Be tentative about interpretation, **confident** with evidence.",
+     "who": "mrh"
+    },
+    {
+     "id": "quote",
+     "start": 365.089,
+     "end": 371.638,
+     "cap": "**Will:** Never say 'quote, unquote'! Slow down slightly and lift your voice so we **hear** the quotation marks!",
+     "who": "will"
+    },
+    {
+     "id": "p",
+     "start": 372.238,
+     "end": 380.067,
+     "cap": "**Mei:** Watch me climb the ladder on Adlestrop! **Point**: Moving to structure, the final stanza shifts from silence to vast song.",
+     "who": "mei"
+    },
+    {
+     "id": "e",
+     "start": 380.637,
+     "end": 387.379,
+     "cap": "**Mei:** **Evidence**: One blackbird sings, then '**Farther and farther**, all the birds / Of Oxfordshire and Gloucestershire.'",
+     "who": "mei"
+    },
+    {
+     "id": "ex",
+     "start": 387.979,
+     "end": 394.123,
+     "cap": "**Mei:** **Explain**: Repeating 'farther' and rolling out those long county names makes the birdsong **ripple outwards**.",
+     "who": "mei"
+    },
+    {
+     "id": "l",
+     "start": 394.723,
+     "end": 403.128,
+     "cap": "**Mei:** **Link**: **Evaluating** this alongside 1914 context, perhaps that ordinary minute feels like a last glimpse of peaceful England.",
+     "who": "mei"
+    },
+    {
+     "id": "happy",
+     "start": 403.748,
+     "end": 406.969,
+     "cap": "**Mike:** Not one 'um'! Eye contact! Embedded quote! I didn't squeak once!",
+     "who": "mike"
+    }
+   ]
+  },
+  {
+   "id": "questions",
+   "title": "Follow-up questions without panic",
+   "short": "Q&A & criteria",
+   "card": true,
+   "start": 408.369,
+   "end": 479.709,
+   "lines": [
+    {
+     "id": "clock",
+     "start": 410.169,
+     "end": 413.305,
+     "cap": "**Timer:** Four minutes on the dot! Now: **teacher follow-up questions**!",
+     "who": "timer"
+    },
+    {
+     "id": "ask",
+     "start": 413.905,
+     "end": 420.561,
+     "cap": "**Mr H:** Mei. You argued Dunbar's Sympathy is about pain. Could someone argue the ending is actually **hopeful**?",
+     "who": "mrh"
+    },
+    {
+     "id": "uhoh",
+     "start": 421.201,
+     "end": 424.828,
+     "cap": "**Kevin:** He challenged her! Abort! Breathe into the bag! Say 'I don't know' and run!",
+     "who": "kevin"
+    },
+    {
+     "id": "notrap",
+     "start": 425.428,
+     "end": 431.593,
+     "cap": "**Mr H:** A follow-up question isn't a trap — it's a chance to lift your mark by **thinking on your feet**.",
+     "who": "mrh"
+    },
+    {
+     "id": "pace",
+     "start": 432.193,
+     "end": 436.887,
+     "cap": "**Timer:** Use **PACE**: **Pause**, **Answer directly**, **Cite the poem**, **Extend or Evaluate**!",
+     "who": "timer"
+    },
+    {
+     "id": "pause",
+     "start": 437.487,
+     "end": 441.071,
+     "cap": "**Mei:** That's an interesting question — let me look at the last stanza again.",
+     "who": "mei"
+    },
+    {
+     "id": "ans",
+     "start": 441.741,
+     "end": 448.354,
+     "cap": "**Mei:** I can see a hopeful reading, because the bird flings a '**plea, that upward to Heaven**' reaches — he hasn't given up.",
+     "who": "mei"
+    },
+    {
+     "id": "weigh",
+     "start": 448.974,
+     "end": 455.993,
+     "cap": "**Mei:** **However**, his wing is still '**bruised**' and the cage never opens, so I think the hope is real, yet painful and fragile.",
+     "who": "mei"
+    },
+    {
+     "id": "crit",
+     "start": 456.633,
+     "end": 464.846,
+     "cap": "**Nib:** Magnificent! Five mark-scheme pillars: **Understanding, Analysis, Terminology, Personal response, and Delivery**.",
+     "who": "nib"
+    },
+    {
+     "id": "pers",
+     "start": 465.466,
+     "end": 472.997,
+     "cap": "**Will:** And for **personal response**, never just say 'I liked it'! Name a line that lingered — like Dickinson's '**It asked a crumb - of me.**'",
+     "who": "will"
+    },
+    {
+     "id": "sigh",
+     "start": 473.637,
+     "end": 478.309,
+     "cap": "**Mr H:** You paused, went back to the text, and weighed two readings. Top marks.",
+     "who": "mrh"
+    }
+   ]
+  },
+  {
+   "id": "recap",
+   "title": "Save yourself some marks",
+   "short": "Exam traps",
+   "card": true,
+   "start": 479.709,
+   "end": 551.406,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 481.509,
+     "end": 485.562,
+     "cap": "**Narrator:** Before the next speaker enters the hall, the cast would like to save you some marks.",
+     "who": "narr"
+    },
+    {
+     "id": "h1",
+     "start": 486.162,
+     "end": 493.202,
+     "cap": "**Mei:** Memory hooks! **TSST** on Read One; **Only Lazy Students Forget Proper Conclusions** to structure your talk.",
+     "who": "mei"
+    },
+    {
+     "id": "h2",
+     "start": 493.822,
+     "end": 498.835,
+     "cap": "**Mike:** **PEEP** up from your cue card for delivery, and **PACE** for follow-up questions!",
+     "who": "mike"
+    },
+    {
+     "id": "t1",
+     "start": 499.435,
+     "end": 506.433,
+     "cap": "**Mr H:** One. Don't **retell** the poem stanza by stanza. Open with an '**On the surface... but really...**' thesis.",
+     "who": "mrh"
+    },
+    {
+     "id": "t2",
+     "start": 507.033,
+     "end": 513.859,
+     "cap": "**Nib:** Two. Never **feature-spot** ten techniques. Explore **three rich moments** with connotations and effects.",
+     "who": "nib"
+    },
+    {
+     "id": "t3",
+     "start": 514.459,
+     "end": 519.089,
+     "cap": "**Mike:** Three. Don't read a **full script** to your shoes! Speak from keyword notes and swap 'um' for silence.",
+     "who": "mike"
+    },
+    {
+     "id": "t4",
+     "start": 519.689,
+     "end": 525.193,
+     "cap": "**Will:** Four. Don't confuse the **speaker** with the **poet**, and never ignore the **volta** or the ending!",
+     "who": "will"
+    },
+    {
+     "id": "t5",
+     "start": 525.793,
+     "end": 531.19,
+     "cap": "**Kevin:** Five. Keep quotations **short and embedded** — voice them by slowing down, never 'quote unquote'!",
+     "who": "kevin"
+    },
+    {
+     "id": "t6",
+     "start": 531.79,
+     "end": 536.654,
+     "cap": "**Timer:** Six. At a follow-up question, never say 'I don't know' and stop — **pause** and check the poem!",
+     "who": "timer"
+    },
+    {
+     "id": "rev",
+     "start": 537.324,
+     "end": 544.023,
+     "cap": "**Mei:** Unseen spoken analysis: **four and a half stars**! Mike didn't faint, and I sounded like an actual critic.",
+     "who": "mei"
+    },
+    {
+     "id": "half",
+     "start": 544.663,
+     "end": 546.945,
+     "cap": "**Will:** Where is the other half-star?!",
+     "who": "will"
+    },
+    {
+     "id": "ten",
+     "start": 547.515,
+     "end": 549.606,
+     "cap": "**Mei:** Ten minutes prep is stressful, lah.",
+     "who": "mei"
+    }
+   ]
+  },
+  {
+   "id": "quiz",
+   "title": "Quick-fire quiz",
+   "short": "Quiz",
+   "card": true,
+   "start": 551.406,
+   "end": 639.967,
+   "lines": [
+    {
+     "id": "intro",
+     "start": 553.206,
+     "end": 557.345,
+     "cap": "**Mr H:** Quick-fire quiz! Say each answer out loud before it appears.",
+     "who": "mrh"
+    },
+    {
+     "id": "q1",
+     "start": 557.965,
+     "end": 563.063,
+     "cap": "**Mr H:** What does **TSST** stand for on your first read of an unseen poem?",
+     "who": "mrh"
+    },
+    {
+     "id": "a1",
+     "start": 567.383,
+     "end": 569.965,
+     "cap": "**Mei:** **Title, Speaker, Situation, and Tone**.",
+     "who": "mei"
+    },
+    {
+     "id": "q2",
+     "start": 570.285,
+     "end": 574.722,
+     "cap": "**Mr H:** What is the Italian term for the **turning point** or shift in a poem?",
+     "who": "mrh"
+    },
+    {
+     "id": "a2",
+     "start": 579.042,
+     "end": 582.711,
+     "cap": "**Will:** The **volta**! Look for turn words like 'yet' or 'but'.",
+     "who": "will"
+    },
+    {
+     "id": "q3",
+     "start": 583.031,
+     "end": 588.258,
+     "cap": "**Mr H:** Complete the thesis formula: '**On the surface** the poem describes..., **but**...'",
+     "who": "mrh"
+    },
+    {
+     "id": "a3",
+     "start": 592.578,
+     "end": 597.485,
+     "cap": "**Nib:** '...**but really** it explores...' — moving from literal gist to deeper meaning.",
+     "who": "nib"
+    },
+    {
+     "id": "q4",
+     "start": 597.805,
+     "end": 602.946,
+     "cap": "**Mr H:** Should you bring a **word-for-word script** or a **brief cue card** to a spoken analysis?",
+     "who": "mrh"
+    },
+    {
+     "id": "a4",
+     "start": 607.266,
+     "end": 610.871,
+     "cap": "**Mike:** A **brief cue card** of keywords and short quotes — so you look up and talk!",
+     "who": "mike"
+    },
+    {
+     "id": "q5",
+     "start": 611.191,
+     "end": 615.394,
+     "cap": "**Mr H:** What four steps help you handle a follow-up question: **PACE**?",
+     "who": "mrh"
+    },
+    {
+     "id": "a5",
+     "start": 619.714,
+     "end": 623.682,
+     "cap": "**Timer:** **Pause, Answer directly, Cite the poem, and Extend or Evaluate**!",
+     "who": "timer"
+    },
+    {
+     "id": "outro",
+     "start": 624.002,
+     "end": 630.637,
+     "cap": "**Mr H:** Brilliant work. Now try the **Unseen Poems & Spoken Analysis** quiz in your English Lab.",
+     "who": "mrh"
+    },
+    {
+     "id": "st1",
+     "start": 631.357,
+     "end": 634.941,
+     "cap": "**Will:** Mike! Ready for my four-hour Hamlet soliloquy?!",
+     "who": "will"
+    },
+    {
+     "id": "st2",
+     "start": 635.541,
+     "end": 637.567,
+     "cap": "**Mike:** Unplugging myself now. Goodbye.",
+     "who": "mike"
+    }
+   ]
+  }
+ ],
+ "total": 639.967
+}

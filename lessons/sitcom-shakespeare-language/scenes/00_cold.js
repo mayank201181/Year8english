@@ -52,7 +52,7 @@ scene('cold', S => {
     .shot(at('library') - 0.05, { set: 'lib', cam: [1, 1.12, 900, 420] })
     .shot(at('who') - 0.05, { set: 'lib', cast: { mei: { x: 420, y: 480, s: 1.15, mood: 'shock' } } })
     .shot(at('iam') - 0.05, { set: 'lib', cast: { mei: { x: 300, y: 500, s: 1.05, mood: 'shock' }, will: { x: 820, y: 400, s: 1.0, mood: 'annoyed' } } })
-    .shot(at('aircon') - 0.05, { conf: 'will', cast: { will: { x: 330, y: 410, s: 1.25, mood: 'happy' } } })
+    .shot(at('stayed') - 0.05, { conf: 'will', cast: { will: { x: 330, y: 410, s: 1.25, mood: 'happy' } } })
     .shot(at('deal') - 0.05, { set: 'lib', cast: { mei: { x: 300, y: 500, s: 1.05, mood: 'deadpan' }, will: { x: 800, y: 400, s: 1.0, mood: 'smug', glow: 0.5 } } })
     .shot(at('title') - 0.05, { set: 'title', cast: {
       mei: { x: 240, y: 640, s: 0.42, mood: 'happy' }, mrh: { x: 420, y: 640, s: 0.42, mood: 'deadpan' }, will: { x: 600, y: 630, s: 0.36, mood: 'smug' },
@@ -79,8 +79,8 @@ scene('cold', S => {
   d.pop(r2, mid('review', 0.5), end('review') + 0.5, 920, 520);
   d.pop(c4, at('library') + 0.1, end('library') + 0.3, 600, 560);
   d.pop(books, mid('iam', 0.25), mid('iam', 0.7), 400, 220);
-  d.pop(ac, at('aircon') + 0.1, end('stayed') + 0.2, 880, 260);
-  d.pop(cAir, mid('aircon', 0.3), end('aircon') + 0.2, 820, 560);
+  d.pop(ac, at('stayed') + 0.1, end('stayed') + 0.2, 880, 260);
+  d.pop(cAir, mid('stayed', 0.3), end('stayed') + 0.2, 820, 560);
   d.pop(goal, mid('deal', 0.7), end('later') + 0.2, 800, 170);
   d.pop(thouC, mid('thou', 0.5), end('later'), 300, 220);
   const blackout = E('rect', { x: 0, y: 0, width: 1200, height: 750, fill: '#000000' }, d.hud);
@@ -103,7 +103,7 @@ scene('cold', S => {
     const rv = win(t, mid('deal', 0.55), end('later') + 0.3, 0.25);
     rating.set(1, rv); tr(rating, 1030, 74);
     // Will rises out of the floor on "I am William Shakespeare"
-    if (t >= at('iam') - 0.05 && t < at('aircon')) {
+    if (t >= at('iam') - 0.05 && t < at('stayed')) {
       const rise = P(t, at('iam') - 0.05, 1.0, easeOut);
       tr(will, 820, 400 + 260 * (1 - rise), 1.0);
       op(will, clamp(rise * 1.5));

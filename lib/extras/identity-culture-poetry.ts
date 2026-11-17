@@ -2,7 +2,8 @@ import type { TopicExtras } from "../types";
 
 // Engagement extras for Poems of Identity & Culture.
 export const identityCulturePoetryExtras: TopicExtras = {
-  interactive: "connotation-zoom",
+  interactive: "identity-voice",
+  interactives: ["identity-voice", "connotation-zoom"],
   hook:
     "Say ‘kopi-O kosong, can?’ at a hawker centre and you are understood instantly; say it in London and you get a blank stare. Why can a single sentence make you belong in one place and feel like a stranger in another?",
   didYouKnow: [

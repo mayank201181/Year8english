@@ -353,7 +353,6 @@ export function ProgressProvider({ children }: { children: React.ReactNode }) {
 
   const startGuest = useCallback(() => {
     enterGuest();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const logout = useCallback(async () => {

@@ -885,7 +885,7 @@ export const theNovel: Topic = {
             answerIndex: 1,
             hint: "Second person casts the reader as the character.",
             explanation:
-              "‘You run… your lungs… follow you’ makes the reader the character, which is second person. The option ‘I ran until my lungs burned.’ is first person; C and D are third person.",
+              "‘You run… your lungs… follow you’ makes the reader the character, which is second person. The option ‘I ran until my lungs burned.’ is first person; the options ‘She ran until her lungs burned.’ and ‘They all ran, though none of them…’ are third person.",
             guideRef: "narrative-perspective",
           },
           {
@@ -946,7 +946,7 @@ export const theNovel: Topic = {
             answerIndex: 2,
             hint: "Look for the sentence that zooms in on one word and explains its effect.",
             explanation:
-              "The option ‘The verb ‘seized’ suggests sudden, violent control, showing how…’ names a precise word, explains its connotations and links it to Pip’s situation. The option ‘Dickens uses lots of descriptive words to describe the convict.’ is vague (‘lots of descriptive words’), B is circular, and D is plot summary.",
+              "The option ‘The verb ‘seized’ suggests sudden, violent control, showing how…’ names a precise word, explains its connotations and links it to Pip’s situation. The option ‘Dickens uses lots of descriptive words to describe the convict.’ is vague (‘lots of descriptive words’), the option ‘The convict is scary because he is…’ is circular, and the option ‘In this extract Pip goes to the…’ is plot summary.",
             guideRef: "reading-like-a-writer",
           },
           {
@@ -1223,7 +1223,7 @@ export const theNovel: Topic = {
             answerIndex: 3,
             hint: "Which sentence explains the connotations of a specific word?",
             explanation:
-              "The option ‘The verb ‘shrivelled’ suggests Scrooge’s meanness has dried him…’ zooms in on one verb and explains what it suggests. B names a technique but explains nothing; C is a generic comment that could fit any quotation; A is circular.",
+              "The option ‘The verb ‘shrivelled’ suggests Scrooge’s meanness has dried him…’ zooms in on one verb and explains what it suggests. The option ‘Dickens uses a simile, ‘solitary as an…’ names a technique but explains nothing; the option ‘This quote is effective because it makes…’ is a generic comment that could fit any quotation; the option ‘Scrooge is described as cold, which shows…’ is circular.",
             guideRef: "reading-like-a-writer",
           },
           {
@@ -1479,7 +1479,7 @@ export const theNovel: Topic = {
             answerIndex: 3,
             hint: "The two narrators come from opposite sides of a divide.",
             explanation:
-              "Alternating narrators let readers experience the same world from both sides, building understanding of each. Multiple narrators actually reveal more thoughts, not fewer, so B is wrong.",
+              "Alternating narrators let readers experience the same world from both sides, building understanding of each. Multiple narrators actually reveal more thoughts, not fewer, so the option ‘It hides both characters’ thoughts’ is wrong.",
             guideRef: "narrative-perspective",
           },
           {
@@ -1509,7 +1509,7 @@ export const theNovel: Topic = {
             answerIndex: 1,
             hint: "Which one uses evidence AND explains an effect linked to character?",
             explanation:
-              "B embeds evidence, explains connotation and links setting to Jane’s feelings. A is a basic opinion, C is summary, and D is a vague judgement with no explanation.",
+              "The option ‘Brontë repeats red (‘crimson’, ‘deep red damask’)…’ embeds evidence, explains connotation and links setting to Jane’s feelings. The option ‘The room is red and scary.’ is a basic opinion, the option ‘The red-room is a room in Gateshead…’ is summary, and the option ‘There are lots of colours in the…’ is a vague judgement with no explanation.",
             guideRef: "setting-atmosphere",
           },
           {
@@ -1749,7 +1749,7 @@ export const theNovel: Topic = {
             answerIndex: 2,
             hint: "A thesis is an argument about the whole novel that you can prove.",
             explanation:
-              "The option ‘The writer presents loneliness as a trap the main character slowly…’ makes an arguable claim about how the theme develops and what it suggests. B only announces the topic without arguing anything, and D is a dictionary definition.",
+              "The option ‘The writer presents loneliness as a trap the main character slowly…’ makes an arguable claim about how the theme develops and what it suggests. The option ‘In this essay I will talk about…’ only announces the topic without arguing anything, and the option ‘Loneliness means being alone and sad.’ is a dictionary definition.",
             guideRef: "context-whole-novel",
           },
           {
@@ -1779,7 +1779,7 @@ export const theNovel: Topic = {
             answerIndex: 0,
             hint: "Good context explains a writer’s choice and links to a quotation.",
             explanation:
-              "The option ‘By having Scrooge repeat real Victorian arguments about the poor…’ links context to a specific quotation and to Dickens’s purpose. B places context next to a point without connecting them, and C is a true fact that does nothing for the analysis.",
+              "The option ‘By having Scrooge repeat real Victorian arguments about the poor…’ links context to a specific quotation and to Dickens’s purpose. The option ‘Victorian times were very poor. Scrooge is…’ places context next to a point without connecting them, and the option ‘Charles Dickens was born in 1812.’ is a true fact that does nothing for the analysis.",
             guideRef: "context-whole-novel",
           },
           {
