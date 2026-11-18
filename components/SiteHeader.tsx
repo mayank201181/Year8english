@@ -40,6 +40,7 @@ export function SiteHeader() {
           <Link href="/watch" className="rounded-lg px-3 py-1.5 hover:bg-slate-100">
             🎬 Watch
           </Link>
+          <Link href="/shorts" className="rounded-lg px-3 py-1.5 font-bold text-indigo-600 hover:bg-indigo-50">📱 Shorts</Link>
           <Link href="/exam" className="rounded-lg px-3 py-1.5 hover:bg-slate-100">
             Big Exam
           </Link>
@@ -127,6 +128,7 @@ const BOTTOM_NAV = [
   { href: "/", label: "Home", icon: "🏠", external: false },
   { href: "/topics", label: "Topics", icon: "📚", external: false },
   { href: "/watch", label: "Watch", icon: "🎬", external: false },
+  { href: "/shorts", label: "Shorts", icon: "📱", external: false },
   { href: "/lessons/claude-sitcom.html", label: "Sitcoms", icon: "📺", external: true },
   { href: "/exam", label: "Exam", icon: "🏁", external: false },
   { href: "/review", label: "Review", icon: "🔁", external: false },
@@ -144,7 +146,7 @@ export function BottomNav() {
       className="fixed inset-x-0 bottom-0 z-40 border-t border-slate-200 bg-white/95 pb-[env(safe-area-inset-bottom)] backdrop-blur print:hidden"
       aria-label="Bottom navigation"
     >
-      <div className="mx-auto grid max-w-2xl grid-cols-7 px-1">
+      <div className="mx-auto grid max-w-3xl grid-cols-8 px-1">
         {BOTTOM_NAV.map((n) => {
           const isActive = n.href === "/" ? path === "/" : !n.external && path.startsWith(n.href);
           const cls = `relative flex flex-col items-center gap-0.5 py-2 text-[0.62rem] font-bold transition-colors sm:text-xs ${
