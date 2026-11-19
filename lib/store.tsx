@@ -215,9 +215,6 @@ export function ProgressProvider({ children }: { children: React.ReactNode }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  function guestWanted(): boolean {
-    try { return localStorage.getItem(GUEST_FLAG) === "1"; } catch { return false; }
-  }
 
   /** Start (or resume) guest mode: progress is read from and written to this device only. */
   function enterGuest() {
